@@ -258,9 +258,9 @@ var data=[
     {
         "name":"Orange Boy Can You Solve It Out?",
         "link":"https://blog.hellholestudios.club/post/tag/obcysio/",
-        "author":"XGN,MonkeyKing",
+        "author":"XGN",
         "release":"2019-04-14",
-        "coauthor":"",
+        "coauthor":"MonkeyKing",
         "category":"LITERATURE",
         "subcategory":"OI LITERATURE",
         "status":"Working",
