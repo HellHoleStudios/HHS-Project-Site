@@ -222,6 +222,17 @@ var data=[
         "status":"Deserted",
         "lang":"LibGdx"
     },
+    {
+        "name":"Netease Music Downloader",
+        "link":"https://github.com/DamnXIZCM/netease-music-download",
+        "author":"XIZCM",
+        "release":"2019-03-27",
+        "coauthor":"",
+        "category":"MISC",
+        "subcategory":"TOOL",
+        "status":"Done",
+        "lang":"Py3"
+    },
 ]
 
 function sort(by){
