@@ -79,6 +79,17 @@ var data=[
         "status":"Done",
         "lang":"JS,HTML"
     },
+    {
+        "name":"Touhou Music Fetcher",
+        "link":"https://github.com/XiaoGeNintendo/TouhouMusicFetcher",
+        "author":"XGN",
+        "release":"2019-06-20",
+        "coauthor":"",
+        "category":"MISC",
+        "subcategory":"TOOL",
+        "status":"Done",
+        "lang":"Java"
+    },
 ]
 
 function sort(by){
