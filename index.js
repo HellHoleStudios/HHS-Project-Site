@@ -171,13 +171,36 @@ var data=[
         "name":"ZJSTG",
         "link":"https://github.com/Zzzzzzyt/ZJSTG",
         "author":"HDD",
-        "release":"2018-05-11",
+        "release":"2018-10-06",
         "coauthor":"Zzzyt",
         "category":"GAME",
         "subcategory":"STG GAME",
         "status":"DESERTED",
         "lang":"GameMaker"
     },
+    {
+        "name":"ZYTALE",
+        "link":"https://github.com/Zzzzzzyt/ZYTALE",
+        "author":"Zzzyt",
+        "release":"2018-03-11",
+        "coauthor":"",
+        "category":"GAME",
+        "subcategory":"RPG GAME",
+        "status":"DESERTED",
+        "lang":"GameMaker"
+    },
+    {
+        "name":"Hell Hole Legend",
+        "link":"",
+        "author":"XGN",
+        "release":"2018-07-08",
+        "coauthor":"",
+        "category":"GAME",
+        "subcategory":"RPG GAME",
+        "status":"DONE",
+        "lang":"RPG Maker XP"
+    },
+    
 ]
 
 function sort(by){
@@ -233,7 +256,12 @@ function refreshTable(){
                     if(data[i][tablehead[j][1]].includes("blog.hellholestudios.club")){
                         tmp+="<td><i class=\"fa fa-wordpress\"></i><a href=\""+data[i][tablehead[j][1]]+"\">Blog</a></td>";
                     }else{
-                        tmp+="<td><a href=\""+data[i][tablehead[j][1]]+"\">Link</a></td>";
+                        if(data[i][tablehead[j][1]]==""){
+                            tmp+="<td><i class=\"fa fa-close\">No Link</i></td>";
+                        }else{
+                            tmp+="<td><a href=\""+data[i][tablehead[j][1]]+"\">Link</a></td>";
+                        }
+                        
                     }
                     
                 }
