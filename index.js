@@ -94,7 +94,7 @@ var data=[
         "name":"Codeforces Data Copier",
         "link":"https://github.com/XiaoGeNintendo/CodeforcesDataCopier",
         "author":"XGN",
-        "release":"2019-06-20",
+        "release":"2019-06-08",
         "coauthor":"",
         "category":"OI",
         "subcategory":"OI TOOL",
@@ -105,14 +105,24 @@ var data=[
         "name":"Pokemon Gif Fetcher",
         "link":"https://github.com/XiaoGeNintendo/PokemonGifFetcher",
         "author":"XGN",
-        "release":"2019-06-20",
+        "release":"2019-06-08",
         "coauthor":"",
         "category":"MISC",
         "subcategory":"TOOL",
         "status":"Done",
         "lang":"Py3"
     },
-    
+    {
+        "name":"Lua STG Fix",
+        "link":"https://github.com/XiaoGeNintendo/LuaStgPlusFix",
+        "author":"XGN",
+        "release":"2019-06-07",
+        "coauthor":"",
+        "category":"MISC",
+        "subcategory":"TOOL",
+        "status":"Done",
+        "lang":"Lua"
+    },
 ]
 
 function sort(by){
