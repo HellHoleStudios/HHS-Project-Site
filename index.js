@@ -82,9 +82,9 @@ function refreshTable(){
     tmp+="<thead><tr>";
     for(var i=0;i<tablehead.length;i++){
         if(tablehead[i][1]==curSort){
-            tmp+="<th onclick=\"Msort('"+tablehead[i][1]+"')\">"+tablehead[i][0]+"*</th>";
+            tmp+="<th onclick=\"Msort('"+tablehead[i][1]+"')\">"+tablehead[i][0]+"<i class=\"fa fa-sort-up\"></i></th>";
         }else{
-            tmp+="<th onclick=\"Msort('"+tablehead[i][1]+"')\">"+tablehead[i][0]+"</th>";
+            tmp+="<th onclick=\"Msort('"+tablehead[i][1]+"')\">"+tablehead[i][0]+"<i class=\"fa fa-sort\"></i></th>";
         }
     }
     tmp+="</tr></thead><tbody>";
