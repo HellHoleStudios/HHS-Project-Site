@@ -167,6 +167,17 @@ var data=[
         "status":"Done",
         "lang":"Java"
     },
+    {
+        "name":"ZJSTG",
+        "link":"https://github.com/Zzzzzzyt/ZJSTG",
+        "author":"HDD",
+        "release":"2018-05-11",
+        "coauthor":"Zzzyt",
+        "category":"GAME",
+        "subcategory":"STG GAME",
+        "status":"DESERTED",
+        "lang":"GameMaker"
+    },
 ]
 
 function sort(by){
