@@ -193,7 +193,18 @@ function refreshTable(){
         tmp+="<tr>";
         for(var j=0;j<tablehead.length;j++){
             if(tablehead[j][1]=="link"){
-                tmp+="<td><a href=\""+data[i][tablehead[j][1]]+"\">Link</a></td>";
+                
+                if(data[i][tablehead[j][1]].includes("github.com")){
+                    tmp+="<td><i class=\"fa fa-github\"></i><a href=\""+data[i][tablehead[j][1]]+"\">Github</a></td>";
+                }else{
+                    if(data[i][tablehead[j][1]].includes("blog.hellholestudios.club")){
+                        tmp+="<td><i class=\"fa fa-wordpress\"></i><a href=\""+data[i][tablehead[j][1]]+"\">Blog</a></td>";
+                    }else{
+                        tmp+="<td><a href=\""+data[i][tablehead[j][1]]+"\">Link</a></td>";
+                    }
+                    
+                }
+                
             }else{
                 tmp+="<td>"+data[i][tablehead[j][1]]+"</td>";
             }
