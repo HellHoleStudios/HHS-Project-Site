@@ -136,12 +136,12 @@ var data=[
     },
     {
         "name":"Universe Model",
-        "link":"https://github.com/Zzzzzzyt/UniverselModel",
+        "link":"https://github.com/Zzzzzzyt/UniverseModel",
         "author":"Zzzyt",
         "release":"2019-05-08",
         "coauthor":"",
-        "category":"GAME",
-        "subcategory":"SIM GAME",
+        "category":"MATH/PHYSICS",
+        "subcategory":"PHYSICS SIMULATOR",
         "status":"Done",
         "lang":"LibGdx"
     },
