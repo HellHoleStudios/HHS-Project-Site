@@ -134,6 +134,17 @@ var data=[
         "status":"Done",
         "lang":"C++"
     },
+    {
+        "name":"Universal Model",
+        "link":"https://github.com/Zzzzzzyt/UniverselModel",
+        "author":"Zzzyt",
+        "release":"2019-05-08",
+        "coauthor":"",
+        "category":"GAME",
+        "subcategory":"SIM GAME",
+        "status":"Done",
+        "lang":"Java"
+    },
 ]
 
 function sort(by){
