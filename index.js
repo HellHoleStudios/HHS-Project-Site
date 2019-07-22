@@ -21,6 +21,7 @@ var tablehead=[
     ["Programming Language","lang"],
     ["Status","status"],
     ["Link","link"],
+	["Note","note"]
 ]
 
 var data=[
@@ -267,7 +268,7 @@ var data=[
         "lang":"Markup"
     },
     {
-        "name":"The story of Tengfei",
+        "name":"The Story of Tengfei",
         "link":"https://blog.hellholestudios.club/post/category/%E8%BF%9E%E8%BD%BD%E5%86%85%E5%AE%B9/",
         "author":"XGN",
         "release":"2019-04-10",
@@ -308,7 +309,8 @@ var data=[
         "category":"GAME",
         "subcategory":"OTHER GAME",
         "status":"Done",
-        "lang":"Java"
+        "lang":"Java",
+		"note":"Can't upload because<br/>of privacy issues"
     },
     {
         "name":"LibLrc",
@@ -379,6 +381,11 @@ function refreshTable(){
     for(var i=0;i<data.length;i++){
         tmp+="<tr>";
         for(var j=0;j<tablehead.length;j++){
+			if(tablehead[j][1]=="note"){
+				if(data[i][tablehead[j][1]]==null){
+					data[i][tablehead[j][1]]=""
+				}
+			}
             if(tablehead[j][1]=="link"){
                 
                 if(data[i][tablehead[j][1]].includes("github.com")){
@@ -397,7 +404,9 @@ function refreshTable(){
                     
                 }
                 
-            }else{
+            }
+			
+			else{
                 tmp+="<td>"+data[i][tablehead[j][1]]+"</td>";
             }
             
