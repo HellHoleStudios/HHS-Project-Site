@@ -90,6 +90,17 @@ var data=[
         "status":"Done",
         "lang":"Java"
     },
+    {
+        "name":"Codeforces Data Copier",
+        "link":"https://github.com/XiaoGeNintendo/CodeforcesDataCopier",
+        "author":"XGN",
+        "release":"2019-06-20",
+        "coauthor":"",
+        "category":"OI",
+        "subcategory":"OI TOOL",
+        "status":"Done",
+        "lang":"Py3"
+    },
 ]
 
 function sort(by){
