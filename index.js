@@ -255,6 +255,61 @@ var data=[
         "status":"Done",
         "lang":"JS"
     },
+    {
+        "name":"Orange Boy Can You Solve It Out?",
+        "link":"https://blog.hellholestudios.club/post/tag/obcysio/",
+        "author":"XGN,MonkeyKing",
+        "release":"2019-04-14",
+        "coauthor":"",
+        "category":"LITERATURE",
+        "subcategory":"OI LITERATURE",
+        "status":"Working",
+        "lang":"Markup"
+    },
+    {
+        "name":"The story of Tengfei",
+        "link":"https://blog.hellholestudios.club/post/category/%E8%BF%9E%E8%BD%BD%E5%86%85%E5%AE%B9/",
+        "author":"XGN",
+        "release":"2019-04-10",
+        "coauthor":"",
+        "category":"LITERATURE",
+        "subcategory":"OTHER LITERATURE",
+        "status":"Deserted",
+        "lang":"Markup"
+    },
+    {
+        "name":"Sound Guess Game",
+        "link":"https://github.com/XiaoGeNintendo/SoundGuessGame",
+        "author":"XGN",
+        "release":"2019-02-13",
+        "coauthor":"Zzzyt",
+        "category":"GAME",
+        "subcategory":"OTHER GAME",
+        "status":"Done",
+        "lang":"Java"
+    },
+    {
+        "name":"Sound Guess Game Pokemon Mod",
+        "link":"https://github.com/XiaoGeNintendo/SoundGuessGamePokemonMod",
+        "author":"XGN",
+        "release":"2019-02-13",
+        "coauthor":"",
+        "category":"GAME",
+        "subcategory":"OTHER GAME",
+        "status":"Done",
+        "lang":"Java"
+    },
+    {
+        "name":"Sound Guess Game HHS Mod",
+        "link":"",
+        "author":"Zzzyt",
+        "release":"",
+        "coauthor":"",
+        "category":"GAME",
+        "subcategory":"OTHER GAME",
+        "status":"Done",
+        "lang":"Java"
+    },
 ]
 
 function sort(by){
