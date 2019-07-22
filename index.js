@@ -123,6 +123,17 @@ var data=[
         "status":"Done",
         "lang":"Lua"
     },
+    {
+        "name":"CPP Confusor",
+        "link":"https://github.com/XiaoGeNintendo/cpp-confusor",
+        "author":"XGN",
+        "release":"2019-04-15",
+        "coauthor":"",
+        "category":"OI",
+        "subcategory":"OI TOOL",
+        "status":"Done",
+        "lang":"C++"
+    },
 ]
 
 function sort(by){
