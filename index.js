@@ -42,7 +42,7 @@ var data=[
         "release":"2019-05-25",
         "coauthor":"Zzzyt,WZZ",
         "category":"GAME",
-        "subcategory":"STG",
+        "subcategory":"STG GAME",
         "status":"Working",
         "lang":"LuaStg"
     },
@@ -53,10 +53,32 @@ var data=[
         "release":"2019-06-13",
         "coauthor":"",
         "category":"GAME",
-        "subcategory":"SIM",
+        "subcategory":"SIM GAME",
         "status":"Working",
         "lang":"LibGdx"
-    }
+    },
+    {
+        "name":"Test STG2",
+        "link":"https://github.com/XiaoGeNintendo/-LibGdx-Test-STG2",
+        "author":"XGN",
+        "release":"2019-07-01",
+        "coauthor":"",
+        "category":"GAME",
+        "subcategory":"STG GAME",
+        "status":"Working",
+        "lang":"LibGdx"
+    },
+    {
+        "name":"Codeforces Submission Reviewer",
+        "link":"https://github.com/XiaoGeNintendo/Codeforces-Submission-Reviewer",
+        "author":"XGN",
+        "release":"2018-12-31",
+        "coauthor":"",
+        "category":"OI",
+        "subcategory":"OI TOOL",
+        "status":"Done",
+        "lang":"JS,HTML"
+    },
 ]
 
 function sort(by){
