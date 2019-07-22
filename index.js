@@ -145,6 +145,17 @@ var data=[
         "status":"Done",
         "lang":"Java"
     },
+    {
+        "name":"Paper Scissor Stone",
+        "link":"https://github.com/Zzzzzzyt/PaperScissorStone",
+        "author":"Zzzyt",
+        "release":"2019-02-14",
+        "coauthor":"",
+        "category":"GAME",
+        "subcategory":"OTHER GAME",
+        "status":"Done",
+        "lang":"Java"
+    },
 ]
 
 function sort(by){
