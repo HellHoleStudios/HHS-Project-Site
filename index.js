@@ -321,6 +321,17 @@ var data=[
         "status":"Done",
         "lang":"Java"
     },
+    {
+        "name":"HHS Project Site",
+        "link":"https://github.com/HellHoleStudios/HHS-Project-Site",
+        "author":"XGN",
+        "release":"2019-07-22",
+        "coauthor":"",
+        "category":"MISC",
+        "subcategory":"HHS HOME",
+        "status":"Working",
+        "lang":"JS,HTML"
+    },
 ]
 
 function sort(by){
