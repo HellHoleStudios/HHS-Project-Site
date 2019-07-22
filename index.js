@@ -135,7 +135,7 @@ var data=[
         "lang":"C++"
     },
     {
-        "name":"Universal Model",
+        "name":"Universe Model",
         "link":"https://github.com/Zzzzzzyt/UniverselModel",
         "author":"Zzzyt",
         "release":"2019-05-08",
@@ -143,7 +143,7 @@ var data=[
         "category":"GAME",
         "subcategory":"SIM GAME",
         "status":"Done",
-        "lang":"Java"
+        "lang":"LibGdx"
     },
     {
         "name":"Paper Scissor Stone",
