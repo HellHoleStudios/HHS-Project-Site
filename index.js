@@ -45,6 +45,17 @@ var data=[
         "subcategory":"STG",
         "status":"Working",
         "lang":"LuaStg"
+    },
+    {
+        "name":"Rocket Simulator",
+        "link":"https://github.com/Zzzzzzyt/RocketSimulator",
+        "author":"Zzzyt",
+        "release":"2019-06-13",
+        "coauthor":"",
+        "category":"GAME",
+        "subcategory":"SIM",
+        "status":"Working",
+        "lang":"LibGdx"
     }
 ]
 
