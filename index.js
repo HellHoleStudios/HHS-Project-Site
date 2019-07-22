@@ -233,6 +233,28 @@ var data=[
         "status":"Done",
         "lang":"Py3"
     },
+    {
+        "name":"Codeforces Telegram Notifier",
+        "link":"https://github.com/DamnXIZCM/Codeforces-telegram-notifier",
+        "author":"XIZCM",
+        "release":"2019-06-08",
+        "coauthor":"",
+        "category":"BOT",
+        "subcategory":"TELEGRAM BOT",
+        "status":"Done",
+        "lang":"Py3"
+    },
+    {
+        "name":"Testbot",
+        "link":"",
+        "author":"XGN",
+        "release":"",
+        "coauthor":"",
+        "category":"BOT",
+        "subcategory":"DISCORD BOT",
+        "status":"Done",
+        "lang":"JS"
+    },
 ]
 
 function sort(by){
