@@ -156,6 +156,17 @@ var data=[
         "status":"Done",
         "lang":"Java"
     },
+    {
+        "name":"General Mod Loader",
+        "link":"https://github.com/Zzzzzzyt/General-ModLoader",
+        "author":"Zzzyt",
+        "release":"2018-05-11",
+        "coauthor":"",
+        "category":"DEVELOP",
+        "subcategory":"JAVA PACKAGE",
+        "status":"Done",
+        "lang":"Java"
+    },
 ]
 
 function sort(by){
