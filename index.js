@@ -175,7 +175,7 @@ var data=[
         "coauthor":"Zzzyt",
         "category":"GAME",
         "subcategory":"STG GAME",
-        "status":"DESERTED",
+        "status":"Deserted",
         "lang":"GameMaker"
     },
     {
@@ -186,7 +186,7 @@ var data=[
         "coauthor":"",
         "category":"GAME",
         "subcategory":"RPG GAME",
-        "status":"DESERTED",
+        "status":"Deserted",
         "lang":"GameMaker"
     },
     {
@@ -197,10 +197,31 @@ var data=[
         "coauthor":"",
         "category":"GAME",
         "subcategory":"RPG GAME",
-        "status":"DONE",
+        "status":"Done",
         "lang":"RPG Maker XP"
     },
-    
+    {
+        "name":"Slap",
+        "link":"https://blog.hellholestudios.club/post/2019/05/12/%E8%B6%99%E9%8E%B9%E5%9C%A3%E6%85%95%E5%B2%AD%EF%BD%9Ecircle-cycling-circumstance%EF%BD%9E/",
+        "author":"XGN",
+        "release":"2019-05-12",
+        "coauthor":"",
+        "category":"GAME",
+        "subcategory":"ADV GAME",
+        "status":"Deserted",
+        "lang":"LibGdx"
+    },
+    {
+        "name":"Slap v1.1",
+        "link":"https://blog.hellholestudios.club/post/2019/05/19/slap-1-1-release/",
+        "author":"XGN",
+        "release":"2019-05-19",
+        "coauthor":"",
+        "category":"GAME",
+        "subcategory":"ADV GAME",
+        "status":"Deserted",
+        "lang":"LibGdx"
+    },
 ]
 
 function sort(by){
