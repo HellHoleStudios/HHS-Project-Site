@@ -310,6 +310,17 @@ var data=[
         "status":"Done",
         "lang":"Java"
     },
+    {
+        "name":"LibLrc",
+        "link":"https://github.com/XiaoGeNintendo/LibLrc",
+        "author":"XGN",
+        "release":"2019-02-09",
+        "coauthor":"",
+        "category":"DEVELOP",
+        "subcategory":"JAVA LIBRARY",
+        "status":"Done",
+        "lang":"Java"
+    },
 ]
 
 function sort(by){
