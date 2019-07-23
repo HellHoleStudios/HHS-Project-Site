@@ -18,10 +18,9 @@ var tablehead=[
     ["Author","author"],
     ["Coauthor","coauthor"],
     ["Release Date","release"],
-    ["Programming Language","lang"],
+    ["Language","lang"],
     ["Status","status"],
-    ["Link","link"],
-	["Note","note"]
+    ["Link","link"]
 ]
 
 var data=[
@@ -310,7 +309,7 @@ var data=[
         "subcategory":"OTHER GAME",
         "status":"Done",
         "lang":"Java",
-		"note":"Can't upload because<br/>of privacy issues"
+		"comment":"Can't upload because of privacy issues."
     },
     {
         "name":"LibLrc",
@@ -357,13 +356,13 @@ function Msort(by){
     sort(by);
     curSort=by;
     refreshTable();
-    document.getElementById("sort").innerText="Currently Sort By:"+by;
 }
 
 function refreshTable(){
     var node=document.getElementById("table");
     
     var tmp="";
+	var supc=1;
 
     tmp+="<table border=\"1\" class=\"table table-hover table-striped table-bordered table-responsive\">";
     //start rendering th
@@ -381,29 +380,28 @@ function refreshTable(){
     for(var i=0;i<data.length;i++){
         tmp+="<tr>";
         for(var j=0;j<tablehead.length;j++){
-			if(tablehead[j][1]=="note"){
-				if(data[i][tablehead[j][1]]==null){
-					data[i][tablehead[j][1]]=""
+			if(tablehead[j][1]=="name"){
+				if(data[i]["comment"]!=null){
+					tmp+="<td>"+data[i][tablehead[j][1]]+"<sup><a href=\"#com"+supc+"\">["+supc+"]</a></sup></td>";
+					supc++;
+				}
+				else{
+					tmp+="<td>"+data[i][tablehead[j][1]]+"</td>";
 				}
 			}
-            if(tablehead[j][1]=="link"){
-                
+            else if(tablehead[j][1]=="link"){
                 if(data[i][tablehead[j][1]].includes("github.com")){
-                    tmp+="<td><i class=\"fa fa-github\"></i><a href=\""+data[i][tablehead[j][1]]+"\">Github</a></td>";
-                }else{
-                    if(data[i][tablehead[j][1]].includes("blog.hellholestudios.club")){
-                        tmp+="<td><i class=\"fa fa-wordpress\"></i><a href=\""+data[i][tablehead[j][1]]+"\">Blog</a></td>";
-                    }else{
-                        if(data[i][tablehead[j][1]]==""){
-                            tmp+="<td><i class=\"fa fa-close\">No Link</i></td>";
-                        }else{
-                            tmp+="<td><a href=\""+data[i][tablehead[j][1]]+"\">Link</a></td>";
-                        }
-                        
-                    }
-                    
+                    tmp+="<td class=\"text-center\"><a target=\"_blank\" title=\"Link to the Github Page\" href=\""+data[i][tablehead[j][1]]+"\"><i class=\"fa fa-github\"></i></a></td>";
                 }
-                
+                else if(data[i][tablehead[j][1]].includes("blog.hellholestudios.club")){
+                    tmp+="<td class=\"text-center\"><a target=\"_blank\" title=\"Link to our Blog\" href=\""+data[i][tablehead[j][1]]+"\"><i class=\"fa fa-wordpress\"></i></a></td>";
+                }
+                else if(data[i][tablehead[j][1]]==""){
+                    tmp+="<td class=\"text-center\"><i title=\"No Link Available\" class=\"fa fa-close\"></i></td>";
+                }
+				else{
+                    tmp+="<td class=\"text-center\"><a target=\"_blank\"  title=\"Link to the Resources\" href=\""+data[i][tablehead[j][1]]+"\"><i class=\"fa fa-external-link\"></i></a></td>";
+                }				
             }
 			
 			else{
@@ -414,8 +412,19 @@ function refreshTable(){
         tmp+="</tr>";
     }
     tmp+="</tbody></table>";
+	
+	supc=1;
+	var comtmp="";
+	for(var i=0;i<data.length;i++){
+		if(data[i]["comment"]!=null){
+			comtmp+="<p id=\"com"+supc+"\">["+supc+"]: "+data[i]["comment"]+"</p>"
+			supc++;
+		}
+	}
 
     node.innerHTML=tmp;
+	document.getElementById("comments").innerHTML=comtmp;
 
 }
+
 
