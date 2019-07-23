@@ -118,8 +118,8 @@ var data=[
         "author":"XGN",
         "release":"2019-06-07",
         "coauthor":"",
-        "category":"MISC",
-        "subcategory":"TOOL",
+        "category":"MOD",
+        "subcategory":"SOFTWARE MOD",
         "status":"Done",
         "lang":"Lua"
     },
@@ -198,7 +198,8 @@ var data=[
         "category":"GAME",
         "subcategory":"RPG GAME",
         "status":"Done",
-        "lang":"RPG Maker XP"
+        "lang":"RPG Maker XP",
+		"comment":"Can't upload because of privacy issues"
     },
     {
         "name":"Slap",
@@ -253,7 +254,8 @@ var data=[
         "category":"BOT",
         "subcategory":"DISCORD BOT",
         "status":"Done",
-        "lang":"JS"
+        "lang":"JS",
+		"comment":"It's held on Repl.it. You can find out the bot in our Discord community"
     },
     {
         "name":"Orange Boy Can You Solve It Out?",
@@ -333,6 +335,41 @@ var data=[
         "status":"Working",
         "lang":"JS,HTML"
     },
+	{
+        "name":"Addon Tools",
+        "link":"https://github.com/XiaoGeNintendo/addon-tools",
+        "author":"XGN",
+        "release":"2017-12-25",
+        "coauthor":"",
+        "category":"MOD",
+        "subcategory":"MINECRAFT MOD",
+        "status":"Jamming",
+        "lang":"Java",
+		"comment":"'Jamming' means is updating slowly."
+    },
+	{
+        "name":"NFLS Solution Getter",
+        "link":"https://github.com/XiaoGeNintendo/NFLSOJ-Solution-Getter",
+        "author":"XGN",
+        "release":"2019-06-07",
+        "coauthor":"",
+        "category":"MISC",
+        "subcategory":"TOOL",
+        "status":"Done",
+        "lang":"Py3",
+		"comment":"Doesn't work anymore because NFLSOJ system update."
+    },
+	{
+        "name":"Pressing Competition",
+        "link":"https://github.com/XiaoGeNintendo/PressingCompetition",
+        "author":"XGN",
+        "release":"2018-12-27",
+        "coauthor":"",
+        "category":"GAME",
+        "subcategory":"OTHER GAME",
+        "status":"Done",
+        "lang":"JS,HTML"
+    },
 ]
 
 function sort(by){
@@ -344,7 +381,21 @@ function sort(by){
         if(a[by]>b[by]){
             return 1;
         }
-        return 0;
+		
+		
+		var aa=""+JSON.stringify(a);
+		var bb=""+JSON.stringify(b);
+		//console.log(aa);
+		//console.log(bb);
+		//console.log(aa<bb);
+		
+		if(aa<bb){
+			return -1;
+		}
+		if(aa>bb){
+			return 1;
+		}
+		return 0;
     });
 
     
