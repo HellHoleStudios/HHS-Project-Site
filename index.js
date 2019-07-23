@@ -305,7 +305,7 @@ var data=[
         "name":"Sound Guess Game HHS Mod",
         "link":"",
         "author":"Zzzyt",
-        "release":"",
+        "release":"2019-02-16",
         "coauthor":"",
         "category":"GAME",
         "subcategory":"OTHER GAME",
@@ -517,15 +517,16 @@ var data=[
 		"comment":"The link is empty. But it really has the name 3DZJS"
     },
 	{
-        "name":"ZJS PLANET",
+        "name":"Planet ZJS",
         "link":"",
         "author":"XGN",
-        "release":"",
+        "release":"2019-02-06",
         "coauthor":"",
         "category":"GAME",
         "subcategory":"OTHER GAME",
         "status":"Done",
-        "lang":"MonkeyEngine"
+        "lang":"MonkeyEngine",
+		"comment":"Download used to be ok in Skype, but now missing"
     },
 	{
         "name":"Number Game",
