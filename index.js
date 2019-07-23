@@ -247,15 +247,15 @@ var data=[
     },
     {
         "name":"Testbot",
-        "link":"",
+        "link":"https://repl.it/@XiaoGeNintendo/Test-js-bot",
         "author":"XGN",
-        "release":"",
+        "release":"2019-02-15",
         "coauthor":"",
         "category":"BOT",
         "subcategory":"DISCORD BOT",
-        "status":"Done",
-        "lang":"JS",
-		"comment":"It's held on Repl.it. You can find out the bot in our Discord community"
+        "status":"Jamming",
+        "lang":"Node.js",
+		"comment":"The bot is used in our Discord community"
     },
     {
         "name":"Orange Boy Can You Solve It Out?",
@@ -503,6 +503,40 @@ var data=[
         "subcategory":"LANGUAGE TEST",
         "status":"Done",
         "lang":"Java",
+    },
+	{
+        "name":"3DZJS",
+        "link":"https://github.com/HellHoleStudios/3D_ZJS",
+        "author":"HDD",
+        "release":"2018-03-11",
+        "coauthor":"",
+        "category":"GAME",
+        "subcategory":"OTHER GAME",
+        "status":"Done",
+        "lang":"GameMaker",
+		"comment":"The link is empty. But it really has the name 3DZJS"
+    },
+	{
+        "name":"ZJS PLANET",
+        "link":"",
+        "author":"XGN",
+        "release":"",
+        "coauthor":"",
+        "category":"GAME",
+        "subcategory":"OTHER GAME",
+        "status":"Done",
+        "lang":"MonkeyEngine"
+    },
+	{
+        "name":"Number Game",
+        "link":"https://drive.google.com/open?id=1R9qzZXMnT20j7L5HJzV5_WqOQMD1Srgt",
+        "author":"XGN",
+        "release":"2019-05-03",
+        "coauthor":"",
+        "category":"GAME",
+        "subcategory":"OTHER GAME",
+        "status":"Done",
+        "lang":"LibGdx"
     },
 ]
 
