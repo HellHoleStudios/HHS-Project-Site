@@ -8,7 +8,9 @@ var template={
     "category":"",
     "subcategory":"",
     "status":"",
-    "lang":""
+    "lang":"",
+    "comment":"", //optional
+    "rating":0, //optional,0-4
 }
 
 var tablehead=[
@@ -20,7 +22,8 @@ var tablehead=[
     ["Release Date","release"],
     ["Language","lang"],
     ["Status","status"],
-    ["Link","link"]
+    ["Link","link"],
+    ["Hot","rating"]
 ]
 
 var data=[
@@ -33,7 +36,8 @@ var data=[
         "category":"OI",
         "subcategory":"OI SOFTWARE",
         "status":"Working",
-        "lang":"Java,C++,etc."
+        "lang":"Java,C++,etc.",
+        "rating":4
     },
     {
         "name":"THHHS",
@@ -44,7 +48,8 @@ var data=[
         "category":"GAME",
         "subcategory":"STG GAME",
         "status":"Working",
-        "lang":"LuaStg"
+        "lang":"LuaStg",
+        "rating":3
     },
     {
         "name":"Rocket Simulator",
@@ -55,7 +60,8 @@ var data=[
         "category":"GAME",
         "subcategory":"SIM GAME",
         "status":"Working",
-        "lang":"LibGdx"
+        "lang":"LibGdx",
+        "rating":3
     },
     {
         "name":"Test STG2",
@@ -66,7 +72,8 @@ var data=[
         "category":"GAME",
         "subcategory":"STG GAME",
         "status":"Working",
-        "lang":"LibGdx"
+        "lang":"LibGdx",
+        "rating":1
     },
     {
         "name":"Codeforces Submission Reviewer",
@@ -77,7 +84,8 @@ var data=[
         "category":"OI",
         "subcategory":"OI TOOL",
         "status":"Done",
-        "lang":"JS,HTML"
+        "lang":"JS,HTML",
+        "rating":1
     },
     {
         "name":"Touhou Music Fetcher",
@@ -88,7 +96,8 @@ var data=[
         "category":"MISC",
         "subcategory":"TOOL",
         "status":"Done",
-        "lang":"Java"
+        "lang":"Java",
+        "rating":0
     },
     {
         "name":"Codeforces Data Copier",
@@ -99,7 +108,8 @@ var data=[
         "category":"OI",
         "subcategory":"OI TOOL",
         "status":"Done",
-        "lang":"Py3"
+        "lang":"Py3",
+        "rating":0
     },
     {
         "name":"Pokemon Gif Fetcher",
@@ -110,7 +120,8 @@ var data=[
         "category":"MISC",
         "subcategory":"TOOL",
         "status":"Done",
-        "lang":"Py3"
+        "lang":"Py3",
+        "rating":0
     },
     {
         "name":"Lua STG Fix",
@@ -121,7 +132,8 @@ var data=[
         "category":"MOD",
         "subcategory":"SOFTWARE MOD",
         "status":"Done",
-        "lang":"Lua"
+        "lang":"Lua",
+        "rating":0
     },
     {
         "name":"CPP Confusor",
@@ -132,7 +144,8 @@ var data=[
         "category":"OI",
         "subcategory":"OI TOOL",
         "status":"Done",
-        "lang":"C++"
+        "lang":"C++",
+        "rating":2
     },
     {
         "name":"Universe Model",
@@ -143,7 +156,8 @@ var data=[
         "category":"MATH/PHYSICS",
         "subcategory":"PHYSICS SIMULATOR",
         "status":"Done",
-        "lang":"LibGdx"
+        "lang":"LibGdx",
+        "rating":0
     },
     {
         "name":"Paper Scissor Stone",
@@ -154,7 +168,8 @@ var data=[
         "category":"GAME",
         "subcategory":"OTHER GAME",
         "status":"Done",
-        "lang":"Java"
+        "lang":"Java",
+        "rating":0
     },
     {
         "name":"General Mod Loader",
@@ -165,7 +180,8 @@ var data=[
         "category":"DEVELOP",
         "subcategory":"JAVA PACKAGE",
         "status":"Done",
-        "lang":"Java"
+        "lang":"Java",
+        "rating":1
     },
     {
         "name":"ZJSTG",
@@ -176,7 +192,8 @@ var data=[
         "category":"GAME",
         "subcategory":"STG GAME",
         "status":"Deserted",
-        "lang":"GameMaker"
+        "lang":"GameMaker",
+        "rating":0
     },
     {
         "name":"ZYTALE",
@@ -187,7 +204,8 @@ var data=[
         "category":"GAME",
         "subcategory":"RPG GAME",
         "status":"Deserted",
-        "lang":"GameMaker"
+        "lang":"GameMaker",
+        "rating":0
     },
     {
         "name":"Hell Hole Legend",
@@ -199,7 +217,8 @@ var data=[
         "subcategory":"RPG GAME",
         "status":"Done",
         "lang":"RPG Maker XP",
-		"comment":"Can't upload because of privacy issues"
+        "comment":"Can't upload because of privacy issues",
+        "rating":0
     },
     {
         "name":"Slap",
@@ -210,7 +229,8 @@ var data=[
         "category":"GAME",
         "subcategory":"ADV GAME",
         "status":"Deserted",
-        "lang":"LibGdx"
+        "lang":"LibGdx",
+        "rating":0
     },
     {
         "name":"Slap v1.1",
@@ -221,7 +241,8 @@ var data=[
         "category":"GAME",
         "subcategory":"ADV GAME",
         "status":"Deserted",
-        "lang":"LibGdx"
+        "lang":"LibGdx",
+        "rating":1
     },
     {
         "name":"Netease Music Downloader",
@@ -232,7 +253,8 @@ var data=[
         "category":"MISC",
         "subcategory":"TOOL",
         "status":"Done",
-        "lang":"Py3"
+        "lang":"Py3",
+        "rating":0
     },
     {
         "name":"Codeforces Telegram Notifier",
@@ -243,7 +265,8 @@ var data=[
         "category":"BOT",
         "subcategory":"TELEGRAM BOT",
         "status":"Done",
-        "lang":"Py3"
+        "lang":"Py3",
+        "rating":0
     },
     {
         "name":"Testbot",
@@ -255,7 +278,8 @@ var data=[
         "subcategory":"DISCORD BOT",
         "status":"Jamming",
         "lang":"Node.js",
-		"comment":"The bot is used in our Discord community"
+        "comment":"The bot is used in our Discord community",
+        "rating":0
     },
     {
         "name":"Orange Boy Can You Solve It Out?",
@@ -266,7 +290,8 @@ var data=[
         "category":"LITERATURE",
         "subcategory":"OI LITERATURE",
         "status":"Working",
-        "lang":"Markup"
+        "lang":"Markup",
+        "rating":4
     },
     {
         "name":"The Story of Tengfei",
@@ -277,7 +302,8 @@ var data=[
         "category":"LITERATURE",
         "subcategory":"OTHER LITERATURE",
         "status":"Deserted",
-        "lang":"Markup"
+        "lang":"Markup",
+        "rating":1
     },
     {
         "name":"Sound Guess Game",
@@ -288,7 +314,8 @@ var data=[
         "category":"GAME",
         "subcategory":"OTHER GAME",
         "status":"Done",
-        "lang":"Java"
+        "lang":"Java",
+        "rating":2
     },
     {
         "name":"Sound Guess Game Pokemon Mod",
@@ -299,7 +326,8 @@ var data=[
         "category":"GAME",
         "subcategory":"OTHER GAME",
         "status":"Done",
-        "lang":"Java"
+        "lang":"Java",
+        "rating":1
     },
     {
         "name":"Sound Guess Game HHS Mod",
@@ -311,7 +339,8 @@ var data=[
         "subcategory":"OTHER GAME",
         "status":"Done",
         "lang":"Java",
-		"comment":"Can't upload because of privacy issues."
+        "comment":"Can't upload because of privacy issues.",
+        "rating":1
     },
     {
         "name":"LibLrc",
@@ -322,7 +351,8 @@ var data=[
         "category":"DEVELOP",
         "subcategory":"JAVA LIBRARY",
         "status":"Done",
-        "lang":"Java"
+        "lang":"Java",
+        "rating":0
     },
     {
         "name":"HHS Project Site",
@@ -333,7 +363,8 @@ var data=[
         "category":"MISC",
         "subcategory":"HHS HOME",
         "status":"Working",
-        "lang":"JS,HTML"
+        "lang":"JS,HTML",
+        "rating":4
     },
 	{
         "name":"Addon Tools",
@@ -345,7 +376,8 @@ var data=[
         "subcategory":"MINECRAFT MOD",
         "status":"Jamming",
         "lang":"Java",
-		"comment":"'Jamming' means is updating slowly."
+        "comment":"'Jamming' means is updating slowly.",
+        "rating":1
     },
 	{
         "name":"NFLS Solution Getter",
@@ -357,7 +389,8 @@ var data=[
         "subcategory":"TOOL",
         "status":"Done",
         "lang":"Py3",
-		"comment":"Doesn't work anymore because NFLSOJ system update."
+        "comment":"Doesn't work anymore because NFLSOJ system update.",
+        "rating":0
     },
 	{
         "name":"Pressing Competition",
@@ -368,7 +401,8 @@ var data=[
         "category":"GAME",
         "subcategory":"OTHER GAME",
         "status":"Done",
-        "lang":"JS,HTML"
+        "lang":"JS,HTML",
+        "rating":2
     },
 	{
         "name":"Many Notifier",
@@ -379,7 +413,8 @@ var data=[
         "category":"OI",
         "subcategory":"OI TOOL",
         "status":"Done",
-        "lang":"Java"
+        "lang":"Java",
+        "rating":2
     },
 	{
         "name":"Codeforces Status Notifier",
@@ -390,7 +425,8 @@ var data=[
         "category":"OI",
         "subcategory":"OI TOOL",
         "status":"Done",
-        "lang":"Java"
+        "lang":"Java",
+        "rating":0
     },
 	{
         "name":"Where're my scores",
@@ -401,7 +437,8 @@ var data=[
         "category":"GAME",
         "subcategory":"MUSIC GAME",
         "status":"Done",
-        "lang":"LibGdx"
+        "lang":"LibGdx",
+        "rating":0
     },
 	{
         "name":"NFLS Rating System",
@@ -412,7 +449,8 @@ var data=[
         "category":"OI",
         "subcategory":"OI TOOL",
         "status":"Done",
-        "lang":"Java"
+        "lang":"Java",
+        "rating":0
     },
 	{
         "name":"Math Exam Simulator Online",
@@ -423,7 +461,8 @@ var data=[
         "category":"GAME",
         "subcategory":"SIM GAME",
         "status":"Done",
-        "lang":"CocosCreator"
+        "lang":"CocosCreator",
+        "rating":0
     },
 	{
         "name":"YP Beating Me",
@@ -434,7 +473,8 @@ var data=[
         "category":"GAME",
         "subcategory":"STG GAME",
         "status":"Done",
-        "lang":"CocosCreator"
+        "lang":"CocosCreator",
+        "rating":3
     },
 	{
         "name":"XGN Screen Gif Gen",
@@ -445,7 +485,8 @@ var data=[
         "category":"MISC",
         "subcategory":"TOOL",
         "status":"Done",
-        "lang":"Java"
+        "lang":"Java",
+        "rating":1
     },
 	{
         "name":"HHSOJ",
@@ -457,7 +498,7 @@ var data=[
         "subcategory":"ONLINE JUDGE",
         "status":"Done",
         "lang":"Java",
-		"comment":"This version is replaced by HHSOJ-Web-Edition"
+        "comment":"This version is replaced by HHSOJ-Web-Edition",
     },
 	{
         "name":"Osu Taiko to normal",
@@ -469,7 +510,7 @@ var data=[
         "subcategory":"TOOL",
         "status":"Done",
         "lang":"C++",
-		"comment":"This tool should be worked with Osu"
+        "comment":"This tool should be worked with Osu"
     },
 	{
         "name":"Upload and Download System",
@@ -514,7 +555,8 @@ var data=[
         "subcategory":"OTHER GAME",
         "status":"Done",
         "lang":"GameMaker",
-		"comment":"The link is empty. But it really has the name 3DZJS"
+        "comment":"The link is empty. But it really has the name 3DZJS",
+        "rating":2
     },
 	{
         "name":"Planet ZJS",
@@ -526,7 +568,8 @@ var data=[
         "subcategory":"OTHER GAME",
         "status":"Done",
         "lang":"MonkeyEngine",
-		"comment":"Download used to be ok in Skype, but now missing"
+        "comment":"Download used to be ok in Skype, but now missing",
+        "rating":1
     },
 	{
         "name":"Number Game",
@@ -537,7 +580,8 @@ var data=[
         "category":"GAME",
         "subcategory":"OTHER GAME",
         "status":"Done",
-        "lang":"LibGdx"
+        "lang":"LibGdx",
+        "rating":1
     },
 ]
 
@@ -623,8 +667,13 @@ function refreshTable(){
                     tmp+="<td class=\"text-center\"><a target=\"_blank\"  title=\"Link to the Resources\" href=\""+data[i][tablehead[j][1]]+"\"><i class=\"fa fa-external-link\"></i></a></td>";
                 }				
             }
-			
-			else{
+			else if(tablehead[j][1]=="rating"){
+                if(data[i][tablehead[j][1]]==undefined){
+                    data[i][tablehead[j][1]]=0;
+                }
+                tmp+="<td> <i title=\"Popularity:"+data[i][tablehead[j][1]]+"\" class=\"fa fa-thermometer-"+data[i][tablehead[j][1]]+"\"></i></td>"
+                
+            }else{
                 tmp+="<td>"+data[i][tablehead[j][1]]+"</td>";
             }
             
