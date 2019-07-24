@@ -611,4 +611,17 @@ var data=[
         "rating":2,
         "comment":"The link only gives you the picture. As Zzzyt never released its game file"
     },
+    {
+        "name":"亡者农药(The dead game)",
+        "link":"https://mail.163.com/js6/read/readpack.jsp?sid=EAePnxbFStBlHOWofgFFxQljmRdockRS&mid=519:xtbCBwYAACHhsg8j+h-hcb&part=3&part=4&part=5&part=6&part=7&part=8&part=9",
+        "author":"XGN",
+        "release":"2017-04-08",
+        "coauthor":"Zzzyt",
+        "category":"GAME",
+        "subcategory":"OTHER GAME",
+        "status":"Done",
+        "lang":"E",
+        "rating":3,
+        "comment":"The link is 1.0 while 1.1 is missing"
+    },
 ]
