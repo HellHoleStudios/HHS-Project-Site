@@ -674,7 +674,8 @@ function refreshTable(){
                 if(data[i][tablehead[j][1]]==undefined){
                     data[i][tablehead[j][1]]=0;
                 }
-                tmp+="<td class=\"text-center\"> <i title=\"Popularity:"+data[i][tablehead[j][1]]+"\" class=\"fa fa-thermometer-"+data[i][tablehead[j][1]]+"\"></i></td>"
+                var dat=data[i][tablehead[j][1]];
+                tmp+="<td class=\"text-center\"> <i title=\"Popularity:"+dat+"\" class=\"fa fa-thermometer-"+dat+"\"></i>"+dat+"</td>"
                 
             }else{
                 tmp+="<td>"+data[i][tablehead[j][1]]+"</td>";
