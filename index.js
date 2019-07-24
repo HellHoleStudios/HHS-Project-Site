@@ -10,9 +10,16 @@ var template={
     "status":"",
     "lang":"",
     "comment":"", //optional
-    "rating":0, //optional,0-4
+    "rating":0, //optional,0-4,default is 0. 
 }
-
+/*
+Rating System
+0=no one uses
+1=You are using
+2=some people in HHS are using
+3=some people out of HHS are using
+4=everyone should know this project
+*/
 var tablehead=[
     ["Name","name"],
     ["Category","category"],
@@ -671,7 +678,7 @@ function refreshTable(){
                 if(data[i][tablehead[j][1]]==undefined){
                     data[i][tablehead[j][1]]=0;
                 }
-                tmp+="<td> <i title=\"Popularity:"+data[i][tablehead[j][1]]+"\" class=\"fa fa-thermometer-"+data[i][tablehead[j][1]]+"\"></i></td>"
+                tmp+="<td class=\"text-center\"> <i title=\"Popularity:"+data[i][tablehead[j][1]]+"\" class=\"fa fa-thermometer-"+data[i][tablehead[j][1]]+"\"></i></td>"
                 
             }else{
                 tmp+="<td>"+data[i][tablehead[j][1]]+"</td>";
