@@ -603,7 +603,7 @@ var data=[
         "link":"http://mail.163.com/js6/s?func=mbox:getMessageData&sid=EAePnxbFStBlHOWofgFFxQljmRdockRS&mid=289:xtbBIQUAACBvNGgTxD-4cn&part=3",
         "author":"Zzzyt",
         "release":"2017-02-04",
-        "coauthor":"Zzzyt",
+        "coauthor":"",
         "category":"GAME",
         "subcategory":"RPG GAME",
         "status":"Deserted",
