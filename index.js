@@ -56,7 +56,7 @@ var data=[
         "subcategory":"STG GAME",
         "status":"Working",
         "lang":"LuaStg",
-        "rating":3
+        "rating":2
     },
     {
         "name":"Rocket Simulator",
@@ -68,7 +68,7 @@ var data=[
         "subcategory":"SIM GAME",
         "status":"Working",
         "lang":"LibGdx",
-        "rating":3
+        "rating":2
     },
     {
         "name":"Test STG2",
@@ -92,7 +92,7 @@ var data=[
         "subcategory":"OI TOOL",
         "status":"Done",
         "lang":"JS,HTML",
-        "rating":1
+        "rating":2
     },
     {
         "name":"Touhou Music Fetcher",
@@ -104,7 +104,7 @@ var data=[
         "subcategory":"TOOL",
         "status":"Done",
         "lang":"Java",
-        "rating":0
+        "rating":1
     },
     {
         "name":"Codeforces Data Copier",
@@ -116,7 +116,7 @@ var data=[
         "subcategory":"OI TOOL",
         "status":"Done",
         "lang":"Py3",
-        "rating":0
+        "rating":1
     },
     {
         "name":"Pokemon Gif Fetcher",
@@ -128,7 +128,7 @@ var data=[
         "subcategory":"TOOL",
         "status":"Done",
         "lang":"Py3",
-        "rating":0
+        "rating":1
     },
     {
         "name":"Lua STG Fix",
@@ -188,7 +188,7 @@ var data=[
         "subcategory":"JAVA PACKAGE",
         "status":"Done",
         "lang":"Java",
-        "rating":1
+        "rating":2
     },
     {
         "name":"ZJSTG",
@@ -200,7 +200,6 @@ var data=[
         "subcategory":"STG GAME",
         "status":"Deserted",
         "lang":"GameMaker",
-        "rating":0
     },
     {
         "name":"ZYTALE",
@@ -212,7 +211,6 @@ var data=[
         "subcategory":"RPG GAME",
         "status":"Deserted",
         "lang":"GameMaker",
-        "rating":0
     },
     {
         "name":"Hell Hole Legend",
@@ -225,7 +223,6 @@ var data=[
         "status":"Done",
         "lang":"RPG Maker XP",
         "comment":"Can't upload because of privacy issues",
-        "rating":0
     },
     {
         "name":"Slap",
@@ -237,7 +234,6 @@ var data=[
         "subcategory":"ADV GAME",
         "status":"Deserted",
         "lang":"LibGdx",
-        "rating":0
     },
     {
         "name":"Slap v1.1",
@@ -249,7 +245,7 @@ var data=[
         "subcategory":"ADV GAME",
         "status":"Deserted",
         "lang":"LibGdx",
-        "rating":1
+        "rating":3
     },
     {
         "name":"Netease Music Downloader",
@@ -261,7 +257,7 @@ var data=[
         "subcategory":"TOOL",
         "status":"Done",
         "lang":"Py3",
-        "rating":0
+        "rating":1
     },
     {
         "name":"Codeforces Telegram Notifier",
@@ -273,7 +269,7 @@ var data=[
         "subcategory":"TELEGRAM BOT",
         "status":"Done",
         "lang":"Py3",
-        "rating":0
+        "rating":1
     },
     {
         "name":"Testbot",
@@ -286,7 +282,7 @@ var data=[
         "status":"Jamming",
         "lang":"Node.js",
         "comment":"The bot is used in our Discord community",
-        "rating":0
+        "rating":2
     },
     {
         "name":"Orange Boy Can You Solve It Out?",
@@ -310,7 +306,7 @@ var data=[
         "subcategory":"OTHER LITERATURE",
         "status":"Deserted",
         "lang":"Markup",
-        "rating":1
+        "rating":2
     },
     {
         "name":"Sound Guess Game",
@@ -347,7 +343,7 @@ var data=[
         "status":"Done",
         "lang":"Java",
         "comment":"Can't upload because of privacy issues.",
-        "rating":1
+        "rating":2
     },
     {
         "name":"LibLrc",
@@ -421,7 +417,7 @@ var data=[
         "subcategory":"OI TOOL",
         "status":"Done",
         "lang":"Java",
-        "rating":2
+        "rating":3
     },
 	{
         "name":"Codeforces Status Notifier",
@@ -457,7 +453,7 @@ var data=[
         "subcategory":"OI TOOL",
         "status":"Done",
         "lang":"Java",
-        "rating":0
+        "rating":1
     },
 	{
         "name":"Math Exam Simulator Online",
@@ -576,7 +572,7 @@ var data=[
         "status":"Done",
         "lang":"MonkeyEngine",
         "comment":"Download used to be ok in Skype, but now missing",
-        "rating":1
+        "rating":2
     },
 	{
         "name":"Number Game",
@@ -588,7 +584,7 @@ var data=[
         "subcategory":"OTHER GAME",
         "status":"Done",
         "lang":"LibGdx",
-        "rating":1
+        "rating":2
     },
 ]
 
