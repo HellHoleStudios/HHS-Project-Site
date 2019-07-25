@@ -660,7 +660,7 @@ var data=[
         "name":"花泽香菜：救火(At the fire scene:putting out)",
         "link":"",
         "author":"XGN",
-        "release":"",
+        "release":"2017-02-24",
         "coauthor":"",
         "category":"GAME",
         "subcategory":"OTHER GAME",
@@ -685,7 +685,7 @@ var data=[
     },
     {
         "name":"Steve Run With His Friends",
-        "link":"https://mail.163.com/js6/read/readdata.jsp?sid=EAePnxbFStBlHOWofgFFxQljmRdockRS&mid=40:1tbiKBndnlEAO+4AlAACsg_5ec:232:h:b:g&part=3&mode=download&l=read&action=download_attach",
+        "link":"",
         "author":"XGN",
         "release":"2015-04-16",
         "coauthor":"Zzzyt",
@@ -700,7 +700,7 @@ var data=[
     },
     {
         "name":"花泽香菜(At the fire scene)",
-        "link":"http://mail.163.com/js6/s?func=mbox:getMessageData&sid=EAePnxbFStBlHOWofgFFxQljmRdockRS&mid=289:xtbBIQUAACBvNGgTxD-4cn&part=3",
+        "link":"",
         "author":"Zzzyt",
         "release":"2017-02-04",
         "coauthor":"",
@@ -715,7 +715,7 @@ var data=[
     },
     {
         "name":"亡者农药(The dead game)",
-        "link":"https://mail.163.com/js6/read/readpack.jsp?sid=EAePnxbFStBlHOWofgFFxQljmRdockRS&mid=519:xtbCBwYAACHhsg8j+h-hcb&part=3&part=4&part=5&part=6&part=7&part=8&part=9",
+        "link":"",
         "author":"XGN",
         "release":"2017-04-08",
         "coauthor":"Zzzyt",
@@ -727,5 +727,19 @@ var data=[
         "layout":"CHN",
         "rating":3,
         "comment":"The link is 1.0 while 1.1 is missing"
+    },
+    {
+        "name":"Clicker E",
+        "link":"",
+        "author":"XGN",
+        "release":"2017-07-25",
+        "coauthor":"",
+        "category":"GAME",
+        "subcategory":"CLICKING GAME",
+        "status":"Done",
+        "lang":"E",
+        "tool":"",
+        "layout":"CHN",
+        "rating":2,
     },
 ]
