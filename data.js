@@ -668,7 +668,8 @@ var data=[
         "lang":"E",
         "tool":"",
         "layout":"CHN",
-        "rating":2
+        "rating":2,
+        "comment":"Too old to find links"
     },
     {
         "name":"破口大骂(Shout Abuse)",
@@ -682,6 +683,7 @@ var data=[
         "tool":"",
         "layout":"CHN",
         "lang":"E",
+        "comment":"Too old to find links"
     },
     {
         "name":"Steve Run With His Friends",
@@ -695,12 +697,12 @@ var data=[
         "lang":"Scratch",
         "tool":"Scratch 1.4",
         "layout":"CHN",
-        "comment":"The date is not accurate because it's too old.The link gives you a 1.6 ver(quite old)",
+        "comment":"The date is not accurate because it's too old.Too old to find links",
         "rating":3
     },
     {
         "name":"花泽香菜(At the fire scene)",
-        "link":"",
+        "link":"http://mail.163.com/js6/s?func=mbox:getMessageData&sid=EAePnxbFStBlHOWofgFFxQljmRdockRS&mid=289:xtbBIQUAACBvNGgTxD-4cn&part=3",
         "author":"Zzzyt",
         "release":"2017-02-04",
         "coauthor":"",
@@ -726,7 +728,7 @@ var data=[
         "tool":"",
         "layout":"CHN",
         "rating":3,
-        "comment":"The link is 1.0 while 1.1 is missing"
+        "comment":"Too old to find links"
     },
     {
         "name":"Clicker E",
@@ -741,5 +743,6 @@ var data=[
         "tool":"",
         "layout":"CHN",
         "rating":2,
+        "comment":"Too old to find links"
     },
 ]
