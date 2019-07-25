@@ -9,6 +9,8 @@ var data=[
         "subcategory":"OI SOFTWARE",
         "status":"Working",
         "lang":"Java,C++,etc.",
+        "tool":"Tomcat",
+        "layout":"ENG",
         "rating":4
     },
     {
@@ -20,7 +22,9 @@ var data=[
         "category":"GAME",
         "subcategory":"STG GAME",
         "status":"Working",
-        "lang":"LuaStg",
+        "lang":"Lua",
+        "tool":"LuaStg+",
+        "layout":"ENG",
         "rating":2
     },
     {
@@ -32,7 +36,9 @@ var data=[
         "category":"GAME",
         "subcategory":"SIM GAME",
         "status":"Working",
-        "lang":"LibGdx",
+        "lang":"Java",
+        "tool":"LibGdx",
+        "layout":"ENG",
         "rating":2
     },
     {
@@ -44,7 +50,9 @@ var data=[
         "category":"GAME",
         "subcategory":"STG GAME",
         "status":"Working",
-        "lang":"LibGdx",
+        "lang":"Java",
+        "tool":"LibGdx",
+        "layout":"ENG",
         "rating":1
     },
     {
@@ -57,6 +65,8 @@ var data=[
         "subcategory":"OI TOOL",
         "status":"Done",
         "lang":"JS,HTML",
+        "tool":"",
+        "layout":"ENG,JPN",
         "rating":2
     },
     {
@@ -69,6 +79,8 @@ var data=[
         "subcategory":"TOOL",
         "status":"Done",
         "lang":"Java",
+        "tool":"",
+        "layout":"ENG",
         "rating":1
     },
     {
@@ -81,6 +93,8 @@ var data=[
         "subcategory":"OI TOOL",
         "status":"Done",
         "lang":"Py3",
+        "tool":"",
+        "layout":"ENG",
         "rating":1
     },
     {
@@ -93,6 +107,8 @@ var data=[
         "subcategory":"TOOL",
         "status":"Done",
         "lang":"Py3",
+        "tool":"",
+        "layout":"ENG",
         "rating":1
     },
     {
@@ -105,6 +121,8 @@ var data=[
         "subcategory":"SOFTWARE MOD",
         "status":"Done",
         "lang":"Lua",
+        "tool":"LuaStg+",
+        "layout":"NONE",
         "rating":0
     },
     {
@@ -117,6 +135,8 @@ var data=[
         "subcategory":"OI TOOL",
         "status":"Done",
         "lang":"C++",
+        "tool":"",
+        "layout":"CHN,ENG",
         "rating":2
     },
     {
@@ -128,7 +148,9 @@ var data=[
         "category":"MATH/PHYSICS",
         "subcategory":"PHYSICS SIMULATOR",
         "status":"Done",
-        "lang":"LibGdx",
+        "lang":"Java",
+        "tool":"LibGdx",
+        "layout":"NONE",
         "rating":0
     },
     {
@@ -141,6 +163,8 @@ var data=[
         "subcategory":"OTHER GAME",
         "status":"Done",
         "lang":"Java",
+        "tool":"",
+        "layout":"ENG",
         "rating":0
     },
     {
@@ -153,6 +177,8 @@ var data=[
         "subcategory":"JAVA PACKAGE",
         "status":"Done",
         "lang":"Java",
+        "tool":"",
+        "layout":"NONE",
         "rating":2
     },
     {
@@ -164,7 +190,9 @@ var data=[
         "category":"GAME",
         "subcategory":"STG GAME",
         "status":"Deserted",
-        "lang":"GameMaker",
+        "lang":"GML",
+        "tool":"GameMakerStudio",
+        "layout":"NONE",
     },
     {
         "name":"ZYTALE",
@@ -175,7 +203,9 @@ var data=[
         "category":"GAME",
         "subcategory":"RPG GAME",
         "status":"Deserted",
-        "lang":"GameMaker",
+        "lang":"GML",
+        "tool":"GameMakerStudio",
+        "layout":"NONE",
     },
     {
         "name":"Hell Hole Legend",
@@ -186,8 +216,10 @@ var data=[
         "category":"GAME",
         "subcategory":"RPG GAME",
         "status":"Done",
-        "lang":"RPG Maker XP",
+        "lang":"Ruby",
         "comment":"Can't upload because of privacy issues",
+        "tool":"RPG Maker XP",
+        "layout":"CHN",
     },
     {
         "name":"Slap",
@@ -198,7 +230,9 @@ var data=[
         "category":"GAME",
         "subcategory":"ADV GAME",
         "status":"Deserted",
-        "lang":"LibGdx",
+        "lang":"Java",
+        "tool":"LibGdx",
+        "layout":"ENG",
     },
     {
         "name":"Slap v1.1",
@@ -209,7 +243,9 @@ var data=[
         "category":"GAME",
         "subcategory":"ADV GAME",
         "status":"Deserted",
-        "lang":"LibGdx",
+        "lang":"Java",
+        "tool":"LibGdx",
+        "layout":"ENG",
         "rating":3
     },
     {
@@ -222,6 +258,8 @@ var data=[
         "subcategory":"TOOL",
         "status":"Done",
         "lang":"Py3",
+        "tool":"",
+        "layout":"ENG",
         "rating":1
     },
     {
@@ -234,6 +272,8 @@ var data=[
         "subcategory":"TELEGRAM BOT",
         "status":"Done",
         "lang":"Py3",
+        "tool":"Telegram API",
+        "layout":"UNKNOWN",
         "rating":1
     },
     {
@@ -246,6 +286,8 @@ var data=[
         "subcategory":"DISCORD BOT",
         "status":"Jamming",
         "lang":"Node.js",
+        "tool":"Discord.js",
+        "layout":"ENG",
         "comment":"The bot is used in our Discord community",
         "rating":2
     },
@@ -259,6 +301,8 @@ var data=[
         "subcategory":"OI LITERATURE",
         "status":"Working",
         "lang":"Markup",
+        "tool":"",
+        "layout":"CHN,ENG",
         "rating":4
     },
     {
@@ -271,6 +315,8 @@ var data=[
         "subcategory":"OTHER LITERATURE",
         "status":"Deserted",
         "lang":"Markup",
+        "tool":"",
+        "layout":"CHN",
         "rating":2
     },
     {
@@ -283,6 +329,8 @@ var data=[
         "subcategory":"OTHER GAME",
         "status":"Done",
         "lang":"Java",
+        "tool":"Swing",
+        "layout":"ENG",
         "rating":2
     },
     {
@@ -295,6 +343,8 @@ var data=[
         "subcategory":"OTHER GAME",
         "status":"Done",
         "lang":"Java",
+        "tool":"Swing",
+        "layout":"CHN,ENG,JPN",
         "rating":1
     },
     {
@@ -307,6 +357,8 @@ var data=[
         "subcategory":"OTHER GAME",
         "status":"Done",
         "lang":"Java",
+        "tool":"Swing",
+        "layout":"CHN,ENG",
         "comment":"Can't upload because of privacy issues.",
         "rating":2
     },
@@ -320,6 +372,8 @@ var data=[
         "subcategory":"JAVA LIBRARY",
         "status":"Done",
         "lang":"Java",
+        "tool":"",
+        "layout":"NONE",
         "rating":0
     },
     {
@@ -332,6 +386,8 @@ var data=[
         "subcategory":"HHS HOME",
         "status":"Working",
         "lang":"JS,HTML",
+        "tool":"",
+        "layout":"ENG",
         "rating":4
     },
 	{
@@ -344,6 +400,8 @@ var data=[
         "subcategory":"MINECRAFT MOD",
         "status":"Jamming",
         "lang":"Java",
+        "tool":"Minecraft Forge",
+        "layout":"CHN,ENG",
         "comment":"'Jamming' means is updating slowly.",
         "rating":1
     },
@@ -357,6 +415,8 @@ var data=[
         "subcategory":"TOOL",
         "status":"Done",
         "lang":"Py3",
+        "tool":"",
+        "layout":"CHN",
         "comment":"Doesn't work anymore because NFLSOJ system update.",
         "rating":0
     },
@@ -370,6 +430,8 @@ var data=[
         "subcategory":"OTHER GAME",
         "status":"Done",
         "lang":"JS,HTML",
+        "tool":"",
+        "layout":"ENG",
         "rating":2
     },
 	{
@@ -382,6 +444,8 @@ var data=[
         "subcategory":"OI TOOL",
         "status":"Done",
         "lang":"Java",
+        "tool":"Swing",
+        "layout":"ENG",
         "rating":3
     },
 	{
@@ -394,6 +458,8 @@ var data=[
         "subcategory":"OI TOOL",
         "status":"Done",
         "lang":"Java",
+        "tool":"Swing",
+        "layout":"ENG",
         "rating":0
     },
 	{
@@ -405,7 +471,9 @@ var data=[
         "category":"GAME",
         "subcategory":"MUSIC GAME",
         "status":"Done",
-        "lang":"LibGdx",
+        "lang":"Java",
+        "tool":"LibGdx",
+        "layout":"ENG",
         "rating":0
     },
 	{
@@ -418,6 +486,8 @@ var data=[
         "subcategory":"OI TOOL",
         "status":"Done",
         "lang":"Java",
+        "tool":"",
+        "layout":"ENG",
         "rating":1
     },
 	{
@@ -429,7 +499,9 @@ var data=[
         "category":"GAME",
         "subcategory":"SIM GAME",
         "status":"Done",
-        "lang":"CocosCreator",
+        "lang":"JS",
+        "tool":"CocosCreator",
+        "layout":"ENG",
         "rating":0
     },
 	{
@@ -441,7 +513,9 @@ var data=[
         "category":"GAME",
         "subcategory":"STG GAME",
         "status":"Done",
-        "lang":"CocosCreator",
+        "lang":"JS",
+        "tool":"CocosCreator",
+        "layout":"CHN",
         "rating":3
     },
 	{
@@ -454,6 +528,8 @@ var data=[
         "subcategory":"TOOL",
         "status":"Done",
         "lang":"Java",
+        "tool":"Swing",
+        "layout":"ENG",
         "rating":1
     },
 	{
@@ -466,6 +542,8 @@ var data=[
         "subcategory":"ONLINE JUDGE",
         "status":"Done",
         "lang":"Java",
+        "tool":"Swing",
+        "layout":"ENG",
         "comment":"This version is replaced by HHSOJ-Web-Edition",
     },
 	{
@@ -478,6 +556,8 @@ var data=[
         "subcategory":"TOOL",
         "status":"Done",
         "lang":"C++",
+        "tool":"",
+        "layout":"UNKNOWN",
         "comment":"This tool should be worked with Osu"
     },
 	{
@@ -490,6 +570,8 @@ var data=[
         "subcategory":"LANGUAGE TEST",
         "status":"Done",
         "lang":"Java",
+        "tool":"",
+        "layout":"UNKNOWN",
     },
 	{
         "name":"ZJS vs YP",
@@ -500,7 +582,9 @@ var data=[
         "category":"GAME",
         "subcategory":"CLICKING GAME",
         "status":"Done",
-        "lang":"CocosCreator",
+        "lang":"JS",
+        "tool":"CocosCreator",
+        "layout":"UNKNOWN",
     },
 	{
         "name":"Text Editor Reloaded",
@@ -512,6 +596,8 @@ var data=[
         "subcategory":"LANGUAGE TEST",
         "status":"Done",
         "lang":"Java",
+        "tool":"Swing",
+        "layout":"UNKNOWN",
     },
 	{
         "name":"3DZJS",
@@ -522,7 +608,9 @@ var data=[
         "category":"GAME",
         "subcategory":"OTHER GAME",
         "status":"Done",
-        "lang":"GameMaker",
+        "lang":"GML",
+        "tool":"GameMakerStudio",
+        "layout":"NONE",
         "comment":"The link is empty. But it really has the name 3DZJS",
         "rating":2
     },
@@ -535,7 +623,9 @@ var data=[
         "category":"GAME",
         "subcategory":"OTHER GAME",
         "status":"Done",
-        "lang":"MonkeyEngine",
+        "lang":"Java",
+        "tool":"jMonkeyEngine",
+        "layout":"NONE",
         "comment":"Download used to be ok in Skype, but now missing",
         "rating":2
     },
@@ -548,7 +638,9 @@ var data=[
         "category":"GAME",
         "subcategory":"OTHER GAME",
         "status":"Done",
-        "lang":"LibGdx",
+        "lang":"Java",
+        "tool":"LibGdx",
+        "layout":"ENG",
         "rating":2
     },
     {
@@ -560,6 +652,8 @@ var data=[
         "category":"GAME",
         "subcategory":"OTHER GAME",
         "status":"Done",
+        "tool":"Game.py",
+        "layout":"NONE",
         "lang":"Py3",
     },
     {
@@ -572,6 +666,8 @@ var data=[
         "subcategory":"OTHER GAME",
         "status":"Done",
         "lang":"E",
+        "tool":"",
+        "layout":"CHN",
         "rating":2
     },
     {
@@ -583,6 +679,8 @@ var data=[
         "category":"GAME",
         "subcategory":"OTHER GAME",
         "status":"Done",
+        "tool":"",
+        "layout":"CHN",
         "lang":"E",
     },
     {
@@ -595,6 +693,8 @@ var data=[
         "subcategory":"RPG GAME",
         "status":"Done",
         "lang":"Scratch",
+        "tool":"Scratch 1.4",
+        "layout":"CHN",
         "comment":"The date is not accurate because it's too old.The link gives you a 1.6 ver(quite old)",
         "rating":3
     },
@@ -608,6 +708,8 @@ var data=[
         "subcategory":"RPG GAME",
         "status":"Deserted",
         "lang":"VB",
+        "tool":"",
+        "layout":"CHN",
         "rating":2,
         "comment":"The link only gives you the picture. As Zzzyt never released its game file"
     },
@@ -621,6 +723,8 @@ var data=[
         "subcategory":"OTHER GAME",
         "status":"Done",
         "lang":"E",
+        "tool":"",
+        "layout":"CHN",
         "rating":3,
         "comment":"The link is 1.0 while 1.1 is missing"
     },

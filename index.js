@@ -9,6 +9,8 @@ var template={
     "subcategory":"",
     "status":"",
     "lang":"",
+    "tool":"",
+    "layout":"",
     "comment":"", //optional
     "rating":0, //optional,0-4,default is 0. 
 }
@@ -21,16 +23,18 @@ Rating System
 4=everyone should know this project
 */
 var tablehead=[
-    ["Name","name"],
-    ["Category","category"],
-    ["Sub Category","subcategory"],
-    ["Author","author"],
-    ["Coauthor","coauthor"],
-    ["Release Date","release"],
-    ["Language","lang"],
-    ["Status","status"],
-    ["Link","link"],
-    ["Hot","rating"]
+    ["Name","name",true],
+    ["Category","category",true],
+    ["Sub Category","subcategory",true],
+    ["Author","author",true],
+    ["Coauthor","coauthor",true],
+    ["Release Date","release",true],
+    ["Language","lang",false],
+    ["UsedTool","tool",false],
+    ["SoftwareLang","layout",false],
+    ["Status","status",false],
+    ["Link","link",true],
+    ["Hot","rating",true]
 ]
 
 
@@ -65,6 +69,13 @@ function sort(by){
 
 var curSort="";
 
+var importantOnly=true;
+
+function toggleImportant(){
+    importantOnly=!importantOnly;
+    refreshTable();
+}
+
 function Msort(by){
     sort(by);
     curSort=by;
@@ -81,6 +92,9 @@ function refreshTable(){
     //start rendering th
     tmp+="<thead><tr>";
     for(var i=0;i<tablehead.length;i++){
+        if(importantOnly && !tablehead[i][2]){
+            continue;
+        }
         if(tablehead[i][1]==curSort){
             tmp+="<th onclick=\"Msort('"+tablehead[i][1]+"')\">"+tablehead[i][0]+"<i class=\"fa fa-sort-up\"></i></th>";
         }else{
@@ -93,6 +107,10 @@ function refreshTable(){
     for(var i=0;i<data.length;i++){
         tmp+="<tr>";
         for(var j=0;j<tablehead.length;j++){
+            if(importantOnly && !tablehead[j][2]){
+                continue;
+            }
+
 			if(tablehead[j][1]=="name"){
 				if(data[i]["comment"]!=null){
 					tmp+="<td>"+data[i][tablehead[j][1]]+"<sup><a href=\"#com"+supc+"\">["+supc+"]</a></sup></td>";
