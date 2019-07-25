@@ -113,7 +113,7 @@ function refreshTable(){
 
 			if(tablehead[j][1]=="name"){
 				if(data[i]["comment"]!=null){
-					tmp+="<td>"+data[i][tablehead[j][1]]+"<sup><a href=\"#com"+supc+"\">["+supc+"]</a></sup></td>";
+					tmp+="<td>"+data[i][tablehead[j][1]]+"<sup><a id=\"src"+supc+"\" href=\"#com"+supc+"\">["+supc+"]</a></sup></td>";
 					supc++;
 				}
 				else{
@@ -154,7 +154,7 @@ function refreshTable(){
 	var comtmp="";
 	for(var i=0;i<data.length;i++){
 		if(data[i]["comment"]!=null){
-			comtmp+="<p id=\"com"+supc+"\">["+supc+"]: "+data[i]["comment"]+"</p>"
+			comtmp+="<p id=\"com"+supc+"\"><a href=\"#src"+supc+"\">["+supc+"]</a>: "+data[i]["comment"]+"</p>"
 			supc++;
 		}
 	}
