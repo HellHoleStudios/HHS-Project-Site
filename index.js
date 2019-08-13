@@ -88,7 +88,7 @@ function refreshTable(){
     var tmp="";
 	var supc=1;
 
-    tmp+="<table border=\"1\" class=\"table table-hover table-striped table-bordered table-responsive\">";
+    tmp+="<table class=\"table table-sm table-hover table-striped table-bordered table-responsive\">";
     //start rendering th
     tmp+="<thead><tr>";
     for(var i=0;i<tablehead.length;i++){

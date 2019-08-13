@@ -3,13 +3,18 @@ function loadMemberData(){
     var root=document.getElementById("member");
     var x="";
     root.innerHTML="";
+	x+='<div class="row">'
     for(var i=0;i<member.length;i++){
+		if(i&&i%4==0){
+			x+='</div><div class="row">'
+		}
 		if(member[i]["pic"]==""){
 			member[i]["pic"]="assets/nodata.jpg"
 		}
-        x+='<div class="card"><div class="card-body"><table width="80%"><tr><td width="50%">';
-        x+='<img width=100px height=100px src="'+member[i]["pic"]+'" alt="'+member[i]["name"]+'"/></td>';
-        x+='<td width="50%"><b>'+member[i]["name"]+'</b><br/><i>'+member[i]["real"]+'</i><br/>Role:';
+        x+='<div class="col-3"><div class="card">';
+		x+='<img class="card-img-top" src="'+member[i]["pic"]+'" alt="'+member[i]["name"]+'"/>';
+		x+='<div class="card-body">';
+        x+='<b>'+member[i]["name"]+'</b><br/><i>'+member[i]["real"]+'</i><br/>';
         x+='<span class="'+role[member[i]["rank"]]["code"]+'">'+role[member[i]["rank"]]["display"]+'</span>';
         if(member[i]["skype"]){
             x+=' <span class="badge badge-warning">In Skype</span>';
@@ -25,10 +30,9 @@ function loadMemberData(){
             x+='<a href="'+member[i]["contact"][j]["link"]+'">'+member[i]["contact"][j]["display"]+"</a>";
             x+=" ";
         }
-        x+="</td></tr></table></div></div>";
-        x+="<br/>"
+        x+='</div></div></div>';
     }
-
+	x+='</div>'
     root.innerHTML=x;
     console.log(root.innerHTML);
 }
