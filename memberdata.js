@@ -2,22 +2,26 @@ var member=[
     {
         "name":"HDD292",
         "real":"Jiongjie Hua",
-        "rank":"core",
         "pic":"assets/HDD292.jpg",
-        "skype":true,
-        "discord":true,
-        "aka":"HDD,HJJ",
+		"badge":[
+			"core","skype","discord"
+		],
+        "aka":"HDD, HJJ",
         "contact":[
+			{
+				"link":"https://github.com/HDD292",
+				"display":"Github"
+			}
         ]
     },
     {
         "name":"Zzzyt",
         "real":"Yuqi Zhao",
-        "rank":"core",
-        "skype":true,
-        "discord":true,
         "pic":"assets/Zzzyt.jpg",
-        "aka":"XiaoMao205,XiaoMao,Zeke,ZJS",
+		"badge":[
+			"core","skype","discord"
+		],
+        "aka":"XiaoMao205, ZJS",
         "contact":[
             {
                 "link":"https://codeforces.com/profile/zzzyt",
@@ -26,17 +30,21 @@ var member=[
             {
                 "link":"https://github.com/Zzzzzzyt",
                 "display":"Github"
-            }
+            },
+			{
+				"link":"https://db.zzzyt.cf",
+				"display":"Blog"
+			}
         ]
     },
     {
-        "name":"XGN",
+        "name":"XiaoGeNintendo",
         "real":"Wenqing Ge",
-        "rank":"core",
-        "skype":true,
-        "discord":true,
         "pic":"assets/XGN.jpg",
-        "aka":"XiaoGeNintendo,gwq2017",
+		"badge":[
+			"core","skype","discord"
+		],
+        "aka":"XGN, gwq2017",
         "contact":[
             {
                 "link":"https://codeforces.com/profile/gwq2017",
@@ -55,11 +63,11 @@ var member=[
     {
         "name":"XIZCM",
         "real":"Ziming Xu",
-        "rank":"core",
-        "skype":true,
-        "discord":false,
         "pic":"assets/XIZCM.jpg",
-        "aka":"IC,XZM",
+		"badge":[
+			"core","skype"
+		],
+        "aka":"IC, XZM",
         "contact":[
             {
                 "link":"https://codeforces.com/profile/XIZCM",
@@ -68,32 +76,40 @@ var member=[
             {
                 "link":"https://github.com/DamnXIZCM",
                 "display":"Github"
-            }
+            },
+			{
+				"link":"https://xizcm.site",
+				"display":"Blog"
+			}
         ]
     },
     {
         "name":"ZHD",
         "real":"Huairui Zhang",
-        "rank":"main",
-        "skype":true,
-        "discord":false,
         "pic":"",
-        "aka":"ZYD,ZHR,ZHDssss",
+		"badge":[
+			"main","skype"
+		],
+        "aka":"ZYD, ZHR, ZHDssss",
         "contact":[
             {
                 "link":"https://codeforces.com/profile/bp_ZHD_qd",
                 "display":"Codeforces"
-            }
+            },
+			{
+				"link":"https://github.com/zhdssss",
+				"display":"Github"
+			}
         ]
     },
     {
         "name":"MonkeyKing",
         "real":"Guohao Jing",
-        "rank":"related",
-        "skype":true,
-        "discord":false,
         "pic":"assets/MonkeyKing.jpg",
-        "aka":"MK,Orange Boy",
+		"badge":[
+			"related","skype"
+		],
+        "aka":"MK, Orange Boy",
         "contact":[
             {
                 "link":"https://codeforces.com/profile/MonkeyKing",
@@ -104,25 +120,29 @@ var member=[
     {
         "name":"ZhuKy.RLG",
         "real":"Kunyuan Zhu",
-        "rank":"main",
-        "skype":true,
-        "discord":false,
         "pic":"",
+		"badge":[
+			"main","skype"
+		],
         "aka":"Zhuky,ZKY",
         "contact":[
             {
                 "link":"https://codeforces.com/profile/ZhuKY.RLG",
                 "display":"Codeforces"
-            }
+            },
+			{
+				"link":"https://github.com/zhukyRLG",
+				"display":"Github"
+			}
         ]
     },
     {
         "name":"WZZ",
         "real":"Zizhou Wang",
-        "rank":"main",
-        "skype":true,
-        "discord":false,
         "pic":"assets/WZZ.jpg",
+		"badge":[
+			"main","skype"
+		],
         "aka":"WN",
         "contact":[
             {
@@ -134,9 +154,9 @@ var member=[
     {
         "name":"HYK",
         "real":"Yunke Hu",
-        "rank":"branch",
-        "skype":true,
-        "discord":false,
+        "badge":[
+			"branch","skype"
+		],
         "pic":"",
         "aka":"",
         "contact":[
@@ -145,7 +165,15 @@ var member=[
     },
 ]
 
-var role={
+var badge={
+	"skype":{
+		"code":"badge badge-warning",
+		"display":"Skype"
+	},
+	"discord":{
+		"code":"badge badge-danger",
+		"display":"Discord"
+	},
     "core":{
         "code":"badge badge-success",
         "display":"Core Member"
