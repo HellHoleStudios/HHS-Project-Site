@@ -4,6 +4,9 @@ function loadMemberData(){
     var x="";
     root.innerHTML="";
     for(var i=0;i<member.length;i++){
+		if(member[i]["pic"]==""){
+			member[i]["pic"]="assets/nodata.jpg"
+		}
         x+='<div class="card"><div class="card-body"><table width="80%"><tr><td width="50%">';
         x+='<img width=100px height=100px src="'+member[i]["pic"]+'" alt="'+member[i]["name"]+'"/></td>';
         x+='<td width="50%"><b>'+member[i]["name"]+'</b><br/><i>'+member[i]["real"]+'</i><br/>Role:';

@@ -3,7 +3,7 @@ var member=[
         "name":"HDD292",
         "real":"Jiongjie Hua",
         "rank":"core",
-        "pic":"",
+        "pic":"assets/HDD292.jpg",
         "skype":true,
         "discord":true,
         "aka":"HDD,HJJ",
@@ -16,7 +16,7 @@ var member=[
         "rank":"core",
         "skype":true,
         "discord":true,
-        "pic":"https://userpic.codeforces.com/594107/title/bb5fc2110e40d3ef.jpg",
+        "pic":"assets/Zzzyt.jpg",
         "aka":"XiaoMao205,XiaoMao,Zeke,Son,ZJS",
         "contact":[
             {
@@ -35,7 +35,7 @@ var member=[
         "rank":"core",
         "skype":true,
         "discord":true,
-        "pic":"https://avatars2.githubusercontent.com/u/34835642?s=460&v=4",
+        "pic":"assets/XGN.jpg",
         "aka":"XiaoGeNintendo,gwq2017",
         "contact":[
             {
@@ -58,7 +58,7 @@ var member=[
         "rank":"core",
         "skype":true,
         "discord":false,
-        "pic":"https://avatars2.githubusercontent.com/u/44310508?s=460&v=4",
+        "pic":"assets/XIZCM.jpg",
         "aka":"IC,XZM",
         "contact":[
             {
@@ -77,7 +77,7 @@ var member=[
         "rank":"main",
         "skype":true,
         "discord":false,
-        "pic":"https://userpic.codeforces.com/221895/title/8b7dd929462125f.jpg",
+        "pic":"",
         "aka":"ZYD,ZHR,ZHDssss",
         "contact":[
             {
@@ -92,7 +92,7 @@ var member=[
         "rank":"related",
         "skype":true,
         "discord":false,
-        "pic":"https://userpic.codeforces.com/585307/title/fffec0879f92df58.jpg",
+        "pic":"assets/MonkeyKing.jpg",
         "aka":"MK,Orange Boy",
         "contact":[
             {
@@ -107,7 +107,7 @@ var member=[
         "rank":"main",
         "skype":true,
         "discord":false,
-        "pic":"https://userpic.codeforces.com/322867/title/72d4acfb76302ada.jpg",
+        "pic":"",
         "aka":"Zhuky,ZKY",
         "contact":[
             {
@@ -122,7 +122,7 @@ var member=[
         "rank":"main",
         "skype":true,
         "discord":false,
-        "pic":"",
+        "pic":"assets/WZZ.jpg",
         "aka":"WN",
         "contact":[
             {
