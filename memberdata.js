@@ -17,7 +17,7 @@ var member=[
         "skype":true,
         "discord":true,
         "pic":"assets/Zzzyt.jpg",
-        "aka":"XiaoMao205,XiaoMao,Zeke,Son,ZJS",
+        "aka":"XiaoMao205,XiaoMao,Zeke,ZJS",
         "contact":[
             {
                 "link":"https://codeforces.com/profile/zzzyt",
