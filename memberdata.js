@@ -1,7 +1,6 @@
 var member=[
     {
         "name":"HDD292",
-        "real":"Jiongjie Hua",
         "pic":"assets/HDD292.jpg",
 		"badge":[
 			"core","skype","discord"
@@ -16,7 +15,6 @@ var member=[
     },
     {
         "name":"Zzzyt",
-        "real":"Yuqi Zhao",
         "pic":"assets/Zzzyt.jpg",
 		"badge":[
 			"core","skype","discord"
@@ -39,7 +37,6 @@ var member=[
     },
     {
         "name":"XiaoGeNintendo",
-        "real":"Wenqing Ge",
         "pic":"assets/XGN.jpg",
 		"badge":[
 			"core","skype","discord"
@@ -62,7 +59,6 @@ var member=[
     },
     {
         "name":"XIZCM",
-        "real":"Ziming Xu",
         "pic":"assets/XIZCM.jpg",
 		"badge":[
 			"core","skype"
@@ -85,7 +81,6 @@ var member=[
     },
     {
         "name":"ZHD",
-        "real":"Huairui Zhang",
         "pic":"",
 		"badge":[
 			"main","skype"
@@ -104,7 +99,6 @@ var member=[
     },
     {
         "name":"MonkeyKing",
-        "real":"Guohao Jing",
         "pic":"assets/MonkeyKing.jpg",
 		"badge":[
 			"related","skype"
@@ -119,7 +113,6 @@ var member=[
     },
     {
         "name":"ZhuKy.RLG",
-        "real":"Kunyuan Zhu",
         "pic":"",
 		"badge":[
 			"main","skype"
@@ -138,7 +131,6 @@ var member=[
     },
     {
         "name":"WZZ",
-        "real":"Zizhou Wang",
         "pic":"assets/WZZ.jpg",
 		"badge":[
 			"main","skype"
@@ -153,7 +145,6 @@ var member=[
     },
     {
         "name":"HYK",
-        "real":"Yunke Hu",
         "badge":[
 			"branch","skype"
 		],

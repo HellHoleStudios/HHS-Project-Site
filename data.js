@@ -4,11 +4,11 @@ var data=[
         "link":"https://github.com/XiaoGeNintendo/HHSOJ-Web-Edition",
         "author":"XGN",
         "release":"2018-09-12",
-        "coauthor":"Zzzyt,XIZCM",
+        "coauthor":"Zzzyt, XIZCM",
         "category":"OI",
         "subcategory":"OI SOFTWARE",
         "status":"Working",
-        "lang":"Java,C++,etc.",
+        "lang":"Java, C++, etc.",
         "tool":"Tomcat",
         "layout":"ENG",
         "rating":4
@@ -18,7 +18,7 @@ var data=[
         "link":"http://blog.hellholestudios.club/post/2019/05/25/%E6%9D%B1%E6%96%B9%E5%9C%B0%E7%8D%84%E6%B4%9E%E6%96%87%E6%A1%A3touhou-shining-heroes-in-deep-dark-hole/",
         "author":"XGN",
         "release":"2019-05-25",
-        "coauthor":"Zzzyt,WZZ",
+        "coauthor":"Zzzyt, WZZ",
         "category":"GAME",
         "subcategory":"STG GAME",
         "status":"Working",
@@ -64,9 +64,9 @@ var data=[
         "category":"OI",
         "subcategory":"OI TOOL",
         "status":"Done",
-        "lang":"JS,HTML",
+        "lang":"JS, HTML",
         "tool":"",
-        "layout":"ENG,JPN",
+        "layout":"ENG, JPN",
         "rating":2
     },
     {
@@ -136,7 +136,7 @@ var data=[
         "status":"Done",
         "lang":"C++",
         "tool":"",
-        "layout":"CHN,ENG",
+        "layout":"CHN, ENG",
         "rating":2
     },
     {
@@ -302,7 +302,7 @@ var data=[
         "status":"Working",
         "lang":"Markup",
         "tool":"",
-        "layout":"CHN,ENG",
+        "layout":"CHN, ENG",
         "rating":4
     },
     {
@@ -344,7 +344,7 @@ var data=[
         "status":"Done",
         "lang":"Java",
         "tool":"Swing",
-        "layout":"CHN,ENG,JPN",
+        "layout":"CHN, ENG, JPN",
         "rating":1
     },
     {
@@ -358,7 +358,7 @@ var data=[
         "status":"Done",
         "lang":"Java",
         "tool":"Swing",
-        "layout":"CHN,ENG",
+        "layout":"CHN, ENG",
         "comment":"Can't upload because of privacy issues.",
         "rating":2
     },
@@ -385,7 +385,7 @@ var data=[
         "category":"MISC",
         "subcategory":"HHS HOME",
         "status":"Working",
-        "lang":"JS,HTML",
+        "lang":"JS, HTML",
         "tool":"",
         "layout":"ENG",
         "rating":4
@@ -401,7 +401,7 @@ var data=[
         "status":"Jamming",
         "lang":"Java",
         "tool":"Minecraft Forge",
-        "layout":"CHN,ENG",
+        "layout":"CHN, ENG",
         "comment":"'Jamming' means is updating slowly.",
         "rating":1
     },
@@ -429,7 +429,7 @@ var data=[
         "category":"GAME",
         "subcategory":"OTHER GAME",
         "status":"Done",
-        "lang":"JS,HTML",
+        "lang":"JS, HTML",
         "tool":"",
         "layout":"ENG",
         "rating":2
@@ -558,7 +558,7 @@ var data=[
         "lang":"C++",
         "tool":"",
         "layout":"UNKNOWN",
-        "comment":"This tool should be worked with Osu"
+        "comment":"This tool should be working with Osu"
     },
 	{
         "name":"Upload and Download System",
@@ -832,20 +832,6 @@ var data=[
         "rating":3,
     },
     {
-        "name":"Piano Test",
-        "link":"",
-        "author":"Zzzyt",
-        "release":"2018-04-23",
-        "coauthor":"",
-        "category":"MUSIC",
-        "subcategory":"PIANO",
-        "status":"Jamming",
-        "lang":"",
-        "tool":"",
-        "layout":"",
-        "rating":3,
-    },
-    {
         "name":"INM Craft",
         "link":"",
         "author":"HDD",
@@ -858,7 +844,7 @@ var data=[
         "tool":"Minecraft Vanilla Server",
         "layout":"English",
         "rating":3,
-        "comment":"Author is the server provider"
+        "comment":"Author is the server provider."
     },
     {
         "name":"INM Craft S2",
@@ -873,14 +859,14 @@ var data=[
         "tool":"Minecraft Fabric Server",
         "layout":"English",
         "rating":2,
-        "comment":"Author is the server provider.The blog has been outdated. The server version is now 1.14.3"
+        "comment":"Author is the server provider. The blog has been outdated. The server version is now 1.14.3"
     },
     {
         "name":"Cookie Craft",
         "link":"http://hellholestudios.icoc.me/nd.jsp?id=6#_np=108_373",
         "author":"HDD292",
         "release":"2019-03-26",
-        "coauthor":"Zzzyt,XGN",
+        "coauthor":"Zzzyt, XGN",
         "category":"MISC",
         "subcategory":"MINECRAFT SERVER",
         "status":"Done",
