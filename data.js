@@ -845,5 +845,34 @@ var data=[
         "layout":"",
         "rating":3,
     },
-    
+    {
+        "name":"INM Craft",
+        "link":"",
+        "author":"HDD",
+        "release":"",
+        "coauthor":"XIZCM,Zzzyt,ZKY,ZHD,XGN,Starcutter",
+        "category":"MISC",
+        "subcategory":"MINECRAFT SERVER",
+        "status":"Stopped",
+        "lang":"",
+        "tool":"Minecraft Vanilla Server",
+        "layout":"English",
+        "rating":3,
+        "comment":"Author is the server provider"
+    },
+    {
+        "name":"INM Craft S2",
+        "link":"https://blog.hellholestudios.club/archives/190",
+        "author":"XIZCM",
+        "release":"2019-06-29",
+        "coauthor":"HDD,Zzzyt,XGN",
+        "category":"MISC",
+        "subcategory":"MINECRAFT SERVER",
+        "status":"Working",
+        "lang":"",
+        "tool":"Minecraft Fabric Server",
+        "layout":"English",
+        "rating":2,
+        "comment":"Author is the server provider.The blog has been outdated. The server version is now 1.14.3"
+    },
 ]

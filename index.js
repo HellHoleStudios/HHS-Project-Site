@@ -113,7 +113,7 @@ function refreshTable(){
 
 			if(tablehead[j][1]=="name"){
 				if(data[i]["comment"]!=null){
-					tmp+="<td>"+data[i][tablehead[j][1]]+"<sup><a id=\"src"+supc+"\" href=\"#com"+supc+"\">["+supc+"]</a></sup></td>";
+					tmp+="<td>"+data[i][tablehead[j][1]]+"<sup><a id=\"src"+supc+"\" href=\"#com"+supc+"\" title=\""+data[i]["comment"]+"\">["+supc+"]</a></sup></td>";
 					supc++;
 				}
 				else{
