@@ -853,7 +853,7 @@ var data=[
         "coauthor":"XIZCM,Zzzyt,ZKY,ZHD,XGN,Starcutter",
         "category":"MISC",
         "subcategory":"MINECRAFT SERVER",
-        "status":"Stopped",
+        "status":"Done",
         "lang":"",
         "tool":"Minecraft Vanilla Server",
         "layout":"English",
@@ -874,5 +874,20 @@ var data=[
         "layout":"English",
         "rating":2,
         "comment":"Author is the server provider.The blog has been outdated. The server version is now 1.14.3"
+    },
+    {
+        "name":"Cookie Craft",
+        "link":"http://hellholestudios.icoc.me/nd.jsp?id=6#_np=108_373",
+        "author":"HDD292",
+        "release":"2019-03-26",
+        "coauthor":"Zzzyt,XGN",
+        "category":"MISC",
+        "subcategory":"MINECRAFT SERVER",
+        "status":"Done",
+        "lang":"",
+        "tool":"Minecraft Vanilla Server",
+        "layout":"English",
+        "rating":2,
+        "comment":"Author is the server provider."
     },
 ]
