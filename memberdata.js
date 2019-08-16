@@ -196,6 +196,20 @@ var member=[
             }
         ]
     },
+    {
+        "name":"guanhuai",
+        "badge":[
+			"related"
+		],
+        "pic":"https://userpic.codeforces.com/323356/title/319a1226511924f6.jpg",
+        "aka":"gh",
+        "contact":[
+            {
+                "link":"https://codeforces.com/profile/guanhuai04",
+                "display":"Codeforces"
+            }
+        ]
+    },
 ]
 
 var badge={
