@@ -842,7 +842,7 @@ var data=[
         "status":"Done",
         "lang":"",
         "tool":"Minecraft Vanilla Server",
-        "layout":"English",
+        "layout":"ENG",
         "rating":3,
         "comment":"Author is the server provider."
     },
@@ -857,7 +857,7 @@ var data=[
         "status":"Working",
         "lang":"",
         "tool":"Minecraft Fabric Server",
-        "layout":"English",
+        "layout":"ENG",
         "rating":2,
         "comment":"Author is the server provider. The blog has been outdated. The server version is now 1.14.3"
     },
@@ -872,8 +872,22 @@ var data=[
         "status":"Done",
         "lang":"",
         "tool":"Minecraft Vanilla Server",
-        "layout":"English",
+        "layout":"ENG",
         "rating":2,
         "comment":"Author is the server provider."
+    },
+    {
+        "name":"至尊纹龙水神器(Auto Type ZJS Machine)",
+        "link":"",
+        "author":"HDD292",
+        "release":"",
+        "coauthor":"Zzzyt",
+        "category":"MISC",
+        "subcategory":"TOOL",
+        "status":"Done",
+        "lang":"E",
+        "tool":"",
+        "layout":"NONE",
+        "rating":2,
     },
 ]
