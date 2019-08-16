@@ -154,6 +154,34 @@ var member=[
             
         ]
     },
+    {
+        "name":"SYR",
+        "badge":[
+			"related"
+		],
+        "pic":"https://userpic.codeforces.com/590414/title/17aff651ea848953.jpg",
+        "aka":"Ling2Feng1,Mackerel Pike",
+        "contact":[
+            {
+                "link":"https://codeforces.com/profile/Mackerel_Pike",
+                "display":"Codeforces"
+            }
+        ]
+    },
+    {
+        "name":"Denverjin",
+        "badge":[
+			"related"
+		],
+        "pic":"https://userpic.codeforces.com/282281/title/c8232938f829a097.jpg",
+        "aka":"KillerX,jt,today",
+        "contact":[
+            {
+                "link":"https://codeforces.com/profile/Denverjin",
+                "display":"Codeforces"
+            }
+        ]
+    },
 ]
 
 var badge={
