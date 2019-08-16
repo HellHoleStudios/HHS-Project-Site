@@ -182,6 +182,20 @@ var member=[
             }
         ]
     },
+    {
+        "name":"Starcutter",
+        "badge":[
+			"related"
+		],
+        "pic":"",
+        "aka":"gwb,XGN's younger brother",
+        "contact":[
+            {
+                "link":"https://codeforces.com/profile/Starcutter",
+                "display":"Codeforces"
+            }
+        ]
+    },
 ]
 
 var badge={
