@@ -647,7 +647,7 @@ var data=[
         "name":"YP vs ZJS",
         "link":"",
         "author":"XIZCM",
-        "release":"",
+        "release":"2018-03-4",
         "coauthor":"",
         "category":"GAME",
         "subcategory":"OTHER GAME",
@@ -655,6 +655,7 @@ var data=[
         "tool":"Game.py",
         "layout":"NONE",
         "lang":"Py3",
+        "comment":"The game's name is actually called ZJS vs YP. But to avoid confusion, the name is changed"
     },
     {
         "name":"花泽香菜：救火(At the fire scene:putting out)",
