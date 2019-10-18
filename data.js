@@ -7,7 +7,7 @@ var data=[
         "coauthor":"Zzzyt, XIZCM",
         "category":"OI",
         "subcategory":"OI SOFTWARE",
-        "status":"Working",
+        "status":"Jamming",
         "lang":"Java, C++, etc.",
         "tool":"Tomcat",
         "layout":"ENG",
@@ -991,5 +991,19 @@ var data=[
         "layout":"NONE",
         "rating":2,
         "comment":"Often used as a web JS-testing project"
+    },
+    {
+        "name":"Honor Cup 2 Shared",
+        "link":"https://github.com/XiaoGeNintendo/huawei-honorcup-2-shared",
+        "author":"XGN",
+        "release":"2019-10-01",
+        "coauthor":"Zzzyt,XIZCM,Monkey King",
+        "category":"OI",
+        "subcategory":"OI SOLUTION SET",
+        "status":"Done",
+        "lang":"Java, C++, Python, CMD",
+        "tool":"",
+        "layout":"ENG",
+        "rating":3,
     },
 ]
