@@ -2,59 +2,45 @@ var data=[
     {
         "name":"HHSOJ Web Edition",
         "link":"https://github.com/XiaoGeNintendo/HHSOJ-Web-Edition",
-        "author":"XGN",
+        "author":["XGN"],
         "release":"2018-09-12",
-        "coauthor":"Zzzyt, XIZCM",
-        "category":"OI",
-        "subcategory":"OI SOFTWARE",
-        "status":"Jamming",
-        "lang":"Java, C++, etc.",
-        "tool":"Tomcat",
-        "layout":"ENG",
+        "coauthor":["Zzzyt","XIZCM"],
+        "tag":["OI","Website","Java","C++","py3","Shell","Tomcat","ENG","Jamming"],
         "rating":4
     },
     {
         "name":"THHHS",
         "link":"http://blog.hellholestudios.club/post/2019/05/25/%E6%9D%B1%E6%96%B9%E5%9C%B0%E7%8D%84%E6%B4%9E%E6%96%87%E6%A1%A3touhou-shining-heroes-in-deep-dark-hole/",
-        "author":"XGN",
+        "author":["XGN"],
         "release":"2019-05-25",
-        "coauthor":"Zzzyt, WZZ",
-        "category":"GAME",
-        "subcategory":"STG GAME",
-        "status":"Working",
-        "lang":"Lua",
-        "tool":"LuaStg+",
-        "layout":"ENG",
+        "coauthor":["Zzzyt", "WZZ"],
+        "tag":["Game","Stg","Lua","LuaStg+","ENG","Working"],
         "rating":2
     },
     {
         "name":"Rocket Simulator",
         "link":"https://github.com/Zzzzzzyt/RocketSimulator",
-        "author":"Zzzyt",
+        "author":["Zzzyt"],
         "release":"2019-06-13",
-        "coauthor":"",
-        "category":"GAME",
-        "subcategory":"SIM GAME",
-        "status":"Working",
-        "lang":"Java",
-        "tool":"LibGdx",
-        "layout":"ENG",
+        "coauthor":[],
+        "tag":["Game","Sim","Java","LibGdx","ENG","Working"],
         "rating":2
     },
     {
         "name":"Test STG2",
         "link":"https://github.com/XiaoGeNintendo/-LibGdx-Test-STG2",
-        "author":"XGN",
+        "author":["XGN"],
         "release":"2019-07-01",
         "coauthor":"",
-        "category":"GAME",
-        "subcategory":"STG GAME",
-        "status":"Working",
-        "lang":"Java",
-        "tool":"LibGdx",
-        "layout":"ENG",
+        "tag":["Game","Stg","Java","LibGdx","ENG","Working"],
         "rating":1
     },
+    
+]
+
+var old_data=[
+    
+    
     {
         "name":"Codeforces Submission Reviewer",
         "link":"https://github.com/XiaoGeNintendo/Codeforces-Submission-Reviewer",

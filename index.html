@@ -1,13 +1,12 @@
 <html>
     <head>
-        <link rel="stylesheet" href="https://cdn.staticfile.org/twitter-bootstrap/4.1.0/css/bootstrap.min.css">
-		
-        <script src="https://cdn.bootcss.com/jquery/2.2.4/jquery.min.js"></script>
-        <script src="https://cdn.staticfile.org/twitter-bootstrap/4.1.0/js/bootstrap.min.js"></script>
-        <script src="https://cdn.staticfile.org/jquery/2.2.4/jquery.min.js"></script>
-		
+        <link rel="stylesheet" href="https://cdn.staticfile.org/twitter-bootstrap/4.3.1/css/bootstrap.min.css">
+        <script src="https://cdn.staticfile.org/jquery/3.2.1/jquery.min.js"></script>
+        <script src="https://cdn.staticfile.org/popper.js/1.15.0/umd/popper.min.js"></script>
+        <script src="https://cdn.staticfile.org/twitter-bootstrap/4.3.1/js/bootstrap.min.js"></script>
         <link rel="stylesheet" href="https://cdn.staticfile.org/font-awesome/4.7.0/css/font-awesome.min.css">
-		
+        
+        <script src="badge.js"></script>
         <script src="data.js"></script>
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
         <script src="index.js"></script>
@@ -40,6 +39,14 @@
         <div id="comments">
         </div>
         <hr/>
+                
+        <span class="badge badge-primary">Member</span>
+        <span class="badge badge-secondary">Status</span>
+        <span class="badge badge-success">Programming Language</span>
+        <span class="badge badge-danger">Layout Language</span>
+        <span class="badge badge-warning">Category</span>
+        <span class="badge badge-info">Tools Used</span>
+        <hr/>
         
         <b>Popularity System</b> <br/>
         0=No one uses <br/>
@@ -51,6 +58,6 @@
     </body>
 
     <script>
-		Msort("name");
+        Msort("name");
     </script>
 </html>

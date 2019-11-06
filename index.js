@@ -24,15 +24,10 @@ Rating System
 */
 var tablehead=[
     ["Name","name",true],
-    ["Category","category",true],
-    ["Sub Category","subcategory",true],
     ["Author","author",true],
     ["Coauthor","coauthor",true],
     ["Release Date","release",true],
-    ["Language","lang",false],
-    ["UsedTool","tool",false],
-    ["SoftwareLang","layout",false],
-    ["Status","status",false],
+    ["Tag","tag",true],
     ["Link","link",true],
     ["Hot","rating",true]
 ]
@@ -82,6 +77,20 @@ function Msort(by){
     refreshTable();
 }
 
+function toBadgeString(name){
+    var str=""
+    for(var i=0;i<badges.length;i++){
+        if(badges[i]["name"]==name){
+            //that's one
+            str+='<span data-toggle="tooltip" title="'+badges[i]["tooltip"]+'" class="badge '+badges[i]["kind"]+'">'+badges[i]["display"]+'</span>';
+
+            return str;
+        }
+    }
+
+    return name;
+}
+
 function refreshTable(){
     var node=document.getElementById("table");
     
@@ -107,10 +116,6 @@ function refreshTable(){
     for(var i=0;i<data.length;i++){
         tmp+="<tr>";
         for(var j=0;j<tablehead.length;j++){
-            if(importantOnly && !tablehead[j][2]){
-                continue;
-            }
-
 			if(tablehead[j][1]=="name"){
 				if(data[i]["comment"]!=null){
 					tmp+="<td>"+data[i][tablehead[j][1]]+"<sup><a id=\"src"+supc+"\" href=\"#com"+supc+"\" title=\""+data[i]["comment"]+"\">["+supc+"]</a></sup></td>";
@@ -119,8 +124,7 @@ function refreshTable(){
 				else{
 					tmp+="<td>"+data[i][tablehead[j][1]]+"</td>";
 				}
-			}
-            else if(tablehead[j][1]=="link"){
+			}else if(tablehead[j][1]=="link"){
                 if(data[i][tablehead[j][1]].includes("github.com")){
                     tmp+="<td class=\"text-center\"><a target=\"_blank\" title=\"Link to the Github Page\" href=\""+data[i][tablehead[j][1]]+"\"><i class=\"fa fa-github\"></i></a></td>";
                 }
@@ -133,16 +137,26 @@ function refreshTable(){
 				else{
                     tmp+="<td class=\"text-center\"><a target=\"_blank\"  title=\"Link to the Resources\" href=\""+data[i][tablehead[j][1]]+"\"><i class=\"fa fa-external-link\"></i></a></td>";
                 }				
-            }
-			else if(tablehead[j][1]=="rating"){
+            }else if(tablehead[j][1]=="rating"){
                 if(data[i][tablehead[j][1]]==undefined){
                     data[i][tablehead[j][1]]=0;
                 }
                 var dat=data[i][tablehead[j][1]];
                 tmp+="<td class=\"text-center\"> <i title=\"Popularity:"+dat+"\" class=\"fa fa-thermometer-"+dat+"\"></i>"+dat+"</td>"
-                
-            }else{
+            }else if(tablehead[j][1]=="release"){
+                //release date just normal
                 tmp+="<td>"+data[i][tablehead[j][1]]+"</td>";
+            }else{
+                //badge showing
+                tmp+="<td>"
+                console.log(data[i]);
+
+                for(var k=0;k<data[i][tablehead[j][1]].length;k++){
+                    // console.log(data[i][tablehead[j][1]][k]+" "+toBadgeString(data[i][tablehead[j][1]][k]))
+
+                    tmp+=toBadgeString(data[i][tablehead[j][1]][k])+" "
+                }
+                tmp+="</td>"
             }
             
         }
@@ -161,7 +175,10 @@ function refreshTable(){
 
     node.innerHTML=tmp;
 	document.getElementById("comments").innerHTML=comtmp;
-
+    $(function(){
+        $('[data-toggle="tooltip"]').tooltip();
+    })
+    console.log("Tooltip reloaded")
 }
 
 
