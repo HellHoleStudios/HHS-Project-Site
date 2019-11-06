@@ -69,6 +69,18 @@ var badges=[
         "tooltip":"Simulation Game",
         "display":"SIM"
     },
+    {
+        "name":"Tool",
+        "kind":category,
+        "tooltip":"An application to help you do sth",
+        "display":"Tool"
+    },
+    {
+        "name":"Spider",
+        "kind":category,
+        "tooltip":"An application to fetch Internet resources",
+        "display":"Spider"
+    },
 
     //programming language
     {
@@ -101,6 +113,18 @@ var badges=[
         "tooltip":"The Lua programming language",
         "display":"Lua"
     },
+    {
+        "name":"JS",
+        "kind":lang,
+        "tooltip":"The Javascript programming language",
+        "display":"Javascript"
+    },
+    {
+        "name":"HTML",
+        "kind":lang,
+        "tooltip":"The HTML programming language",
+        "display":"HTML"
+    },
 
     //tools
     {
@@ -129,6 +153,20 @@ var badges=[
         "tooltip":"User Interface is in English",
         "display":"English"
     },
+    {
+        "name":"JPN",
+        "kind":layout,
+        "tooltip":"User Interface is in Japanese",
+        "display":"Japanese"
+    },
+    {
+        "name":"CHN",
+        "kind":layout,
+        "tooltip":"User Interface is in Chinese",
+        "display":"Chinese"
+    },
+
+
 
     //status
     {

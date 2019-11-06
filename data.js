@@ -35,40 +35,30 @@ var data=[
         "tag":["Game","Stg","Java","LibGdx","ENG","Working"],
         "rating":1
     },
-    
-]
-
-var old_data=[
-    
-    
     {
         "name":"Codeforces Submission Reviewer",
         "link":"https://github.com/XiaoGeNintendo/Codeforces-Submission-Reviewer",
-        "author":"XGN",
+        "author":["XGN"],
         "release":"2018-12-31",
         "coauthor":"",
-        "category":"OI",
-        "subcategory":"OI TOOL",
-        "status":"Done",
-        "lang":"JS, HTML",
-        "tool":"",
-        "layout":"ENG, JPN",
+        "tag":["OI","Tool","Website","JS","HTML","ENG","JPN","Done"],
         "rating":2
     },
     {
         "name":"Touhou Music Fetcher",
         "link":"https://github.com/XiaoGeNintendo/TouhouMusicFetcher",
-        "author":"XGN",
+        "author":["XGN"],
         "release":"2019-06-20",
         "coauthor":"",
-        "category":"MISC",
-        "subcategory":"TOOL",
-        "status":"Done",
-        "lang":"Java",
-        "tool":"",
-        "layout":"ENG",
+        "tag":["Tool","Spider","Java","ENG","Done"],
         "rating":1
     },
+]
+
+var old_data=[
+    
+    
+    
     {
         "name":"Codeforces Data Copier",
         "link":"https://github.com/XiaoGeNintendo/CodeforcesDataCopier",

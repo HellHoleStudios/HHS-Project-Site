@@ -149,10 +149,9 @@ function refreshTable(){
             }else{
                 //badge showing
                 tmp+="<td>"
-                console.log(data[i]);
+                
 
                 for(var k=0;k<data[i][tablehead[j][1]].length;k++){
-                    // console.log(data[i][tablehead[j][1]][k]+" "+toBadgeString(data[i][tablehead[j][1]][k]))
 
                     tmp+=toBadgeString(data[i][tablehead[j][1]][k])+" "
                 }
@@ -178,7 +177,7 @@ function refreshTable(){
     $(function(){
         $('[data-toggle="tooltip"]').tooltip();
     })
-    console.log("Tooltip reloaded")
+    
 }
 
 
