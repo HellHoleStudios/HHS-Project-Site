@@ -105,26 +105,60 @@ function toBadgeString(name){
     return str;
 }
 
-function filterCheck(tag){
+function FilterSearch(item,id,filter){
+    
+    var tag=item[id];
+
+    for(var j=0;j<tag.length;j++){
+        if(tag[j]==''){
+            continue;
+        }
+        if(badges[tag[j]]==undefined || badges[tag[j]]["display"].toLowerCase().includes(filter)){
+            return true;
+        }
+    }
+
+    return false;
+}
+
+function FilterCheck(item,filter){
+    
+    if(item["name"].toLowerCase().includes(filter)){
+        return true;
+    }
+    if(item["release"].toLowerCase().includes(filter)){
+        return true;
+    }
+
+    // console.log(item)
+    if(FilterSearch(item,"tag",filter)){
+        return true;
+    }
+
+    // console.log("tag ")
+    if(FilterSearch(item,"author",filter)){
+        return true;
+    }
+    
+    // console.log("author ")
+    if(FilterSearch(item,"coauthor",filter)){
+        return true;
+    }
+    // console.log("coauthor ")
+    return false;
+
+}
+function filterCheck(item){
     
     var filter=document.getElementById("filter").value;
     var incList=filter.split(",")
     // console.log(tag+" by "+incList);
     for(var i=0;i<incList.length;i++){
-        var found=false;
-        for(var j=0;j<tag.length;j++){
-            
-            if(badges[tag[j]]==undefined || badges[tag[j]]["display"].toLowerCase().includes(incList[i].trim().toLowerCase())){
-                found=true;
-                break;
-            }
-        }
-
-        
-        if(!found){
-            // console.log("Return false:"+incList[i])
+        var trimmed=incList[i].toLowerCase().trim();
+        if(!FilterCheck(item,trimmed)){
             return false;
         }
+        
     }
     return true;
 }
@@ -153,7 +187,7 @@ function refreshTable(){
     //start rendering data
     for(var i=0;i<data.length;i++){
 
-        if(!filterCheck(data[i]["tag"])){
+        if(!filterCheck(data[i])){
             continue;
         }
 
