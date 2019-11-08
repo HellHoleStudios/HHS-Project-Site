@@ -109,7 +109,7 @@ function filterCheck(tag){
     
     var filter=document.getElementById("filter").value;
     var incList=filter.split(",")
-    console.log(tag+" by "+incList);
+    // console.log(tag+" by "+incList);
     for(var i=0;i<incList.length;i++){
         var found=false;
         for(var j=0;j<tag.length;j++){

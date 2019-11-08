@@ -1069,18 +1069,18 @@ var data=[
     }
 ]
 
-function transfer(obj){
-    // console.log(obj)
-    var str=""
-    for(var i=0;i<old_data.length;i++){
-        var obj=old_data[i]
+// function transfer(obj){
+//     // console.log(obj)
+//     var str=""
+//     for(var i=0;i<old_data.length;i++){
+//         var obj=old_data[i]
         
-        obj.author=obj.author.split(",")
-        obj.coauthor=obj.coauthor.split(",")
-        obj.tag=[obj.category,obj.subcategory,obj.lang,obj.tool,obj.layout,obj.status]
-        obj.category=obj.subcategory=obj.lang=obj.tool=obj.layout=obj.status=undefined
-        str+=JSON.stringify(obj)+","
-    }
+//         obj.author=obj.author.split(",")
+//         obj.coauthor=obj.coauthor.split(",")
+//         obj.tag=[obj.category,obj.subcategory,obj.lang,obj.tool,obj.layout,obj.status]
+//         obj.category=obj.subcategory=obj.lang=obj.tool=obj.layout=obj.status=undefined
+//         str+=JSON.stringify(obj)+","
+//     }
 
-    return str
-}
+//     return str
+// }
