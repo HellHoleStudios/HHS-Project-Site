@@ -42,6 +42,26 @@ var badges={
         "tooltip":"An OIer related to HHS",
         "display":"SYR"
     },
+    "guanhuai":{
+        "kind":member,
+        "tooltip":"An OIer related to HHS",
+        "display":"GH"
+    },
+    "ZHD":{
+        "kind":member,
+        "tooltip":"A member of HHS",
+        "display":"ZHD"
+    },
+    "ZKY":{
+        "kind":member,
+        "tooltip":"A member of HHS",
+        "display":"ZKY"
+    },
+    "Starcutter":{
+        "kind":member,
+        "tooltip":"XGN's brother",
+        "display":"Starcutter"
+    },
 
     //category
     "OI":{
@@ -133,6 +153,26 @@ var badges={
         "tooltip":"A Mod for Minecraft",
         "display":"Minecraft Mod"
     },
+    "Clicking":{
+        "kind":category,
+        "tooltip":"Clicking Games",
+        "display":"Cli"
+    },
+    "Mus":{
+        "kind":category,
+        "tooltip":"Music Games",
+        "display":"Mus"
+    },
+    "MCServer":{
+        "kind":category,
+        "tooltip":"Minecraft Servers",
+        "display":"MC Server"
+    },
+    "Video":{
+        "kind":category,
+        "tooltip":"Videos",
+        "display":"Video"
+    },
 
     //programming language
     "Java":{
@@ -197,6 +237,16 @@ var badges={
         "tooltip":"The Markup language",
         "display":"Markup"
     },
+    "E":{
+        "kind":lang,
+        "tooltip":"易语言(The programming language E)",
+        "display":"E"
+    },
+    "VB":{
+        "kind":lang,
+        "tooltip":"The Visual Basic programming language",
+        "display":"VB"
+    },
 
 
     //tools
@@ -248,6 +298,61 @@ var badges={
         "tooltip":"The Minecraft Forge Modloader",
         "display":"Minecraft Forge"
     },
+    "CYF":{
+        "kind":tool,
+        "tooltip":"Create Your Frisk: a program to make Undertale-like games",
+        "display":"CYF"
+    },
+    "Unitale":{
+        "kind":tool,
+        "tooltip":"A program to make Undertale-like games",
+        "display":"Unitale"
+    },
+    "Hackerrank":{
+        "kind":tool,
+        "tooltip":"Hackerrank Problemsetting System",
+        "display":"Hackerrank"
+    },
+    "Codeforces":{
+        "kind":tool,
+        "tooltip":"Codeforces and Polygon Problemsetting System",
+        "display":"Polygon"
+    },
+    "Luogu":{
+        "kind":tool,
+        "tooltip":"Luogu Problemsetting System",
+        "display":"Luogu"
+    },
+    "CocosCreator":{
+        "kind":tool,
+        "tooltip":"The Cocos Engine",
+        "display":"Cocos Creator"
+    },
+    "jMonkeyEngine":{
+        "kind":tool,
+        "tooltip":"The jMonkeyEngine Java Library",
+        "display":"jME"
+    },
+    "Scratch":{
+        "kind":tool,
+        "tooltip":"The Scratch Software 1.4",
+        "display":"Scratch"
+    },
+    "Gamepy":{
+        "kind":tool,
+        "tooltip":"The Game.py library",
+        "display":"Game.py"
+    },
+    "Kdenlive":{
+        "kind":tool,
+        "tooltip":"A video making software",
+        "display":"Kdenlive"
+    },
+    "Mineanimator":{
+        "kind":tool,
+        "tooltip":"A video making software to make Minecraft animations",
+        "display":"Mineanimator"
+    },
     
 
     //layout lang
@@ -274,6 +379,11 @@ var badges={
         "kind":layout,
         "tooltip":"The program has no language displayed",
         "display":"None"
+    },
+    "UNKNOWN":{
+        "kind":layout,
+        "tooltip":"The program's language is unknown",
+        "display":"Unknown"
     },
 
 

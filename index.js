@@ -113,7 +113,8 @@ function filterCheck(tag){
     for(var i=0;i<incList.length;i++){
         var found=false;
         for(var j=0;j<tag.length;j++){
-            if(badges[tag[j]]["display"].toLowerCase().includes(incList[i].trim().toLowerCase())){
+            
+            if(badges[tag[j]]==undefined || badges[tag[j]]["display"].toLowerCase().includes(incList[i].trim().toLowerCase())){
                 found=true;
                 break;
             }
