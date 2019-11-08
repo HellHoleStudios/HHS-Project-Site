@@ -1,5 +1,5 @@
 
-var template={
+var dec_template={
     "name":"",
     "link":"",
     "author":"",
@@ -14,6 +14,17 @@ var template={
     "comment":"", //optional
     "rating":0, //optional,0-4,default is 0. 
 }
+
+var template={
+    "name":"",
+    "link":"",
+    "author":[],
+    "release":"",
+    "coauthor":[],
+    "tag":[],
+    "rating":0
+}
+
 /*
 Rating System
 0=no one uses
@@ -91,6 +102,29 @@ function toBadgeString(name){
     return name;
 }
 
+function filterCheck(tag){
+    
+    var filter=document.getElementById("filter").value;
+    var incList=filter.split(",")
+    // console.log(tag+" by "+incList);
+    for(var i=0;i<incList.length;i++){
+        var found=false;
+        for(var j=0;j<tag.length;j++){
+            if(tag[j].toLowerCase().includes(incList[i].trim().toLowerCase())){
+                found=true;
+                break;
+            }
+        }
+
+        
+        if(!found){
+            // console.log("Return false:"+incList[i])
+            return false;
+        }
+    }
+    return true;
+}
+
 function refreshTable(){
     var node=document.getElementById("table");
     
@@ -114,6 +148,11 @@ function refreshTable(){
 
     //start rendering data
     for(var i=0;i<data.length;i++){
+
+        if(!filterCheck(data[i]["tag"])){
+            continue;
+        }
+
         tmp+="<tr>";
         for(var j=0;j<tablehead.length;j++){
 			if(tablehead[j][1]=="name"){
