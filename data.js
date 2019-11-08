@@ -195,115 +195,74 @@ var data=[
         "tag":["Literature","OI","Markup","CHN","ENG","Working"],
         "rating":4
     },
-]
-
-var old_data=[
-   
-    
-    
-   
-    
-    
     {
         "name":"The Story of Tengfei",
         "link":"https://blog.hellholestudios.club/post/category/%E8%BF%9E%E8%BD%BD%E5%86%85%E5%AE%B9/",
-        "author":"XGN",
+        "author":["XGN"],
         "release":"2019-04-10",
-        "coauthor":"",
-        "category":"LITERATURE",
-        "subcategory":"OTHER LITERATURE",
-        "status":"Deserted",
-        "lang":"Markup",
-        "tool":"",
-        "layout":"CHN",
+        "coauthor":[""],
+        "tag":["Literature","Markup","CHN","Deserted"],
         "rating":2
     },
     {
         "name":"Sound Guess Game",
         "link":"https://github.com/XiaoGeNintendo/SoundGuessGame",
-        "author":"XGN",
+        "author":["XGN"],
         "release":"2019-02-13",
-        "coauthor":"Zzzyt",
-        "category":"GAME",
-        "subcategory":"OTHER GAME",
-        "status":"Done",
-        "lang":"Java",
-        "tool":"Swing",
-        "layout":"ENG",
+        "coauthor":["Zzzyt"],
+        "tag":["Game","Java","Swing","ENG","Done"],
         "rating":2
     },
     {
         "name":"Sound Guess Game Pokemon Mod",
         "link":"https://github.com/XiaoGeNintendo/SoundGuessGamePokemonMod",
-        "author":"XGN",
+        "author":["XGN"],
         "release":"2019-02-13",
-        "coauthor":"",
-        "category":"GAME",
-        "subcategory":"OTHER GAME",
-        "status":"Done",
-        "lang":"Java",
-        "tool":"Swing",
-        "layout":"CHN, ENG, JPN",
+        "coauthor":[""],
+        "tag":["Mod","Java","Swing","CHN","ENG","JPN","Done"],
         "rating":1
     },
     {
         "name":"Sound Guess Game HHS Mod",
         "link":"",
-        "author":"Zzzyt",
+        "author":["Zzzyt"],
         "release":"2019-02-16",
-        "coauthor":"",
-        "category":"GAME",
-        "subcategory":"OTHER GAME",
-        "status":"Done",
-        "lang":"Java",
-        "tool":"Swing",
-        "layout":"CHN, ENG",
-        "comment":"Can't upload because of privacy issues.",
+        "coauthor":[""],
+        "tag":["Mod","Java","Swing","CHN","ENG","Done"],
         "rating":2
     },
     {
         "name":"LibLrc",
         "link":"https://github.com/XiaoGeNintendo/LibLrc",
-        "author":"XGN",
+        "author":["XGN"],
         "release":"2019-02-09",
-        "coauthor":"",
-        "category":"DEVELOP",
-        "subcategory":"JAVA LIBRARY",
-        "status":"Done",
-        "lang":"Java",
-        "tool":"",
-        "layout":"NONE",
+        "coauthor":[""],
+        "tag":["Library","Java","NONE","Done"],
         "rating":0
     },
     {
         "name":"HHS Project Site",
         "link":"https://github.com/HellHoleStudios/HHS-Project-Site",
-        "author":"XGN",
+        "author":["XGN"],
         "release":"2019-07-22",
-        "coauthor":"",
-        "category":"MISC",
-        "subcategory":"HHS HOME",
-        "status":"Working",
-        "lang":"JS, HTML",
-        "tool":"",
-        "layout":"ENG",
+        "coauthor":["Zzzyt","XIZCM"],
+        "tag":["Website","JS","HTML","ENG","Working"],
         "rating":4
     },
-	{
+    {
         "name":"Addon Tools",
         "link":"https://github.com/XiaoGeNintendo/addon-tools",
-        "author":"XGN",
+        "author":["XGN"],
         "release":"2017-12-25",
-        "coauthor":"",
-        "category":"MOD",
-        "subcategory":"MINECRAFT MOD",
-        "status":"Jamming",
-        "lang":"Java",
-        "tool":"Minecraft Forge",
-        "layout":"CHN, ENG",
-        "comment":"'Jamming' means is updating slowly.",
+        "coauthor":[""],
+        "tag":["Mod","MinecraftMod","Java","Forge","CHN","ENG","Jamming"],
         "rating":1
     },
+]
+
+var old_data=[
+    
+	
 	{
         "name":"NFLS Solution Getter",
         "link":"https://github.com/XiaoGeNintendo/NFLSOJ-Solution-Getter",

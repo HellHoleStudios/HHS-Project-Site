@@ -35,12 +35,12 @@ var badges={
     "MK":{
         "kind":member,
         "tooltip":"An OIer related to HHS",
-        "display":"Monkey King"
+        "display":"JGH"
     },
     "SYR":{
         "kind":member,
         "tooltip":"An OIer related to HHS",
-        "display":"Mackerel Pike"
+        "display":"SYR"
     },
 
     //category
@@ -127,6 +127,11 @@ var badges={
         "kind":category,
         "tooltip":"Paper work",
         "display":"Literature"
+    },
+    "MinecraftMod":{
+        "kind":category,
+        "tooltip":"A Mod for Minecraft",
+        "display":"Minecraft Mod"
     },
 
     //programming language
@@ -232,6 +237,16 @@ var badges={
         "kind":tool,
         "tooltip":"The JS API wrapper to make Discord bots",
         "display":"Discord.js"
+    },
+    "Swing":{
+        "kind":tool,
+        "tooltip":"The javax.swing.* package",
+        "display":"Swing"
+    },
+    "Forge":{
+        "kind":tool,
+        "tooltip":"The Minecraft Forge Modloader",
+        "display":"Minecraft Forge"
     },
     
 
