@@ -90,27 +90,30 @@ function Msort(by){
 
 function toBadgeString(name){
     var str=""
-    for(var i=0;i<badges.length;i++){
-        if(badges[i]["name"]==name){
-            //that's one
-            str+='<span data-toggle="tooltip" title="'+badges[i]["tooltip"]+'" class="badge '+badges[i]["kind"]+'">'+badges[i]["display"]+'</span>';
-
-            return str;
-        }
+    
+    if(name.trim()==""){
+        return "";
     }
 
-    return name;
+    if(badges[name]==undefined){
+        console.log("Error:"+name);
+        return name;
+    }
+
+    str+='<span data-toggle="tooltip" title="'+badges[name]["tooltip"]+'" class="badge '+badges[name]["kind"]+'">'+badges[name]["display"]+'</span>';
+
+    return str;
 }
 
 function filterCheck(tag){
     
     var filter=document.getElementById("filter").value;
     var incList=filter.split(",")
-    // console.log(tag+" by "+incList);
+    console.log(tag+" by "+incList);
     for(var i=0;i<incList.length;i++){
         var found=false;
         for(var j=0;j<tag.length;j++){
-            if(tag[j].toLowerCase().includes(incList[i].trim().toLowerCase())){
+            if(badges[tag[j]]["display"].toLowerCase().includes(incList[i].trim().toLowerCase())){
                 found=true;
                 break;
             }

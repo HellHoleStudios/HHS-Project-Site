@@ -53,68 +53,55 @@ var data=[
         "tag":["Tool","Spider","Java","ENG","Done"],
         "rating":1
     },
-]
-
-var old_data=[
-    
-    
-    
     {
         "name":"Codeforces Data Copier",
         "link":"https://github.com/XiaoGeNintendo/CodeforcesDataCopier",
-        "author":"XGN",
+        "author":["XGN"],
         "release":"2019-06-08",
-        "coauthor":"",
-        "category":"OI",
-        "subcategory":"OI TOOL",
-        "status":"Done",
-        "lang":"Py3",
-        "tool":"",
-        "layout":"ENG",
+        "coauthor":[""],
+        "tag":["OI","Tool","py3","ENG","Done"],
         "rating":1
     },
     {
         "name":"Pokemon Gif Fetcher",
         "link":"https://github.com/XiaoGeNintendo/PokemonGifFetcher",
-        "author":"XGN",
+        "author":["XGN"],
         "release":"2019-06-08",
-        "coauthor":"",
-        "category":"MISC",
-        "subcategory":"TOOL",
-        "status":"Done",
-        "lang":"Py3",
-        "tool":"",
-        "layout":"ENG",
+        "coauthor":[],
+        "tag":["Tool","py3","ENG","Done"],
         "rating":1
     },
     {
         "name":"Lua STG Fix",
         "link":"https://github.com/XiaoGeNintendo/LuaStgPlusFix",
-        "author":"XGN",
+        "author":["XGN"],
         "release":"2019-06-07",
-        "coauthor":"",
-        "category":"MOD",
-        "subcategory":"SOFTWARE MOD",
-        "status":"Done",
-        "lang":"Lua",
-        "tool":"LuaStg+",
-        "layout":"NONE",
+        "coauthor":[""],
+        "tag":["Mod","Library","Lua","LuaStg+","NONE","Done"],
         "rating":0
     },
     {
         "name":"CPP Confusor",
         "link":"https://github.com/XiaoGeNintendo/cpp-confusor",
-        "author":"XGN",
+        "author":["XGN"],
         "release":"2019-04-15",
-        "coauthor":"",
-        "category":"OI",
-        "subcategory":"OI TOOL",
-        "status":"Done",
-        "lang":"C++",
-        "tool":"",
-        "layout":"CHN, ENG",
+        "coauthor":[""],
+        "tag":["OI","Tool","C++","CHN","ENG","Done"],
         "rating":2
     },
+    {
+        "name":"Universe Model",
+        "link":"https://github.com/Zzzzzzyt/UniverseModel",
+        "author":["Zzzyt"],
+        "release":"2019-05-08",
+        "coauthor":[""],
+        "tag":["Sim","Java","LibGdx","NONE","Done"],
+        "rating":0
+    },
+]
+
+var old_data=[
+   
     {
         "name":"Universe Model",
         "link":"https://github.com/Zzzzzzyt/UniverseModel",
