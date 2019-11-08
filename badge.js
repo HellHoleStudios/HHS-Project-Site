@@ -32,6 +32,16 @@ var badges={
         "tooltip":"Music maker of HHS",
         "display":"Prince"
     },
+    "MK":{
+        "kind":member,
+        "tooltip":"An OIer related to HHS",
+        "display":"Monkey King"
+    },
+    "SYR":{
+        "kind":member,
+        "tooltip":"An OIer related to HHS",
+        "display":"Mackerel Pike"
+    },
 
     //category
     "OI":{
@@ -88,6 +98,36 @@ var badges={
         "tooltip":"A software for other developers to use",
         "display":"Library"
     },
+    "RPG":{
+        "kind":category,
+        "tooltip":"Role-playing game",
+        "display":"RPG"
+    },
+    "Adv":{
+        "kind":category,
+        "tooltip":"Adventure Game",
+        "display":"ADV"
+    },
+    "Bot":{
+        "kind":category,
+        "tooltip":"A robot to automate sth",
+        "display":"Bot"
+    },
+    "Telegram":{
+        "kind":category,
+        "tooltip":"The program is made for Telegram",
+        "display":"Telegram"
+    },
+    "Discord":{
+        "kind":category,
+        "tooltip":"The program is made for Discord",
+        "display":"Discord"
+    },
+    "Literature":{
+        "kind":category,
+        "tooltip":"Paper work",
+        "display":"Literature"
+    },
 
     //programming language
     "Java":{
@@ -132,6 +172,27 @@ var badges={
         "tooltip":"The HTML programming language",
         "display":"HTML"
     },
+    "GML":{
+        "kind":lang,
+        "tooltip":"The Game Maker Language",
+        "display":"GML"
+    },
+    "Ruby":{
+        "kind":lang,
+        "tooltip":"The Ruby programming language",
+        "display":"Ruby"
+    },
+    "Nodejs":{
+        "kind":lang,
+        "tooltip":"The Node.js programming language",
+        "display":"Node.js"
+    },
+    "Markup":{
+        "kind":lang,
+        "tooltip":"The Markup language",
+        "display":"Markup"
+    },
+
 
     //tools
     "Tomcat":{
@@ -152,6 +213,27 @@ var badges={
         "tooltip":"A Java framework to make games",
         "display":"LibGdx"
     },
+    "GameMakerStudio":{
+        "kind":tool,
+        "tooltip":"Game Maker Studios by YoyoGames",
+        "display":"Game Maker Studios"
+    },
+    "RPGMaker":{
+        "kind":tool,
+        "tooltip":"RPG Maker XP",
+        "display":"RPG Maker XP"
+    },
+    "TelegramAPI":{
+        "kind":tool,
+        "tooltip":"The API to make Telegram bots",
+        "display":"Telegram API"
+    },
+    "Discordjs":{
+        "kind":tool,
+        "tooltip":"The JS API wrapper to make Discord bots",
+        "display":"Discord.js"
+    },
+    
 
     //layout lang
     "ENG":{
