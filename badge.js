@@ -156,12 +156,12 @@ var badges={
     "Clicking":{
         "kind":category,
         "tooltip":"Clicking Games",
-        "display":"Cli"
+        "display":"CLI"
     },
     "Mus":{
         "kind":category,
         "tooltip":"Music Games",
-        "display":"Mus"
+        "display":"MUS"
     },
     "MCServer":{
         "kind":category,
