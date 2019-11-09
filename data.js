@@ -10,7 +10,7 @@ var data=[
     },
     {
         "name":"THHHS",
-        "link":"http://blog.hellholestudios.club/post/2019/05/25/%E6%9D%B1%E6%96%B9%E5%9C%B0%E7%8D%84%E6%B4%9E%E6%96%87%E6%A1%A3touhou-shining-heroes-in-deep-dark-hole/",
+        "link":"http://blog.hellholestudios.top/post/2019/05/25/%E6%9D%B1%E6%96%B9%E5%9C%B0%E7%8D%84%E6%B4%9E%E6%96%87%E6%A1%A3touhou-shining-heroes-in-deep-dark-hole/",
         "author":["XGN"],
         "release":"2019-05-25",
         "coauthor":["Zzzyt", "WZZ"],
@@ -143,7 +143,7 @@ var data=[
     },
     {
         "name":"Slap",
-        "link":"https://blog.hellholestudios.club/post/2019/05/12/%E8%B6%99%E9%8E%B9%E5%9C%A3%E6%85%95%E5%B2%AD%EF%BD%9Ecircle-cycling-circumstance%EF%BD%9E/",
+        "link":"https://blog.hellholestudios.top/post/2019/05/12/%E8%B6%99%E9%8E%B9%E5%9C%A3%E6%85%95%E5%B2%AD%EF%BD%9Ecircle-cycling-circumstance%EF%BD%9E/",
         "author":["XGN"],
         "release":"2019-05-12",
         "coauthor":[""],
@@ -151,7 +151,7 @@ var data=[
     },
     {
         "name":"Slap v1.1",
-        "link":"https://blog.hellholestudios.club/post/2019/05/19/slap-1-1-release/",
+        "link":"https://blog.hellholestudios.top/post/2019/05/19/slap-1-1-release/",
         "author":["XGN"],
         "release":"2019-05-19",
         "coauthor":[""],
@@ -188,7 +188,7 @@ var data=[
     },
     {
         "name":"Orange Boy Can You Solve It Out?",
-        "link":"https://blog.hellholestudios.club/post/tag/obcysio/",
+        "link":"https://blog.hellholestudios.top/post/tag/obcysio/",
         "author":["XGN"],
         "release":"2019-04-14",
         "coauthor":["MK","SYR"],
@@ -197,7 +197,7 @@ var data=[
     },
     {
         "name":"The Story of Tengfei",
-        "link":"https://blog.hellholestudios.club/post/category/%E8%BF%9E%E8%BD%BD%E5%86%85%E5%AE%B9/",
+        "link":"https://blog.hellholestudios.top/post/category/%E8%BF%9E%E8%BD%BD%E5%86%85%E5%AE%B9/",
         "author":["XGN"],
         "release":"2019-04-10",
         "coauthor":[""],
@@ -860,7 +860,7 @@ var data=[
     },
     {
         "name": "INM Craft S2",
-        "link": "https://blog.hellholestudios.club/archives/190",
+        "link": "https://blog.hellholestudios.top/archives/190",
         "author": [
         "XIZCM"
         ],

@@ -205,7 +205,7 @@ function refreshTable(){
                 if(data[i][tablehead[j][1]].includes("github.com")){
                     tmp+="<td class=\"text-center\"><a target=\"_blank\" title=\"Link to the Github Page\" href=\""+data[i][tablehead[j][1]]+"\"><i class=\"fa fa-github\"></i></a></td>";
                 }
-                else if(data[i][tablehead[j][1]].includes("blog.hellholestudios.club")){
+                else if(data[i][tablehead[j][1]].includes("blog.hellholestudios.top")){
                     tmp+="<td class=\"text-center\"><a target=\"_blank\" title=\"Link to our Blog\" href=\""+data[i][tablehead[j][1]]+"\"><i class=\"fa fa-wordpress\"></i></a></td>";
                 }
                 else if(data[i][tablehead[j][1]]==""){
