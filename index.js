@@ -243,7 +243,7 @@ function refreshTable(){
 	supc=1;
 	var comtmp="";
 	for(var i=0;i<data.length;i++){
-		if(data[i]["comment"]!=null){
+		if(data[i]["comment"]!=null && filterCheck(data[i])){
 			comtmp+="<p id=\"com"+supc+"\"><a href=\"#src"+supc+"\">["+supc+"]</a>: "+data[i]["comment"]+"</p>"
 			supc++;
 		}
