@@ -100,7 +100,7 @@ function toBadgeString(name){
         return name;
     }
 
-    str+='<span data-toggle="tooltip" title="'+badges[name]["tooltip"]+'" class="badge '+badges[name]["kind"]+'">'+badges[name]["display"]+'</span>';
+    str+='<span data-toggle="tooltip" style="margin-top:2px;" title="'+badges[name]["tooltip"]+'" class="badge '+badges[name]["kind"]+'">'+badges[name]["display"]+'</span>';
 
     return str;
 }
