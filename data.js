@@ -1074,7 +1074,25 @@ var data=[
         "release":"2019-10-21",
         "coauthor":[],
         "tag":["Mod","CHN","Done"],
-        "rating":4
+        "rating":2
+    },
+    {
+        "name":"Forge Server S1",
+        "link":"https://blog.hellholestudios.top/archives/266",
+        "author":["XIZCM"],
+        "release":"2019-08-23",
+        "coauthor":["XGN"],
+        "tag":["MCServer","CHN","Done"],
+        "rating":2
+    },
+    {
+        "name":"Forge Server S2",
+        "link":"",
+        "author":["XIZCM"],
+        "release":"",
+        "coauthor":["XGN","HDD"],
+        "tag":["MCServer","CHN","Jamming"],
+        "rating":2
     },
 ]
 
