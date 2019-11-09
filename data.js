@@ -14,7 +14,7 @@ var data=[
         "author":["XGN"],
         "release":"2019-05-25",
         "coauthor":["Zzzyt", "WZZ"],
-        "tag":["Game","Stg","Lua","LuaStg+","ENG","Working"],
+        "tag":["Game","Stg","Lua","LuaStg+","ENG","CHN","Working"],
         "rating":2
     },
     {
@@ -1066,7 +1066,16 @@ var data=[
         ],
         "rating": 3,
         "tag": ["OI","Java","C++","py3","Shell","ENG","CHN","Done"]
-    }
+    },
+    {
+        "name":"春之岸边播放器(th12 stage 1 theme player)",
+        "link":"https://blog.hellholestudios.top/archives/302",
+        "author":["XGN"],
+        "release":"2019-10-21",
+        "coauthor":[],
+        "tag":["Mod","CHN","Done"],
+        "rating":4
+    },
 ]
 
 // function transfer(obj){
