@@ -32,7 +32,7 @@ var data=[
         "author":["XGN"],
         "release":"2019-07-01",
         "coauthor":"",
-        "tag":["Game","Stg","Java","LibGdx","ENG","Working"],
+        "tag":["Game","Stg","Java","LibGdx","ENG","JPN","Working"],
         "rating":1
     },
     {
@@ -1093,6 +1093,15 @@ var data=[
         "coauthor":["XGN","HDD"],
         "tag":["MCServer","CHN","Jamming"],
         "rating":2
+    },
+    {
+        "name":"Blog main site",
+        "link":"https://blog.hellholestudios.top/",
+        "author":["HHS"],
+        "release":"2019-04-04",
+        "coauthor":[],
+        "tag":["Literature","PHP","Wordpress","CHN","ENG","JPN","Working"],
+        "rating":4
     },
 ]
 

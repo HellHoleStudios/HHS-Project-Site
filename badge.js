@@ -62,6 +62,11 @@ var badges={
         "tooltip":"XGN's brother",
         "display":"Starcutter"
     },
+    "HHS":{
+        "kind":member,
+        "tooltip":"A team-al project instead of a personal project. In other words, the project is done by everyone's effort.",
+        "display":"HHS"
+    },
 
     //category
     "OI":{
@@ -247,6 +252,11 @@ var badges={
         "tooltip":"The Visual Basic programming language",
         "display":"VB"
     },
+    "PHP":{
+        "kind":lang,
+        "tooltip":"The PHP programming language",
+        "display":"PHP"
+    },
 
 
     //tools
@@ -352,6 +362,11 @@ var badges={
         "kind":tool,
         "tooltip":"A video making software to make Minecraft animations",
         "display":"Mineanimator"
+    },
+    "Wordpress":{
+        "kind":tool,
+        "tooltip":"A blog making tool",
+        "display":"Wordpress"
     },
     
 
