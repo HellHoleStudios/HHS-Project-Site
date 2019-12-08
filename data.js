@@ -32,7 +32,7 @@ var data=[
         "author":["XGN"],
         "release":"2019-07-01",
         "coauthor":"",
-        "tag":["Game","Stg","Java","LibGdx","ENG","JPN","Working"],
+        "tag":["Game","Library","Stg","Java","LibGdx","ENG","JPN","Working"],
         "rating":1
     },
     {
@@ -139,7 +139,18 @@ var data=[
         "release":"2018-07-08",
         "coauthor":[""],
         "tag":["Game","RPG","Ruby","RPGMaker","CHN","Done"],
-        "comment":"Can't upload because of privacy issues"
+        "comment":"Can't upload because of privacy issues",
+        "rating":1
+    },
+    {
+        "name":"Hell Hole Legend 2 Episode 1",
+        "link":"https://blog.hellholestudios.top/archives/115",
+        "author":["XGN"],
+        "release":"2019-04-20",
+        "coauthor":[""],
+        "tag":["Game","Adv","py3","PyWright","ENG","Done"],
+        "comment":"Download link maybe broken.",
+        "rating":2
     },
     {
         "name":"Slap",

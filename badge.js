@@ -368,7 +368,11 @@ var badges={
         "tooltip":"A blog making tool",
         "display":"Wordpress"
     },
-    
+    "PyWright":{
+        "kind":tool,
+        "tooltip":"A program to make Phoenix Wright games",
+        "display":"PyWright"
+    },
 
     //layout lang
     "ENG":{
