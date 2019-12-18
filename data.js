@@ -1114,6 +1114,24 @@ var data=[
         "tag":["Literature","PHP","Wordpress","CHN","ENG","JPN","Working"],
         "rating":4
     },
+    {
+        "name":"NFLS Score Collector",
+        "link":"",
+        "author":["XGN"],
+        "release":"2019-12-17",
+        "coauthor":[],
+        "tag":["Website","JS","HTML","ENG","Working"],
+        "comment":"Has stopped publishing due to privacy issue"
+    },
+    {
+        "name":"Local Oj",
+        "link":"",
+        "author":["XGN"],
+        "release":"2019-10-30",
+        "coauthor":[],
+        "tag":["Website","OI","JS","HTML","ENG","Jamming"],
+        "rating":4
+    },
 ]
 
 // function transfer(obj){
