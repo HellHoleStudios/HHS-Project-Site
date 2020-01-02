@@ -1129,7 +1129,15 @@ var data=[
         "author":["XGN"],
         "release":"2019-10-30",
         "coauthor":[],
-        "tag":["Website","OI","JS","HTML","ENG","Jamming"],
+        "tag":["Website","OI","JS","HTML","ENG","Jamming"]
+    },
+    {
+        "name":"HHSOJ Essential",
+        "link":"https://github.com/XiaoGeNintendo/HHSOJ-Essential",
+        "author":["XGN"],
+        "release":"2020-01-02",
+        "coauthor":[],
+        "tag":["Website","OI","Java","Py3","Tomcat","ENG","Working"],
         "rating":4
     },
 ]
