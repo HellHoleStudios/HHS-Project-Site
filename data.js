@@ -1137,7 +1137,7 @@ var data=[
         "author":["XGN"],
         "release":"2020-01-02",
         "coauthor":[],
-        "tag":["Website","OI","Java","Py3","Tomcat","ENG","Working"],
+        "tag":["Website","OI","Java","py3","Tomcat","ENG","Working"],
         "rating":4
     },
 ]
