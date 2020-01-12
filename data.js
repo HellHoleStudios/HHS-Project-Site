@@ -1140,6 +1140,15 @@ var data=[
         "tag":["Website","OI","Java","py3","Tomcat","ENG","Working"],
         "rating":4
     },
+    {
+        "name":"Clash Auto Update",
+        "link":"https://github.com/carottX/auto-clash-update/",
+        "author":["XIZCM"],
+        "release":"2019-11-30",
+        "coauthor":[],
+        "tag":["Tool","py3","ENG","Working"],
+        "rating":4
+    },
 ]
 
 // function transfer(obj){
