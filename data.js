@@ -1102,7 +1102,25 @@ var data=[
         "author":["XIZCM"],
         "release":"",
         "coauthor":["XGN","HDD"],
-        "tag":["MCServer","CHN","Jamming"],
+        "tag":["MCServer","CHN","Done"],
+        "rating":2
+    },
+    {
+        "name":"Forge Server S3",
+        "link":"",
+        "author":["XIZCM"],
+        "release":"",
+        "coauthor":["XGN"],
+        "tag":["MCServer","CHN","Done"],
+        "rating":2
+    },
+    {
+        "name":"Forge Server S3.5",
+        "link":"",
+        "author":["XIZCM"],
+        "release":"",
+        "coauthor":["XGN"],
+        "tag":["MCServer","CHN","Working"],
         "rating":2
     },
     {
