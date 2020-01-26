@@ -600,7 +600,7 @@ var data=[
         "author": [
         "XIZCM"
         ],
-        "release": "2018-03-4",
+        "release": "2018-03-04",
         "coauthor": [
         ""
         ],
