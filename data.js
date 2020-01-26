@@ -14,7 +14,7 @@ var data=[
         "author":["XGN"],
         "release":"2019-05-25",
         "coauthor":["Zzzyt", "WZZ"],
-        "tag":["Game","Stg","Lua","LuaStg+","ENG","CHN","Working"],
+        "tag":["Game","Stg","Lua","LuaStg+","ENG","CHN","Done"],
         "rating":2
     },
     {
@@ -1136,7 +1136,7 @@ var data=[
         "link":"https://github.com/XiaoGeNintendo/HHSOJ-Essential",
         "author":["XGN"],
         "release":"2020-01-02",
-        "coauthor":[],
+        "coauthor":["Zzzyt"],
         "tag":["Website","OI","Java","py3","Tomcat","ENG","Working"],
         "rating":4
     },
@@ -1147,6 +1147,15 @@ var data=[
         "release":"2019-11-30",
         "coauthor":[],
         "tag":["Tool","py3","ENG","Working"],
+        "rating":4
+    },
+    {
+        "name":"The 2020 STG",
+        "link":"https://blog.hellholestudios.top/archives/361",
+        "author":["XGN"],
+        "release":"2020-01-23",
+        "coauthor":[],
+        "tag":["Game","Stg","Lua","LuaStg+","ENG","Done"],
         "rating":4
     },
 ]
