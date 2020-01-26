@@ -1116,9 +1116,9 @@ var data=[
     },
     {
         "name":"Forge Server S3.5",
-        "link":"2020-01-23",
+        "link":"",
         "author":["XIZCM"],
-        "release":"",
+        "release":"2020-01-23",
         "coauthor":["XGN"],
         "tag":["MCServer","CHN","Working"],
         "rating":2
