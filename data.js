@@ -1176,6 +1176,15 @@ var data=[
         "tag":["Game","Stg","Lua","LuaStg+","ENG","Done"],
         "rating":4
     },
+    {
+        "name":"Curseforge Modpack Downloader Remaster",
+        "link":"https://github.com/XiaoGeNintendo/CurseforgeModpackDownloaderRemaster",
+        "author":["XGN"],
+        "release":"2020-02-06",
+        "coauthor":[],
+        "tag":["Tool","Java","ENG","Done"],
+        "rating":2
+    },
 ]
 
 // function transfer(obj){
