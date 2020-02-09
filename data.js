@@ -1165,7 +1165,6 @@ var data=[
         "release":"2019-11-30",
         "coauthor":[],
         "tag":["Tool","py3","ENG","Working"],
-        "rating":4
     },
     {
         "name":"The 2020 STG",
@@ -1174,7 +1173,7 @@ var data=[
         "release":"2020-01-23",
         "coauthor":[],
         "tag":["Game","Stg","Lua","LuaStg+","ENG","Done"],
-        "rating":4
+        "rating":2
     },
     {
         "name":"Curseforge Modpack Downloader Remaster",
