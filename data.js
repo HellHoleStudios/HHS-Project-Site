@@ -1184,6 +1184,16 @@ var data=[
         "tag":["Tool","Java","ENG","Done"],
         "rating":2
     },
+    {
+        "name":"Aola Star Crawler",
+        "link":"https://github.com/XiaoGeNintendo/Aola-Star-Crawler",
+        "author":["XGN"],
+        "release":"2020-02-19",
+        "coauthor":[],
+        "tag":["Tool","Spider","Java","ENG","CHN","Done"],
+        "rating":3,
+        "comment":"Visit the blog on Quanquan: http://qq.100bt.com/LocateComment.action?topicId=23358564&commentId=193640659###"
+    },
 ]
 
 // function transfer(obj){
