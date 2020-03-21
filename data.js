@@ -32,7 +32,7 @@ var data=[
         "author":["XGN"],
         "release":"2019-07-01",
         "coauthor":"",
-        "tag":["Game","Library","Stg","Java","LibGdx","ENG","JPN","Working"],
+        "tag":["Game","Library","Stg","Java","LibGdx","ENG","JPN","Jamming"],
         "rating":1
     },
     {
