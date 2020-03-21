@@ -927,12 +927,12 @@ var data=[
         ]
     },
     {
-        "name": "五谷轮回之力(The power of five grains going round and round)",
+        "name": "五谷轮回之力(The power of five corns going round and round)",
         "link": "",
         "author": [
         "Zzzyt"
         ],
-        "release": "",
+        "release": "2017-01-30",
         "coauthor": [
         ""
         ],
