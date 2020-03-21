@@ -1120,7 +1120,16 @@ var data=[
         "author":["XIZCM"],
         "release":"2020-01-23",
         "coauthor":["XGN"],
-        "tag":["MCServer","CHN","Working"],
+        "tag":["MCServer","CHN","Done"],
+        "rating":2
+    },
+    {
+        "name":"Forge Server S4",
+        "link":"",
+        "author":["XIZCM"],
+        "release":"",
+        "coauthor":["XGN"],
+        "tag":["MCServer","CHN","Done"],
         "rating":2
     },
     {
@@ -1155,7 +1164,7 @@ var data=[
         "author":["XGN"],
         "release":"2020-01-02",
         "coauthor":["Zzzyt"],
-        "tag":["Website","OI","Java","py3","Tomcat","ENG","Working"],
+        "tag":["Website","OI","Java","py3","JS","HTML","Tomcat","ENG","Working"],
         "rating":4
     },
     {
@@ -1193,6 +1202,52 @@ var data=[
         "tag":["Tool","Spider","Java","ENG","CHN","Done"],
         "rating":3,
         "comment":"Visit the blog on Quanquan: http://qq.100bt.com/LocateComment.action?topicId=23358564&commentId=193640659###"
+    },
+    {
+        "name":"Box Cleaning Simulator",
+        "link":"https://drive.xizcm.site/?/HHS_Project/BoxCleaningSimulator.zip",
+        "author":["XGN"],
+        "release":"2020-03-18",
+        "coauthor":[],
+        "tag":["Game","Unreal4","ENG","Done"],
+        "rating":2,
+        "comment":"WASD to move. Unreal test project"
+    },
+    {
+        "name":"CP Taskboard",
+        "link":"https://betaoj.hellholestudios.top/Taskboard/index.jsp",
+        "author":["XGN"],
+        "release":"2020-03-10",
+        "coauthor":["Zzzyt"],
+        "tag":["Tool","OI","Website","Extension","Java","JS","HTML","Tomcat","ENG","Jamming"],
+        "rating":1,
+        "comment":"Github link: https://github.com/XiaoGeNintendo/CP-Taskboard"
+    },
+    {
+        "name":"CP Jumper",
+        "link":"https://github.com/XiaoGeNintendo/CP-Jumper",
+        "author":["XGN"],
+        "release":"2020-03-05",
+        "coauthor":[],
+        "tag":["Tool","OI","Extension","JS","HTML","ENG","Done"],
+        "rating":3,
+        "comment":"Codeforces Blog: https://codeforces.com/blog/entry/74523"
+    },
+    {
+        "name":"Astro Simulator",
+        "link":"https://github.com/Zzzzzzyt/AstroSimulator",
+        "author":["Zzzyt"],
+        "release":"2020-03-09",
+        "coauthor":[],
+        "tag":["Sim","Java","LibGdx","UNKNOWN","Working"],
+    },
+    {
+        "name":"Py-input",
+        "link":"https://github.com/carottX/py-input",
+        "author":["XIZCM"],
+        "release":"2020-03-05",
+        "coauthor":[],
+        "tag":["Tool","py3","NONE","Done"],
     },
 ]
 

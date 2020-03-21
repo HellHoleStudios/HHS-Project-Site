@@ -178,6 +178,11 @@ var badges={
         "tooltip":"Videos",
         "display":"Video"
     },
+    "Extension":{
+        "kind":category,
+        "tooltip":"Chrome Extension",
+        "display":"Extension"
+    },
 
     //programming language
     "Java":{
@@ -219,8 +224,8 @@ var badges={
     "HTML":{
         "name":"HTML",
         "kind":lang,
-        "tooltip":"The HTML programming language",
-        "display":"HTML"
+        "tooltip":"The HTML&CSS programming language",
+        "display":"HTML&CSS"
     },
     "GML":{
         "kind":lang,
@@ -372,6 +377,11 @@ var badges={
         "kind":tool,
         "tooltip":"A program to make Phoenix Wright games",
         "display":"PyWright"
+    },
+    "Unreal4":{
+        "kind":tool,
+        "tooltip":"The Unreal 4 3D Engine",
+        "display":"Unreal 4"
     },
 
     //layout lang
