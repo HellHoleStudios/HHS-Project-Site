@@ -25,6 +25,12 @@ var template={
     "rating":0
 }
 
+for(var i=0;i<data.length;i++){
+	if(data[i]["rating"]==undefined){
+		data[i]["rating"]=0;
+	}
+}
+
 /*
 Rating System
 0=no one uses
@@ -44,23 +50,19 @@ var tablehead=[
 ]
 
 
-function sort(by){
-    data.sort(function(a,b){
-        
+function sort(by,dir){
+	function cmp(a,b){ 
         if(a[by]<b[by]){
             return -1;
         }
         if(a[by]>b[by]){
             return 1;
         }
-		
-		
 		var aa=""+JSON.stringify(a);
 		var bb=""+JSON.stringify(b);
 		//console.log(aa);
 		//console.log(bb);
 		//console.log(aa<bb);
-		
 		if(aa<bb){
 			return -1;
 		}
@@ -68,12 +70,14 @@ function sort(by){
 			return 1;
 		}
 		return 0;
-    });
-
-    
+    }
+    data.sort(function(a,b){
+		return cmp(a,b)*(dir?1:-1);
+	});
 }
 
 var curSort="";
+var curDir=true;
 
 var importantOnly=true;
 
@@ -82,9 +86,10 @@ function toggleImportant(){
     refreshTable();
 }
 
-function Msort(by){
-    sort(by);
+function Msort(by,dir){
+    sort(by,dir);
     curSort=by;
+	curDir=dir;
     refreshTable();
 }
 
@@ -177,9 +182,14 @@ function refreshTable(){
             continue;
         }
         if(tablehead[i][1]==curSort){
-            tmp+="<th onclick=\"Msort('"+tablehead[i][1]+"')\">"+tablehead[i][0]+"<i class=\"fa fa-sort-up\"></i></th>";
+			if(curDir){
+				tmp+="<th onclick=\"Msort('"+tablehead[i][1]+"',false)\">"+tablehead[i][0]+"<i class=\"fa fa-sort-up\"></i></th>";
+			}
+			else{
+				tmp+="<th onclick=\"Msort('"+tablehead[i][1]+"',true)\">"+tablehead[i][0]+"<i class=\"fa fa-sort-down\"></i></th>";
+			}
         }else{
-            tmp+="<th onclick=\"Msort('"+tablehead[i][1]+"')\">"+tablehead[i][0]+"<i class=\"fa fa-sort\"></i></th>";
+            tmp+="<th onclick=\"Msort('"+tablehead[i][1]+"',true)\">"+tablehead[i][0]+"<i class=\"fa fa-sort\"></i></th>";
         }
     }
     tmp+="</tr></thead><tbody>";
@@ -215,9 +225,6 @@ function refreshTable(){
                     tmp+="<td class=\"text-center\"><a target=\"_blank\"  title=\"Link to the Resources\" href=\""+data[i][tablehead[j][1]]+"\"><i class=\"fa fa-external-link\"></i></a></td>";
                 }				
             }else if(tablehead[j][1]=="rating"){
-                if(data[i][tablehead[j][1]]==undefined){
-                    data[i][tablehead[j][1]]=0;
-                }
                 var dat=data[i][tablehead[j][1]];
                 tmp+="<td class=\"text-center\"> <i title=\"Popularity:"+dat+"\" class=\"fa fa-thermometer-"+dat+"\"></i>"+dat+"</td>"
             }else if(tablehead[j][1]=="release"){
@@ -226,8 +233,6 @@ function refreshTable(){
             }else{
                 //badge showing
                 tmp+="<td>"
-                
-
                 for(var k=0;k<data[i][tablehead[j][1]].length;k++){
 
                     tmp+=toBadgeString(data[i][tablehead[j][1]][k])+" "

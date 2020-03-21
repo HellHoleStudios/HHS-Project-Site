@@ -638,7 +638,7 @@ var data=[
         "author": [
         "HDD"
         ],
-        "release": "",
+        "release": "2016-01-04",
         "coauthor": [
         ""
         ],
@@ -816,7 +816,7 @@ var data=[
         "author": [
         "XIZCM"
         ],
-        "release": "",
+        "release": "2018-01-25",
         "coauthor": [
         ""
         ],
@@ -914,7 +914,7 @@ var data=[
         "author": [
         "HDD"
         ],
-        "release": "",
+        "release": "2017-07-17",
         "coauthor": [
         "Zzzyt"
         ],
@@ -1261,10 +1261,29 @@ var data=[
         "name":"Golden Stick Textbox",
         "link":"",
         "author":["XGN"],
-        "release":"",
+        "release":"2017-07-06",
         "coauthor":[],
         "tag":["Tool","E","NONE","Done"],
         "comment":"Test project"
+    },
+	{
+        "name":"别踩白块(Avoid the White Blocks)",
+        "link":"",
+        "author":["Zzzyt"],
+        "release":"2016-03-08",
+        "coauthor":[],
+        "tag":["Game","Scratch","CHN","Done"],
+        "comment":"Similar to the popular mobile game \"Piano Block\"."
+    },
+	{
+        "name":"Crimson Boy Can You Solve This?",
+        "link":"https://blog.hellholestudios.top/archives/349",
+        "author":["HDD"],
+        "release":"2020-01-05",
+        "coauthor":[],
+        "tag":["Literature","Markup","ENG","Jamming"],
+        "rating":2,
+		"comment":"This should be a series, though there's currently only one post."
     },
 ]
 
