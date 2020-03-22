@@ -363,10 +363,10 @@ var badges={
         "tooltip":"A video making software",
         "display":"Kdenlive"
     },
-    "Mineanimator":{
+    "Mine-Imator":{
         "kind":tool,
         "tooltip":"A video making software to make Minecraft animations",
-        "display":"Mineanimator"
+        "display":"Mine-Imator"
     },
     "Wordpress":{
         "kind":tool,

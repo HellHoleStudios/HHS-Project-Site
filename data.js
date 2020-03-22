@@ -927,7 +927,7 @@ var data=[
         ]
     },
     {
-        "name": "五谷轮回之力(The power of five corns going round and round)",
+        "name": "五谷轮回之力(The power of five-corns-going-round-and-round)",
         "link": "",
         "author": [
         "Zzzyt"
@@ -939,7 +939,7 @@ var data=[
         "rating": 2,
         "tag": [
         "Video",
-        "Mineanimator",
+        "Mine-Imator",
         "NONE",
         "Done"
         ]
