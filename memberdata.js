@@ -59,7 +59,7 @@ var member=[
     },
     {
         "name":"Carott",
-        "pic":"assets/carott.jpg",
+        "pic":"assets/carott.png",
 		"badge":[
 			"core","skype","discord"
 		],
