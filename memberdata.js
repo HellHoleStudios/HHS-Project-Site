@@ -59,14 +59,14 @@ var member=[
     },
     {
         "name":"Carott",
-        "pic":"assets/XIZCM.jpg",
+        "pic":"assets/carott.jpg",
 		"badge":[
 			"core","skype","discord"
 		],
         "aka":"IC, XZM, XIZCM",
         "contact":[
             {
-                "link":"https://codeforces.com/profile/XIZCM",
+                "link":"https://codeforces.com/profile/carott",
                 "display":"Codeforces"
             },
             {
