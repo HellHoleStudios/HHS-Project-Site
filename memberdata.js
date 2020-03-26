@@ -58,19 +58,19 @@ var member=[
         ]
     },
     {
-        "name":"XIZCM",
+        "name":"Carott",
         "pic":"assets/XIZCM.jpg",
 		"badge":[
-			"core","skype"
+			"core","skype","discord"
 		],
-        "aka":"IC, XZM",
+        "aka":"IC, XZM, XIZCM",
         "contact":[
             {
                 "link":"https://codeforces.com/profile/XIZCM",
                 "display":"Codeforces"
             },
             {
-                "link":"https://github.com/DamnXIZCM",
+                "link":"https://github.com/carottX",
                 "display":"Github"
             },
 			{
@@ -101,7 +101,7 @@ var member=[
         "name":"MonkeyKing",
         "pic":"assets/MonkeyKing.jpg",
 		"badge":[
-			"related","skype"
+			"related","skype","discord"
 		],
         "aka":"MK, Orange Boy",
         "contact":[
@@ -116,12 +116,12 @@ var member=[
         ]
     },
     {
-        "name":"ZhuKy.RLG",
+        "name":"Zhuky.RLG",
         "pic":"",
 		"badge":[
 			"main","skype"
 		],
-        "aka":"Zhuky,ZKY",
+        "aka":"Zhuky, ZKY",
         "contact":[
             {
                 "link":"https://codeforces.com/profile/ZhuKY.RLG",
