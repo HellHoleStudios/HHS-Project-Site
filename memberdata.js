@@ -81,7 +81,7 @@ var member=[
     },
     {
         "name":"Zhuky.RLG",
-        "pic":"",
+        "pic":"assets/Zhuky.RLG.jpg",
 		"badge":[
 			"core","skype","discord"
 		],
