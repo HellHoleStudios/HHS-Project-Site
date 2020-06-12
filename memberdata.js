@@ -80,6 +80,24 @@ var member=[
         ]
     },
     {
+        "name":"Zhuky.RLG",
+        "pic":"",
+		"badge":[
+			"core","skype","discord"
+		],
+        "aka":"Zhuky, ZKY",
+        "contact":[
+            {
+                "link":"https://codeforces.com/profile/ZhuKY.RLG",
+                "display":"Codeforces"
+            },
+			{
+				"link":"https://github.com/zhukyRLG",
+				"display":"Github"
+			}
+        ]
+    },
+    {
         "name":"ZHD",
         "pic":"",
 		"badge":[
@@ -115,24 +133,7 @@ var member=[
             }
         ]
     },
-    {
-        "name":"Zhuky.RLG",
-        "pic":"",
-		"badge":[
-			"main","skype"
-		],
-        "aka":"Zhuky, ZKY",
-        "contact":[
-            {
-                "link":"https://codeforces.com/profile/ZhuKY.RLG",
-                "display":"Codeforces"
-            },
-			{
-				"link":"https://github.com/zhukyRLG",
-				"display":"Github"
-			}
-        ]
-    },
+    
     {
         "name":"WZZ",
         "pic":"assets/WZZ.jpg",
