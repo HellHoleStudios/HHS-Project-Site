@@ -54,6 +54,10 @@ var member=[
             {
                 "link":"https://github.com/XiaoGeNintendo",
                 "display":"Github"
+            },
+            {
+                "link":"https://xiaogenintendo.github.io/xgn-homepage-test/",
+                "display":"GameReviewPage"
             }
         ]
     },
