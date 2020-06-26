@@ -262,6 +262,11 @@ var badges={
         "tooltip":"The PHP programming language",
         "display":"PHP"
     },
+    "DNH":{
+        "kind":lang,
+        "tooltip":"Danmakufu Scripting Language",
+        "display":"DNH"
+    },
 
 
     //tools
@@ -382,6 +387,16 @@ var badges={
         "kind":tool,
         "tooltip":"The Unreal 4 3D Engine",
         "display":"Unreal 4"
+    },
+    "Maven":{
+        "kind":tool,
+        "tooltip":"Maven the Development Tool",
+        "display":"Maven"
+    },
+    "Danmakufu":{
+        "kind":tool,
+        "tooltip":"Danmakufu is a engine to make Touhou-style bullet-hell games",
+        "display":"Danmakufu ph3"
     },
 
     //layout lang

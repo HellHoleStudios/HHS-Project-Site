@@ -31,7 +31,7 @@ var member=[
             },
 			{
 				"link":"https://db.zzzyt.cf",
-				"display":"Blog"
+				"display":"PersonalPage(Down)"
 			}
         ]
     },
@@ -79,7 +79,7 @@ var member=[
             },
 			{
 				"link":"https://xizcm.site",
-				"display":"Blog"
+				"display":"Blog(Down)"
 			}
         ]
     },
@@ -217,6 +217,16 @@ var member=[
                 "link":"https://codeforces.com/profile/guanhuai04",
                 "display":"Codeforces"
             }
+        ]
+    },
+    {
+        "name":"ZYX",
+        "badge":[
+			"related"
+		],
+        "pic":"",
+        "aka":"XGN's deskmate",
+        "contact":[
         ]
     },
 ]

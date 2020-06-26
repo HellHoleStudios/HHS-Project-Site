@@ -1285,6 +1285,35 @@ var data=[
         "rating":2,
 		"comment":"This should be a series, though there's currently only one post."
     },
+    {
+        "name":"HHSOJ Maven",
+        "link":"https://github.com/HellHoleStudios/hhsoj",
+        "author":["Zzzyt"],
+        "release":"2020-06-12",
+        "coauthor":[],
+        "tag":["Website","OI","Java","py3","JS","HTML","Tomcat","Maven","ENG","Working"],
+        "rating":4,
+		"comment":"Project name is hhsoj. In order to distinguish from the older version, HHSOJ Maven is used."
+    },
+    {
+        "name":"JaDE",
+        "link":"",
+        "author":["Zzzyt"],
+        "release":"2020-06-25",
+        "coauthor":[],
+        "tag":["Game","Library","Stg","Java","LibGdx","ENG","Working"],
+        "rating":2,
+        "comment":"JaDE is a Java Danmaku game making Engine"
+    },
+    {
+        "name":"Test STG 3",
+        "link":"",
+        "author":["XGN"],
+        "release":"2020-06-25",
+        "coauthor":[],
+        "tag":["Game","Stg","DNH","Danmakufu","ENG","Done"],
+        "rating":2,
+    },
 ]
 
 // function transfer(obj){
