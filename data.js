@@ -1297,13 +1297,13 @@ var data=[
     },
     {
         "name":"JaDE",
-        "link":"",
+        "link":"https://github.com/Zzzzzzyt/Jade",
         "author":["Zzzyt"],
         "release":"2020-06-25",
         "coauthor":[],
         "tag":["Game","Library","Stg","Java","LibGdx","ENG","Working"],
         "rating":2,
-        "comment":"JaDE is a Java Danmaku game making Engine"
+        "comment":"JaDE is a java danmaku game framework"
     },
     {
         "name":"Test STG 3",
