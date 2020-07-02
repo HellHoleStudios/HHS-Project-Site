@@ -5,7 +5,7 @@ var data=[
         "author":["XGN"],
         "release":"2018-09-12",
         "coauthor":["Zzzyt","XIZCM"],
-        "tag":["OI","Website","Java","C++","py3","Shell","Tomcat","ENG","Jamming"],
+        "tag":["OI","Website","Java","C++","py3","Shell","Tomcat","ENG","Deserted"],
         "rating":4
     },
     {
@@ -32,7 +32,7 @@ var data=[
         "author":["XGN"],
         "release":"2019-07-01",
         "coauthor":"",
-        "tag":["Game","Library","Stg","Java","LibGdx","ENG","JPN","Jamming"],
+        "tag":["Game","Library","Stg","Java","LibGdx","ENG","JPN","Deserted"],
         "rating":1
     },
     {
@@ -266,7 +266,7 @@ var data=[
         "author":["XGN"],
         "release":"2017-12-25",
         "coauthor":[""],
-        "tag":["Mod","MinecraftMod","Java","Forge","CHN","ENG","Jamming"],
+        "tag":["Mod","MinecraftMod","Java","Forge","CHN","ENG","Deserted"],
         "rating":1
     },
     {
@@ -1156,7 +1156,7 @@ var data=[
         "author":["XGN"],
         "release":"2019-10-30",
         "coauthor":[],
-        "tag":["Website","OI","JS","HTML","ENG","Jamming"]
+        "tag":["Website","OI","JS","HTML","ENG","Done"]
     },
     {
         "name":"HHSOJ Essential",
@@ -1219,7 +1219,7 @@ var data=[
         "author":["XGN"],
         "release":"2020-03-10",
         "coauthor":["Zzzyt"],
-        "tag":["Tool","OI","Website","Extension","Java","JS","HTML","Tomcat","ENG","Jamming"],
+        "tag":["Tool","OI","Website","Extension","Java","JS","HTML","Tomcat","ENG","Deserted"],
         "rating":1,
         "comment":"Github link: https://github.com/XiaoGeNintendo/CP-Taskboard"
     },
