@@ -1311,7 +1311,7 @@ var data=[
         "author":["XGN"],
         "release":"2020-06-25",
         "coauthor":[],
-        "tag":["Game","Stg","DNH","Danmakufu","ENG","Done"],
+        "tag":["Game","Stg","DNH","Danmakufu","ENG","Working"],
         "rating":2,
     },
 ]
