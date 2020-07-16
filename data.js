@@ -1302,8 +1302,7 @@ var data=[
         "release":"2020-06-25",
         "coauthor":[],
         "tag":["Game","Library","Stg","Java","LibGdx","ENG","Working"],
-        "rating":2,
-        "comment":"JaDE is a java danmaku game framework"
+        "rating":3,
     },
     {
         "name":"Test STG 3",
@@ -1312,7 +1311,17 @@ var data=[
         "release":"2020-06-25",
         "coauthor":[],
         "tag":["Game","Stg","DNH","Danmakufu","ENG","Working"],
-        "rating":2,
+        "rating":3,
+    },
+    {
+        "name":"Origami King Puzzle Solver",
+        "link":"https://github.com/XiaoGeNintendo/Origami-King-Puzzle-Solver",
+        "author":["XGN"],
+        "release":"2020-07-14",
+        "coauthor":[],
+        "tag":["Tool","C++","ENG","Done"],
+        "rating":1,
+        "comment":"To solve Paper Mario:Origami King battle puzzles"
     },
 ]
 
