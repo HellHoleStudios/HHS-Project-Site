@@ -23,7 +23,7 @@ var data=[
         "author":["Zzzyt"],
         "release":"2019-06-13",
         "coauthor":[],
-        "tag":["Game","Sim","Java","LibGdx","ENG","Working"],
+        "tag":["Game","Sim","Java","LibGdx","ENG","Inactive"],
         "rating":2
     },
     {
@@ -1239,7 +1239,7 @@ var data=[
         "author":["Zzzyt"],
         "release":"2020-03-09",
         "coauthor":[],
-        "tag":["Sim","Java","LibGdx","ENG","Working"],
+        "tag":["Sim","Java","LibGdx","ENG","Inactive"],
     },
     {
         "name":"Py-input",
