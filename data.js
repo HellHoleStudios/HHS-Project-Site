@@ -23,7 +23,7 @@ var data=[
         "author":["Zzzyt"],
         "release":"2019-06-13",
         "coauthor":[],
-        "tag":["Game","Sim","Java","LibGdx","ENG","Inactive"],
+        "tag":["Game","Sim","Java","LibGdx","ENG","Jamming"],
         "rating":2
     },
     {
@@ -1137,7 +1137,7 @@ var data=[
         "link":"https://blog.hellholestudios.top/",
         "author":["HHS"],
         "release":"2019-04-04",
-        "coauthor":[],
+        "coauthor":["XGN","Zzzyt","HDD","XIZCM","MK","SYR","ZKY"],
         "tag":["Literature","PHP","Wordpress","CHN","ENG","JPN","Working"],
         "rating":4
     },
@@ -1239,7 +1239,7 @@ var data=[
         "author":["Zzzyt"],
         "release":"2020-03-09",
         "coauthor":[],
-        "tag":["Sim","Java","LibGdx","ENG","Inactive"],
+        "tag":["Sim","Java","LibGdx","ENG","Jamming"],
     },
     {
         "name":"Py-input",
@@ -1322,6 +1322,15 @@ var data=[
         "tag":["Tool","C++","ENG","Done"],
         "rating":1,
         "comment":"To solve Paper Mario:Origami King battle puzzles"
+    },
+    {
+        "name":"東方時空書 ~ Touhou Rune Legend",
+        "link":"https://xgn.itch.io/trl",
+        "author":["HHS"],
+        "release":"2020-07-14",
+        "coauthor":["XGN","XIZCM","MK","ZKY","Zzzyt"],
+        "tag":["Game","Typ","Java","LibGdx","ENG","CHN","Jamming"],
+        "rating":4
     },
 ]
 

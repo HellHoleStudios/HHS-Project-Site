@@ -93,6 +93,12 @@ var badges={
         "tooltip":"Shooting Game",
         "display":"STG"
     },
+    "Typ":{
+        "name":"Typ",
+        "kind":category,
+        "tooltip":"Typing Game",
+        "display":"TYP"
+    },
     "Sim":{
         "name":"Sim",
         "kind":category,
