@@ -1327,7 +1327,7 @@ var data=[
         "name":"東方時空書 ~ Touhou Rune Legend",
         "link":"https://xgn.itch.io/trl",
         "author":["HHS"],
-        "release":"2020-07-14",
+        "release":"2020-07-21",
         "coauthor":["XGN","XIZCM","MK","ZKY","Zzzyt"],
         "tag":["Game","Typ","Java","LibGdx","ENG","CHN","Jamming"],
         "rating":4
