@@ -1300,7 +1300,7 @@ var data=[
         "link":"https://github.com/Zzzzzzyt/Jade",
         "author":["Zzzyt"],
         "release":"2020-06-25",
-        "coauthor":[],
+        "coauthor":["XGN"],
         "tag":["Game","Library","Stg","Java","LibGdx","ENG","Working"],
         "rating":3,
     },
