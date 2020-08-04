@@ -142,7 +142,7 @@ var member=[
         "name":"WZZ",
         "pic":"assets/WZZ.jpg",
 		"badge":[
-			"main","skype"
+			"branch","skype"
 		],
         "aka":"WN",
         "contact":[
