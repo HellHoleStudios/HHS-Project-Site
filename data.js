@@ -1310,7 +1310,7 @@ var data=[
         "author":["XGN"],
         "release":"2020-06-25",
         "coauthor":[],
-        "tag":["Game","Stg","DNH","Danmakufu","ENG","Working"],
+        "tag":["Game","Stg","DNH","Danmakufu","ENG","Done"],
         "rating":3,
     },
     {
@@ -1331,6 +1331,15 @@ var data=[
         "coauthor":["XGN","XIZCM","MK","ZKY","Zzzyt"],
         "tag":["Game","Typ","Java","LibGdx","ENG","CHN","Jamming"],
         "rating":4
+    },
+    {
+        "name":"President Of Gensokyo",
+        "link":"https://github.com/XiaoGeNintendo/PresidentOfGensokyo",
+        "author":["XGN"],
+        "release":"2020-08-08",
+        "coauthor":[],
+        "tag":["Game","Cho","Javascript","CocosCreator","ENG","Working"],
+        "rating":2
     },
 ]
 
