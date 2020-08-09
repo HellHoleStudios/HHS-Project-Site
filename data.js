@@ -1164,7 +1164,7 @@ var data=[
         "author":["XGN"],
         "release":"2020-01-02",
         "coauthor":["Zzzyt"],
-        "tag":["Website","OI","Java","py3","JS","HTML","Tomcat","ENG","Working"],
+        "tag":["Website","OI","Java","py3","JS","HTML","Tomcat","ENG","Jamming"],
         "rating":4
     },
     {
@@ -1173,7 +1173,7 @@ var data=[
         "author":["XIZCM"],
         "release":"2019-11-30",
         "coauthor":[],
-        "tag":["Tool","py3","ENG","Working"],
+        "tag":["Tool","py3","ENG","Done"],
     },
     {
         "name":"The 2020 STG",
@@ -1291,7 +1291,7 @@ var data=[
         "author":["Zzzyt"],
         "release":"2020-06-12",
         "coauthor":[],
-        "tag":["Website","OI","Java","py3","JS","HTML","Tomcat","Maven","ENG","Working"],
+        "tag":["Website","OI","Java","py3","JS","HTML","Tomcat","Maven","ENG","Jamming"],
         "rating":4,
 		"comment":"Project name is hhsoj. In order to distinguish from the older version, HHSOJ Maven is used."
     },
