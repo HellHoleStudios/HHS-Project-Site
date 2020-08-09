@@ -1338,7 +1338,7 @@ var data=[
         "author":["XGN"],
         "release":"2020-08-08",
         "coauthor":[],
-        "tag":["Game","Cho","Javascript","CocosCreator","ENG","Working"],
+        "tag":["Game","JS","CocosCreator","ENG","Working"],
         "rating":2
     },
 ]
