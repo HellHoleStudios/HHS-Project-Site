@@ -404,6 +404,11 @@ var badges={
         "tooltip":"Danmakufu is a engine to make Touhou-style bullet-hell games",
         "display":"Danmakufu ph3"
     },
+    "TestSTG2":{
+        "kind":tool,
+        "tooltip":"TestSTG2 is an engine by XGN to develop Touhou-style bullet-hell games. Search in the box above to learn more about it.",
+        "display":"TestSTG2"
+    },
 
     //layout lang
     "ENG":{

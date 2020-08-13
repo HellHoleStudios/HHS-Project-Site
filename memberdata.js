@@ -30,8 +30,8 @@ var member=[
                 "display":"Github"
             },
 			{
-				"link":"https://db.zzzyt.cf",
-				"display":"PersonalPage(Down)"
+				"link":"https://zzzzzzyt.github.io/",
+				"display":"PersonalPage"
 			}
         ]
     },

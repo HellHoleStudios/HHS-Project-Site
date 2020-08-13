@@ -1334,12 +1334,21 @@ var data=[
     },
     {
         "name":"President Of Gensokyo",
-        "link":"https://github.com/XiaoGeNintendo/PresidentOfGensokyo",
+        "link":"https://xgn.itch.io/president-of-gensokyo",
         "author":["XGN"],
         "release":"2020-08-08",
-        "coauthor":[],
-        "tag":["Game","JS","CocosCreator","ENG","Working"],
+        "coauthor":["Zzzyt"],
+        "tag":["Game","JS","CocosCreator","ENG","Done"],
         "rating":2
+    },
+    {
+        "name":"Re:ZJSTG",
+        "link":"https://blog.hellholestudios.top/archives/532",
+        "author":["XGN"],
+        "release":"2020-08-13",
+        "coauthor":["Zzzyt","HDD"],
+        "tag":["Game","Stg","Java","LibGdx","TestSTG2","JPN","ENG","Done"],
+        "rating":0
     },
 ]
 
