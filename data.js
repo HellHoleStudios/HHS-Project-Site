@@ -1211,17 +1211,16 @@ var data=[
         "coauthor":[],
         "tag":["Game","Unreal4","ENG","Done"],
         "rating":2,
-        "comment":"WASD to move. Unreal test project"
+        "comment":"WASD to move. Unreal test project. Note: Link is down."
     },
     {
         "name":"CP Taskboard",
-        "link":"https://betaoj.hellholestudios.top/Taskboard/index.jsp",
+        "link":"https://github.com/XiaoGeNintendo/CP-Taskboard",
         "author":["XGN"],
         "release":"2020-03-10",
         "coauthor":["Zzzyt"],
         "tag":["Tool","OI","Website","Extension","Java","JS","HTML","Tomcat","ENG","Deserted"],
-        "rating":1,
-        "comment":"Github link: https://github.com/XiaoGeNintendo/CP-Taskboard"
+        "rating":1
     },
     {
         "name":"CP Jumper",
@@ -1348,7 +1347,27 @@ var data=[
         "release":"2020-08-13",
         "coauthor":["Zzzyt","HDD"],
         "tag":["Game","Stg","Java","LibGdx","TestSTG2","JPN","ENG","Done"],
-        "rating":0
+        "rating":2
+    },
+    {
+        "name":"Segicverse",
+        "link":"https://www.bilibili.com/read/cv5224967",
+        "author":["ZKY"],
+        "release":"2020-03-22",
+        "coauthor":["XGN"],
+        "tag":["Literature","CHN","Working"],
+        "rating":2,
+        "comment":"Story about ZKY's characters"
+    },
+    {
+        "name":"Roaming Travellers in fantasy extravaganza",
+        "link":"https://drive.google.com/file/d/1MXd_Op99zalQaQxqqK7DhGGWuMT_KseR/view?usp=sharing",
+        "author":["XGN"],
+        "release":"2020-08-31",
+        "coauthor":[],
+        "tag":["Literature","CHN","Done"],
+        "rating":2,
+        "comment":"Settings about characters appear in LSS and XGN's stories"
     },
 ]
 
