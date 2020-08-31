@@ -1328,7 +1328,7 @@ var data=[
         "author":["HHS"],
         "release":"2020-07-21",
         "coauthor":["XGN","XIZCM","MK","ZKY","Zzzyt"],
-        "tag":["Game","Typ","Java","LibGdx","ENG","CHN","Jamming"],
+        "tag":["Game","Typ","Java","LibGdx","ENG","CHN","Deserted"],
         "rating":4
     },
     {
