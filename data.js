@@ -1371,13 +1371,13 @@ var data=[
     },
     {
         "name":"The Lost Forest",
-        "link":"https://drive.google.com/file/d/1AaG_XDiiyyL835kKACsFfSLsShHv0PV6/view?usp=sharing",
+        "link":"https://xgn.itch.io/the-lost-forest",
         "author":["XGN"],
         "release":"2020-10-05",
         "coauthor":["Zzzyt","HDD"],
         "tag":["Game","Stg","DNH","TestSTG3","Danmakufu","ENG","Done"],
         "rating":3,
-        "comment":"This is a submission to Ludum Dare 47"
+        "comment":"This is a submission to Ludum Dare 47: https://ldjam.com/events/ludum-dare/47/the-lost-forest"
     }
 ]
 
