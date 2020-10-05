@@ -409,6 +409,11 @@ var badges={
         "tooltip":"TestSTG2 is an engine by XGN to develop Touhou-style bullet-hell games. Search in the box above to learn more about it.",
         "display":"TestSTG2"
     },
+    "TestSTG3":{
+        "kind":tool,
+        "tooltip":"TestSTG3 is an engine by XGN to develop Touhou-style bullet-hell games using Danmakufu. Search in the box above to learn more about it.",
+        "display":"TestSTG3"
+    },
 
     //layout lang
     "ENG":{

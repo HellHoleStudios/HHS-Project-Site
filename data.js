@@ -1300,7 +1300,7 @@ var data=[
         "author":["Zzzyt"],
         "release":"2020-06-25",
         "coauthor":["XGN"],
-        "tag":["Game","Library","Stg","Java","LibGdx","ENG","Working"],
+        "tag":["Game","Library","Stg","Java","LibGdx","ENG","Jamming"],
         "rating":3,
     },
     {
@@ -1309,7 +1309,7 @@ var data=[
         "author":["XGN"],
         "release":"2020-06-25",
         "coauthor":[],
-        "tag":["Game","Stg","DNH","Danmakufu","ENG","Done"],
+        "tag":["Game","Library","Stg","DNH","Danmakufu","ENG","Done"],
         "rating":3,
     },
     {
@@ -1369,6 +1369,16 @@ var data=[
         "rating":2,
         "comment":"Settings about characters appear in LSS and XGN's stories"
     },
+    {
+        "name":"The Lost Forest",
+        "link":"https://drive.google.com/file/d/1AaG_XDiiyyL835kKACsFfSLsShHv0PV6/view?usp=sharing",
+        "author":["XGN"],
+        "release":"2020-10-05",
+        "coauthor":["Zzzyt","HDD"],
+        "tag":["Game","Stg","DNH","TestSTG3","Danmakufu","ENG","Done"],
+        "rating":3,
+        "comment":"This is a submission to Ludum Dare 47"
+    }
 ]
 
 // function transfer(obj){
