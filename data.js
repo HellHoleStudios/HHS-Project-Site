@@ -1296,7 +1296,7 @@ var data=[
     },
     {
         "name":"JaDE",
-        "link":"https://github.com/Zzzzzzyt/Jade",
+        "link":"https://github.com/HellHoleStudios/jade",
         "author":["Zzzyt"],
         "release":"2020-06-25",
         "coauthor":["XGN"],
