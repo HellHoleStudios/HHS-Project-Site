@@ -212,18 +212,47 @@ function refreshTable(){
 					tmp+="<td>"+data[i][tablehead[j][1]]+"</td>";
 				}
 			}else if(tablehead[j][1]=="link"){
-                if(data[i][tablehead[j][1]].includes("github.com")){
-                    tmp+="<td class=\"text-center\"><a target=\"_blank\" title=\"Link to the Github Page\" href=\""+data[i][tablehead[j][1]]+"\"><i class=\"fa fa-github\"></i></a></td>";
+
+                var rules=[
+                    ["github.com","Link to Github","fa fa-github",false],
+                    ["blog.hellholestudios.top","Link to HHS Blog","fa fa-wordpress",true],
+                    ["drive.google.com","Link to Google Drive","fa fa-google",false],
+                    ["drive.xizcm.site","Link to XIZCM's Drive","fa fa-database",true],
+                    ["xiaogenintendo.github.io","Link to XGN's Blog","fa fa-envelope",false],
+                    ["itch.io","Link to Itch.io","fa fa-gamepad",false]
+                ]
+
+                if(data[i][tablehead[j][1]]==""){
+                    tmp+="<td class=\"text-center\"><i data-toggle=\"tooltip\" title=\"No Link Available\" class=\"fa fa-close\"></i></td>";
+                }else{
+                    var found=false;
+                    for(var item=0;item<rules.length;item++){
+                        if(data[i][tablehead[j][1]].includes(rules[item][0])){
+                            tmp+="<td class=\"text-center\"><a data-toggle=\"tooltip\" target=\"_blank\"  title=\""+rules[item][1]+"\" href=\""+data[i][tablehead[j][1]]+"\"><i class=\""+rules[item][2]+"\"></i></a>";
+                            if(rules[item][3]){
+                                tmp+="<sup><i data-toggle=\"tooltip\" class=\"fa fa-exclamation\" title=\"WARNING: Link probably dead/unupdated\"></sup>"
+                            }
+                            tmp+="</td>";
+                            found=true;
+                            break;
+                        }
+                    }
+                    if(!found){
+                        tmp+="<td class=\"text-center\"><a data-toggle=\"tooltip\" target=\"_blank\"  title=\"Link to the Resources\" href=\""+data[i][tablehead[j][1]]+"\"><i class=\"fa fa-external-link\"></i></a></td>";
+                    }
                 }
-                else if(data[i][tablehead[j][1]].includes("blog.hellholestudios.top")){
-                    tmp+="<td class=\"text-center\"><a target=\"_blank\" title=\"Link to our Blog\" href=\""+data[i][tablehead[j][1]]+"\"><i class=\"fa fa-wordpress\"></i></a></td>";
-                }
-                else if(data[i][tablehead[j][1]]==""){
-                    tmp+="<td class=\"text-center\"><i title=\"No Link Available\" class=\"fa fa-close\"></i></td>";
-                }
-				else{
-                    tmp+="<td class=\"text-center\"><a target=\"_blank\"  title=\"Link to the Resources\" href=\""+data[i][tablehead[j][1]]+"\"><i class=\"fa fa-external-link\"></i></a></td>";
-                }				
+                // if(data[i][tablehead[j][1]].includes("github.com")){
+                //     tmp+="<td class=\"text-center\"><a target=\"_blank\" title=\"Link to the Github Page\" href=\""+data[i][tablehead[j][1]]+"\"><i class=\"fa fa-github\"></i></a></td>";
+                // }
+                // else if(data[i][tablehead[j][1]].includes("blog.hellholestudios.top")){
+                //     tmp+="<td class=\"text-center\"><a target=\"_blank\" title=\"Link to our Blog\" href=\""+data[i][tablehead[j][1]]+"\"><i class=\"fa fa-wordpress\"></i></a></td>";
+                // }
+                // else if(data[i][tablehead[j][1]]==""){
+                //     tmp+="<td class=\"text-center\"><i title=\"No Link Available\" class=\"fa fa-close\"></i></td>";
+                // }
+				// else{
+                //     tmp+="<td class=\"text-center\"><a target=\"_blank\"  title=\"Link to the Resources\" href=\""+data[i][tablehead[j][1]]+"\"><i class=\"fa fa-external-link\"></i></a></td>";
+                // }				
             }else if(tablehead[j][1]=="rating"){
                 var dat=data[i][tablehead[j][1]];
                 tmp+="<td class=\"text-center\"> <i title=\"Popularity:"+dat+"\" class=\"fa fa-thermometer-"+dat+"\"></i>"+dat+"</td>"
