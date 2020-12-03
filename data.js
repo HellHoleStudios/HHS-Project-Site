@@ -1378,7 +1378,15 @@ var data=[
         "tag":["Game","Stg","DNH","TestSTG3","Danmakufu","ENG","Done"],
         "rating":3,
         "comment":"This is a submission to Ludum Dare 47: https://ldjam.com/events/ludum-dare/47/the-lost-forest"
-    }
+    },
+    {
+        "name":"Max World",
+        "link":"https://xiaogenintendo.github.io/2020/11/29/max-world-release/",
+        "author":["XGN"],
+        "release":"2020-11-28",
+        "coauthor":[""],
+        "tag":["Mod","MinecraftMod","Java","Forge","ENG","Done"],
+    },
 ]
 
 // function transfer(obj){
