@@ -189,6 +189,11 @@ var badges={
         "tooltip":"Chrome Extension",
         "display":"Extension"
     },
+    "Model":{
+        "kind":category,
+        "tooltip":"a Machine Learning or AI Model",
+        "display":"Model"
+    },
 
     //programming language
     "Java":{
@@ -272,6 +277,11 @@ var badges={
         "kind":lang,
         "tooltip":"Danmakufu Scripting Language",
         "display":"DNH"
+    },
+    "C#":{
+        "kind":lang,
+        "tooltip":"C# Programming Language",
+        "display":"C#"
     },
 
 
@@ -413,6 +423,16 @@ var badges={
         "kind":tool,
         "tooltip":"TestSTG3 is an engine by XGN to develop Touhou-style bullet-hell games using Danmakufu. Search in the box above to learn more about it.",
         "display":"TestSTG3"
+    },
+    "CreateML":{
+        "kind":tool,
+        "tooltip":"CreateML is an Apple developer tool to train and test machine learning models easily",
+        "display":"CreateML"
+    },
+    "WinAPI":{
+        "kind":tool,
+        "tooltip":"Windows C++ API like windows.h",
+        "display":"WinAPI"
     },
 
     //layout lang

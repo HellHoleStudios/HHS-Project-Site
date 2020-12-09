@@ -1387,6 +1387,80 @@ var data=[
         "coauthor":[""],
         "tag":["Mod","MinecraftMod","Java","Forge","ENG","Done"],
     },
+    {
+        "name":"GFLPUCD",
+        "link":"https://gist.github.com/XiaoGeNintendo/8622da70e4fc659c5eadab8df95fe146",
+        "author":["XGN"],
+        "release":"2020-12-09",
+        "coauthor":[""],
+        "tag":["Tool","py3","ENG","Done"],
+        "comment":"Generate First Letter Problem Using Source from 'China Daily'"
+    },
+    {
+        "name":"Inline Mahjong Helper",
+        "link":"https://gist.github.com/XiaoGeNintendo/2da3db2423b612a807c8df82a0902cf4",
+        "author":["XGN"],
+        "release":"2020-11-07",
+        "coauthor":[""],
+        "tag":["Tool","C#","CHN","Done"],
+        "rating":1
+    },
+    {
+        "name":"PUW2HCw/AC",
+        "link":"https://gist.github.com/XiaoGeNintendo/f18e0e5c0c781f3b7cf5db792c6d9c3c",
+        "author":["XGN"],
+        "release":"2020-10-16",
+        "coauthor":["XIZCM"],
+        "tag":["Tool","py3","NONE","Deserted"],
+        "comment":"Personal Use Wordpress to Hexo Converter With High Accuracy",
+        "rating":2
+    },
+    {
+        "name":"PAF2AAF",
+        "link":"https://gist.github.com/XiaoGeNintendo/f18e0e5c0c781f3b7cf5db792c6d9c3c",
+        "author":["XGN"],
+        "release":"2020-05-05",
+        "coauthor":[""],
+        "tag":["Tool","Java","ENG","Deserted"],
+        "comment":"PyWright Animation File To AACT Animation File"
+    },
+    {
+        "name":"Zzzyt Speak Detector",
+        "link":"https://xiaogenintendo.github.io/2020/12/05/zzzyt-ml/",
+        "author":["XGN"],
+        "release":"2020-12-05",
+        "coauthor":[""],
+        "tag":["Model","CreateML","NONE","Done"],
+    },
+    {
+        "name":"Stop Change BG",
+        "link":"https://xiaogenintendo.github.io/2020/12/09/stop-change-bg-release/",
+        "author":["XGN"],
+        "release":"2020-12-08",
+        "coauthor":[""],
+        "tag":["Tool","C++","WinAPI","ENG","Done"],
+        "rating":2
+    },
+    {
+        "name":"Virus Fixer V3",
+        "link":"",
+        "author":["Zzzyt"],
+        "release":"2020-11-11",
+        "coauthor":[""],
+        "tag":["Tool","C++","WinAPI","CHN","Done"],
+        "rating":3,
+        "comment":"To fix NFLS Virus"
+    },
+    {
+        "name":"Virus Fixer V2",
+        "link":"",
+        "author":["Zzzyt"],
+        "release":"2018-12-06",
+        "coauthor":[""],
+        "tag":["Tool","C++","WinAPI","CHN","Done"],
+        "rating":3,
+        "comment":"To fix NFLS Virus. Replaced by Virus Fixer V3"
+    },
 ]
 
 // function transfer(obj){
