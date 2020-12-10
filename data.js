@@ -1453,7 +1453,7 @@ var data=[
     },
     {
         "name":"Virus Fixer V2",
-        "link":"",
+        "link":"https://github.com/Zzzzzzyt/virus-fixer/tree/main/old",
         "author":["Zzzyt"],
         "release":"2018-12-06",
         "coauthor":[""],
