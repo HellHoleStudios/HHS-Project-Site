@@ -493,6 +493,7 @@ var data=[
         ""
         ],
         "tag": [
+        "Library",
         "Java",
         "CHN",
         "Done"
@@ -940,7 +941,8 @@ var data=[
         "tag": [
         "Video",
         "Mine-Imator",
-        "NONE",
+        "ENG",
+        "CHN",
         "Done"
         ]
     },
