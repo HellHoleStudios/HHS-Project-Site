@@ -1461,6 +1461,15 @@ var data=[
         "rating":3,
         "comment":"To fix NFLS Virus. Replaced by Virus Fixer V3"
     },
+    {
+        "name":"Animate Wallpaper",
+        "link":"https://xiaogenintendo.github.io/2020/12/30/animate-bg-release/",
+        "author":["XGN"],
+        "release":"2020-12-30",
+        "coauthor":[""],
+        "tag":["Tool","C++","WinAPI","ENG","Done"],
+        "rating":3
+    },
 ]
 
 // function transfer(obj){
