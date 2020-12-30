@@ -15,7 +15,7 @@ var member=[
     },
     {
         "name":"Zzzyt",
-        "pic":"assets/Zzzyt.jpg",
+        "pic":"assets/Zzzyt.png",
 		"badge":[
 			"core","skype","discord"
 		],

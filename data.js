@@ -493,6 +493,7 @@ var data=[
         ""
         ],
         "tag": [
+        "Library",
         "Java",
         "CHN",
         "Done"
@@ -940,7 +941,8 @@ var data=[
         "tag": [
         "Video",
         "Mine-Imator",
-        "NONE",
+        "ENG",
+        "CHN",
         "Done"
         ]
     },
@@ -1443,7 +1445,7 @@ var data=[
     },
     {
         "name":"Virus Fixer V3",
-        "link":"",
+        "link":"https://github.com/Zzzzzzyt/virus-fixer",
         "author":["Zzzyt"],
         "release":"2020-11-11",
         "coauthor":[""],
@@ -1453,7 +1455,7 @@ var data=[
     },
     {
         "name":"Virus Fixer V2",
-        "link":"",
+        "link":"https://github.com/Zzzzzzyt/virus-fixer/tree/main/old",
         "author":["Zzzyt"],
         "release":"2018-12-06",
         "coauthor":[""],
