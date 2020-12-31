@@ -1472,6 +1472,15 @@ var data=[
         "tag":["Tool","C++","WinAPI","ENG","Done"],
         "rating":3
     },
+    {
+        "name":"Touhou Song Recognitive Test",
+        "link":"https://github.com/XiaoGeNintendo/TouhouSongRecognitiveTest",
+        "author":["XGN"],
+        "release":"2020-12-31",
+        "coauthor":[""],
+        "tag":["Game","Website","JS","HTML","CHN","Done"],
+        "rating":2
+    },
 ]
 
 // function transfer(obj){
