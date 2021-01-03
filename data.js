@@ -1477,7 +1477,7 @@ var data=[
         "link":"https://github.com/XiaoGeNintendo/TouhouSongRecognitiveTest",
         "author":["XGN"],
         "release":"2020-12-31",
-        "coauthor":[""],
+        "coauthor":["Zzzyt"],
         "tag":["Game","Website","JS","HTML","CHN","Done"],
         "rating":2
     },
