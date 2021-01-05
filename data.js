@@ -749,25 +749,6 @@ var data=[
         ]
     },
     {
-        "name": "YP Boxing Round",
-        "link": "",
-        "author": [
-        "XGN"
-        ],
-        "release": "2018-07-29",
-        "coauthor": [
-        ""
-        ],
-        "rating": 2,
-        "comment": "NSFW!!",
-        "tag": [
-        "Video",
-        "Kdenlive",
-        "ENG",
-        "Done"
-        ]
-    },
-    {
         "name": "Mettaton Block",
         "link": "",
         "author": [
@@ -924,25 +905,6 @@ var data=[
         "Tool",
         "E",
         "NONE",
-        "Done"
-        ]
-    },
-    {
-        "name": "五谷轮回之力(The power of five-corns-going-round-and-round)",
-        "link": "",
-        "author": [
-        "Zzzyt"
-        ],
-        "release": "2017-01-30",
-        "coauthor": [
-        ""
-        ],
-        "rating": 2,
-        "tag": [
-        "Video",
-        "Mine-Imator",
-        "ENG",
-        "CHN",
         "Done"
         ]
     },

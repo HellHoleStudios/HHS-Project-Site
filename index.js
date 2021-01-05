@@ -1,3 +1,9 @@
+var data;
+var tablehead;
+var mode;
+
+const MODE_SONG=1;
+const MODE_INDEX=0;
 
 var dec_template={
     "name":"",
@@ -25,10 +31,12 @@ var template={
     "rating":0
 }
 
-for(var i=0;i<data.length;i++){
-	if(data[i]["rating"]==undefined){
-		data[i]["rating"]=0;
-	}
+function initTable(){
+    for(var i=0;i<data.length;i++){
+        if(data[i]["rating"]==undefined){
+            data[i]["rating"]=0;
+        }
+    }
 }
 
 /*
@@ -39,7 +47,7 @@ Rating System
 3=some people out of HHS are using
 4=everyone should know this project
 */
-var tablehead=[
+var __tablehead=[
     ["Name","name",true],
     ["Author","author",true],
     ["Coauthor","coauthor",true],
@@ -49,6 +57,14 @@ var tablehead=[
     ["Hot","rating",true]
 ]
 
+var __songth=[
+    ["Name","name",true],
+    ["Author","author",true],
+    ["Release Date","release",true],
+    ["Tag","tag",true],
+    ["Length","length",true],
+    ["Source","source",true]
+]
 
 function sort(by,dir){
 	function cmp(a,b){ 
@@ -135,6 +151,10 @@ function FilterCheck(item,filter){
         return true;
     }
 
+    if(mode==MODE_SONG && item["source"].toLowerCase().includes(filter)){
+        return true;
+    }
+
     // console.log(item)
     if(FilterSearch(item,"tag",filter)){
         return true;
@@ -146,9 +166,10 @@ function FilterCheck(item,filter){
     }
     
     // console.log("author ")
-    if(FilterSearch(item,"coauthor",filter)){
+    if(mode==MODE_INDEX && FilterSearch(item,"coauthor",filter)){
         return true;
     }
+
     // console.log("coauthor ")
     return false;
 
@@ -256,7 +277,7 @@ function refreshTable(){
             }else if(tablehead[j][1]=="rating"){
                 var dat=data[i][tablehead[j][1]];
                 tmp+="<td class=\"text-center\"> <i title=\"Popularity:"+dat+"\" class=\"fa fa-thermometer-"+dat+"\"></i>"+dat+"</td>"
-            }else if(tablehead[j][1]=="release"){
+            }else if(tablehead[j][1].match("release|length|source")!=null){
                 //release date just normal
                 tmp+="<td>"+data[i][tablehead[j][1]]+"</td>";
             }else{

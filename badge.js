@@ -5,6 +5,8 @@ const status="badge-secondary" //gray
 const tool="badge-info" //cyan
 const layout="badge-danger" //red
 
+const style="badge-primary"
+
 var badges={
     //members
     "XGN":{
@@ -434,6 +436,11 @@ var badges={
         "tooltip":"Windows C++ API like windows.h",
         "display":"WinAPI"
     },
+    "FL":{
+        "kind":tool,
+        "tooltip":"FL Studio",
+        "display":"FL Studio"
+    },
 
     //layout lang
     "ENG":{
@@ -491,4 +498,16 @@ var badges={
         "tooltip":"The project will hardly be updated",
         "display":"Deserted"
     },
+
+    //style
+    "Touhou":{
+        "kind":style,
+        "tooltip":"Touhou style music/remix",
+        "display":"Touhou"
+    },
+    "8bit":{
+        "kind":style,
+        "tooltip":"8-bit music",
+        "display":"8Bit"
+    }
 }

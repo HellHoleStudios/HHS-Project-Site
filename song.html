@@ -7,7 +7,7 @@
         <link rel="stylesheet" href="https://cdn.staticfile.org/font-awesome/4.7.0/css/font-awesome.min.css">
         
         <script src="badge.js"></script>
-        <script src="data.js"></script>
+        <script src="songdata.js"></script>
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
         <script src="index.js"></script>
 		<link rel="icon" href="assets/HHS 32x.png" /> 
@@ -22,12 +22,16 @@
 	<div class="container">
         <center>
 			
-            <h1><b><img src="assets/HHS 512x.jpg" style="width:150px;"/>Hell Hole Studios Project Page</b></h1>
+            <h1><b><img src="assets/HHS 512x.jpg" style="width:150px;"/>Hell Hole Studios 
+                <ruby>A<rt>Audio</rt></ruby> &amp;
+                <ruby>V<rt>Video</rt></ruby>
+               Page</b></h1>
             <i><b>by <a href="https://hellholestudios.top">Hell Hole Studios</a></b></i> <br/>
-            <i><b>meets our members and related people <a href="member.html">here</a></b></i> <br/>
-            <a href="song.html">(WIP) AV Collection</a>  <br/>
+			<br/>
 
-            <i>This page maintains all our past and present major projects.</i> <br/>
+            <a href="index.html">Back to project page</a> <br/>
+            
+            <i>This page maintains all our <ruby>AV<rt>Audio Video</rt></ruby></i> <br/>
 
             <hr/>
 
@@ -35,8 +39,6 @@
             <input id="filter" class="form-control" onkeyup="refreshTable()" placeholder="Filter by Anything"> <br/>
             <hr/>
 
-            <b>Notice: After the massive blog move, all blog links are broken. Please search in <a href="https://blog.hellholestudios.top/archives/">Archive</a></b> <br/>
-            <b>Notice: XIZCM's Drive is dead forever</b>
             <div id="table">
                 
             </div>
@@ -44,28 +46,15 @@
         <div id="comments">
         </div>
         <hr/>
-                
-        <span class="badge badge-primary">Member</span>
-        <span class="badge badge-secondary">Status</span>
-        <span class="badge badge-success">Programming Language</span>
-        <span class="badge badge-danger">Layout Language</span>
-        <span class="badge badge-warning">Category</span>
-        <span class="badge badge-info">Tools Used</span>
-        <hr/>
 
-        <b>Popularity System</b> <br/>
-        0=No one uses <br/>
-        1=The author are using <br/>
-        2=Some people in HHS are using <br/>
-        3=Some people out of HHS are using <br/>
-        4=Everyone should know this project <br/>
+        <hr/>
 	</div>
     </body>
 
     <script>
-        data=__data;
-        tablehead=__tablehead;
-        mode=SONG_INDEX;
+        data=__song;
+        tablehead=__songth;
+        mode=MODE_SONG;
         initTable();
         Msort("release",false);
     </script>
