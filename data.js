@@ -1149,8 +1149,8 @@ var data=[
         "author":["XGN"],
         "release":"2019-12-17",
         "coauthor":[],
-        "tag":["Website","JS","HTML","ENG","Working"],
-        "comment":"Has stopped publishing due to privacy issue"
+        "tag":["Website","JS","HTML","ENG","Done"],
+        "comment":"Has stopped publishing due to privacy issue. Replaced by NFLS Score Collector Plus"
     },
     {
         "name":"Local Oj",
@@ -1479,6 +1479,15 @@ var data=[
         "release":"2020-12-31",
         "coauthor":["Zzzyt"],
         "tag":["Game","Website","JS","HTML","CHN","Done"],
+        "rating":2
+    },
+    {
+        "name":"NFLS Score Collector Plus",
+        "link":"https://github.com/XiaoGeNintendo/NFLS-Score-Collector-Plus",
+        "author":["XGN"],
+        "release":"2021-01-05",
+        "coauthor":[""],
+        "tag":["Website","Tool","JS","HTML","ENG","Done"],
         "rating":2
     },
 ]
