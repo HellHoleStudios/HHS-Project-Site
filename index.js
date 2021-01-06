@@ -294,8 +294,10 @@ function refreshTable(){
         tmp+="</tr>";
 
         if(mode==MODE_SONG){
-            tmp+='<tr id="supplement'+i+'" class="collapse">';
-            tmp+="<td colspan=6><b>Supplement:</b><br/>"+(data[i]["supplement"]==undefined?"No supplement":data[i]["supplement"])+"</td>"
+            tmp+='<tr><td colspan=6 style="padding:0px;">';
+            tmp+='<div id="supplement'+i+'" class="collapse"><div style="padding:.3rem;">';
+            tmp+="<b>Supplement:</b><br/>"+(data[i]["supplement"]==undefined?"No supplement":data[i]["supplement"]);
+            tmp+="</div></div></td>"
             tmp+="</tr>";
         }
     }
