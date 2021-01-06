@@ -6,7 +6,8 @@ var __song=[
         "comment": "NSFW!!",
         "tag": ["Video","Kdenlive","ENG"],
         "length": "01:34", //please strict follow mm:ss
-        "source": "更衣室大战"
+        "source": "更衣室大战",
+        "supplement":"No supplement" //enter supplement like this
     },
     {
         "name": "五谷轮回之力(The power of five-corns-going-round-and-round)",

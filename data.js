@@ -1,4 +1,4 @@
-var data=[
+var __data=[
     {
         "name":"HHSOJ Web Edition",
         "link":"https://github.com/XiaoGeNintendo/HHSOJ-Web-Edition",

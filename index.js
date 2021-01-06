@@ -222,7 +222,7 @@ function refreshTable(){
             continue;
         }
 
-        tmp+="<tr>";
+        tmp+='<tr data-toggle="collapse" data-target="#supplement'+i+'">';
         for(var j=0;j<tablehead.length;j++){
 			if(tablehead[j][1]=="name"){
 				if(data[i]["comment"]!=null){
@@ -292,6 +292,12 @@ function refreshTable(){
             
         }
         tmp+="</tr>";
+
+        if(mode==MODE_SONG){
+            tmp+='<tr id="supplement'+i+'" class="collapse">';
+            tmp+="<td colspan=6><b>Supplement:</b><br/>"+(data[i]["supplement"]==undefined?"No supplement":data[i]["supplement"])+"</td>"
+            tmp+="</tr>";
+        }
     }
     tmp+="</tbody></table>";
 	
