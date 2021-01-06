@@ -299,6 +299,7 @@ function refreshTable(){
             tmp+="<b>Supplement:</b><br/>"+(data[i]["supplement"]==undefined?"No supplement":data[i]["supplement"]);
             tmp+="</div></div></td>"
             tmp+="</tr>";
+            tmp+="<tr></tr>"; //to show a strip
         }
     }
     tmp+="</tbody></table>";

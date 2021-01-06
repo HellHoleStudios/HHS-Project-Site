@@ -33,4 +33,44 @@ var __song=[
         "length":"00:40",
         "source": "?"
     },
+    {
+        "name": "2 Beautiful Song",
+        "author": ["WZZ"],
+        "release": "2019-07-30",
+        "tag": ["Live"],
+        "length":"03:59",
+        "source": "Original"
+    },
+    {
+        "name": "2020-8-4",
+        "author": ["HDD"],
+        "release": "2020-08-04",
+        "tag": ["Test"],
+        "length":"00:12",
+        "source": "Original"
+    },
+    {
+        "name": "abyssal",
+        "author": ["HDD"],
+        "release": "2017-11-10",
+        "tag": [],
+        "length":"00:15",
+        "source": "?"
+    },
+    {
+        "name": "Battle",
+        "author": ["HDD"],
+        "release": "2018-05-03",
+        "tag": [],
+        "length":"02:36",
+        "source": "Battle against a true hero"
+    },
+    {
+        "name": "Black tune No.1",
+        "author": ["Zzzyt"],
+        "release": "2017-07-02",
+        "tag": ["FL"],
+        "length":"00:12",
+        "source": "?"
+    },
 ]

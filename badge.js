@@ -509,5 +509,16 @@ var badges={
         "kind":style,
         "tooltip":"8-bit music",
         "display":"8Bit"
-    }
+    },
+    "Live":{
+        "kind":style,
+        "tooltip":"Live recording",
+        "display":"Live"
+    },
+    "Test":{
+        "kind":style,
+        "tooltip":"Test melody",
+        "display":"Test"
+    },
+
 }
