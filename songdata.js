@@ -87,7 +87,7 @@ var __song=[
         "name": "秘封噩 梦日记.mp4",
         "author": ["HDD"],
         "release": "2018-08-31",
-        "tag": ["Music","Remix","Video","FL"],
+        "tag": ["Music","Video","Remix","FL"],
         "length":"01:34",
         "source": "上海アリス幻樂団 - ナイトメアダイアリー"
     },
@@ -145,10 +145,36 @@ var __song=[
     {
         "name": "Ljósie (HDD292 Remix)",
         "author": ["HDD"],
-        "release": "2017-7-16",
+        "release": "2017-07-16",
         "tag": ["Music","Remix","FL"],
         "length":"00:29",
         "source": "Ólafur Arnalds - Ljósið",
         "comment":"There's a spelling mistake. The name should be Ljósið."
+    },
+    {
+        "name": "DR2C",
+        "author": ["HDD"],
+        "release": "2018-02-02",
+        "tag": ["Music","Remix","FL"],
+        "length":"00:26",
+        "source": "Joey Grady - Lootin' Away",
+        "comment":"DR2C means Death Road to Canada, the game where this song comes from."
+    },
+    {
+        "name": "Karakuri Spirits",
+        "author": ["HDD"],
+        "release": "2017-08-22",
+        "tag": ["Music","Remix","FL"],
+        "length":"00:24",
+        "source": "安井洋介 - Karakuri Spirits (MEIKAI ARRANGE VERSION)",
+        "comment":"There are quite a few versions of this song and I couldn't really decide the origin."
+    },
+    {
+        "name": "",
+        "author": ["HDD"],
+        "release": "",
+        "tag": ["Music","Remix","FL"],
+        "length":"",
+        "source": "",
     },
 ]
