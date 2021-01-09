@@ -95,7 +95,7 @@ var __song=[
         "name": "Black tune No.1",
         "author": ["Zzzyt"],
         "release": "2017-07-02",
-        "tag": ["Music","FL"],
+        "tag": ["Music","Test","FL"],
         "length":"00:12",
         "source": "Original"
     },
@@ -137,9 +137,9 @@ var __song=[
         "name": "a prelude",
         "author": ["HDD"],
         "release": "2020-03-18",
-        "tag": ["Music","FL"],
+        "tag": ["Music","Remix","FL"],
         "length":"00:36",
-        "source": "Original",
+        "source": "King Crimson - Prelude: Song of the Gulls",
         "comment":"The intro part is 4s long and the repeat part is 32s long."
     },
     {
