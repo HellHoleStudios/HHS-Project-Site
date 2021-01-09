@@ -303,7 +303,7 @@ function refreshTable(){
         if(mode==MODE_SONG&&data[i]["supplement"]!=undefined){
             tmp+='<tr style="background-color:#ffc;"><td colspan=6 style="padding:0px;">';
             tmp+='<div id="supplement'+i+'" class="collapse"><div style="padding:.3rem;">';
-            tmp+=data[i]["supplement"];
+            tmp+=data[i]["supplement"].trim().replaceAll("\n","<br/>");
             tmp+="</div></div></td>"
             tmp+="</tr>";
             tmp+="<tr></tr>"; //to show a strip

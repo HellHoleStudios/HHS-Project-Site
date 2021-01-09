@@ -456,6 +456,11 @@ var badges={
         "tooltip":"Sony Vegas",
         "display":"Vegas"
     },
+    "FMT":{
+        "kind":tool,
+        "tooltip":"Famitracker(FMT) is a 8bit music making software",
+        "display":"Famitracker"
+    },
 
     //layout lang
     "ENG":{
