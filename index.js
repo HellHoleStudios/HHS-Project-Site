@@ -58,7 +58,7 @@ var __tablehead=[
 ]
 
 var __songth=[
-    ["Name","name",true,"width:25%;"],
+    ["Name","name",true,"width:30%;"],
     ["Author","author",true],
     ["Release Date","release",true,'min-width:95px;'],
     ["Tag","tag",true],
