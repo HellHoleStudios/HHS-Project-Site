@@ -47,7 +47,8 @@ var __song=[
         "release": "2019-06-27",
         "tag": ["Music","Live"],
         "length":"04:47",
-        "source": "Original"
+        "source": "Original",
+        "supplement":"Used as <i>THHHS - WZZ's Theme</i>"
     },
     {
         "name": "2020-8-4",
@@ -63,7 +64,8 @@ var __song=[
         "release": "2017-11-10",
         "tag": ["Music","FL"],
         "length":"00:15",
-        "source": "?"
+        "source": "?",
+        "supplement":"Used as <i>Battle Against ZJS - Anger Theme 1</i>"
     },
     {
         "name": "Battle against a true hero",
@@ -71,7 +73,8 @@ var __song=[
         "release": "2018-05-03",
         "tag": ["Music","Video","FL"],
         "length":"02:36",
-        "source": "Toby Fox - Battle Against a True Hero"
+        "source": "Toby Fox - Battle Against a True Hero",
+        "supplement":"Used as <i>Battle Against ZKY - Normal Theme</i><br/>(Reversed) Used as <i>Battle Against ZKY - Anger Theme</i>"
     },
     {
         "name": "Undertale.flp",
@@ -79,7 +82,8 @@ var __song=[
         "release": "2018-01-06",
         "tag": ["Music","Video","FL"],
         "length":"03:40",
-        "source": "Toby Fox - Undertale"
+        "source": "Toby Fox - Undertale",
+        "supplement":"Used as <i>YP Beating Me - Div2 Theme</i>"
     },
     {
         "name": "时之回廊.flp",
