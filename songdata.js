@@ -6,46 +6,54 @@ var __song=[
         "comment": "NSFW!!",
         "tag": ["Video","Kdenlive","ENG"],
         "length": "01:34", //please strict follow mm:ss
-        "source": "更衣室大战",
+        "source": "\"更衣室大战\"",
         "supplement":"No supplement" //enter supplement like this
     },
     {
         "name": "五谷轮回之力(The power of five-corns-going-round-and-round)",
         "author": ["Zzzyt"],
         "release": "2017-01-30",
-        "tag": ["Video","Mine-Imator","ENG","CHN"],
-        "length":"??:??",
+        "tag": ["Animation","Mine-Imator","Vegas","ENG","CHN"],
+        "length":"00:15",
         "source": "Original"
     },
     {
-        "name": "Tribute!",
+        "name": "tribute.veg",
         "author": ["HDD"],
         "release": "2018-03-23",
-        "tag": ["Video"],
+        "tag": ["Music","Video","YTPMV","Vegas","FL"],
         "length":"00:50",
-        "source": "?"
+        "source": "cerror - tribute"
     },
     {
         "name": "Pike Place",
         "author": ["HDD"],
         "release": "2018-02-12",
-        "tag": ["Video"],
+        "tag": ["Music","Video","YTPMV","FL"],
         "length":"00:40",
-        "source": "?"
+        "source": "RQ - PIKE PLACE"
     },
     {
-        "name": "2 Beautiful Song",
+        "name": "Beautiful Song 2",
         "author": ["WZZ"],
         "release": "2019-07-30",
-        "tag": ["Live"],
+        "tag": ["Music","Live"],
         "length":"03:59",
+        "source": "Original"
+    },
+    {
+        "name": "Beautiful Song",
+        "author": ["WZZ"],
+        "release": "2019-06-27",
+        "tag": ["Music","Live"],
+        "length":"04:47",
         "source": "Original"
     },
     {
         "name": "2020-8-4",
         "author": ["HDD"],
         "release": "2020-08-04",
-        "tag": ["Test"],
+        "tag": ["Test","FL"],
         "length":"00:12",
         "source": "Original"
     },
@@ -53,24 +61,72 @@ var __song=[
         "name": "abyssal",
         "author": ["HDD"],
         "release": "2017-11-10",
-        "tag": [],
+        "tag": ["Music","FL"],
         "length":"00:15",
         "source": "?"
     },
     {
-        "name": "Battle",
+        "name": "Battle against a true hero",
         "author": ["HDD"],
         "release": "2018-05-03",
-        "tag": [],
+        "tag": ["Music","Video","FL"],
         "length":"02:36",
-        "source": "Battle against a true hero"
+        "source": "Toby Fox - Battle Against a True Hero"
+    },
+    {
+        "name": "Undertale.flp",
+        "author": ["HDD"],
+        "release": "2018-01-06",
+        "tag": ["Music","Video","FL"],
+        "length":"03:40",
+        "source": "Toby Fox - Undertale"
+    },
+    {
+        "name": "时之回廊.flp",
+        "author": ["HDD"],
+        "release": "2017-08-29",
+        "tag": ["Music","Video","FL"],
+        "length":"03:06",
+        "source": "光田康典 - 时の回廊"
+    },
+    {
+        "name": "Sick on Monday.flp",
+        "author": ["HDD"],
+        "release": "2018-01-06",
+        "tag": ["Music","Video","FL"],
+        "length":"00:46",
+        "source": "Elwood - Sick on Monday"
+    },
+    {
+        "name": "Island Island.flp",
+        "author": ["HDD"],
+        "release": "2018-04-13",
+        "tag": ["Music","Video","FL"],
+        "length":"00:47",
+        "source": "tothejazz - Island Island"
+    },
+    {
+        "name": "StickerbrushSymphony.flp",
+        "author": ["HDD"],
+        "release": "2018-08-29",
+        "tag": ["Music","Video","FL"],
+        "length":"02:13",
+        "source": "David Wise - Stickerbrush Symphony"
+    },
+    {
+        "name": "秘封噩 梦日记.mp4",
+        "author": ["HDD"],
+        "release": "2018-08-31",
+        "tag": ["Music","Video","FL"],
+        "length":"01:34",
+        "source": "上海アリス幻樂団 - ナイトメアダイアリー"
     },
     {
         "name": "Black tune No.1",
         "author": ["Zzzyt"],
         "release": "2017-07-02",
-        "tag": ["FL"],
+        "tag": ["Music","FL"],
         "length":"00:12",
-        "source": "?"
+        "source": "Original"
     },
 ]

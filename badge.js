@@ -186,6 +186,11 @@ var badges={
         "tooltip":"Videos",
         "display":"Video"
     },
+    "Animation":{
+        "kind":category,
+        "tooltip":"Animation",
+        "display":"Animation"
+    },
     "Extension":{
         "kind":category,
         "tooltip":"Chrome Extension",
@@ -195,6 +200,11 @@ var badges={
         "kind":category,
         "tooltip":"a Machine Learning or AI Model",
         "display":"Model"
+    },
+    "Music":{
+        "kind":category,
+        "tooltip":"Music",
+        "display":"Music"
     },
 
     //programming language
@@ -438,8 +448,13 @@ var badges={
     },
     "FL":{
         "kind":tool,
-        "tooltip":"FL Studio",
+        "tooltip":"Fruity Loop Studio",
         "display":"FL Studio"
+    },
+    "Vegas":{
+        "kind":tool,
+        "tooltip":"Sony Vegas",
+        "display":"Vegas"
     },
 
     //layout lang
@@ -507,8 +522,13 @@ var badges={
     },
     "8bit":{
         "kind":style,
-        "tooltip":"8-bit music",
+        "tooltip":"8-bit or Chiptune music",
         "display":"8Bit"
+    },
+    "YTPMV":{
+        "kind":style,
+        "tooltip":"Youtube Poop Music Video. Also known as otoMAD",
+        "display":"YTPMV"
     },
     "Live":{
         "kind":style,
@@ -520,5 +540,4 @@ var badges={
         "tooltip":"Test melody",
         "display":"Test"
     },
-
 }
