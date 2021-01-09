@@ -530,6 +530,11 @@ var badges={
         "tooltip":"Youtube Poop Music Video. Also known as otoMAD",
         "display":"YTPMV"
     },
+    "Remix":{
+        "kind":style,
+        "tooltip":"Remix of an existing piece (including transcriptions, but except YPTMVs)",
+        "display":"Remix"
+    },
     "Live":{
         "kind":style,
         "tooltip":"Live recording",
