@@ -192,12 +192,13 @@ var __song=[
         "tag": ["Music","Remix","FL"],
         "length":"01:08",
         "source": "Cerror and Xylo - Dans la rue",
-        "supplement": `Three versions in total. 
-        XGN made the super Dans La Rue v123 which combined three versions.
-        Also Rue La Dans which is reversed version
+        "supplement": `
         Used as <i>YPBeatingMe - Div1 Theme</i>
         (Double speed) Used as <i>Battle Against HDD - Anger Theme</i>
-        `
+        `,
+        "comment":`Three versions in total. 
+        XGN made the super Dans La Rue v123 which combined three versions.
+        Also Rue La Dans which is reversed version`
     },
     {
         "name": "Easy Loop",
