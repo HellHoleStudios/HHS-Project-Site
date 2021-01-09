@@ -50,8 +50,8 @@ Rating System
 var __tablehead=[
     ["Name","name",true],
     ["Author","author",true],
-    ["Coauthor","coauthor",true],
-    ["Release Date","release",true],
+    ["Coauthor","coauthor",true,'width:10%;'],
+    ["Release Date","release",true,'min-width:95px;'],
     ["Tag","tag",true],
     ["Link","link",true],
     ["Hot","rating",true]
@@ -202,16 +202,21 @@ function refreshTable(){
         if(importantOnly && !tablehead[i][2]){
             continue;
         }
+        tmp+="<th ";
+        if(tablehead[i][3]){
+            tmp+='style="'+tablehead[i][3]+'" ';
+        }
         if(tablehead[i][1]==curSort){
 			if(curDir){
-				tmp+="<th onclick=\"Msort('"+tablehead[i][1]+"',false)\">"+tablehead[i][0]+"<i class=\"fa fa-sort-up\"></i></th>";
+				tmp+="onclick=\"Msort('"+tablehead[i][1]+"',false)\">"+tablehead[i][0]+"<i class=\"fa fa-sort-up\"></i></th>";
 			}
 			else{
-				tmp+="<th onclick=\"Msort('"+tablehead[i][1]+"',true)\">"+tablehead[i][0]+"<i class=\"fa fa-sort-down\"></i></th>";
+				tmp+="onclick=\"Msort('"+tablehead[i][1]+"',true)\">"+tablehead[i][0]+"<i class=\"fa fa-sort-down\"></i></th>";
 			}
         }else{
-            tmp+="<th onclick=\"Msort('"+tablehead[i][1]+"',true)\">"+tablehead[i][0]+"<i class=\"fa fa-sort\"></i></th>";
+            tmp+="onclick=\"Msort('"+tablehead[i][1]+"',true)\">"+tablehead[i][0]+"<i class=\"fa fa-sort\"></i></th>";
         }
+        
     }
     tmp+="</tr></thead><tbody>";
 
