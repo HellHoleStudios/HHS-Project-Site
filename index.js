@@ -222,16 +222,23 @@ function refreshTable(){
             continue;
         }
 
-        tmp+='<tr data-toggle="collapse" data-target="#supplement'+i+'">';
+        if(mode==MODE_SONG&&data[i]["supplement"]!=undefined){
+            tmp+='<tr data-toggle="collapse" data-target="#supplement'+i+'">';
+        }
+        else{
+            tmp+='<tr>'
+        }
         for(var j=0;j<tablehead.length;j++){
 			if(tablehead[j][1]=="name"){
+                tmp+="<td>"+data[i][tablehead[j][1]];
+                if(data[i]["supplement"]!=undefined){
+                    tmp+='*';
+                }
 				if(data[i]["comment"]!=null){
-					tmp+="<td>"+data[i][tablehead[j][1]]+"<sup><a id=\"src"+supc+"\" href=\"#com"+supc+"\" title=\""+data[i]["comment"]+"\">["+supc+"]</a></sup></td>";
+					tmp+="<sup><a id=\"src"+supc+"\" href=\"#com"+supc+"\" title=\""+data[i]["comment"]+"\">["+supc+"]</a></sup>";
 					supc++;
-				}
-				else{
-					tmp+="<td>"+data[i][tablehead[j][1]]+"</td>";
-				}
+                }
+				tmp+="</td>";
 			}else if(tablehead[j][1]=="link"){
 
                 var rules=[
@@ -293,10 +300,10 @@ function refreshTable(){
         }
         tmp+="</tr>";
 
-        if(mode==MODE_SONG){
-            tmp+='<tr><td colspan=6 style="padding:0px;">';
+        if(mode==MODE_SONG&&data[i]["supplement"]!=undefined){
+            tmp+='<tr style="background-color:#ffc;"><td colspan=6 style="padding:0px;">';
             tmp+='<div id="supplement'+i+'" class="collapse"><div style="padding:.3rem;">';
-            tmp+="<b>Supplement:</b><br/>"+(data[i]["supplement"]==undefined?"No supplement":data[i]["supplement"]);
+            tmp+=data[i]["supplement"];
             tmp+="</div></div></td>"
             tmp+="</tr>";
             tmp+="<tr></tr>"; //to show a strip
