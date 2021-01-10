@@ -556,7 +556,7 @@ var __song = [{
         "release": "2017-07-19",
         "tag": ["Music", "Test", "FL"],
         "length": "00:25",
-        "source": "Original"
+        "source": "?"
     },
     {
         "name": "WAVEWAVE",
@@ -569,5 +569,81 @@ var __song = [{
         <b>Comment on 2021/1/9</b>
         Just random product of key rolling. The original FL project file was lost.
         `
+    },
+    {
+        "name": "WHITE BLOCK",
+        "author": ["HDD"],
+        "release": "2016-10-29",
+        "tag": ["Music", "Remix", "FL"],
+        "length": "00:41",
+        "source": "Renard - Zerd_01",
+        "supplement":`
+        Intended for the Scratch game "别踩白块" but eventually unused.
+        It's a slight remix of Zerd_01's bass section.
+        `
+    },
+    {
+        "name":"Untitled Transcription",
+        "author": ["WZZ"],
+        "release": "2019-06-14",
+        "tag": ["Music", "Remix","FreePiano"],
+        "length": "02:09",
+        "source": "NateWantsToBattle - Undertale Genocide Song - Ashes"
+    },
+    {
+        "name": "Woodwind",
+        "author": ["HDD"],
+        "release": "2017-07-02",
+        "tag": ["Music", "Test", "FL"],
+        "length": "00:14",
+        "source": "?"
+    },
+    {
+        "name": "World's 3rd Worst Music",
+        "author": ["HDD"],
+        "release": "2017-05-05",
+        "tag": ["Music", "Test", "FL"],
+        "length": "00:05",
+        "source": "?"
+    },
+    {
+        "name": "World's 4th Worst Music",
+        "author": ["HDD"],
+        "release": "2017-05-06",
+        "tag": ["Music", "Test", "FL"],
+        "length": "00:40",
+        "source": "?"
+    },
+    {
+        "name": "You know you like GSL",
+        "author": ["HDD"],
+        "release": "2017-05-23",
+        "tag": ["Music", "Remix", "FL"],
+        "length": "03:55",
+        "source": "格桑拉, DJ Snake / AlunaGeorge - You Know You Like It"
+    },
+    {
+        "name": "yuki satellites",
+        "author": ["HDD"],
+        "release": "2018-08-13",
+        "tag": ["Music", "Remix", "FL"],
+        "length": "00:41",
+        "source": "Radix - Yuki Satellites"
+    },
+    {
+        "name": "Yume Nikki (post-rock arrangement)",
+        "author": ["HDD"],
+        "release": "2018-01-25",
+        "tag": ["Music", "Remix", "FL"],
+        "length": "02:42",
+        "source": "ききやま - BGM_010"
+    },
+    {
+        "name": "王八骑士",
+        "author": ["HDD"],
+        "release": "2018-06-26",
+        "tag": ["Music", "Remix", "FL"],
+        "length": "00:10",
+        "source": "Kitsune² - Ridge Rider"
     },
 ]
