@@ -406,6 +406,11 @@ var badges = {
         "tooltip": "A blog making tool",
         "display": "Wordpress"
     },
+    "Hexo": {
+        "kind": tool,
+        "tooltip": "A static site generating tool",
+        "display": "Hexo"
+    },
     "PyWright": {
         "kind": tool,
         "tooltip": "A program to make Phoenix Wright games",

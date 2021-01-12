@@ -1101,7 +1101,7 @@ var __data = [{
         "author": ["HHS"],
         "release": "2019-04-04",
         "coauthor": ["XGN", "Zzzyt", "HDD", "XIZCM", "MK", "SYR", "ZKY"],
-        "tag": ["Literature", "PHP", "Wordpress", "CHN", "ENG", "JPN", "Working"],
+        "tag": ["Literature", "PHP", "Hexo", "CHN", "ENG", "JPN", "Working"],
         "rating": 4
     },
     {
