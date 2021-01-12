@@ -1158,13 +1158,13 @@ var __data = [{
     },
     {
         "name": "Aola Star Crawler",
-        "link": "https://github.com/XiaoGeNintendo/Aola-Star-Crawler",
+        "link": {"Github":"https://github.com/XiaoGeNintendo/Aola-Star-Crawler",
+                 "Quanquan":" http://qq.100bt.com/LocateComment.action?topicId=23358564&commentId=193640659###"},
         "author": ["XGN"],
         "release": "2020-02-19",
         "coauthor": [],
         "tag": ["Tool", "Spider", "Java", "ENG", "CHN", "Done"],
         "rating": 3,
-        "comment": "Visit the blog on Quanquan: http://qq.100bt.com/LocateComment.action?topicId=23358564&commentId=193640659###"
     },
     {
         "name": "Box Cleaning Simulator",
@@ -1316,24 +1316,36 @@ var __data = [{
     {
         "name": "Segicverse",
         "link": {"Volume 1-9":"https://www.bilibili.com/read/cv5224967",
-                 "Extra(Please find manually in the section)":"https://xiaogenintendo.github.io/tags/ZKY/",
+                 "Extra":"https://xiaogenintendo.github.io/categories/Literature/Segicverse/",
                  "Special(Heavy NSFW, please find manually)":"https://www.pixiv.net/users/54042069"},
         "author": ["ZKY"],
         "release": "2020-03-22",
         "coauthor": ["XGN"],
-        "tag": ["Literature", "CHN", "Working"],
+        "tag": ["Literature", "CHN", "Done"],
         "rating": 2,
         "comment": "Story about ZKY's characters"
     },
     {
         "name": "Roaming Travellers in fantasy extravaganza",
-        "link": "https://drive.google.com/file/d/1MXd_Op99zalQaQxqqK7DhGGWuMT_KseR/view?usp=sharing",
+        "link": {"Initial Release":"https://drive.google.com/file/d/1MXd_Op99zalQaQxqqK7DhGGWuMT_KseR/view?usp=sharing",
+                 "Supplement":"https://xiaogenintendo.github.io/categories/Literature/OC-Setting/"},
         "author": ["XGN"],
         "release": "2020-08-31",
         "coauthor": [],
         "tag": ["Literature", "CHN", "Done"],
         "rating": 2,
         "comment": "Settings about characters appear in LSS and XGN's stories"
+    },
+    {
+        "name": "LSS Short",
+        "link": {"I. Dandelion":"https://xiaogenintendo.github.io/2020/04/28/Dandelion-LSS-Short/",
+                 "II. Dream":"https://xiaogenintendo.github.io/2020/05/02/Dream-LSS-Short/",
+                 "III. Afterlife":"https://xiaogenintendo.github.io/2020/12/19/Afterlife-LSS-Short/"},
+        "author": ["XGN"],
+        "release": "2020-04-28",
+        "coauthor": [],
+        "tag": ["Literature", "ENG", "Done"],
+        "rating": 2,
     },
     {
         "name": "The Lost Forest",
@@ -1456,6 +1468,16 @@ var __data = [{
         "coauthor": [""],
         "tag": ["Website", "Tool", "JS", "HTML", "ENG", "Done"],
         "rating": 2
+    },
+    {
+        "name": "USB Tool",
+        "link": "http://db--zzzyt.repl.co/usbtool/usbtool.html",
+        "author": ["Zzzyt"],
+        "release": "",
+        "coauthor": ["XIZCM"],
+        "tag": ["Tool", "C++", "WinAPI", "ENG", "Done"],
+        "rating": 3,
+        "comment": "To enable USB on Mythware Student Side"
     },
 ]
 
