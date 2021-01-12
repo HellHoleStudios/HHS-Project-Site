@@ -190,6 +190,45 @@ function filterCheck(item) {
     return true;
 }
 
+String.prototype.replaceAll = function (FindText, RepText) {
+regExp = new RegExp(FindText, "g");
+return this.replace(regExp, RepText);
+}
+
+function renderLink(link){
+    var rules = [
+        ["github.com", "Link to Github", "fa fa-github", false],
+        ["blog.hellholestudios.top", "Link to HHS Blog", "fa fa-wordpress", true],
+        ["drive.google.com", "Link to Google Drive", "fa fa-google", false],
+        ["drive.xizcm.site", "Link to XIZCM's Drive", "fa fa-database", true],
+        ["xiaogenintendo.github.io", "Link to XGN's Blog", "fa fa-envelope", false],
+        ["itch.io", "Link to Itch.io", "fa fa-gamepad", false]
+    ]
+
+    var tmp=""
+    if (link == "") {
+        tmp += "<i data-toggle=\"tooltip\" title=\"No Link Available\" class=\"fa fa-close\"></i>";
+    } else {
+        var found = false;
+        for (var item = 0; item < rules.length; item++) {
+            if (link.includes(rules[item][0])) {
+                tmp += "<a data-toggle=\"tooltip\" target=\"_blank\"  title=\"" + rules[item][1] + "\" href=\"" + link + "\"><i class=\"" + rules[item][2] + "\"></i></a>";
+                if (rules[item][3]) {
+                    tmp += "<sup><i data-toggle=\"tooltip\" class=\"fa fa-exclamation\" title=\"WARNING: Link probably dead/unupdated\"></sup>"
+                }
+                tmp += "</td>";
+                found = true;
+                break;
+            }
+        }
+        if (!found) {
+            tmp += "<a data-toggle=\"tooltip\" target=\"_blank\"  title=\"Link to the Resources\" href=\"" + link + "\"><i class=\"fa fa-external-link\"></i></a>";
+        }
+    }
+
+    return tmp;
+}
+
 function refreshTable() {
     var node = document.getElementById("table");
 
@@ -245,46 +284,51 @@ function refreshTable() {
                 tmp += "</td>";
             } else if (tablehead[j][1] == "link") {
 
-                var rules = [
-                    ["github.com", "Link to Github", "fa fa-github", false],
-                    ["blog.hellholestudios.top", "Link to HHS Blog", "fa fa-wordpress", true],
-                    ["drive.google.com", "Link to Google Drive", "fa fa-google", false],
-                    ["drive.xizcm.site", "Link to XIZCM's Drive", "fa fa-database", true],
-                    ["xiaogenintendo.github.io", "Link to XGN's Blog", "fa fa-envelope", false],
-                    ["itch.io", "Link to Itch.io", "fa fa-gamepad", false]
-                ]
+                var link=data[i][tablehead[j][1]]
 
-                if (data[i][tablehead[j][1]] == "") {
-                    tmp += "<td class=\"text-center\"><i data-toggle=\"tooltip\" title=\"No Link Available\" class=\"fa fa-close\"></i></td>";
-                } else {
-                    var found = false;
-                    for (var item = 0; item < rules.length; item++) {
-                        if (data[i][tablehead[j][1]].includes(rules[item][0])) {
-                            tmp += "<td class=\"text-center\"><a data-toggle=\"tooltip\" target=\"_blank\"  title=\"" + rules[item][1] + "\" href=\"" + data[i][tablehead[j][1]] + "\"><i class=\"" + rules[item][2] + "\"></i></a>";
-                            if (rules[item][3]) {
-                                tmp += "<sup><i data-toggle=\"tooltip\" class=\"fa fa-exclamation\" title=\"WARNING: Link probably dead/unupdated\"></sup>"
-                            }
-                            tmp += "</td>";
-                            found = true;
-                            break;
-                        }
+                if(typeof link == "string"){
+                    tmp += "<td class=\"text-center\">"+renderLink(link)+"</td>"
+                }else{
+
+                    var cls=""
+
+                    for(var k in link){
+                        cls += `${k}:${renderLink(link[k])}<br/>`
                     }
-                    if (!found) {
-                        tmp += "<td class=\"text-center\"><a data-toggle=\"tooltip\" target=\"_blank\"  title=\"Link to the Resources\" href=\"" + data[i][tablehead[j][1]] + "\"><i class=\"fa fa-external-link\"></i></a></td>";
-                    }
+
+                    tmp += `
+                    <div class="modal fade" id="modal${i}">
+                      <div class="modal-dialog">
+                        <div class="modal-content">
+                     
+                          <!-- 模态框头部 -->
+                          <div class="modal-header">
+                            <h4 class="modal-title">Links</h4>
+                            <button type="button" class="close" data-dismiss="modal">&times;</button>
+                          </div>
+                     
+                          <!-- 模态框主体 -->
+                          <div class="modal-body">
+                            ${cls}
+                          </div>
+                     
+                          <!-- 模态框底部 -->
+                          <div class="modal-footer">
+                            <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                          </div>
+                     
+                        </div>
+                      </div>
+                    </div>
+                    `
+
+                    tmp += `<td class="text-center">
+                    <span data-toggle="modal" data-target="#modal${i}">
+                        <i data-toggle="tooltip" title="Multiple Links Available. Click for more" class="fa fa-ellipsis-h"></i>
+                    </span>
+                    </td>`;
                 }
-                // if(data[i][tablehead[j][1]].includes("github.com")){
-                //     tmp+="<td class=\"text-center\"><a target=\"_blank\" title=\"Link to the Github Page\" href=\""+data[i][tablehead[j][1]]+"\"><i class=\"fa fa-github\"></i></a></td>";
-                // }
-                // else if(data[i][tablehead[j][1]].includes("blog.hellholestudios.top")){
-                //     tmp+="<td class=\"text-center\"><a target=\"_blank\" title=\"Link to our Blog\" href=\""+data[i][tablehead[j][1]]+"\"><i class=\"fa fa-wordpress\"></i></a></td>";
-                // }
-                // else if(data[i][tablehead[j][1]]==""){
-                //     tmp+="<td class=\"text-center\"><i title=\"No Link Available\" class=\"fa fa-close\"></i></td>";
-                // }
-                // else{
-                //     tmp+="<td class=\"text-center\"><a target=\"_blank\"  title=\"Link to the Resources\" href=\""+data[i][tablehead[j][1]]+"\"><i class=\"fa fa-external-link\"></i></a></td>";
-                // }				
+			
             } else if (tablehead[j][1] == "rating") {
                 var dat = data[i][tablehead[j][1]];
                 tmp += "<td class=\"text-center\"> <i title=\"Popularity:" + dat + "\" class=\"fa fa-thermometer-" + dat + "\"></i>" + dat + "</td>"
