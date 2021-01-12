@@ -1296,7 +1296,8 @@ var __data = [{
     },
     {
         "name": "President Of Gensokyo",
-        "link": "https://xgn.itch.io/president-of-gensokyo",
+        "link": {"Itch":"https://xgn.itch.io/president-of-gensokyo",
+                 "Github(Recommended)":"https://github.com/XiaoGeNintendo/PresidentOfGensokyo"},
         "author": ["XGN"],
         "release": "2020-08-08",
         "coauthor": ["Zzzyt"],
@@ -1334,7 +1335,8 @@ var __data = [{
     },
     {
         "name": "The Lost Forest",
-        "link": "https://xgn.itch.io/the-lost-forest",
+        "link": {"Itch":"https://xgn.itch.io/the-lost-forest",
+                 "Ludum Dare":"https://ldjam.com/events/ludum-dare/47/the-lost-forest"},
         "author": ["XGN"],
         "release": "2020-10-05",
         "coauthor": ["Zzzyt", "HDD"],
@@ -1357,7 +1359,8 @@ var __data = [{
         "release": "2020-12-09",
         "coauthor": [""],
         "tag": ["Tool", "py3", "ENG", "Done"],
-        "comment": "Generate First Letter Problem Using Source from 'China Daily'"
+        "comment": "Generate First Letter Problem Using Source from 'China Daily'",
+        "rating":3
     },
     {
         "name": "Inline Mahjong Helper",
@@ -1426,7 +1429,8 @@ var __data = [{
     },
     {
         "name": "Animate Wallpaper",
-        "link": "https://xiaogenintendo.github.io/2020/12/30/animate-bg-release/",
+        "link": {"Release":"https://xiaogenintendo.github.io/2020/12/30/animate-bg-release/",
+                 "Gist":"https://gist.github.com/XiaoGeNintendo/899e81f6f2a33de488c001bef45ba861"},
         "author": ["XGN"],
         "release": "2020-12-30",
         "coauthor": [""],
