@@ -1115,7 +1115,7 @@ var __data = [{
     },
     {
         "name": "Local Oj",
-        "link": "",
+        "link": "https://github.com/XiaoGeNintendo/local-oj",
         "author": ["XGN"],
         "release": "2019-10-30",
         "coauthor": [],
@@ -1315,7 +1315,9 @@ var __data = [{
     },
     {
         "name": "Segicverse",
-        "link": "https://www.bilibili.com/read/cv5224967",
+        "link": {"Volume 1-9":"https://www.bilibili.com/read/cv5224967",
+                 "Extra(Please find manually in the section)":"https://xiaogenintendo.github.io/tags/ZKY/",
+                 "Special(Heavy NSFW, please find manually)":"https://www.pixiv.net/users/54042069"},
         "author": ["ZKY"],
         "release": "2020-03-22",
         "coauthor": ["XGN"],

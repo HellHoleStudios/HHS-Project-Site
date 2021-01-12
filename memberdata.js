@@ -26,8 +26,12 @@ var member = [{
                 "display": "Github"
             },
             {
-                "link": "https://zzzzzzyt.github.io/",
+                "link": "https://z.ys.al/",
                 "display": "PersonalPage"
+            },
+            {
+                "link": "http://db--zzzyt.repl.co/",
+                "display": "Database"
             }
         ]
     },
@@ -53,6 +57,10 @@ var member = [{
             {
                 "link": "https://xiaogenintendo.github.io/xgn-homepage-test/",
                 "display": "GameReviewPage"
+            },
+            {
+                "link": "https://xiaogenintendo.github.io",
+                "display": "Blog"
             }
         ]
     },
@@ -72,8 +80,8 @@ var member = [{
                 "display": "Github"
             },
             {
-                "link": "https://xizcm.site",
-                "display": "Blog(Down)"
+                "link": "https://ys.al/",
+                "display": "PersonalPage"
             }
         ]
     },
@@ -91,7 +99,12 @@ var member = [{
             {
                 "link": "https://github.com/zhukyRLG",
                 "display": "Github"
-            }
+            },
+            {
+                "link": "https://space.bilibili.com/325065193",
+                "display": "Bilibili"
+            },
+            
         ]
     },
     {
