@@ -1479,6 +1479,15 @@ var __data = [{
         "rating": 3,
         "comment": "To enable USB on Mythware Student Side"
     },
+    {
+        "name": "Heart of the Vortex",
+        "link": "https://www.bilibili.com/read/cv9285182",
+        "author": ["ZKY"],
+        "release": "2021-01-15",
+        "coauthor": ["XGN"],
+        "tag": ["Literature", "CHN", "Working"],
+        "rating": 2,
+    },
 ]
 
 // function transfer(obj){

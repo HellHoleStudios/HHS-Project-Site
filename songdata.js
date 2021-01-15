@@ -47,6 +47,7 @@ var __song = [{
         "tag": ["Music", "Video", "Remix", "FL"],
         "length": "03:40",
         "source": "Toby Fox - Undertale",
+        "audio": "audio/Undertale.mp3",
         "supplement": "Used as <i>YP Beating Me - Div2 Theme</i>"
     },
     {
@@ -113,6 +114,7 @@ var __song = [{
         "tag": ["Music", "Live"],
         "length": "04:47",
         "source": "Original",
+        "audio": "audio/BSong.mp3",
         "supplement": "Used as <i>THHHS - WZZ's Theme</i>"
     },
     {
@@ -191,6 +193,7 @@ var __song = [{
         "tag": ["Music", "Remix", "FL"],
         "length": "01:08",
         "source": "Cerror and Xylo - Dans la rue",
+        "audio": "audio/dlr3.mp3",
         "supplement": `
         Used as <i>YPBeatingMe - Div1 Theme</i>
         (Double speed) Used as <i>Battle Against HDD - Anger Theme</i>
@@ -230,6 +233,7 @@ var __song = [{
         "tag": ["Music", "Test", "FL"],
         "length": "00:15",
         "source": "Original",
+        "audio": "audio/hcd.mp3",
         "supplement": "Used as <i>MathExamSimulator - 90pts Theme</i>"
     },
     {
@@ -248,7 +252,8 @@ var __song = [{
         "tag": ["Music", "Remix", "FL"],
         "length": "00:24",
         "source": "xyce - La Cherie",
-        "supplement": "Used as <i>TestSTG3 - Ending Theme<i> and <i>The Lost Forest - Ending Theme</i>"
+        "audio": "audio/lac.mp3",
+        "supplement": "Used as <i>TestSTG3 - Ending Theme</i> and <i>The Lost Forest - Ending Theme</i>"
     },
     {
         "name": "love psalm",
@@ -298,6 +303,7 @@ var __song = [{
         "tag": ["Music", "Remix", "FL"],
         "length": "00:48",
         "source": "安井洋介 - POINT OF NO RETURN",
+        "audio": "audio/PoNR.mp3",
         "supplement": `
         Used as <i>TestSTG3 - Spell Card Practise's Theme</i>
         Used as <i>The Lost Forest - Practise's Theme</i>
@@ -336,6 +342,7 @@ var __song = [{
         "tag": ["Music", "FL"],
         "length": "02:12",
         "source": "Original",
+        "audio": "audio/title.ogg",
         "supplement": `
         Used as <i>Touhou Rune Legend - Title Theme</i>
         Used as <i>TestSTG2 - Title Theme</i>
@@ -358,6 +365,7 @@ var __song = [{
         "tag": ["Music", "FL"],
         "length": "00:49",
         "source": "Original",
+        "audio": "audio/st1-mid.mp3",
         "supplement": `
         Used as <i>Touhou Rune Legend - Stage1 Theme</i>
         
@@ -375,6 +383,7 @@ var __song = [{
         "tag": ["Music", "FL"],
         "length": "01:02",
         "source": "Original",
+        "audio": "audio/st1.mp3",
         "supplement": `
         Used as <i>Touhou Rune Legend - Tracky's Theme</i>
         
@@ -392,6 +401,7 @@ var __song = [{
         "tag": ["Music", "FL"],
         "length": "00:53",
         "source": "Original",
+        "audio": "audio/st2-mid.mp3",
         "supplement": `
         Used as <i>Touhou Rune Legend - Stage2 Theme</i>
         
@@ -409,6 +419,7 @@ var __song = [{
         "tag": ["Music", "FL"],
         "length": "01:03",
         "source": "Original",
+        "audio": "audio/st2.mp3",
         "supplement": `
         Used as <i>Touhou Rune Legend - Selbler's Theme</i>
         
@@ -426,6 +437,7 @@ var __song = [{
         "tag": ["Music", "FL"],
         "length": "00:58",
         "source": "Original",
+        "audio": "audio/st3-mid.mp3",
         "supplement": `
         Used as <i>Touhou Rune Legend - Stage3 Theme</i>
         
@@ -443,6 +455,7 @@ var __song = [{
         "tag": ["Music", "FL"],
         "length": "00:58",
         "source": "Original",
+        "audio": "audio/st3.mp3",
         "supplement": `
         Used as <i>Touhou Rune Legend - Curao's Theme</i>
         
@@ -460,6 +473,7 @@ var __song = [{
         "tag": ["Music", "FL"],
         "length": "01:13",
         "source": "Original",
+        "audio": "audio/trailer.mp3",
         "supplement": `
         Used as <i>Touhou Rune Legend - Trailer's Song</i>
         `
@@ -471,6 +485,7 @@ var __song = [{
         "tag": ["Music", "FL"],
         "length": "01:20",
         "source": "Original",
+        "audio": "audio/Idea8.mp3",
         "supplement": `
         Used as <i>Touhou Rune Legend - Unused Stage3's Theme</i>
 
@@ -497,6 +512,7 @@ var __song = [{
         "tag": ["Music", "Remix", "Touhou", "FL"],
         "length": "00:14",
         "source": "上海アリス幻樂団 - Desire Drive",
+        "audio": "audio/Idea12.mp3",
         "supplement": `
         Used as <i>Touhou Rune Legend - Configuration's Theme</i>
         Used as <i>TestSTG3 - Stage1 Theme</i>

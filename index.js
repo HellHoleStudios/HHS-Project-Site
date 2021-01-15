@@ -275,7 +275,10 @@ function refreshTable() {
             if (tablehead[j][1] == "name") {
                 tmp += "<td>" + data[i][tablehead[j][1]];
                 if (data[i]["supplement"] != undefined) {
-                    tmp += '*';
+                    tmp += ' <i class="fa fa-ellipsis-h" title="Supplement Available" data-toggle="tooltip"></i>';
+                }
+                if (data[i]["audio"] != undefined){
+                    tmp += ' <i class="fa fa-headphones" title="Audio Available" data-toggle="tooltip"></i>';
                 }
                 if (data[i]["comment"] != null) {
                     tmp += "<sup><a id=\"src" + supc + "\" href=\"#com" + supc + "\" title=\"" + data[i]["comment"] + "\">[" + supc + "]</a></sup>";
@@ -351,6 +354,9 @@ function refreshTable() {
         if (mode == MODE_SONG && data[i]["supplement"] != undefined) {
             tmp += '<tr style="background-color:#ffc;"><td colspan=6 style="padding:0px;">';
             tmp += '<div id="supplement' + i + '" class="collapse"><div style="padding:.3rem;">';
+            if (data[i]["audio"] != undefined){
+                tmp+=`<audio src="${data[i]["audio"]}" controls="controls">Audio Not Supported :(</audio> <br/>`
+            }
             tmp += data[i]["supplement"].trim().replaceAll("\n", "<br/>");
             tmp += "</div></div></td>"
             tmp += "</tr>";
