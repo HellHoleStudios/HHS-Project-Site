@@ -337,7 +337,7 @@ function refreshTable() {
                 tmp += "<td class=\"text-center\"> <i title=\"Popularity:" + dat + "\" class=\"fa fa-thermometer-" + dat + "\"></i>" + dat + "</td>"
             } else if (tablehead[j][1].match("release|length|source") != null) {
                 //release date just normal
-                tmp += "<td>" + data[i][tablehead[j][1]] + "</td>";
+                tmp += "<td>" + data[i][tablehead[j][1]].replaceAll("#A#","上海アリス幻樂団").replaceAll("#O#","Original") + "</td>";
             } else {
                 //badge showing
                 tmp += "<td>"

@@ -13,7 +13,7 @@ var __song = [{
         "release": "2017-01-30",
         "tag": ["Animation", "Mine-Imator", "Vegas", "ENG", "CHN"],
         "length": "00:15",
-        "source": "Original"
+        "source": "#O#"
     },
     {
         "name": "tribute.veg",
@@ -88,7 +88,7 @@ var __song = [{
         "release": "2018-08-31",
         "tag": ["Music", "Video", "Remix", "FL"],
         "length": "01:34",
-        "source": "上海アリス幻樂団 - ナイトメアダイアリー"
+        "source": "#A# - ナイトメアダイアリー"
     },
     {
         "name": "Black tune No.1",
@@ -96,7 +96,7 @@ var __song = [{
         "release": "2017-07-02",
         "tag": ["Music", "Test", "FL"],
         "length": "00:12",
-        "source": "Original",
+        "source": "#O#",
         "supplement": "The original FL project file was lost."
     },
     {
@@ -105,7 +105,7 @@ var __song = [{
         "release": "2019-07-30",
         "tag": ["Music", "Live"],
         "length": "03:59",
-        "source": "Original"
+        "source": "#O#"
     },
     {
         "name": "Beautiful Song",
@@ -113,7 +113,7 @@ var __song = [{
         "release": "2019-06-27",
         "tag": ["Music", "Live"],
         "length": "04:47",
-        "source": "Original",
+        "source": "#O#",
         "audio": "audio/BSong.mp3",
         "supplement": "Used as <i>THHHS - WZZ's Theme</i>"
     },
@@ -123,7 +123,7 @@ var __song = [{
         "release": "2020-08-04",
         "tag": ["Music", "Test", "FL"],
         "length": "00:12",
-        "source": "Original"
+        "source": "#O#"
     },
     {
         "name": "abyssal",
@@ -176,7 +176,7 @@ var __song = [{
         "release": "2017-04-23",
         "tag": ["Music", "Test", "FL"],
         "length": "00:29",
-        "source": "Original",
+        "source": "#O#",
     },
     {
         "name": "Botanik",
@@ -208,7 +208,7 @@ var __song = [{
         "release": "2018-02-11",
         "tag": ["Music", "Test", "FL"],
         "length": "00:07",
-        "source": "Original",
+        "source": "#O#",
     },
     {
         "name": "Fleur De Lys",
@@ -232,7 +232,7 @@ var __song = [{
         "release": "2017-06-01",
         "tag": ["Music", "Test", "FL"],
         "length": "00:15",
-        "source": "Original",
+        "source": "#O#",
         "audio": "audio/hcd.mp3",
         "supplement": "Used as <i>MathExamSimulator - 90pts Theme</i>"
     },
@@ -269,7 +269,7 @@ var __song = [{
         "release": "2017-10-01",
         "tag": ["Music", "Test", "FL"],
         "length": "00:55",
-        "source": "Original",
+        "source": "#O#",
     },
     {
         "name": "Mr Droichen",
@@ -293,7 +293,7 @@ var __song = [{
         "release": "2017-04-13",
         "tag": ["Music", "Test", "FL"],
         "length": "00:02",
-        "source": "Original",
+        "source": "#O#",
         "comment": "Random drum test. Random name."
     },
     {
@@ -315,7 +315,7 @@ var __song = [{
         "release": "2017-09-01",
         "tag": ["Music", "Test", "FL"],
         "length": "00:16",
-        "source": "Original",
+        "source": "#O#",
     },
     {
         "name": "StickerpineSymphony",
@@ -341,7 +341,7 @@ var __song = [{
         "release": "2020-02-20",
         "tag": ["Music", "FL"],
         "length": "02:12",
-        "source": "Original",
+        "source": "#O#",
         "audio": "audio/title.ogg",
         "supplement": `
         Used as <i>Touhou Rune Legend - Title Theme</i>
@@ -364,7 +364,7 @@ var __song = [{
         "release": "2020-04-22",
         "tag": ["Music", "FL"],
         "length": "00:49",
-        "source": "Original",
+        "source": "#O#",
         "audio": "audio/st1-mid.mp3",
         "supplement": `
         Used as <i>Touhou Rune Legend - Stage1 Theme</i>
@@ -382,7 +382,7 @@ var __song = [{
         "release": "2020-04-05",
         "tag": ["Music", "FL"],
         "length": "01:02",
-        "source": "Original",
+        "source": "#O#",
         "audio": "audio/st1.mp3",
         "supplement": `
         Used as <i>Touhou Rune Legend - Tracky's Theme</i>
@@ -400,7 +400,7 @@ var __song = [{
         "release": "2020-04-22",
         "tag": ["Music", "FL"],
         "length": "00:53",
-        "source": "Original",
+        "source": "#O#",
         "audio": "audio/st2-mid.mp3",
         "supplement": `
         Used as <i>Touhou Rune Legend - Stage2 Theme</i>
@@ -418,7 +418,7 @@ var __song = [{
         "release": "2020-04-05",
         "tag": ["Music", "FL"],
         "length": "01:03",
-        "source": "Original",
+        "source": "#O#",
         "audio": "audio/st2.mp3",
         "supplement": `
         Used as <i>Touhou Rune Legend - Selbler's Theme</i>
@@ -436,7 +436,7 @@ var __song = [{
         "release": "2020-04-22",
         "tag": ["Music", "FL"],
         "length": "00:58",
-        "source": "Original",
+        "source": "#O#",
         "audio": "audio/st3-mid.mp3",
         "supplement": `
         Used as <i>Touhou Rune Legend - Stage3 Theme</i>
@@ -454,7 +454,7 @@ var __song = [{
         "release": "2020-04-19",
         "tag": ["Music", "FL"],
         "length": "00:58",
-        "source": "Original",
+        "source": "#O#",
         "audio": "audio/st3.mp3",
         "supplement": `
         Used as <i>Touhou Rune Legend - Curao's Theme</i>
@@ -472,7 +472,7 @@ var __song = [{
         "release": "2020-04-22",
         "tag": ["Music", "FL"],
         "length": "01:13",
-        "source": "Original",
+        "source": "#O#",
         "audio": "audio/trailer.mp3",
         "supplement": `
         Used as <i>Touhou Rune Legend - Trailer's Song</i>
@@ -484,7 +484,7 @@ var __song = [{
         "release": "2020-04-18",
         "tag": ["Music", "FL"],
         "length": "01:20",
-        "source": "Original",
+        "source": "#O#",
         "audio": "audio/Idea8.mp3",
         "supplement": `
         Used as <i>Touhou Rune Legend - Unused Stage3's Theme</i>
@@ -511,7 +511,7 @@ var __song = [{
         "release": "2020-05-13",
         "tag": ["Music", "Remix", "Touhou", "FL"],
         "length": "00:14",
-        "source": "上海アリス幻樂団 - Desire Drive",
+        "source": "#A# - Desire Drive",
         "audio": "audio/Idea12.mp3",
         "supplement": `
         Used as <i>Touhou Rune Legend - Configuration's Theme</i>
@@ -570,7 +570,7 @@ var __song = [{
         "name": "Water",
         "author": ["HDD"],
         "release": "2017-07-19",
-        "tag": ["Music", "Test", "FL"],
+        "tag": ["Music", "Test", "FL","Info"],
         "length": "00:25",
         "source": "?"
     },
@@ -580,7 +580,7 @@ var __song = [{
         "release": "2017-05-14",
         "tag": ["Music", "Test", "FL"],
         "length": "00:08",
-        "source": "Original",
+        "source": "#O#",
         "supplement": `
         <b>Comment on 2021/1/9</b>
         Just random product of key rolling. The original FL project file was lost.
@@ -599,18 +599,23 @@ var __song = [{
         `
     },
     {
-        "name":"Untitled Transcription",
+        "name":"Genocide Cross",
         "author": ["WZZ"],
         "release": "2019-06-14",
         "tag": ["Music", "Remix","FreePiano"],
         "length": "02:09",
-        "source": "NateWantsToBattle - Undertale Genocide Song - Ashes"
+        "source": `NateWantsToBattle - Undertale Genocide Song - Ashes <br/>
+        lr/Rachie/Starbeam/... - Stronger than you`,
+        "audio":"audio/wng.mp3",
+        "supplement":`
+            Used as <i>THHHS - Stage 5 Theme</i>
+        `
     },
     {
         "name": "Woodwind",
         "author": ["HDD"],
         "release": "2017-07-02",
-        "tag": ["Music", "Test", "FL"],
+        "tag": ["Music", "Test", "FL","Info"],
         "length": "00:14",
         "source": "?"
     },
@@ -618,7 +623,7 @@ var __song = [{
         "name": "World's 3rd Worst Music",
         "author": ["HDD"],
         "release": "2017-05-05",
-        "tag": ["Music", "Test", "FL"],
+        "tag": ["Music", "Test", "FL","Info"],
         "length": "00:05",
         "source": "?"
     },
@@ -626,7 +631,7 @@ var __song = [{
         "name": "World's 4th Worst Music",
         "author": ["HDD"],
         "release": "2017-05-06",
-        "tag": ["Music", "Test", "FL"],
+        "tag": ["Music", "Test", "FL","Info"],
         "length": "00:40",
         "source": "?"
     },
@@ -660,6 +665,95 @@ var __song = [{
         "release": "2018-06-26",
         "tag": ["Music", "Remix", "FL"],
         "length": "00:10",
-        "source": "Kitsune² - Ridge Rider"
+        "source": "Kitsune² - Ridge Rider",
+        "supplement": `
+        Used as <i>Battle Against HDD - Normal Theme</i>
+        `
+    },
+    {
+        "name":"Traveller 1969",
+        "author": ["HDD"],
+        "release": "2018-11-02",
+        "tag": ["Music", "Remix","FL"],
+        "length": "00:35",
+        "source": `#A# - Voyager 1969`,
+        "audio":"audio/traveller 1969.mp3",
+        "supplement":`
+            Used as <i>TestStg3 - Staff Theme</i>
+            Used as <i>The Lost Forest - Staff Theme</i>
+        `,
+        "comment":"Yes. It's intentional. 'Traveller' 1969"
+    },
+    {
+        "name":"XGN Menu Future Technology",
+        "author": ["HDD"],
+        "release": "2018-01-14",
+        "tag": ["Music","Remix","FL"],
+        "length": "00:07",
+        "source": `HDD - XGN Menu`,
+    },
+    {
+        "name":"XGN Menu",
+        "author": ["HDD"],
+        "release": "2018-01-14",
+        "tag": ["Music","Info"],
+        "length": "00:07",
+        "source": `?`,
+    },
+    {
+        "name":"XGN Menu V2",
+        "author": ["HDD"],
+        "release": "2018-01-14",
+        "tag": ["Music","Remix","FL"],
+        "length": "00:14",
+        "source": `HDD - XGN Menu`,
+        "supplement": `
+        Used as <i>ZJS vs YP - Title Theme</i>
+        Planned to be used as <i>Monster x Realm - Title Theme</i>
+        `
+    },
+    {
+        "name":"Hostlov",
+        "author": ["HDD"],
+        "release": "2018-03-25",
+        "tag": ["Music","Info"],
+        "length": "01:23",
+        "source": `?`,
+        "audio":"audio/hostlov.mp3",
+        "supplement": `
+        Used as <i>MathExamSimulatorOnline - Title Theme</i>
+        `
+    },
+    {
+        "name":"HDD Scary Music Untitle",
+        "author": ["HDD"],
+        "release": "2018-01-04",
+        "tag": ["Test","FL"],
+        "length": "00:07",
+        "source": `#O#`,
+    },
+    {
+        "name":"scary zjs and nice zky",
+        "author": ["HDD"],
+        "release": "2018-06-09",
+        "tag": ["Music","FL","Info"],
+        "length": "00:29",
+        "source": `?`,
+    },
+    {
+        "name":"Mountain King",
+        "author": ["HDD"],
+        "release": "2018-06-20",
+        "tag": ["Music","FL","Info"],
+        "length": "00:15",
+        "source": `?`,
+    },
+    {
+        "name":"ZKY OI",
+        "author": ["ZKY"],
+        "release": "2018-07-21",
+        "tag": ["Music","Live"],
+        "length": "02:34",
+        "source": `chen_zhe - 我的一个OIer朋友`,
     },
 ]

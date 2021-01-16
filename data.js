@@ -1488,6 +1488,14 @@ var __data = [{
         "tag": ["Literature", "CHN", "Working"],
         "rating": 2,
     },
+    {
+        "name": "Jizou Osu Beatmap",
+        "link": "https://xiaogenintendo.github.io/2021/01/16/jizou-osz-release/",
+        "author": ["XGN"],
+        "release": "2021-01-16",
+        "coauthor": [],
+        "tag": ["Beatmap", "NONE", "Done"],
+    },
 ]
 
 // function transfer(obj){

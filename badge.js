@@ -206,6 +206,11 @@ var badges = {
         "tooltip": "Music",
         "display": "Music"
     },
+    "Beatmap": {
+        "kind": category,
+        "tooltip": "Osu Beatmap",
+        "display": "Osu Beatmap"
+    },
 
     //programming language
     "Java": {
@@ -528,6 +533,11 @@ var badges = {
         "tooltip": "The project will hardly be updated",
         "display": "Deserted"
     },
+    "Info": {
+        "kind": status,
+        "tooltip": "Attention: Tag/Source/Information required/incomplete",
+        "display": "Info Incomplete"
+    },
 
     //style
     "Touhou": {
@@ -547,7 +557,7 @@ var badges = {
     },
     "Remix": {
         "kind": style,
-        "tooltip": "Remix of an existing piece (including transcriptions, but except YPTMVs)",
+        "tooltip": "Remix of an existing piece (including transcriptions, but except YTPMVs)",
         "display": "Remix"
     },
     "Live": {
