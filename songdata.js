@@ -716,9 +716,9 @@ var __song = [{
         "name":"Hostlov",
         "author": ["HDD"],
         "release": "2018-03-25",
-        "tag": ["Music","Info"],
+        "tag": ["Music","FL"],
         "length": "01:23",
-        "source": `?`,
+        "source": `Mr. Gamer - Höstlov`,
         "audio":"audio/hostlov.mp3",
         "supplement": `
         Used as <i>MathExamSimulatorOnline - Title Theme</i>
