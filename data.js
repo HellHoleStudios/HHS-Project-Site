@@ -1496,6 +1496,25 @@ var __data = [{
         "coauthor": [],
         "tag": ["Beatmap", "NONE", "Done"],
     },
+    {
+        "name": "Pressing Competition 2",
+        "link": {"Github":"https://github.com/XiaoGeNintendo/Pressing-Competition-2",
+                 "Itch":"https://xgn.itch.io/pressing-competition-2"},
+        "author": [
+            "XGN"
+        ],
+        "release": "2021-01-24",
+        "coauthor": [
+            ""
+        ],
+        "tag": [
+            "Game",
+            "GDScript",
+            "Godot",
+            "ENG",
+            "Done"
+        ]
+    },
 ]
 
 // function transfer(obj){

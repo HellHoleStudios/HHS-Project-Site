@@ -300,6 +300,11 @@ var badges = {
         "tooltip": "C# Programming Language",
         "display": "C#"
     },
+    "GDScript": {
+        "kind": lang,
+        "tooltip": "Godot Script",
+        "display": "GDScript"
+    },
 
 
     //tools
@@ -433,7 +438,7 @@ var badges = {
     },
     "Danmakufu": {
         "kind": tool,
-        "tooltip": "Danmakufu is a engine to make Touhou-style bullet-hell games",
+        "tooltip": "Danmakufu is an engine to make Touhou-style bullet-hell games",
         "display": "Danmakufu ph3"
     },
     "TestSTG2": {
@@ -476,6 +481,12 @@ var badges = {
         "tooltip": "FreePiano is a virtual MIDI keyboard.",
         "display": "FreePiano"
     },
+    "Godot": {
+        "kind": tool,
+        "tooltip": "Godot3 engine",
+        "display": "Godot"
+    },
+
 
     //layout lang
     "ENG": {
