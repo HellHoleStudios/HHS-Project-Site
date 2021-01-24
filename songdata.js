@@ -769,4 +769,12 @@ var __song = [{
         Used as <i>PressingCompetition2 - Character Choose Theme</i>
         `
     },
+    {
+        "name":"喊声爸爸好不好啊 / Say father!",
+        "author": ["XGN"],
+        "release": "2018-05-24",
+        "tag": ["Music"],
+        "length": "00:19",
+        "source": "#O#",
+    },
 ]
