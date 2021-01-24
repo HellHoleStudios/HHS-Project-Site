@@ -1356,7 +1356,7 @@ var __data = [{
         "coauthor": ["Zzzyt", "HDD"],
         "tag": ["Game", "Stg", "DNH", "TestSTG3", "Danmakufu", "ENG", "Done"],
         "rating": 3,
-        "comment": "This is a submission to Ludum Dare 47: https://ldjam.com/events/ludum-dare/47/the-lost-forest"
+        "comment": "This is a submission to Ludum Dare 47"
     },
     {
         "name": "Max World",

@@ -8,7 +8,7 @@ var __song = [{
         "source": "\"更衣室大战\""
     },
     {
-        "name": "五谷轮回之力(The power of five-corns-going-round-and-round)",
+        "name": "五谷轮回之力 / The power of five-corns-going-round-and-round",
         "author": ["Zzzyt"],
         "release": "2017-01-30",
         "tag": ["Animation", "Mine-Imator", "Vegas", "ENG", "CHN"],
@@ -51,12 +51,12 @@ var __song = [{
         "supplement": "Used as <i>YP Beating Me - Div2 Theme</i>"
     },
     {
-        "name": "时之回廊.flp",
+        "name": "时之回廊.flp / Toki no kairo.flp",
         "author": ["HDD"],
         "release": "2017-08-29",
         "tag": ["Music", "Video", "Remix", "FL"],
         "length": "03:06",
-        "source": "光田康典 - 时の回廊"
+        "source": "光田康典 - 時の回廊"
     },
     {
         "name": "Sick on Monday.flp",
@@ -83,7 +83,7 @@ var __song = [{
         "source": "David Wise - Stickerbrush Symphony"
     },
     {
-        "name": "秘封噩 梦日记.mp4",
+        "name": "秘封噩 梦日记.mp4 / Night mare Diary.mp4",
         "author": ["HDD"],
         "release": "2018-08-31",
         "tag": ["Music", "Video", "Remix", "FL"],
@@ -558,7 +558,7 @@ var __song = [{
         `
     },
     {
-        "name": "欠债(VOCALOID)",
+        "name": "欠债(VOCALOID) / be in debt",
         "author": ["HDD"],
         "release": "2018-02-13",
         "tag": ["Music", "YTPMV", "FL"],
@@ -660,7 +660,7 @@ var __song = [{
         "source": "ききやま - BGM_010"
     },
     {
-        "name": "王八骑士",
+        "name": "王八骑士 / Turtle Rider",
         "author": ["HDD"],
         "release": "2018-06-26",
         "tag": ["Music", "Remix", "FL"],
@@ -722,6 +722,7 @@ var __song = [{
         "audio":"audio/hostlov.mp3",
         "supplement": `
         Used as <i>MathExamSimulatorOnline - Title Theme</i>
+        Used as <i>PressingCompetition2 - Battle Theme</i>
         `
     },
     {
@@ -755,5 +756,17 @@ var __song = [{
         "tag": ["Music","Live"],
         "length": "02:34",
         "source": `chen_zhe - 我的一个OIer朋友`,
+    },
+    {
+        "name":"月まで届け、不死の煙 / Reach for the Moon, Immortal Smoke",
+        "author": ["HDD"],
+        "release": "2018-03-06",
+        "tag": ["Music","FL"],
+        "length": "00:12",
+        "source": `#A# - 月まで届け、不死の煙`,
+        "audio": "audio/moon.mp3",
+        "supplement": `
+        Used as <i>PressingCompetition2 - Character Choose Theme</i>
+        `
     },
 ]
