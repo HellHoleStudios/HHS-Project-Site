@@ -761,7 +761,7 @@ var __song = [{
         "name":"月まで届け、不死の煙 / Reach for the Moon, Immortal Smoke",
         "author": ["HDD"],
         "release": "2018-03-06",
-        "tag": ["Music","FL"],
+        "tag": ["Music","Touhou","FL"],
         "length": "00:12",
         "source": `#A# - 月まで届け、不死の煙`,
         "audio": "audio/moon.mp3",
