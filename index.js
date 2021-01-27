@@ -266,7 +266,7 @@ function refreshTable() {
             continue;
         }
 
-        if (mode == MODE_SONG && data[i]["supplement"] != undefined) {
+        if (mode == MODE_SONG && (data[i]["supplement"] != undefined || data[i]["audio"] != undefined)) {
             tmp += '<tr data-toggle="collapse" data-target="#supplement' + i + '">';
         } else {
             tmp += '<tr>'
@@ -351,13 +351,15 @@ function refreshTable() {
         }
         tmp += "</tr>";
 
-        if (mode == MODE_SONG && data[i]["supplement"] != undefined) {
+        if (mode == MODE_SONG && (data[i]["supplement"] != undefined || data[i]["audio"] != undefined)) {
             tmp += '<tr style="background-color:#ffc;"><td colspan=6 style="padding:0px;">';
             tmp += '<div id="supplement' + i + '" class="collapse"><div style="padding:.3rem;">';
             if (data[i]["audio"] != undefined){
                 tmp+=`<audio src="${data[i]["audio"]}" controls="controls">Audio Not Supported :(</audio> <br/>`
             }
-            tmp += data[i]["supplement"].trim().replaceAll("\n", "<br/>");
+            if (data[i]["supplement"] != undefined){
+                tmp += data[i]["supplement"].trim().replaceAll("\n", "<br/>");
+            }
             tmp += "</div></div></td>"
             tmp += "</tr>";
             tmp += "<tr></tr>"; //to show a strip

@@ -21,6 +21,7 @@ var __song = [{
         "release": "2018-03-23",
         "tag": ["Music", "Video", "YTPMV", "Vegas", "FL"],
         "length": "00:50",
+        "audio":"audio/tribute.mp3",
         "source": "cerror - tribute"
     },
     {
@@ -29,6 +30,7 @@ var __song = [{
         "release": "2018-02-12",
         "tag": ["Music", "Video", "YTPMV", "FL"],
         "length": "00:40",
+        "audio": "audio/Pike Place.mp3",
         "source": "RQ - PIKE PLACE"
     },
     {
@@ -38,6 +40,7 @@ var __song = [{
         "tag": ["Music", "Video", "Remix", "FL"],
         "length": "02:36",
         "source": "Toby Fox - Battle Against a True Hero",
+        "audio": "audio/Battle full.mp3",
         "supplement": "Used as <i>Battle Against ZKY - Normal Theme</i><br/>(Reversed) Used as <i>Battle Against ZKY - Anger Theme</i>"
     },
     {
@@ -56,6 +59,7 @@ var __song = [{
         "release": "2017-08-29",
         "tag": ["Music", "Video", "Remix", "FL"],
         "length": "03:06",
+        "audio": "audio/toki.mp3",
         "source": "光田康典 - 時の回廊"
     },
     {
@@ -64,6 +68,8 @@ var __song = [{
         "release": "2018-01-06",
         "tag": ["Music", "Video", "Remix", "FL"],
         "length": "00:46",
+        
+        "audio": "audio/Sick on Monday.mp3",
         "source": "Elwood - Sick on Monday"
     },
     {
@@ -72,6 +78,7 @@ var __song = [{
         "release": "2018-04-13",
         "tag": ["Music", "Video", "Remix", "FL"],
         "length": "00:47",
+        "audio": "audio/Island Island.mp3",
         "source": "tothejazz - Island Island"
     },
     {
@@ -123,6 +130,7 @@ var __song = [{
         "release": "2020-08-04",
         "tag": ["Music", "Test", "FL"],
         "length": "00:12",
+        "audio": "audio/2020-8-4.mp3",
         "source": "#O#"
     },
     {
@@ -132,6 +140,7 @@ var __song = [{
         "tag": ["Music", "Remix", "FL"],
         "length": "00:15",
         "source": "Thwy and Madagascans - Abyssal",
+        "audio": "audio/abyssal.mp3",
         "supplement": "Used as <i>Battle Against ZJS - Anger Theme 1</i>"
     },
     {
@@ -184,6 +193,7 @@ var __song = [{
         "release": "2018-03-13",
         "tag": ["Music", "Remix", "FL"],
         "length": "00:21",
+        "audio": "audio/Botanik.mp3",
         "source": "ipi - Botanik",
     },
     {
@@ -216,6 +226,7 @@ var __song = [{
         "release": "2018-03-30",
         "tag": ["Music", "Remix", "FL"],
         "length": "00:56",
+        "audio": "audio/Fleur De Lys.mp3",
         "source": "Xemogasa - fleur de lys",
     },
     {
@@ -224,6 +235,7 @@ var __song = [{
         "release": "2017-05-31",
         "tag": ["Music", "Remix", "FL"],
         "length": "00:26",
+        "audio": "audio/Gettinold.mp3",
         "source": "Renard - Gettin' Old",
     },
     {
@@ -261,6 +273,7 @@ var __song = [{
         "release": "2018-07-04",
         "tag": ["Music", "Remix", "FL"],
         "length": "00:35",
+        "audio": "audio/love psalm.mp3",
         "source": "山岡晃 - Love Psalm",
     },
     {
@@ -277,6 +290,7 @@ var __song = [{
         "release": "2018-03-30",
         "tag": ["Music", "Remix", "FL"],
         "length": "02:45",
+        "audio": "audio/Mr Droichenv2.mp3",
         "source": "Darkman007 - Mr. Droichen",
     },
     {
@@ -324,6 +338,7 @@ var __song = [{
         "tag": ["Music", "Remix", "FL"],
         "length": "02:06",
         "source": "David Wise - Stickerbrush Symphony",
+        "audio": "audio/StickerpineSymphony.mp3",
         "supplement": "Essentially Stickerbrush Symphony but with a different sample."
     },
     {
@@ -617,6 +632,7 @@ var __song = [{
         "release": "2017-07-02",
         "tag": ["Music", "Test", "FL","Info"],
         "length": "00:14",
+        "audio": "audio/Woodwind.mp3",
         "source": "?"
     },
     {
@@ -633,6 +649,7 @@ var __song = [{
         "release": "2017-05-06",
         "tag": ["Music", "Test", "FL","Info"],
         "length": "00:40",
+        "audio": "audio/World Fourth Worst Music.mp3",
         "source": "?"
     },
     {
@@ -641,6 +658,7 @@ var __song = [{
         "release": "2017-05-23",
         "tag": ["Music", "Remix", "FL"],
         "length": "03:55",
+        "audio": "audio/gsl.mp3",
         "source": "格桑拉, DJ Snake / AlunaGeorge - You Know You Like It"
     },
     {
@@ -657,6 +675,7 @@ var __song = [{
         "release": "2018-01-25",
         "tag": ["Music", "Remix", "FL"],
         "length": "02:42",
+        "audio": "audio/yume.mp3",
         "source": "ききやま - BGM_010"
     },
     {
@@ -666,6 +685,7 @@ var __song = [{
         "tag": ["Music", "Remix", "FL"],
         "length": "00:10",
         "source": "Kitsune² - Ridge Rider",
+        "audio": "audio/turtle rider.mp3",
         "supplement": `
         Used as <i>Battle Against HDD - Normal Theme</i>
         `
@@ -690,6 +710,7 @@ var __song = [{
         "release": "2018-01-14",
         "tag": ["Music","Remix","FL"],
         "length": "00:07",
+        "audio": "audio/XGN_menu_FutureTechnology.mp3",
         "source": `HDD - XGN Menu`,
     },
     {
@@ -698,6 +719,7 @@ var __song = [{
         "release": "2018-01-14",
         "tag": ["Music","Info"],
         "length": "00:07",
+        "audio": "audio/XGN_menu.mp3",
         "source": `?`,
     },
     {
@@ -707,6 +729,7 @@ var __song = [{
         "tag": ["Music","Remix","FL"],
         "length": "00:14",
         "source": `HDD - XGN Menu`,
+        "audio": "audio/XGN_menuV2.mp3",
         "supplement": `
         Used as <i>ZJS vs YP - Title Theme</i>
         Planned to be used as <i>Monster x Realm - Title Theme</i>
@@ -731,6 +754,7 @@ var __song = [{
         "release": "2018-01-04",
         "tag": ["Test","FL"],
         "length": "00:07",
+        "audio": "audio/HDDMusicScaryUntitle.mp3",
         "source": `#O#`,
     },
     {
@@ -739,6 +763,7 @@ var __song = [{
         "release": "2018-06-09",
         "tag": ["Music","FL","Info"],
         "length": "00:29",
+        "audio": "audio/scary zjs and nice zky.mp3",
         "source": `?`,
     },
     {
@@ -747,6 +772,7 @@ var __song = [{
         "release": "2018-06-20",
         "tag": ["Music","FL","Info"],
         "length": "00:15",
+        "audio": "audio/Mountain King.mp3",
         "source": `?`,
     },
     {
