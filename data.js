@@ -1498,14 +1498,15 @@ var __data = [{
     },
     {
         "name": "Pressing Competition 2",
-        "link": {"Github":"https://github.com/XiaoGeNintendo/Pressing-Competition-2",
-                 "Itch":"https://xgn.itch.io/pressing-competition-2"},
+        "link": {"Github Showcase":"https://github.com/XiaoGeNintendo/Pressing-Competition-2",
+                 "Itch":"https://xgn.itch.io/pressing-competition-2",
+                "Source":"https://github.com/XiaoGeNintendo/TypingCompetition2-Source"},
         "author": [
             "XGN"
         ],
         "release": "2021-01-24",
         "coauthor": [
-            ""
+            "MK"
         ],
         "tag": [
             "Game",
