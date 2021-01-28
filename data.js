@@ -1500,7 +1500,9 @@ var __data = [{
         "name": "Pressing Competition 2",
         "link": {"Github Showcase":"https://github.com/XiaoGeNintendo/Pressing-Competition-2",
                  "Itch":"https://xgn.itch.io/pressing-competition-2",
-                "Source":"https://github.com/XiaoGeNintendo/TypingCompetition2-Source"},
+                 "Source":"https://github.com/XiaoGeNintendo/TypingCompetition2-Source",
+                 "Release Note":"https://xiaogenintendo.github.io/2021/01/24/pc2release/",
+                 "Modding Guide":"https://xiaogenintendo.github.io/2021/01/28/Adding-Chars-In-PC2/",},
         "author": [
             "XGN"
         ],
