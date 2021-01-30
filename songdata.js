@@ -21,7 +21,7 @@ var __song = [{
         "release": "2018-03-23",
         "tag": ["Music", "Video", "YTPMV", "Vegas", "FL"],
         "length": "00:50",
-        "audio":"audio/tribute.mp3",
+        "audio": "audio/tribute.mp3",
         "source": "cerror - tribute"
     },
     {
@@ -68,7 +68,7 @@ var __song = [{
         "release": "2018-01-06",
         "tag": ["Music", "Video", "Remix", "FL"],
         "length": "00:46",
-        
+
         "audio": "audio/Sick on Monday.mp3",
         "source": "Elwood - Sick on Monday"
     },
@@ -585,7 +585,7 @@ var __song = [{
         "name": "Water",
         "author": ["HDD"],
         "release": "2017-07-19",
-        "tag": ["Music", "Test", "FL","Info"],
+        "tag": ["Music", "Test", "FL", "Info"],
         "length": "00:25",
         "source": "?"
     },
@@ -608,21 +608,21 @@ var __song = [{
         "tag": ["Music", "Remix", "FL"],
         "length": "00:41",
         "source": "Renard - Zerd_01",
-        "supplement":`
+        "supplement": `
         Intended for the Scratch game "别踩白块" but eventually unused.
         It's a slight remix of Zerd_01's bass section.
         `
     },
     {
-        "name":"Genocide Cross",
+        "name": "Genocide Cross",
         "author": ["WZZ"],
         "release": "2019-06-14",
-        "tag": ["Music", "Remix","FreePiano"],
+        "tag": ["Music", "Remix", "FreePiano"],
         "length": "02:09",
         "source": `NateWantsToBattle - Undertale Genocide Song - Ashes <br/>
         lr/Rachie/Starbeam/... - Stronger than you`,
-        "audio":"audio/wng.mp3",
-        "supplement":`
+        "audio": "audio/wng.mp3",
+        "supplement": `
             Used as <i>THHHS - Stage 5 Theme</i>
         `
     },
@@ -630,7 +630,7 @@ var __song = [{
         "name": "Woodwind",
         "author": ["HDD"],
         "release": "2017-07-02",
-        "tag": ["Music", "Test", "FL","Info"],
+        "tag": ["Music", "Test", "FL", "Info"],
         "length": "00:14",
         "audio": "audio/Woodwind.mp3",
         "source": "?"
@@ -639,7 +639,7 @@ var __song = [{
         "name": "World's 3rd Worst Music",
         "author": ["HDD"],
         "release": "2017-05-05",
-        "tag": ["Music", "Test", "FL","Info"],
+        "tag": ["Music", "Test", "FL", "Info"],
         "length": "00:05",
         "source": "?"
     },
@@ -647,7 +647,7 @@ var __song = [{
         "name": "World's 4th Worst Music",
         "author": ["HDD"],
         "release": "2017-05-06",
-        "tag": ["Music", "Test", "FL","Info"],
+        "tag": ["Music", "Test", "FL", "Info"],
         "length": "00:40",
         "audio": "audio/World Fourth Worst Music.mp3",
         "source": "?"
@@ -691,42 +691,42 @@ var __song = [{
         `
     },
     {
-        "name":"Traveller 1969",
+        "name": "Traveller 1969",
         "author": ["HDD"],
         "release": "2018-11-02",
-        "tag": ["Music", "Remix","FL"],
+        "tag": ["Music", "Remix", "FL"],
         "length": "00:35",
-        "source": `#A# - Voyager 1969`,
-        "audio":"audio/traveller 1969.mp3",
-        "supplement":`
+        "source": `#A# - ヴォヤージュ1969`,
+        "audio": "audio/traveller 1969.mp3",
+        "supplement": `
             Used as <i>TestStg3 - Staff Theme</i>
             Used as <i>The Lost Forest - Staff Theme</i>
         `,
-        "comment":"Yes. It's intentional. 'Traveller' 1969"
+        "comment": "Yes. It's intentional. 'Traveller' 1969"
     },
     {
-        "name":"XGN Menu Future Technology",
+        "name": "XGN Menu Future Technology",
         "author": ["HDD"],
         "release": "2018-01-14",
-        "tag": ["Music","Remix","FL"],
+        "tag": ["Music", "Remix", "FL"],
         "length": "00:07",
         "audio": "audio/XGN_menu_FutureTechnology.mp3",
         "source": `HDD - XGN Menu`,
     },
     {
-        "name":"XGN Menu",
+        "name": "XGN Menu",
         "author": ["HDD"],
         "release": "2018-01-14",
-        "tag": ["Music","Info"],
+        "tag": ["Music", "Info"],
         "length": "00:07",
         "audio": "audio/XGN_menu.mp3",
         "source": `?`,
     },
     {
-        "name":"XGN Menu V2",
+        "name": "XGN Menu V2",
         "author": ["HDD"],
         "release": "2018-01-14",
-        "tag": ["Music","Remix","FL"],
+        "tag": ["Music", "Remix", "FL"],
         "length": "00:14",
         "source": `HDD - XGN Menu`,
         "audio": "audio/XGN_menuV2.mp3",
@@ -736,58 +736,58 @@ var __song = [{
         `
     },
     {
-        "name":"Hostlov",
+        "name": "Hostlov",
         "author": ["HDD"],
         "release": "2018-03-25",
-        "tag": ["Music","FL"],
+        "tag": ["Music", "Remix", "FL"],
         "length": "01:23",
         "source": `Mr. Gamer - Höstlov`,
-        "audio":"audio/hostlov.mp3",
+        "audio": "audio/hostlov.mp3",
         "supplement": `
         Used as <i>MathExamSimulatorOnline - Title Theme</i>
         Used as <i>PressingCompetition2 - Battle Theme</i>
         `
     },
     {
-        "name":"HDD Scary Music Untitle",
+        "name": "HDD Scary Music Untitle",
         "author": ["HDD"],
         "release": "2018-01-04",
-        "tag": ["Test","FL"],
+        "tag": ["Music", "Test", "FL"],
         "length": "00:07",
         "audio": "audio/HDDMusicScaryUntitle.mp3",
         "source": `#O#`,
     },
     {
-        "name":"scary zjs and nice zky",
+        "name": "scary zjs and nice zky",
         "author": ["HDD"],
         "release": "2018-06-09",
-        "tag": ["Music","FL","Info"],
+        "tag": ["Music", "FL", "Info"],
         "length": "00:29",
         "audio": "audio/scary zjs and nice zky.mp3",
         "source": `?`,
     },
     {
-        "name":"Mountain King",
+        "name": "Mountain King",
         "author": ["HDD"],
         "release": "2018-06-20",
-        "tag": ["Music","FL","Info"],
+        "tag": ["Music", "Remix", "FL"],
         "length": "00:15",
         "audio": "audio/Mountain King.mp3",
-        "source": `?`,
+        "source": `Edvard Grieg - In the Hall of the Mountain King`,
     },
     {
-        "name":"ZKY OI",
+        "name": "ZKY OI",
         "author": ["ZKY"],
         "release": "2018-07-21",
-        "tag": ["Music","Live"],
+        "tag": ["Music", "Live"],
         "length": "02:34",
         "source": `chen_zhe - 我的一个OIer朋友`,
     },
     {
-        "name":"月まで届け、不死の煙 / Reach for the Moon, Immortal Smoke",
+        "name": "月まで届け、不死の煙 / Reach for the Moon, Immortal Smoke",
         "author": ["HDD"],
         "release": "2018-03-06",
-        "tag": ["Music","Touhou","FL"],
+        "tag": ["Music", "Touhou", "FL"],
         "length": "00:12",
         "source": `#A# - 月まで届け、不死の煙`,
         "audio": "audio/moon.mp3",
@@ -796,11 +796,11 @@ var __song = [{
         `
     },
     {
-        "name":"喊声爸爸好不好啊 / Say father!",
+        "name": "喊声爸爸好不好啊 / Say father!",
         "author": ["XGN"],
         "release": "2018-05-24",
-        "tag": ["Music"],
+        "tag": ["Music", "FL"],
         "length": "00:19",
         "source": "#O#",
     },
-]
+];
