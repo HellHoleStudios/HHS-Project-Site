@@ -526,7 +526,7 @@ var __song = [{
         "release": "2020-05-13",
         "tag": ["Music", "Remix", "Touhou", "FL"],
         "length": "00:14",
-        "source": "#A# - Desire Drive",
+        "source": "#A# - デザイアドライブ",
         "audio": "audio/Idea12.mp3",
         "supplement": `
         Used as <i>Touhou Rune Legend - Configuration's Theme</i>

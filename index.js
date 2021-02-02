@@ -151,7 +151,13 @@ function FilterCheck(item, filter) {
         return true;
     }
 
-    if (mode == MODE_SONG && item["source"].toLowerCase().includes(filter)) {
+    if (mode == MODE_SONG && item["audio"]!=undefined && filter=="audio"){
+        return true;
+    }
+    if (mode == MODE_SONG && item["supplement"]!=undefined && filter=="supplement"){
+        return true;
+    }
+    if (mode == MODE_SONG && REP(item["source"]).toLowerCase().includes(filter)) {
         return true;
     }
 
@@ -227,6 +233,10 @@ function renderLink(link){
     }
 
     return tmp;
+}
+
+function REP(txt){
+    return txt.replaceAll("#A#","上海アリス幻樂団").replaceAll("#O#","Original")
 }
 
 function refreshTable() {
@@ -337,7 +347,7 @@ function refreshTable() {
                 tmp += "<td class=\"text-center\"> <i title=\"Popularity:" + dat + "\" class=\"fa fa-thermometer-" + dat + "\"></i>" + dat + "</td>"
             } else if (tablehead[j][1].match("release|length|source") != null) {
                 //release date just normal
-                tmp += "<td>" + data[i][tablehead[j][1]].replaceAll("#A#","上海アリス幻樂団").replaceAll("#O#","Original") + "</td>";
+                tmp += "<td>" + REP(data[i][tablehead[j][1]]) + "</td>";
             } else {
                 //badge showing
                 tmp += "<td>"
