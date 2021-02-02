@@ -270,10 +270,10 @@ var badges = {
         "tooltip": "The Node.js programming language",
         "display": "Node.js"
     },
-    "Markup": {
+    "Markdown": {
         "kind": lang,
-        "tooltip": "The Markup language",
-        "display": "Markup"
+        "tooltip": "The Markdown editing language",
+        "display": "Markdown"
     },
     "E": {
         "kind": lang,

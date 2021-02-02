@@ -202,7 +202,7 @@ var __data = [{
         "author": ["XGN"],
         "release": "2019-04-14",
         "coauthor": ["MK", "SYR"],
-        "tag": ["Literature", "OI", "Markup", "CHN", "ENG", "Jamming"],
+        "tag": ["Literature", "OI", "Markdown", "CHN", "ENG", "Jamming"],
         "rating": 4
     },
     {
@@ -211,7 +211,7 @@ var __data = [{
         "author": ["XGN"],
         "release": "2019-04-10",
         "coauthor": [""],
-        "tag": ["Literature", "Markup", "CHN", "Deserted"],
+        "tag": ["Literature", "Markdown", "CHN", "Deserted"],
         "rating": 2
     },
     {
@@ -1243,7 +1243,7 @@ var __data = [{
         "author": ["HDD"],
         "release": "2020-01-05",
         "coauthor": [],
-        "tag": ["Literature", "Markup", "ENG", "Jamming"],
+        "tag": ["Literature", "Markdown", "ENG", "Jamming"],
         "rating": 2,
         "comment": "This should be a series, though there's currently only one post."
     },
