@@ -799,7 +799,7 @@ var __song = [{
         "name": "喊声爸爸好不好啊 / Say father!",
         "author": ["XGN"],
         "release": "2018-05-24",
-        "tag": ["Music", "FL"],
+        "tag": ["Music", "Audacity"],
         "length": "00:19",
         "source": "#O#",
     },

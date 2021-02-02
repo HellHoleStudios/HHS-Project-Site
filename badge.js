@@ -486,6 +486,11 @@ var badges = {
         "tooltip": "Godot3 engine",
         "display": "Godot"
     },
+    "Audacity": {
+        "kind": tool,
+        "tooltip": "Audacity is a free audio editing software",
+        "display": "Audacity"
+    },
 
 
     //layout lang
