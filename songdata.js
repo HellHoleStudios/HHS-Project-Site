@@ -75,9 +75,9 @@ var __song = [{
     {
         "name": "Island Island.flp",
         "author": ["HDD"],
-        "release": "2018-04-13",
+        "release": "2018-04-11",
         "tag": ["Music", "Video", "Remix", "FL"],
-        "length": "00:47",
+        "length": "00:42",
         "audio": "audio/Island Island.mp3",
         "source": "tothejazz - Island Island"
     },
@@ -104,6 +104,7 @@ var __song = [{
         "tag": ["Music", "Test", "FL"],
         "length": "00:12",
         "source": "#O#",
+        "audio": "audio/Black tune No.1.mp3",
         "supplement": "The original FL project file was lost."
     },
     {
@@ -185,7 +186,8 @@ var __song = [{
         "release": "2017-04-23",
         "tag": ["Music", "Test", "FL"],
         "length": "00:29",
-        "source": "#O#",
+        "audio": "audio/Blind Music.mp3",
+        "source": "#O#"
     },
     {
         "name": "Botanik",
@@ -255,6 +257,7 @@ var __song = [{
         "tag": ["Music", "Remix", "FL"],
         "length": "00:43",
         "source": "tothejazz - Island Island",
+        "audio": "audio/Island Island (8-bit Remix).mp3",
         "supplement": "Based on HDD's project file of the same song."
     },
     {
@@ -351,12 +354,12 @@ var __song = [{
         "supplement": "Another Undertale remix using Minecraft sounds."
     },
     {
-        "name": "E.0052 Chiptune Test 9 / Tale of Glyphs / 符文传说",
+        "name": "E.0052 Chiptune Test 9 (fixed BPM ver.) / Tale of Glyphs / 符文传说",
         "author": ["Zzzyt"],
         "release": "2020-02-20",
-        "tag": ["Music", "FL"],
+        "tag": ["Music", "Remix", "FL"],
         "length": "02:12",
-        "source": "#O#",
+        "source": "Zzzyt - E.0052 Chiptune Test 9",
         "audio": "audio/title.ogg",
         "supplement": `
         Used as <i>Touhou Rune Legend - Title Theme</i>
@@ -364,7 +367,10 @@ var __song = [{
         Used as <i>Re:ZJSTG - Title Theme</i>
         
         <b>FL Project File Comment</b>
+        From E.0052
+
         For XGN's TestSTG
+        fixed to 140 BPM
 
         <b>TRL English Supplement</b>
         Composed By Zzzyt\nTitle Theme\nIt's not really intended for a title theme. XGN chose it to be one.\nMaybe it's too sad to fit this role.... Who knows, it's just an experiment by myself.\nSome part of it was inspired by Unreal Superhero 3, the famous piece of keygen music.\nYou know why it's in chiptune style? Because I'm lazy to mess around with high-tech samplers (laugh)
@@ -596,6 +602,7 @@ var __song = [{
         "tag": ["Music", "Test", "FL"],
         "length": "00:08",
         "source": "#O#",
+        "audio": "audio/WAVEWAVE.mp3",
         "supplement": `
         <b>Comment on 2021/1/9</b>
         Just random product of key rolling. The original FL project file was lost.
@@ -618,7 +625,7 @@ var __song = [{
         "author": ["WZZ"],
         "release": "2019-06-14",
         "tag": ["Music", "Remix", "FreePiano"],
-        "length": "02:09",
+        "length": "01:10",
         "source": `NateWantsToBattle - Undertale Genocide Song - Ashes <br/>
         lr/Rachie/Starbeam/... - Stronger than you`,
         "audio": "audio/wng.mp3",
@@ -641,6 +648,7 @@ var __song = [{
         "release": "2017-05-05",
         "tag": ["Music", "Test", "FL", "Info"],
         "length": "00:05",
+        "audio": "audio/World's 3rd Worst Music.mp3",
         "source": "?"
     },
     {
@@ -787,7 +795,7 @@ var __song = [{
         "name": "月まで届け、不死の煙 / Reach for the Moon, Immortal Smoke",
         "author": ["HDD"],
         "release": "2018-03-06",
-        "tag": ["Music", "Touhou", "FL"],
+        "tag": ["Music", "Touhou", "Remix", "FL"],
         "length": "00:12",
         "source": `#A# - 月まで届け、不死の煙`,
         "audio": "audio/moon.mp3",
@@ -803,4 +811,13 @@ var __song = [{
         "length": "00:19",
         "source": "#O#",
     },
+    {
+        "name": "Son of the Sun",
+        "author": ["HDD"],
+        "release": "",
+        "tag": ["Music", "Remix", "FL", "Info"],
+        "length": "01:10",
+        "audio": "audio/son of the sun.mp3",
+        "source": "Therion - Sun of the Sun"
+    }
 ];
