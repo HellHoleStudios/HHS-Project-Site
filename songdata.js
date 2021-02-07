@@ -265,7 +265,7 @@ var __song = [{
         "author": ["HDD"],
         "release": "2018-03-11",
         "tag": ["Music", "Remix", "FL"],
-        "length": "00:24",
+        "length": "00:40",
         "source": "xyce - La Cherie",
         "audio": "audio/lac.mp3",
         "supplement": "Used as <i>TestSTG3 - Ending Theme</i> and <i>The Lost Forest - Ending Theme</i>"
