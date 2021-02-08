@@ -1480,13 +1480,14 @@ var __data = [{
         "comment": "To enable USB on Mythware Student Side"
     },
     {
-        "name": "Heart of the Vortex",
+        "name": "末路回光 / The Lost Hikari",
         "link": "https://www.bilibili.com/read/cv9285182",
         "author": ["ZKY"],
         "release": "2021-01-15",
         "coauthor": ["XGN"],
-        "tag": ["Literature", "CHN", "Working"],
+        "tag": ["Literature", "CHN", "Done"],
         "rating": 2,
+        "comment": "A part of Heart of the Vortex which is Segicverse's sequel"
     },
     {
         "name": "Jizou Osu Beatmap",
@@ -1503,20 +1504,17 @@ var __data = [{
                  "Source":"https://github.com/XiaoGeNintendo/TypingCompetition2-Source",
                  "Release Note":"https://xiaogenintendo.github.io/2021/01/24/pc2release/",
                  "Modding Guide":"https://xiaogenintendo.github.io/2021/01/28/Adding-Chars-In-PC2/",},
-        "author": [
-            "XGN"
-        ],
+        "author": ["XGN"],
         "release": "2021-01-24",
-        "coauthor": [
-            "MK"
-        ],
+        "coauthor": ["MK"],
         "tag": [
             "Game",
             "GDScript",
             "Godot",
             "ENG",
             "Working"
-        ]
+        ],
+        "rating":2
     },
 ]
 

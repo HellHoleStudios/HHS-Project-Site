@@ -815,7 +815,7 @@ var __song = [{
         "name": "Son of the Sun",
         "author": ["HDD"],
         "release": "2018-11-20",
-        "tag": ["Music", "Remix", "FL", "Info"],
+        "tag": ["Music", "Remix", "FL"],
         "length": "01:10",
         "audio": "audio/son of the sun.mp3",
         "source": "Therion - Sun of the Sun"
