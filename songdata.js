@@ -55,12 +55,11 @@ var __song = [{
     {
         "name": "Idea7 (mobile)",
         "author": ["Zzzyt"],
-        "release": "2020-04-10",
+        "release": "2020-04-25",
         "tag": ["Music", "Test", "FLMobile"],
         "length": "00:19",
         "source": "Zzzyt - E.0020 Piano Test 20",
         "audio": "audio/ZzzytMobile/Idea7.mp3",
-        "comment": "Release time is estimated and can be wrong."
     },
     {
         "name": "Idea8 (mobile) / Random Rock / 不知哪来的摇滚",
@@ -155,7 +154,7 @@ var __song = [{
     {
         "name": "Idea14 (mobile)",
         "author": ["Zzzyt"],
-        "release": "2020-04-19",
+        "release": "2020-04-25",
         "tag": ["Music", "Test", "FLMobile"],
         "length": "00:26",
         "source": "#A# - 神々が恋した幻想郷",
@@ -164,7 +163,7 @@ var __song = [{
     {
         "name": "Idea15 (mobile)",
         "author": ["Zzzyt"],
-        "release": "2020-04-19",
+        "release": "2020-04-25",
         "tag": ["Music", "Test", "FLMobile"],
         "length": "02:39",
         "source": "#O#",
@@ -380,7 +379,7 @@ var __song = [{
     {
         "name": "Song of EBC",
         "author": ["Zzzyt"],
-        "release": "2019-06-27",
+        "release": "2019-06-20",
         "tag": ["Music", "Test", "FLMobile"],
         "length": "00:27",
         "source": "#O#",
