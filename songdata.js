@@ -657,7 +657,7 @@ var __song = [{
         "release": "2017-05-06",
         "tag": ["Music", "Test", "FL", "Info"],
         "length": "00:40",
-        "audio": "audio/World Fourth Worst Music.mp3",
+        "audio": "audio/World's 4th Worst Music.mp3",
         "source": "?"
     },
     {
@@ -814,10 +814,37 @@ var __song = [{
     {
         "name": "Son of the Sun",
         "author": ["HDD"],
-        "release": "",
+        "release": "2018-11-20",
         "tag": ["Music", "Remix", "FL", "Info"],
         "length": "01:10",
         "audio": "audio/son of the sun.mp3",
         "source": "Therion - Sun of the Sun"
+    },
+    {
+        "name": "World's 2nd Worst Music",
+        "author": ["Zzzyt"],
+        "release": "2017-04-26",
+        "tag": ["Music", "Test", "FL"],
+        "length": "00:09",
+        "audio": "audio/World's 2nd Worst Music.mp3",
+        "source": "#O#"
+    },
+    {
+        "name": "World's Worst Music",
+        "author": ["Zzzyt"],
+        "release": "2017-04-09",
+        "tag": ["Music", "Test", "FL"],
+        "length": "00:09",
+        "audio": "audio/World's Worst Music.mp3",
+        "source": "#O#"
+    },
+    {
+        "name": "World's 5th Worst Music",
+        "author": ["Zzzyt"],
+        "release": "2017-05-09",
+        "tag": ["Music", "Test", "FL"],
+        "length": "00:09",
+        "audio": "audio/World's 5th Worst Music.mp3",
+        "source": "#O#"
     }
 ];
