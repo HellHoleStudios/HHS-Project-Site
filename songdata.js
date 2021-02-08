@@ -1,20 +1,81 @@
 var __song = [{
-        "name": "E.0072 Idea 8 / Random Rock / 不知哪来的摇滚",
+        "name": "Idea1 (mobile)",
+        "author": ["Zzzyt"],
+        "release": "2019-06-20",
+        "tag": ["Music", "Test", "FLMobile"],
+        "length": "00:18",
+        "source": "#O#",
+        "audio": "audio/ZzzytMobile/Idea1.mp3"
+    },
+    {
+        "name": "Idea2 (mobile)",
+        "author": ["Zzzyt"],
+        "release": "2019-08-23",
+        "tag": ["Music", "Test", "FLMobile"],
+        "length": "00:29",
+        "source": "#O#",
+        "audio": "audio/ZzzytMobile/Idea2.mp3"
+    },
+    {
+        "name": "Idea3 (mobile)",
+        "author": ["Zzzyt"],
+        "release": "2020-04-03",
+        "tag": ["Music", "Test", "FLMobile"],
+        "length": "00:15",
+        "source": "#O#",
+        "audio": "audio/ZzzytMobile/Idea3.mp3"
+    },
+    {
+        "name": "Idea4 (mobile)",
+        "author": ["Zzzyt"],
+        "release": "2020-04-03",
+        "tag": ["Music", "Test", "FLMobile"],
+        "length": "00:11",
+        "source": "Zzzyt - E.0020 Piano Test 20",
+        "audio": "audio/ZzzytMobile/Idea4.mp3"
+    },
+    {
+        "name": "Idea5 (mobile)",
+        "author": ["Zzzyt"],
+        "release": "2020-04-07",
+        "tag": ["Music", "Test", "FLMobile"],
+        "length": "00:11",
+        "source": "#O#",
+        "audio": "audio/ZzzytMobile/Idea5.mp3"
+    },
+    {
+        "name": "Idea6 (mobile)",
+        "author": ["Zzzyt"],
+        "release": "2020-04-08",
+        "tag": ["Music", "Test", "FLMobile"],
+        "length": "00:13",
+        "source": "#O#",
+        "audio": "audio/ZzzytMobile/Idea6.mp3"
+    },
+    {
+        "name": "Idea7 (mobile)",
+        "author": ["Zzzyt"],
+        "release": "2020-04-10",
+        "tag": ["Music", "Test", "FLMobile"],
+        "length": "00:19",
+        "source": "Zzzyt - E.0020 Piano Test 20",
+        "audio": "audio/ZzzytMobile/Idea7.mp3",
+        "comment": "Release time is estimated and can be wrong."
+    },
+    {
+        "name": "Idea8 (mobile) / Random Rock / 不知哪来的摇滚",
         "author": ["Zzzyt"],
         "release": "2020-04-18",
-        "tag": ["Music", "FL"],
-        "length": "01:20",
+        "tag": ["Music", "Test", "FLMobile"],
+        "length": "01:19",
         "source": "#O#",
-        "audio": "audio/Idea8.mp3",
+        "audio": "audio/ZzzytMobile/Idea8.mp3",
         "supplement": `
         Used as <i>Touhou Rune Legend - Unused Stage3's Theme</i>
 
         <b>Comment on 2019/1/9</b>
         It's heavily inspired by <i>D City Rock</i> by TeddyLoid. I never watched the <i>Panty&Stocking</i> anime though.
         However it's not really a remix, at least not to a degree to be listed as "source".
-
-        <b>FL Project File Comment</b>
-        Created on FL Mobile.
 
         Unused song in Touhou Rune Legend.
 
@@ -26,13 +87,40 @@ var __song = [{
         `
     },
     {
-        "name": "E.0076 Idea 12 / Desire Drive / 欲望加速",
+        "name": "Idea9 (mobile)",
         "author": ["Zzzyt"],
-        "release": "2020-05-13",
-        "tag": ["Music", "Remix", "Touhou", "FL"],
-        "length": "00:14",
+        "release": "2020-04-19",
+        "tag": ["Music", "Test", "FLMobile"],
+        "length": "00:54",
+        "source": "Zzzyt - E.0054",
+        "audio": "audio/ZzzytMobile/Idea9.mp3"
+    },
+    {
+        "name": "Idea10 (mobile)",
+        "author": ["Zzzyt"],
+        "release": "2020-04-19",
+        "tag": ["Music", "Test", "FLMobile"],
+        "length": "00:13",
+        "source": "Zzzyt - Idea4 (mobile)",
+        "audio": "audio/ZzzytMobile/Idea10.mp3"
+    },
+    {
+        "name": "Idea11 (mobile)",
+        "author": ["Zzzyt"],
+        "release": "2020-04-23",
+        "tag": ["Music", "Test", "FLMobile"],
+        "length": "00:06",
+        "source": "#O#",
+        "audio": "audio/ZzzytMobile/Idea11.mp3"
+    },
+    {
+        "name": "Idea12 (mobile) / Desire Drive / 欲望加速",
+        "author": ["Zzzyt"],
+        "release": "2020-04-23",
+        "tag": ["Music", "Remix", "Touhou", "FLMobile"],
+        "length": "00:11",
         "source": "#A# - デザイアドライブ",
-        "audio": "audio/Idea12.mp3",
+        "audio": "audio/ZzzytMobile/Idea12.mp3",
         "supplement": `
         Used as <i>Touhou Rune Legend - Configuration's Theme</i>
         Used as <i>TestSTG3 - Stage1 Theme</i>
@@ -42,9 +130,6 @@ var __song = [{
         Why? It gave me a feeling of emptiness and forwardness together.
         However, after listening to it too many times in many projects, I find it nothing uncommon now. :rofl:
         --XGN
-
-        <b>FL Project File Comment</b>
-        From FL Mobile.
 
         A remix of Desire Drive by Team Shanghai Alice.
 
@@ -59,7 +144,248 @@ var __song = [{
         `
     },
     {
-        "name": "E.0052 Chiptune Test 9 (fixed BPM ver.) / Tale of Glyphs / 符文传说",
+        "name": "Idea13 (mobile)",
+        "author": ["Zzzyt"],
+        "release": "2020-04-23",
+        "tag": ["Music", "Test", "Remix", "FLMobile"],
+        "length": "00:27",
+        "source": "Johann Pachelbel - Canon in D major",
+        "audio": "audio/ZzzytMobile/Idea13.mp3"
+    },
+    {
+        "name": "Idea14 (mobile)",
+        "author": ["Zzzyt"],
+        "release": "2020-04-19",
+        "tag": ["Music", "Test", "FLMobile"],
+        "length": "00:26",
+        "source": "#O#",
+        "audio": "audio/ZzzytMobile/Idea14.mp3"
+    },
+    {
+        "name": "Idea15 (mobile)",
+        "author": ["Zzzyt"],
+        "release": "2020-04-19",
+        "tag": ["Music", "Test", "FLMobile"],
+        "length": "02:39",
+        "source": "#O#",
+        "audio": "audio/ZzzytMobile/Idea15.mp3"
+    },
+    {
+        "name": "Idea16 (mobile)",
+        "author": ["Zzzyt"],
+        "release": "2020-04-19",
+        "tag": ["Music", "Test", "FLMobile"],
+        "length": "01:07",
+        "source": "#O#",
+        "audio": "audio/ZzzytMobile/Idea16.mp3"
+    },
+    {
+        "name": "Idea17 (mobile)",
+        "author": ["Zzzyt"],
+        "release": "2020-04-19",
+        "tag": ["Music", "Test", "FLMobile"],
+        "length": "00:13",
+        "source": "#O#",
+        "audio": "audio/ZzzytMobile/Idea17.mp3"
+    },
+    {
+        "name": "Idea18 (mobile)",
+        "author": ["Zzzyt"],
+        "release": "2020-04-19",
+        "tag": ["Music", "Test", "FLMobile"],
+        "length": "02:46",
+        "source": "#O#",
+        "audio": "audio/ZzzytMobile/Idea18.mp3"
+    },
+    {
+        "name": "Idea19 (mobile)",
+        "author": ["Zzzyt"],
+        "release": "2020-04-19",
+        "tag": ["Music", "Test", "FLMobile"],
+        "length": "00:26",
+        "source": "#O#",
+        "audio": "audio/ZzzytMobile/Idea19.mp3"
+    },
+    {
+        "name": "Idea20 (mobile)",
+        "author": ["Zzzyt"],
+        "release": "2020-04-19",
+        "tag": ["Music", "Test", "FLMobile"],
+        "length": "01:23",
+        "source": "#O#",
+        "audio": "audio/ZzzytMobile/Idea20.mp3"
+    },
+    {
+        "name": "Idea21 (mobile)",
+        "author": ["Zzzyt"],
+        "release": "2020-04-19",
+        "tag": ["Music", "Test", "FLMobile"],
+        "length": "00:29",
+        "source": "#O#",
+        "audio": "audio/ZzzytMobile/Idea21.mp3"
+    },
+    {
+        "name": "Idea22 (mobile)",
+        "author": ["Zzzyt"],
+        "release": "2020-04-19",
+        "tag": ["Music", "Test", "FLMobile"],
+        "length": "00:53",
+        "source": "#O#",
+        "audio": "audio/ZzzytMobile/Idea22.mp3"
+    },
+    {
+        "name": "Idea23 (mobile)",
+        "author": ["Zzzyt"],
+        "release": "2020-04-19",
+        "tag": ["Music", "Test", "FLMobile"],
+        "length": "00:53",
+        "source": "#O#",
+        "audio": "audio/ZzzytMobile/Idea23.mp3"
+    },
+    {
+        "name": "Idea24 (mobile)",
+        "author": ["Zzzyt"],
+        "release": "2020-04-19",
+        "tag": ["Music", "Test", "FLMobile"],
+        "length": "00:15",
+        "source": "#O#",
+        "audio": "audio/ZzzytMobile/Idea24.mp3"
+    },
+    {
+        "name": "Idea25 (mobile)",
+        "author": ["Zzzyt"],
+        "release": "2020-04-19",
+        "tag": ["Music", "Test", "FLMobile"],
+        "length": "00:06",
+        "source": "#O#",
+        "audio": "audio/ZzzytMobile/Idea25.mp3"
+    },
+    {
+        "name": "Idea26 (mobile)",
+        "author": ["Zzzyt"],
+        "release": "2020-04-19",
+        "tag": ["Music", "Test", "FLMobile"],
+        "length": "00:26",
+        "source": "#O#",
+        "audio": "audio/ZzzytMobile/Idea26.mp3"
+    },
+    {
+        "name": "Idea27 (mobile)",
+        "author": ["Zzzyt"],
+        "release": "2020-04-19",
+        "tag": ["Music", "Test", "FLMobile"],
+        "length": "00:11",
+        "source": "#O#",
+        "audio": "audio/ZzzytMobile/Idea27.mp3"
+    },
+    {
+        "name": "Idea28 (mobile)",
+        "author": ["Zzzyt"],
+        "release": "2020-04-19",
+        "tag": ["Music", "Test", "FLMobile"],
+        "length": "00:15",
+        "source": "#O#",
+        "audio": "audio/ZzzytMobile/Idea28.mp3"
+    },
+    {
+        "name": "Idea29 (mobile)",
+        "author": ["Zzzyt"],
+        "release": "2020-04-19",
+        "tag": ["Music", "Test", "FLMobile"],
+        "length": "00:49",
+        "source": "#O#",
+        "audio": "audio/ZzzytMobile/Idea29.mp3"
+    },
+    {
+        "name": "Idea30 (mobile)",
+        "author": ["Zzzyt"],
+        "release": "2020-04-19",
+        "tag": ["Music", "Test", "FLMobile"],
+        "length": "01:03",
+        "source": "#O#",
+        "audio": "audio/ZzzytMobile/Idea30.mp3"
+    },
+    {
+        "name": "Idea31 (mobile)",
+        "author": ["Zzzyt"],
+        "release": "2020-04-19",
+        "tag": ["Music", "Test", "FLMobile"],
+        "length": "00:15",
+        "source": "#O#",
+        "audio": "audio/ZzzytMobile/Idea31.mp3"
+    },
+    {
+        "name": "Idea32 (mobile)",
+        "author": ["Zzzyt"],
+        "release": "2020-04-19",
+        "tag": ["Music", "Test", "FLMobile"],
+        "length": "00:04",
+        "source": "#O#",
+        "audio": "audio/ZzzytMobile/Idea32.mp3"
+    },
+    {
+        "name": "Idea33 (mobile)",
+        "author": ["Zzzyt"],
+        "release": "2020-04-19",
+        "tag": ["Music", "Test", "FLMobile"],
+        "length": "00:13",
+        "source": "#O#",
+        "audio": "audio/ZzzytMobile/Idea33.mp3"
+    },
+    {
+        "name": "Idea34 (mobile)",
+        "author": ["Zzzyt"],
+        "release": "2020-04-19",
+        "tag": ["Music", "Test", "FLMobile"],
+        "length": "00:30",
+        "source": "#O#",
+        "audio": "audio/ZzzytMobile/Idea34.mp3"
+    },
+    {
+        "name": "Idea35 (mobile)",
+        "author": ["Zzzyt"],
+        "release": "2020-04-19",
+        "tag": ["Music", "Test", "FLMobile"],
+        "length": "00:47",
+        "source": "#O#",
+        "audio": "audio/ZzzytMobile/Idea35.mp3"
+    },
+    {
+        "name": "Idea36 (mobile)",
+        "author": ["Zzzyt"],
+        "release": "2020-04-19",
+        "tag": ["Music", "Test", "FLMobile"],
+        "length": "00:39",
+        "source": "#O#",
+        "audio": "audio/ZzzytMobile/Idea36.mp3"
+    },
+    {
+        "name": "Idea37 (mobile)",
+        "author": ["Zzzyt"],
+        "release": "2020-04-19",
+        "tag": ["Music", "Test", "FLMobile"],
+        "length": "00:13",
+        "source": "#O#",
+        "audio": "audio/ZzzytMobile/Idea37.mp3"
+    },
+    {
+        "name":"Piano #1",
+        "author":["Zzzyt"],
+        "release":"",
+        "tag":["Music", "Test", "FLMobile"],
+        "source": "#O#",
+        "audio": "audio/ZzzytMobile/Piano Test #1.mp3"
+    },
+    {
+        "name":"Song of EBC",
+        "author":["Zzzyt"],
+        "release":"",
+        "tag":["Music", "Test", "FLMobile"],
+        "source": "#O#",
+        "audio": "audio/ZzzytMobile/Song of EBC.mp3"
+    },
+    {
+        "name": "Chiptune Test 9 (fixed BPM ver.) / Tale of Glyphs / 符文传说",
         "author": ["Zzzyt"],
         "release": "2020-02-20",
         "tag": ["Music", "Remix", "FL"],
