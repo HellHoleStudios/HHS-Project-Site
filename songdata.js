@@ -28,10 +28,11 @@ var __song = [{
         "name": "Pike Place",
         "author": ["HDD"],
         "release": "2018-02-12",
-        "tag": ["Music", "Video", "YTPMV", "FL"],
+        "tag": ["Music", "Video", "Remix", "FL"],
         "length": "00:40",
         "audio": "audio/Pike Place.mp3",
         "source": "RQ - PIKE PLACE"
+        "supplement": "Actually has a YTPMV version with video on https://www.bilibili.com/video/BV1JW411E7Nk"
     },
     {
         "name": "Battle against a true hero",
@@ -93,7 +94,7 @@ var __song = [{
         "name": "秘封噩 梦日记.mp4 / Night mare Diary.mp4",
         "author": ["HDD"],
         "release": "2018-08-31",
-        "tag": ["Music", "Video", "Remix", "FL"],
+        "tag": ["Music", "Video", "YTPMV", "FL"],
         "length": "01:34",
         "source": "#A# - ナイトメアダイアリー"
     },
@@ -202,7 +203,7 @@ var __song = [{
         "name": "Dans La Rue",
         "author": ["HDD"],
         "release": "2018-03-16",
-        "tag": ["Music", "Remix", "FL"],
+        "tag": ["Music", "YTPMV", "FL"],
         "length": "01:08",
         "source": "Cerror and Xylo - Dans la rue",
         "audio": "audio/dlr3.mp3",
@@ -226,7 +227,7 @@ var __song = [{
         "name": "Fleur De Lys",
         "author": ["HDD"],
         "release": "2018-03-30",
-        "tag": ["Music", "Remix", "FL"],
+        "tag": ["Music", "YTPMV", "FL"],
         "length": "00:56",
         "audio": "audio/Fleur De Lys.mp3",
         "source": "Xemogasa - fleur de lys",
@@ -264,7 +265,7 @@ var __song = [{
         "name": "La Cherie",
         "author": ["HDD"],
         "release": "2018-03-11",
-        "tag": ["Music", "Remix", "FL"],
+        "tag": ["Music", "YTPMV", "FL"],
         "length": "00:40",
         "source": "xyce - La Cherie",
         "audio": "audio/lac.mp3",
@@ -291,7 +292,7 @@ var __song = [{
         "name": "Mr Droichen",
         "author": ["HDD"],
         "release": "2018-03-30",
-        "tag": ["Music", "Remix", "FL"],
+        "tag": ["Music", "YTPMV", "FL"],
         "length": "02:45",
         "audio": "audio/Mr Droichenv2.mp3",
         "source": "Darkman007 - Mr. Droichen",
@@ -632,15 +633,6 @@ var __song = [{
         "supplement": `
             Used as <i>THHHS - Stage 5 Theme</i>
         `
-    },
-    {
-        "name": "Woodwind",
-        "author": ["HDD"],
-        "release": "2017-07-02",
-        "tag": ["Music", "Test", "FL", "Info"],
-        "length": "00:14",
-        "audio": "audio/Woodwind.mp3",
-        "source": "?"
     },
     {
         "name": "World's 3rd Worst Music",
