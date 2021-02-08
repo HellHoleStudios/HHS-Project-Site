@@ -1506,7 +1506,7 @@ var __data = [{
                  "Modding Guide":"https://xiaogenintendo.github.io/2021/01/28/Adding-Chars-In-PC2/",},
         "author": ["XGN"],
         "release": "2021-01-24",
-        "coauthor": ["MK"],
+        "coauthor": ["MK","Zzzyt","HDD"],
         "tag": [
             "Game",
             "GDScript",
@@ -1515,6 +1515,23 @@ var __data = [{
             "Working"
         ],
         "rating":2
+    },
+    {
+        "name": "MIST",
+        "link": "",
+        "author": ["XGN"],
+        "release": "Soon™",
+        "coauthor": [],
+        "comment": "abbr of May I Solve This. XGN's submission to WWDC21",
+        "tag": ["Game","Playground","Swift","SwiftUI","SpriteKit","ENG","Planned"],
+    },
+    {
+        "name": "2021 Typing Game",
+        "link": "",
+        "author": ["XGN"],
+        "release": "Soon™",
+        "coauthor": [],
+        "tag": ["Game", "Typ", "Java", "LibGdx", "ENG", "CHN", "Planned"],
     },
 ]
 

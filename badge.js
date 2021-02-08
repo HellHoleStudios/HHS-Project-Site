@@ -211,6 +211,11 @@ var badges = {
         "tooltip": "Osu Beatmap",
         "display": "Osu Beatmap"
     },
+    "Playground": {
+        "kind": category,
+        "tooltip": "Swift Playground",
+        "display": "Swift Playground"
+    },
 
     //programming language
     "Java": {
@@ -304,6 +309,11 @@ var badges = {
         "kind": lang,
         "tooltip": "Godot Script",
         "display": "GDScript"
+    },
+    "Swift": {
+        "kind": lang,
+        "tooltip": "Swift by Apple Inc.",
+        "display": "Swift"
     },
 
 
@@ -491,6 +501,16 @@ var badges = {
         "tooltip": "Audacity is a free audio editing software",
         "display": "Audacity"
     },
+    "SwiftUI": {
+        "kind": tool,
+        "tooltip": "SwiftUI is a Swift UI toolkit by Apple",
+        "display": "SwiftUI"
+    },
+    "SpriteKit": {
+        "kind": tool,
+        "tooltip": "SpriteKit is a Swift 2D Game kit by Apple",
+        "display": "SpriteKit"
+    },
 
 
     //layout lang
@@ -553,6 +573,11 @@ var badges = {
         "kind": status,
         "tooltip": "Attention: Tag/Source/Information required/incomplete",
         "display": "Info Incomplete"
+    },
+    "Planned": {
+        "kind": status,
+        "tooltip": "Planned/Ongoing project. Please stay tuned!",
+        "display": "Planned"
     },
 
     //style
