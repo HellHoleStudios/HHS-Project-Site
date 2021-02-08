@@ -1,4 +1,418 @@
 var __song = [{
+        "name": "Idea1 (mobile)",
+        "author": ["Zzzyt"],
+        "release": "2019-06-20",
+        "tag": ["Music", "Test", "FLMobile"],
+        "length": "00:18",
+        "source": "#O#",
+        "audio": "audio/ZzzytMobile/Idea1.mp3"
+    },
+    {
+        "name": "Idea2 (mobile)",
+        "author": ["Zzzyt"],
+        "release": "2019-08-23",
+        "tag": ["Music", "Test", "FLMobile"],
+        "length": "00:29",
+        "source": "#O#",
+        "audio": "audio/ZzzytMobile/Idea2.mp3"
+    },
+    {
+        "name": "Idea3 (mobile)",
+        "author": ["Zzzyt"],
+        "release": "2020-04-03",
+        "tag": ["Music", "Test", "FLMobile"],
+        "length": "00:15",
+        "source": "#O#",
+        "audio": "audio/ZzzytMobile/Idea3.mp3"
+    },
+    {
+        "name": "Idea4 (mobile)",
+        "author": ["Zzzyt"],
+        "release": "2020-04-03",
+        "tag": ["Music", "Test", "FLMobile"],
+        "length": "00:11",
+        "source": "Zzzyt - E.0020 Piano Test 20",
+        "audio": "audio/ZzzytMobile/Idea4.mp3"
+    },
+    {
+        "name": "Idea5 (mobile)",
+        "author": ["Zzzyt"],
+        "release": "2020-04-07",
+        "tag": ["Music", "Test", "FLMobile"],
+        "length": "00:11",
+        "source": "#O#",
+        "audio": "audio/ZzzytMobile/Idea5.mp3"
+    },
+    {
+        "name": "Idea6 (mobile)",
+        "author": ["Zzzyt"],
+        "release": "2020-04-08",
+        "tag": ["Music", "Test", "FLMobile"],
+        "length": "00:13",
+        "source": "#O#",
+        "audio": "audio/ZzzytMobile/Idea6.mp3"
+    },
+    {
+        "name": "Idea7 (mobile)",
+        "author": ["Zzzyt"],
+        "release": "2020-04-10",
+        "tag": ["Music", "Test", "FLMobile"],
+        "length": "00:19",
+        "source": "Zzzyt - E.0020 Piano Test 20",
+        "audio": "audio/ZzzytMobile/Idea7.mp3",
+        "comment": "Release time is estimated and can be wrong."
+    },
+    {
+        "name": "Idea8 (mobile) / Random Rock / 不知哪来的摇滚",
+        "author": ["Zzzyt"],
+        "release": "2020-04-18",
+        "tag": ["Music", "Test", "FLMobile"],
+        "length": "01:19",
+        "source": "#O#",
+        "audio": "audio/ZzzytMobile/Idea8.mp3",
+        "supplement": `
+        Used as <i>Touhou Rune Legend - Unused Stage3's Theme</i>
+
+        <b>Comment on 2019/1/9</b>
+        It's heavily inspired by <i>D City Rock</i> by TeddyLoid. I never watched the <i>Panty&Stocking</i> anime though.
+        However it's not really a remix, at least not to a degree to be listed as "source".
+
+        Unused song in Touhou Rune Legend.
+
+        <b>TRL English Supplement</b>
+        Composed by Zzzyt\nUnused Song\nUsed to be stage 3 boss theme.\nI guess I made too many chiptunes..so I gave rock a try (maybe it's not rock...?)\nThe percussion part is really my favorite one, I tried to express courage against harsh life.\nI'm too lazy to come up with a good title.
+
+        <b>TRL Chinese Supplement</b>
+        作曲:Zzzyt\n未使用\n本来是三面boss曲。\n大概是8bit做的太多了，我现在改过自新换摇滚试一试（这究竟是不是摇滚也成问题）。\n个人尤其喜欢打击乐器的部分。可能是在表达困难生活中的某种勇气吧。\n构思合理的名字实在是一件困难的事。
+        `
+    },
+    {
+        "name": "Idea9 (mobile)",
+        "author": ["Zzzyt"],
+        "release": "2020-04-19",
+        "tag": ["Music", "Test", "FLMobile"],
+        "length": "00:54",
+        "source": "Zzzyt - E.0054",
+        "audio": "audio/ZzzytMobile/Idea9.mp3"
+    },
+    {
+        "name": "Idea10 (mobile)",
+        "author": ["Zzzyt"],
+        "release": "2020-04-19",
+        "tag": ["Music", "Test", "FLMobile"],
+        "length": "00:13",
+        "source": "Zzzyt - Idea4 (mobile)",
+        "audio": "audio/ZzzytMobile/Idea10.mp3"
+    },
+    {
+        "name": "Idea11 (mobile)",
+        "author": ["Zzzyt"],
+        "release": "2020-04-23",
+        "tag": ["Music", "Test", "FLMobile"],
+        "length": "00:06",
+        "source": "#O#",
+        "audio": "audio/ZzzytMobile/Idea11.mp3"
+    },
+    {
+        "name": "Idea12 (mobile) / Desire Drive / 欲望加速",
+        "author": ["Zzzyt"],
+        "release": "2020-04-23",
+        "tag": ["Music", "Remix", "Touhou", "FLMobile"],
+        "length": "00:11",
+        "source": "#A# - デザイアドライブ",
+        "audio": "audio/ZzzytMobile/Idea12.mp3",
+        "supplement": `
+        Used as <i>Touhou Rune Legend - Configuration's Theme</i>
+        Used as <i>TestSTG3 - Stage1 Theme</i>
+        
+        <b>Comment on 2020/1/9</b>
+        Once in a while, I thought among all the Desire Drive remixes of Zzzyt, this is the best one
+        Why? It gave me a feeling of emptiness and forwardness together.
+        However, after listening to it too many times in many projects, I find it nothing uncommon now. :rofl:
+        --XGN
+
+        A remix of Desire Drive by Team Shanghai Alice.
+
+        <b>TRL English Supplement</b>
+        Setting Theme?!?! A game like this even have it??
+
+        <b>TRL Chinese Supplement</b>
+        设置界面的曲子。为什么这种游戏里会有设置曲目？
+
+        <b>TestSTG3 Comment</b>
+        Very suitable for a stage theme I guess?
+        `
+    },
+    {
+        "name": "Idea13 (mobile)",
+        "author": ["Zzzyt"],
+        "release": "2020-04-23",
+        "tag": ["Music", "Test", "Remix", "FLMobile"],
+        "length": "00:27",
+        "source": "Johann Pachelbel - Canon in D major",
+        "audio": "audio/ZzzytMobile/Idea13.mp3"
+    },
+    {
+        "name": "Idea14 (mobile)",
+        "author": ["Zzzyt"],
+        "release": "2020-04-19",
+        "tag": ["Music", "Test", "FLMobile"],
+        "length": "00:26",
+        "source": "#A# - 神々が恋した幻想郷",
+        "audio": "audio/ZzzytMobile/Idea14.mp3"
+    },
+    {
+        "name": "Idea15 (mobile)",
+        "author": ["Zzzyt"],
+        "release": "2020-04-19",
+        "tag": ["Music", "Test", "FLMobile"],
+        "length": "02:39",
+        "source": "#O#",
+        "audio": "audio/ZzzytMobile/Idea15.mp3"
+    },
+    {
+        "name": "Idea16 (mobile)",
+        "author": ["Zzzyt"],
+        "release": "2020-04-19",
+        "tag": ["Music", "Test", "FLMobile"],
+        "length": "01:07",
+        "source": "Zzzyt - Idea2 (mobile)",
+        "audio": "audio/ZzzytMobile/Idea16.mp3"
+    },
+    {
+        "name": "Idea17 (mobile)",
+        "author": ["Zzzyt"],
+        "release": "2020-04-19",
+        "tag": ["Music", "Test", "FLMobile"],
+        "length": "00:13",
+        "source": "#O#",
+        "audio": "audio/ZzzytMobile/Idea17.mp3"
+    },
+    {
+        "name": "Idea18 (mobile)",
+        "author": ["Zzzyt"],
+        "release": "2020-04-19",
+        "tag": ["Music", "Test", "FLMobile"],
+        "length": "02:46",
+        "source": "Zzzyt - E.0010 Piano Test 10",
+        "audio": "audio/ZzzytMobile/Idea18.mp3"
+    },
+    {
+        "name": "Idea19 (mobile)",
+        "author": ["Zzzyt"],
+        "release": "2020-04-19",
+        "tag": ["Music", "Test", "FLMobile"],
+        "length": "00:26",
+        "source": "#O#",
+        "audio": "audio/ZzzytMobile/Idea19.mp3"
+    },
+    {
+        "name": "Idea20 (mobile)",
+        "author": ["Zzzyt"],
+        "release": "2020-04-19",
+        "tag": ["Music", "Test", "FLMobile"],
+        "length": "01:23",
+        "source": "#O#",
+        "audio": "audio/ZzzytMobile/Idea20.mp3"
+    },
+    {
+        "name": "Idea21 (mobile)",
+        "author": ["Zzzyt"],
+        "release": "2020-04-19",
+        "tag": ["Music", "Test", "FLMobile"],
+        "length": "00:29",
+        "source": "黄昏フロンティア / #A# - 砕月",
+        "audio": "audio/ZzzytMobile/Idea21.mp3"
+    },
+    {
+        "name": "Idea22 (mobile)",
+        "author": ["Zzzyt"],
+        "release": "2020-04-19",
+        "tag": ["Music", "Test", "FLMobile"],
+        "length": "00:53",
+        "source": "#O#",
+        "audio": "audio/ZzzytMobile/Idea22.mp3"
+    },
+    {
+        "name": "Idea23 (mobile)",
+        "author": ["Zzzyt"],
+        "release": "2020-04-19",
+        "tag": ["Music", "Test", "FLMobile"],
+        "length": "00:53",
+        "source": "サカナクション - 新宝島",
+        "audio": "audio/ZzzytMobile/Idea23.mp3"
+    },
+    {
+        "name": "Idea24 (mobile)",
+        "author": ["Zzzyt"],
+        "release": "2020-04-19",
+        "tag": ["Music", "Test", "FLMobile"],
+        "length": "00:15",
+        "source": "Zzzyt - Song of EBC",
+        "audio": "audio/ZzzytMobile/Idea24.mp3"
+    },
+    {
+        "name": "Idea25 (mobile)",
+        "author": ["Zzzyt"],
+        "release": "2020-04-19",
+        "tag": ["Music", "Test", "FLMobile"],
+        "length": "00:06",
+        "source": "#O#",
+        "audio": "audio/ZzzytMobile/Idea25.mp3"
+    },
+    {
+        "name": "Idea26 (mobile)",
+        "author": ["Zzzyt"],
+        "release": "2020-04-19",
+        "tag": ["Music", "Test", "FLMobile"],
+        "length": "00:26",
+        "source": "Wintergatan - Marble Machine",
+        "audio": "audio/ZzzytMobile/Idea26.mp3"
+    },
+    {
+        "name": "Idea27 (mobile)",
+        "author": ["Zzzyt"],
+        "release": "2020-04-19",
+        "tag": ["Music", "Test", "FLMobile"],
+        "length": "00:11",
+        "source": "#A# - デザイアドライブ",
+        "audio": "audio/ZzzytMobile/Idea27.mp3"
+    },
+    {
+        "name": "Idea28 (mobile)",
+        "author": ["Zzzyt"],
+        "release": "2020-04-19",
+        "tag": ["Music", "Test", "FLMobile"],
+        "length": "00:15",
+        "source": "#O#",
+        "audio": "audio/ZzzytMobile/Idea28.mp3"
+    },
+    {
+        "name": "Idea29 (mobile)",
+        "author": ["Zzzyt"],
+        "release": "2020-04-19",
+        "tag": ["Music", "Test", "FLMobile"],
+        "length": "00:49",
+        "source": "#O#",
+        "audio": "audio/ZzzytMobile/Idea29.mp3"
+    },
+    {
+        "name": "Idea30 (mobile)",
+        "author": ["Zzzyt"],
+        "release": "2020-04-19",
+        "tag": ["Music", "Test", "FLMobile"],
+        "length": "01:03",
+        "source": "Zzzyt - E.0054",
+        "audio": "audio/ZzzytMobile/Idea30.mp3"
+    },
+    {
+        "name": "Idea31 (mobile)",
+        "author": ["Zzzyt"],
+        "release": "2020-04-19",
+        "tag": ["Music", "Test", "FLMobile"],
+        "length": "00:15",
+        "source": "#O#",
+        "audio": "audio/ZzzytMobile/Idea31.mp3"
+    },
+    {
+        "name": "Idea32 (mobile)",
+        "author": ["Zzzyt"],
+        "release": "2020-04-19",
+        "tag": ["Music", "Test", "FLMobile"],
+        "length": "00:04",
+        "source": "Zzzyt - Idea22 (mobile)",
+        "audio": "audio/ZzzytMobile/Idea32.mp3"
+    },
+    {
+        "name": "Idea33 (mobile)",
+        "author": ["Zzzyt"],
+        "release": "2020-04-19",
+        "tag": ["Music", "Test", "FLMobile"],
+        "length": "00:13",
+        "source": "#O#",
+        "audio": "audio/ZzzytMobile/Idea33.mp3"
+    },
+    {
+        "name": "Idea34 (mobile)",
+        "author": ["Zzzyt"],
+        "release": "2020-04-19",
+        "tag": ["Music", "Test", "FLMobile"],
+        "length": "00:30",
+        "source": "#A# - 少女綺想曲 ～ Dream Battle",
+        "audio": "audio/ZzzytMobile/Idea34.mp3"
+    },
+    {
+        "name": "Idea35 (mobile)",
+        "author": ["Zzzyt"],
+        "release": "2020-04-19",
+        "tag": ["Music", "Test", "FLMobile"],
+        "length": "00:47",
+        "source": "神乃木製作所 - 恋色マジック (#A# - 恋色マジック)",
+        "audio": "audio/ZzzytMobile/Idea35.mp3"
+    },
+    {
+        "name": "Idea36 (mobile)",
+        "author": ["Zzzyt"],
+        "release": "2020-04-19",
+        "tag": ["Music", "Test", "FLMobile"],
+        "length": "00:39",
+        "source": "#O#",
+        "audio": "audio/ZzzytMobile/Idea36.mp3"
+    },
+    {
+        "name": "Idea37 (mobile)",
+        "author": ["Zzzyt"],
+        "release": "2020-04-19",
+        "tag": ["Music", "Test", "FLMobile"],
+        "length": "00:13",
+        "source": "Zzzyt - E.0041 Classical Test 5",
+        "audio": "audio/ZzzytMobile/Idea37.mp3"
+    },
+    {
+        "name": "Piano #1",
+        "author": ["Zzzyt"],
+        "release": "2019-06-27",
+        "tag": ["Music", "Test", "FLMobile"],
+        "length": "00:59",
+        "source": "#O#",
+        "audio": "audio/ZzzytMobile/Piano %231.mp3",
+    },
+    {
+        "name": "Song of EBC",
+        "author": ["Zzzyt"],
+        "release": "2019-06-27",
+        "tag": ["Music", "Test", "FLMobile"],
+        "length": "00:27",
+        "source": "#O#",
+        "audio": "audio/ZzzytMobile/Song of EBC.mp3",
+    },
+    {
+        "name": "Chiptune Test 9 (fixed BPM ver.) / Tale of Glyphs / 符文传说",
+        "author": ["Zzzyt"],
+        "release": "2020-02-20",
+        "tag": ["Music", "Remix", "FL"],
+        "length": "02:12",
+        "source": "Zzzyt - E.0052 Chiptune Test 9",
+        "audio": "audio/title.ogg",
+        "supplement": `
+        Used as <i>Touhou Rune Legend - Title Theme</i>
+        Used as <i>TestSTG2 - Title Theme</i>
+        Used as <i>Re:ZJSTG - Title Theme</i>
+        
+        <b>FL Project File Comment</b>
+        From E.0052
+
+        For XGN's TestSTG
+        fixed to 140 BPM
+
+        <b>TRL English Supplement</b>
+        Composed By Zzzyt\nTitle Theme\nIt's not really intended for a title theme. XGN chose it to be one.\nMaybe it's too sad to fit this role.... Who knows, it's just an experiment by myself.\nSome part of it was inspired by Unreal Superhero 3, the famous piece of keygen music.\nYou know why it's in chiptune style? Because I'm lazy to mess around with high-tech samplers (laugh)
+        
+        <b>TRL Chinese Supplement</b>
+        作曲:Zzzyt\n标题画面曲\n本来不是标题画面曲，这是XGN强行征用的结果。\n所以某些部分可能过于抑郁了...本来就是实验品，勉强够格吧。\n部分受到了Unreal Superhero 3的启发，那毕竟是著名Keygen音乐，我莫名其妙地就写进去了。\n至于为什么是8bit风而很不合群，是因为我懒得调合成器什么的，8bit多省事啊(笑)。\n另外名字本来也不是这样。也是XGN强行征用的结果。
+        `
+    },
+    {
         "name": "YP Boxing Round",
         "author": ["XGN"],
         "release": "2018-07-29",
@@ -28,10 +442,11 @@ var __song = [{
         "name": "Pike Place",
         "author": ["HDD"],
         "release": "2018-02-12",
-        "tag": ["Music", "Video", "YTPMV", "FL"],
+        "tag": ["Music", "Video", "Remix", "FL"],
         "length": "00:40",
         "audio": "audio/Pike Place.mp3",
-        "source": "RQ - PIKE PLACE"
+        "source": "RQ - PIKE PLACE",
+        "supplement": "Actually has a YTPMV version with video on https://www.bilibili.com/video/BV1JW411E7Nk"
     },
     {
         "name": "Battle against a true hero",
@@ -93,7 +508,7 @@ var __song = [{
         "name": "秘封噩 梦日记.mp4 / Night mare Diary.mp4",
         "author": ["HDD"],
         "release": "2018-08-31",
-        "tag": ["Music", "Video", "Remix", "FL"],
+        "tag": ["Music", "Video", "YTPMV", "FL"],
         "length": "01:34",
         "source": "#A# - ナイトメアダイアリー"
     },
@@ -202,7 +617,7 @@ var __song = [{
         "name": "Dans La Rue",
         "author": ["HDD"],
         "release": "2018-03-16",
-        "tag": ["Music", "Remix", "FL"],
+        "tag": ["Music", "YTPMV", "FL"],
         "length": "01:08",
         "source": "Cerror and Xylo - Dans la rue",
         "audio": "audio/dlr3.mp3",
@@ -226,7 +641,7 @@ var __song = [{
         "name": "Fleur De Lys",
         "author": ["HDD"],
         "release": "2018-03-30",
-        "tag": ["Music", "Remix", "FL"],
+        "tag": ["Music", "YTPMV", "FL"],
         "length": "00:56",
         "audio": "audio/Fleur De Lys.mp3",
         "source": "Xemogasa - fleur de lys",
@@ -264,7 +679,7 @@ var __song = [{
         "name": "La Cherie",
         "author": ["HDD"],
         "release": "2018-03-11",
-        "tag": ["Music", "Remix", "FL"],
+        "tag": ["Music", "YTPMV", "FL"],
         "length": "00:40",
         "source": "xyce - La Cherie",
         "audio": "audio/lac.mp3",
@@ -291,7 +706,7 @@ var __song = [{
         "name": "Mr Droichen",
         "author": ["HDD"],
         "release": "2018-03-30",
-        "tag": ["Music", "Remix", "FL"],
+        "tag": ["Music", "YTPMV", "FL"],
         "length": "02:45",
         "audio": "audio/Mr Droichenv2.mp3",
         "source": "Darkman007 - Mr. Droichen",
@@ -352,32 +767,6 @@ var __song = [{
         "length": "00:38",
         "source": "Toby Fox - Undertale",
         "supplement": "Another Undertale remix using Minecraft sounds."
-    },
-    {
-        "name": "E.0052 Chiptune Test 9 (fixed BPM ver.) / Tale of Glyphs / 符文传说",
-        "author": ["Zzzyt"],
-        "release": "2020-02-20",
-        "tag": ["Music", "Remix", "FL"],
-        "length": "02:12",
-        "source": "Zzzyt - E.0052 Chiptune Test 9",
-        "audio": "audio/title.ogg",
-        "supplement": `
-        Used as <i>Touhou Rune Legend - Title Theme</i>
-        Used as <i>TestSTG2 - Title Theme</i>
-        Used as <i>Re:ZJSTG - Title Theme</i>
-        
-        <b>FL Project File Comment</b>
-        From E.0052
-
-        For XGN's TestSTG
-        fixed to 140 BPM
-
-        <b>TRL English Supplement</b>
-        Composed By Zzzyt\nTitle Theme\nIt's not really intended for a title theme. XGN chose it to be one.\nMaybe it's too sad to fit this role.... Who knows, it's just an experiment by myself.\nSome part of it was inspired by Unreal Superhero 3, the famous piece of keygen music.\nYou know why it's in chiptune style? Because I'm lazy to mess around with high-tech samplers (laugh)
-        
-        <b>TRL Chinese Supplement</b>
-        作曲:Zzzyt\n标题画面曲\n本来不是标题画面曲，这是XGN强行征用的结果。\n所以某些部分可能过于抑郁了...本来就是实验品，勉强够格吧。\n部分受到了Unreal Superhero 3的启发，那毕竟是著名Keygen音乐，我莫名其妙地就写进去了。\n至于为什么是8bit风而很不合群，是因为我懒得调合成器什么的，8bit多省事啊(笑)。\n另外名字本来也不是这样。也是XGN强行征用的结果。
-        `
     },
     {
         "name": "Unexpected Scenery / 意外之景",
@@ -449,7 +838,7 @@ var __song = [{
 
         <b>TRL Chinese Supplement</b>
         Zhuky.RLG作曲\nSelbler的曲子\n对于一个赌徒，这只是一个无聊的游戏。他已经十分自满，他不会认真起来的。你真的觉得他好对付吗？我可不这么认为。\n我不知道为什么，但我每次写这首歌的时候都充满了悲凉，这并不是我想要的。重写过后，现在好多了。
-`
+        `
     },
     {
         "name": "Mournful Path / 哀伤小径",
@@ -467,7 +856,7 @@ var __song = [{
 
         <b>TRL Chinese Supplement</b>
         Zhuky.RLG作曲\n三面道中曲\n为什么穿越虚空这么难啊！一切都变了。我不觉得这么多人来挡路是一件愉快的事情。呵，又有人来了...\n你对这条虚空中的路很不开心。
-`
+        `
     },
     {
         "name": "Retribution / 恶报",
@@ -485,7 +874,7 @@ var __song = [{
 
         <b>TRL Chinese Supplement</b>
         Zhuky.RLG作曲\nCuraos的主题曲\n犯下累累罪行，他终于遇到了劲敌...他为了击败你孤注一掷,却又第一次感到如此绝望。无助，精疲力尽，他可想过这样罪恶的灵魂也可以得到救赎？ 
-`
+        `
     },
     {
         "name": "Space light / 时空之光",
@@ -499,66 +888,7 @@ var __song = [{
         Used as <i>Touhou Rune Legend - Trailer's Song</i>
         `
     },
-    {
-        "name": "E.0072 Idea 8 / Random Rock / 不知哪来的摇滚",
-        "author": ["Zzzyt"],
-        "release": "2020-04-18",
-        "tag": ["Music", "FL"],
-        "length": "01:20",
-        "source": "#O#",
-        "audio": "audio/Idea8.mp3",
-        "supplement": `
-        Used as <i>Touhou Rune Legend - Unused Stage3's Theme</i>
 
-        <b>Comment on 2019/1/9</b>
-        It's heavily inspired by <i>D City Rock</i> by TeddyLoid. I never watched the <i>Panty&Stocking</i> anime though.
-        However it's not really a remix, at least not to a degree to be listed as "source".
-
-        <b>FL Project File Comment</b>
-        Created on FL Mobile.
-
-        Unused song in Touhou Rune Legend.
-
-        <b>TRL English Supplement</b>
-        Composed by Zzzyt\nUnused Song\nUsed to be stage 3 boss theme.\nI guess I made too many chiptunes..so I gave rock a try (maybe it's not rock...?)\nThe percussion part is really my favorite one, I tried to express courage against harsh life.\nI'm too lazy to come up with a good title.
-
-        <b>TRL Chinese Supplement</b>
-        作曲:Zzzyt\n未使用\n本来是三面boss曲。\n大概是8bit做的太多了，我现在改过自新换摇滚试一试（这究竟是不是摇滚也成问题）。\n个人尤其喜欢打击乐器的部分。可能是在表达困难生活中的某种勇气吧。\n构思合理的名字实在是一件困难的事。
-        `
-    },
-    {
-        "name": "E.0076 Idea 12 / Desire Drive / 欲望加速",
-        "author": ["Zzzyt"],
-        "release": "2020-05-13",
-        "tag": ["Music", "Remix", "Touhou", "FL"],
-        "length": "00:14",
-        "source": "#A# - デザイアドライブ",
-        "audio": "audio/Idea12.mp3",
-        "supplement": `
-        Used as <i>Touhou Rune Legend - Configuration's Theme</i>
-        Used as <i>TestSTG3 - Stage1 Theme</i>
-        
-        <b>Comment on 2020/1/9</b>
-        Once in a while, I thought among all the Desire Drive remixes of Zzzyt, this is the best one
-        Why? It gave me a feeling of emptiness and forwardness together.
-        However, after listening to it too many times in many projects, I find it nothing uncommon now. :rofl:
-        --XGN
-
-        <b>FL Project File Comment</b>
-        From FL Mobile.
-
-        A remix of Desire Drive by Team Shanghai Alice.
-
-        <b>TRL English Supplement</b>
-        Setting Theme?!?! A game like this even have it??
-
-        <b>TRL Chinese Supplement</b>
-        设置界面的曲子。为什么这种游戏里会有设置曲目？
-
-        <b>TestSTG3 Comment</b>
-        Very suitable for a stage theme I guess?
-        `
-    },
     {
         "name": "Moon Child",
         "author": ["XGN"],
@@ -627,20 +957,11 @@ var __song = [{
         "tag": ["Music", "Remix", "FreePiano"],
         "length": "01:10",
         "source": `NateWantsToBattle - Undertale Genocide Song - Ashes <br/>
-        lr/Rachie/Starbeam/... - Stronger than you`,
+    lr/Rachie/Starbeam/... - Stronger than you`,
         "audio": "audio/wng.mp3",
         "supplement": `
-            Used as <i>THHHS - Stage 5 Theme</i>
+        Used as <i>THHHS - Stage 5 Theme</i>
         `
-    },
-    {
-        "name": "Woodwind",
-        "author": ["HDD"],
-        "release": "2017-07-02",
-        "tag": ["Music", "Test", "FL", "Info"],
-        "length": "00:14",
-        "audio": "audio/Woodwind.mp3",
-        "source": "?"
     },
     {
         "name": "World's 3rd Worst Music",
@@ -707,8 +1028,8 @@ var __song = [{
         "source": `#A# - ヴォヤージュ1969`,
         "audio": "audio/traveller 1969.mp3",
         "supplement": `
-            Used as <i>TestStg3 - Staff Theme</i>
-            Used as <i>The Lost Forest - Staff Theme</i>
+        Used as <i>TestStg3 - Staff Theme</i>
+        Used as <i>The Lost Forest - Staff Theme</i>
         `,
         "comment": "Yes. It's intentional. 'Traveller' 1969"
     },
