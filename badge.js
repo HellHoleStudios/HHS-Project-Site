@@ -466,6 +466,11 @@ var badges = {
         "tooltip": "FL Studio is a Digital Audio Workstation(DAW).",
         "display": "FL Studio"
     },
+    "FLMobile": {
+        "kind": tool,
+        "tooltip": "Mobile version of FL Studio.",
+        "display": "FL Mobile"
+    },
     "Vegas": {
         "kind": tool,
         "tooltip": "Sony Vegas is a video editing application.",
