@@ -158,7 +158,7 @@ var __song = [{
         "release": "2020-04-19",
         "tag": ["Music", "Test", "FLMobile"],
         "length": "00:26",
-        "source": "#O#",
+        "source": "#A# - 神々が恋した幻想郷",
         "audio": "audio/ZzzytMobile/Idea14.mp3"
     },
     {
@@ -176,7 +176,7 @@ var __song = [{
         "release": "2020-04-19",
         "tag": ["Music", "Test", "FLMobile"],
         "length": "01:07",
-        "source": "#O#",
+        "source": "Zzzyt - Idea2 (mobile)",
         "audio": "audio/ZzzytMobile/Idea16.mp3"
     },
     {
@@ -194,7 +194,7 @@ var __song = [{
         "release": "2020-04-19",
         "tag": ["Music", "Test", "FLMobile"],
         "length": "02:46",
-        "source": "#O#",
+        "source": "Zzzyt - E.0010 Piano Test 10",
         "audio": "audio/ZzzytMobile/Idea18.mp3"
     },
     {
@@ -221,7 +221,7 @@ var __song = [{
         "release": "2020-04-19",
         "tag": ["Music", "Test", "FLMobile"],
         "length": "00:29",
-        "source": "#O#",
+        "source": "黄昏フロンティア / #A# - 砕月",
         "audio": "audio/ZzzytMobile/Idea21.mp3"
     },
     {
@@ -239,7 +239,7 @@ var __song = [{
         "release": "2020-04-19",
         "tag": ["Music", "Test", "FLMobile"],
         "length": "00:53",
-        "source": "#O#",
+        "source": "サカナクション - 新宝島",
         "audio": "audio/ZzzytMobile/Idea23.mp3"
     },
     {
@@ -248,7 +248,7 @@ var __song = [{
         "release": "2020-04-19",
         "tag": ["Music", "Test", "FLMobile"],
         "length": "00:15",
-        "source": "#O#",
+        "source": "Zzzyt - Song of EBC",
         "audio": "audio/ZzzytMobile/Idea24.mp3"
     },
     {
@@ -266,7 +266,7 @@ var __song = [{
         "release": "2020-04-19",
         "tag": ["Music", "Test", "FLMobile"],
         "length": "00:26",
-        "source": "#O#",
+        "source": "Wintergatan - Marble Machine",
         "audio": "audio/ZzzytMobile/Idea26.mp3"
     },
     {
@@ -275,7 +275,7 @@ var __song = [{
         "release": "2020-04-19",
         "tag": ["Music", "Test", "FLMobile"],
         "length": "00:11",
-        "source": "#O#",
+        "source": "#A# - デザイアドライブ",
         "audio": "audio/ZzzytMobile/Idea27.mp3"
     },
     {
@@ -302,7 +302,7 @@ var __song = [{
         "release": "2020-04-19",
         "tag": ["Music", "Test", "FLMobile"],
         "length": "01:03",
-        "source": "#O#",
+        "source": "Zzzyt - E.0054",
         "audio": "audio/ZzzytMobile/Idea30.mp3"
     },
     {
@@ -320,7 +320,7 @@ var __song = [{
         "release": "2020-04-19",
         "tag": ["Music", "Test", "FLMobile"],
         "length": "00:04",
-        "source": "#O#",
+        "source": "Zzzyt - Idea22 (mobile)",
         "audio": "audio/ZzzytMobile/Idea32.mp3"
     },
     {
@@ -338,7 +338,7 @@ var __song = [{
         "release": "2020-04-19",
         "tag": ["Music", "Test", "FLMobile"],
         "length": "00:30",
-        "source": "#O#",
+        "source": "#A# - 少女綺想曲 ～ Dream Battle",
         "audio": "audio/ZzzytMobile/Idea34.mp3"
     },
     {
@@ -347,7 +347,7 @@ var __song = [{
         "release": "2020-04-19",
         "tag": ["Music", "Test", "FLMobile"],
         "length": "00:47",
-        "source": "#O#",
+        "source": "神乃木製作所 - 恋色マジック (#A# - 恋色マジック)",
         "audio": "audio/ZzzytMobile/Idea35.mp3"
     },
     {
@@ -365,24 +365,26 @@ var __song = [{
         "release": "2020-04-19",
         "tag": ["Music", "Test", "FLMobile"],
         "length": "00:13",
-        "source": "#O#",
+        "source": "Zzzyt - E.0041 Classical Test 5",
         "audio": "audio/ZzzytMobile/Idea37.mp3"
     },
     {
-        "name":"Piano #1",
-        "author":["Zzzyt"],
-        "release":"",
-        "tag":["Music", "Test", "FLMobile"],
+        "name": "Piano #1",
+        "author": ["Zzzyt"],
+        "release": "2019-06-27",
+        "tag": ["Music", "Test", "FLMobile"],
+        "length": "00:59",
         "source": "#O#",
-        "audio": "audio/ZzzytMobile/Piano Test #1.mp3"
+        "audio": "audio/ZzzytMobile/Piano %231.mp3",
     },
     {
-        "name":"Song of EBC",
-        "author":["Zzzyt"],
-        "release":"",
-        "tag":["Music", "Test", "FLMobile"],
+        "name": "Song of EBC",
+        "author": ["Zzzyt"],
+        "release": "2019-06-27",
+        "tag": ["Music", "Test", "FLMobile"],
+        "length": "00:27",
         "source": "#O#",
-        "audio": "audio/ZzzytMobile/Song of EBC.mp3"
+        "audio": "audio/ZzzytMobile/Song of EBC.mp3",
     },
     {
         "name": "Chiptune Test 9 (fixed BPM ver.) / Tale of Glyphs / 符文传说",
