@@ -123,6 +123,7 @@ var __song = [{
         "supplement": `
         Used as <i>Touhou Rune Legend - Configuration's Theme</i>
         Used as <i>TestSTG3 - Stage1 Theme</i>
+        Used as <i>2021 Typing Game - Configuration's Theme</i>
         
         <b>Comment on 2020/1/9</b>
         Once in a while, I thought among all the Desire Drive remixes of Zzzyt, this is the best one
@@ -397,7 +398,8 @@ var __song = [{
         Used as <i>Touhou Rune Legend - Title Theme</i>
         Used as <i>TestSTG2 - Title Theme</i>
         Used as <i>Re:ZJSTG - Title Theme</i>
-        
+        Used as <i>2021 Typing Game - Title Theme</i>
+
         <b>FL Project File Comment</b>
         From E.0052
 
