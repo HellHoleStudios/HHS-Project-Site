@@ -516,6 +516,11 @@ var badges = {
         "tooltip": "SpriteKit is a Swift 2D Game kit by Apple",
         "display": "SpriteKit"
     },
+    "TTE": {
+        "kind": tool,
+        "tooltip": "Touhou Typing Engine is a closed-source LibGDX-based engine to make Touhou-style Typing Game by XGN.",
+        "display": "TTE"
+    },
 
 
     //layout lang

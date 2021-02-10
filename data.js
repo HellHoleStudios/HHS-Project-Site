@@ -1291,7 +1291,7 @@ var __data = [{
         "author": ["HHS"],
         "release": "2020-07-21",
         "coauthor": ["XGN", "XIZCM", "MK", "ZKY", "Zzzyt"],
-        "tag": ["Game", "Typ", "Java", "LibGdx", "ENG", "CHN", "Deserted"],
+        "tag": ["Game", "Typ", "Java", "LibGdx", "TTE", "ENG", "CHN", "Deserted"],
         "rating": 4
     },
     {
@@ -1527,11 +1527,20 @@ var __data = [{
     },
     {
         "name": "2021 Typing Game",
-        "link": "",
+        "link": "https://xiaogenintendo.github.io/2021/02/10/2021-typing-game-release/",
         "author": ["XGN"],
-        "release": "Soon™",
+        "release": "2021-02-10",
+        "coauthor": ["Zzzyt"],
+        "tag": ["Game", "Typ", "Java", "LibGdx", "TTE", "ENG", "CHN", "JPN", "Done"],
+    },
+    {
+        "name": "Properties Extractor and Restorer",
+        "link": "https://gist.github.com/XiaoGeNintendo/9f96349548c6c54c1d74e765db99ff47",
+        "author": ["XGN"],
+        "release": "2021-02-10",
         "coauthor": [],
-        "tag": ["Game", "Typ", "Java", "LibGdx", "ENG", "CHN", "Planned"],
+        "tag": ["Tool","py3","ENG","Done"],
+        "comment": "To extract text from .properties and any other '='-based config file for batch Google translate/Baidu translate"
     },
 ]
 
