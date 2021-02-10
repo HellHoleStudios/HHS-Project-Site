@@ -168,7 +168,10 @@ var __song = [{
         "tag": ["Music", "Test", "FLMobile"],
         "length": "02:39",
         "source": "#O#",
-        "audio": "audio/ZzzytMobile/Idea15.mp3"
+        "audio": "audio/ZzzytMobile/Idea15.mp3",
+        "supplement":`
+        Used as <i>President Of Gensokyo - Theme song</i>
+        `
     },
     {
         "name": "Idea16 (mobile)",
@@ -213,7 +216,15 @@ var __song = [{
         "tag": ["Music", "Test", "FLMobile"],
         "length": "01:23",
         "source": "#O#",
-        "audio": "audio/ZzzytMobile/Idea20.mp3"
+        "audio": "audio/ZzzytMobile/Idea20.mp3",
+        "supplement":`
+        Used as <i>TestSTG3 - ZJS's Theme</i>
+
+        <b>TestSTG3 Comment</b>
+        Composed by Zzzyt
+        Theme song for ZJS
+        Suitable for ZJS
+        `
     },
     {
         "name": "Idea21 (mobile)",
@@ -267,7 +278,11 @@ var __song = [{
         "tag": ["Music", "Test", "FLMobile"],
         "length": "00:26",
         "source": "Wintergatan - Marble Machine",
-        "audio": "audio/ZzzytMobile/Idea26.mp3"
+        "audio": "audio/ZzzytMobile/Idea26.mp3",
+        "supplement":`
+        Used as <i>TestSTG3 - Stage 2 Theme</i>
+
+        `
     },
     {
         "name": "Idea27 (mobile)",
@@ -294,7 +309,11 @@ var __song = [{
         "tag": ["Music", "Test", "FLMobile"],
         "length": "00:49",
         "source": "#O#",
-        "audio": "audio/ZzzytMobile/Idea29.mp3"
+        "audio": "audio/ZzzytMobile/Idea29.mp3",
+        "supplement":`
+        Used as <i>TestSTG3 - Title theme</i>
+        Used as <i>The Lost Forest - Title Theme</i>
+        `
     },
     {
         "name": "Idea30 (mobile)",
