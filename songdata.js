@@ -897,6 +897,7 @@ var __song = [{
         "tag": ["Music", "Remix", "Touhou", "8bit", "FMT"],
         "length": "02:39",
         "source": "トリック・ノスタルジー - ムーンチャイルド ~ Homunculus Dream",
+        "audio": "audio/moonchild.mp3",
         "supplement": `
         Used as <i>TestSTG3 - Nanjin Yatsujitera's Theme</i>
 

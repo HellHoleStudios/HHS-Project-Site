@@ -1327,7 +1327,7 @@ var __data = [{
     },
     {
         "name": "Roaming Travellers in fantasy extravaganza",
-        "link": {"Initial Release":"https://drive.google.com/file/d/1MXd_Op99zalQaQxqqK7DhGGWuMT_KseR/view?usp=sharing",
+        "link": {"Initial Clone":"https://xiaogenintendo.github.io/2021/02/10/RTiFE-clone/",
                  "Supplement":"https://xiaogenintendo.github.io/categories/Literature/OC-Setting/"},
         "author": ["XGN"],
         "release": "2020-08-31",
