@@ -355,7 +355,7 @@ var __song = [{
         "name": "Idea34 (mobile)",
         "author": ["Zzzyt"],
         "release": "2020-06-11",
-        "tag": ["Music", "Test", "FLMobile"],
+        "tag": ["Music", "Remix", "FLMobile"],
         "length": "00:30",
         "source": "#A# - 少女綺想曲 ～ Dream Battle",
         "audio": "audio/ZzzytMobile/Idea34.mp3"
@@ -364,7 +364,7 @@ var __song = [{
         "name": "Idea35 (mobile)",
         "author": ["Zzzyt"],
         "release": "2020-06-11",
-        "tag": ["Music", "Test", "FLMobile"],
+        "tag": ["Music", "Remix", "FLMobile"],
         "length": "00:47",
         "source": "神乃木製作所 - 恋色マジック (#A# - 恋色マジック)",
         "audio": "audio/ZzzytMobile/Idea35.mp3"
