@@ -169,7 +169,7 @@ var __song = [{
         "length": "02:39",
         "source": "#O#",
         "audio": "audio/ZzzytMobile/Idea15.mp3",
-        "supplement":`
+        "supplement": `
         Used as <i>President Of Gensokyo - Theme song</i>
         `
     },
@@ -217,7 +217,7 @@ var __song = [{
         "length": "01:23",
         "source": "#O#",
         "audio": "audio/ZzzytMobile/Idea20.mp3",
-        "supplement":`
+        "supplement": `
         Used as <i>TestSTG3 - ZJS's Theme</i>
 
         <b>TestSTG3 Comment</b>
@@ -279,7 +279,7 @@ var __song = [{
         "length": "00:26",
         "source": "Wintergatan - Marble Machine",
         "audio": "audio/ZzzytMobile/Idea26.mp3",
-        "supplement":`
+        "supplement": `
         Used as <i>TestSTG3 - Stage 2 Theme</i>
 
         `
@@ -310,7 +310,7 @@ var __song = [{
         "length": "00:49",
         "source": "#O#",
         "audio": "audio/ZzzytMobile/Idea29.mp3",
-        "supplement":`
+        "supplement": `
         Used as <i>TestSTG3 - Title theme</i>
         Used as <i>The Lost Forest - Title Theme</i>
         `
@@ -410,9 +410,9 @@ var __song = [{
         "author": ["Zzzyt"],
         "release": "2020-02-20",
         "tag": ["Music", "Remix", "FL"],
-        "length": "02:12",
+        "length": "02:15",
         "source": "Zzzyt - E.0052 Chiptune Test 9",
-        "audio": "audio/title.ogg",
+        "audio": "audio/ZzzytRelease/Chiptune Test 9 (fixed BPM ver.).mp3",
         "supplement": `
         Used as <i>Touhou Rune Legend - Title Theme</i>
         Used as <i>TestSTG2 - Title Theme</i>
@@ -1188,5 +1188,59 @@ var __song = [{
         "length": "00:09",
         "audio": "audio/World's 5th Worst Music.mp3",
         "source": "#O#"
+    },
+    {
+        "name": "MEGALOVANIA (Zzzyt Remix)",
+        "author": ["Zzzyt"],
+        "release": "2018-03-03",
+        "tag": ["Music", "Remix", "FL"],
+        "length": "02:42",
+        "audio": "audio/ZzzytRelease/MEGALOVANIA (Zzzyt Remix).mp3",
+        "source": "Toby Fox - MEGALOVANIA"
+    },
+    {
+        "name": "Intro (Zzzyt Remix)",
+        "author": ["Zzzyt"],
+        "release": "2018-08-06",
+        "tag": ["Music", "Remix", "FL"],
+        "length": "02:06",
+        "audio": "audio/ZzzytRelease/Intro (Zzzyt Remix).mp3",
+        "source": "The xx - Intro"
+    },
+    {
+        "name": "Chiptune Test 9 (Remix)",
+        "author": ["Zzzyt"],
+        "release": "2030-08-13",
+        "tag": ["Music", "Remix", "FL"],
+        "length": "01:52",
+        "audio": "audio/ZzzytRelease/Chiptune Test 9 (Remix).mp3",
+        "source": "Zzzyt - E.0052 Chiptune Test 9"
+    },
+    {
+        "name": "Prograde",
+        "author": ["Zzzyt"],
+        "release": "2020-03-16",
+        "tag": ["Music", "FL"],
+        "length": "03:36",
+        "audio": "audio/ZzzytRelease/Prograde.mp3",
+        "source": "Zzzyt - E.0053"
+    },
+    {
+        "name": "Yet Another Tetris",
+        "author": ["Zzzyt"],
+        "release": "2020-03-16",
+        "tag": ["Music", "FL"],
+        "length": "03:16",
+        "audio": "audio/ZzzytRelease/Yet Another Tetris.mp3",
+        "source": "Zzzyt - E.0058"
+    },
+    {
+        "name": "Yet Another Tetris (Piano ver.)",
+        "author": ["Zzzyt"],
+        "release": "2020-06-25",
+        "tag": ["Music", "Remix", "FL"],
+        "length": "03:16",
+        "audio": "audio/ZzzytRelease/Yet Another Tetris (Piano ver.).mp3",
+        "source": "Zzzyt - Yet Another Tetris"
     }
 ];
