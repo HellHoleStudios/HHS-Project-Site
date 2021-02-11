@@ -37,7 +37,7 @@ var __song = [{
     {
         "name": "Idea5 (mobile)",
         "author": ["Zzzyt"],
-        "release": "2020-04-07",
+        "release": "2020-04-25",
         "tag": ["Music", "Test", "FLMobile"],
         "length": "00:11",
         "source": "#O#",
@@ -46,7 +46,7 @@ var __song = [{
     {
         "name": "Idea6 (mobile)",
         "author": ["Zzzyt"],
-        "release": "2020-04-08",
+        "release": "2020-04-25",
         "tag": ["Music", "Test", "FLMobile"],
         "length": "00:13",
         "source": "#O#",
@@ -88,7 +88,7 @@ var __song = [{
     {
         "name": "Idea9 (mobile)",
         "author": ["Zzzyt"],
-        "release": "2020-04-19",
+        "release": "2020-04-25",
         "tag": ["Music", "Test", "FLMobile"],
         "length": "00:54",
         "source": "Zzzyt - E.0054",
@@ -97,7 +97,7 @@ var __song = [{
     {
         "name": "Idea10 (mobile)",
         "author": ["Zzzyt"],
-        "release": "2020-04-19",
+        "release": "2020-04-25",
         "tag": ["Music", "Test", "FLMobile"],
         "length": "00:13",
         "source": "Zzzyt - Idea4 (mobile)",
@@ -106,7 +106,7 @@ var __song = [{
     {
         "name": "Idea11 (mobile)",
         "author": ["Zzzyt"],
-        "release": "2020-04-23",
+        "release": "2020-04-25",
         "tag": ["Music", "Test", "FLMobile"],
         "length": "00:06",
         "source": "#O#",
@@ -176,7 +176,7 @@ var __song = [{
     {
         "name": "Idea16 (mobile)",
         "author": ["Zzzyt"],
-        "release": "2020-04-19",
+        "release": "2020-05-02",
         "tag": ["Music", "Test", "FLMobile"],
         "length": "01:07",
         "source": "Zzzyt - Idea2 (mobile)",
@@ -185,7 +185,7 @@ var __song = [{
     {
         "name": "Idea17 (mobile)",
         "author": ["Zzzyt"],
-        "release": "2020-04-19",
+        "release": "2020-05-02",
         "tag": ["Music", "Test", "FLMobile"],
         "length": "00:13",
         "source": "#O#",
@@ -194,7 +194,7 @@ var __song = [{
     {
         "name": "Idea18 (mobile)",
         "author": ["Zzzyt"],
-        "release": "2020-04-19",
+        "release": "2020-05-02",
         "tag": ["Music", "Test", "FLMobile"],
         "length": "02:46",
         "source": "Zzzyt - E.0010 Piano Test 10",
@@ -203,7 +203,7 @@ var __song = [{
     {
         "name": "Idea19 (mobile)",
         "author": ["Zzzyt"],
-        "release": "2020-04-19",
+        "release": "2020-05-06",
         "tag": ["Music", "Test", "FLMobile"],
         "length": "00:26",
         "source": "#O#",
@@ -212,7 +212,7 @@ var __song = [{
     {
         "name": "Idea20 (mobile)",
         "author": ["Zzzyt"],
-        "release": "2020-04-19",
+        "release": "2020-06-13",
         "tag": ["Music", "Test", "FLMobile"],
         "length": "01:23",
         "source": "#O#",
@@ -229,7 +229,7 @@ var __song = [{
     {
         "name": "Idea21 (mobile)",
         "author": ["Zzzyt"],
-        "release": "2020-04-19",
+        "release": "2020-06-13",
         "tag": ["Music", "Test", "FLMobile"],
         "length": "00:29",
         "source": "黄昏フロンティア / #A# - 砕月",
@@ -238,7 +238,7 @@ var __song = [{
     {
         "name": "Idea22 (mobile)",
         "author": ["Zzzyt"],
-        "release": "2020-04-19",
+        "release": "2020-06-13",
         "tag": ["Music", "Test", "FLMobile"],
         "length": "00:53",
         "source": "#O#",
@@ -247,7 +247,7 @@ var __song = [{
     {
         "name": "Idea23 (mobile)",
         "author": ["Zzzyt"],
-        "release": "2020-04-19",
+        "release": "2020-06-13",
         "tag": ["Music", "Test", "FLMobile"],
         "length": "00:53",
         "source": "サカナクション - 新宝島",
@@ -256,7 +256,7 @@ var __song = [{
     {
         "name": "Idea24 (mobile)",
         "author": ["Zzzyt"],
-        "release": "2020-04-19",
+        "release": "2020-06-13",
         "tag": ["Music", "Test", "FLMobile"],
         "length": "00:15",
         "source": "Zzzyt - Song of EBC",
@@ -265,7 +265,7 @@ var __song = [{
     {
         "name": "Idea25 (mobile)",
         "author": ["Zzzyt"],
-        "release": "2020-04-19",
+        "release": "2020-06-13",
         "tag": ["Music", "Test", "FLMobile"],
         "length": "00:06",
         "source": "#O#",
@@ -274,7 +274,7 @@ var __song = [{
     {
         "name": "Idea26 (mobile)",
         "author": ["Zzzyt"],
-        "release": "2020-04-19",
+        "release": "2020-05-31",
         "tag": ["Music", "Test", "FLMobile"],
         "length": "00:26",
         "source": "Wintergatan - Marble Machine",
@@ -287,7 +287,7 @@ var __song = [{
     {
         "name": "Idea27 (mobile)",
         "author": ["Zzzyt"],
-        "release": "2020-04-19",
+        "release": "2020-06-13",
         "tag": ["Music", "Test", "FLMobile"],
         "length": "00:11",
         "source": "#A# - デザイアドライブ",
@@ -296,7 +296,7 @@ var __song = [{
     {
         "name": "Idea28 (mobile)",
         "author": ["Zzzyt"],
-        "release": "2020-04-19",
+        "release": "2020-06-13",
         "tag": ["Music", "Test", "FLMobile"],
         "length": "00:15",
         "source": "#O#",
@@ -305,7 +305,7 @@ var __song = [{
     {
         "name": "Idea29 (mobile)",
         "author": ["Zzzyt"],
-        "release": "2020-04-19",
+        "release": "2020-06-13",
         "tag": ["Music", "Test", "FLMobile"],
         "length": "00:49",
         "source": "#O#",
@@ -318,7 +318,7 @@ var __song = [{
     {
         "name": "Idea30 (mobile)",
         "author": ["Zzzyt"],
-        "release": "2020-04-19",
+        "release": "2020-06-13",
         "tag": ["Music", "Test", "FLMobile"],
         "length": "01:03",
         "source": "Zzzyt - E.0054",
@@ -327,7 +327,7 @@ var __song = [{
     {
         "name": "Idea31 (mobile)",
         "author": ["Zzzyt"],
-        "release": "2020-04-19",
+        "release": "2020-06-13",
         "tag": ["Music", "Test", "FLMobile"],
         "length": "00:15",
         "source": "#O#",
@@ -336,7 +336,7 @@ var __song = [{
     {
         "name": "Idea32 (mobile)",
         "author": ["Zzzyt"],
-        "release": "2020-04-19",
+        "release": "2020-06-13",
         "tag": ["Music", "Test", "FLMobile"],
         "length": "00:04",
         "source": "Zzzyt - Idea22 (mobile)",
@@ -345,7 +345,7 @@ var __song = [{
     {
         "name": "Idea33 (mobile)",
         "author": ["Zzzyt"],
-        "release": "2020-04-19",
+        "release": "2020-06-13",
         "tag": ["Music", "Test", "FLMobile"],
         "length": "00:13",
         "source": "#O#",
@@ -354,7 +354,7 @@ var __song = [{
     {
         "name": "Idea34 (mobile)",
         "author": ["Zzzyt"],
-        "release": "2020-04-19",
+        "release": "2020-06-11",
         "tag": ["Music", "Test", "FLMobile"],
         "length": "00:30",
         "source": "#A# - 少女綺想曲 ～ Dream Battle",
@@ -363,7 +363,7 @@ var __song = [{
     {
         "name": "Idea35 (mobile)",
         "author": ["Zzzyt"],
-        "release": "2020-04-19",
+        "release": "2020-06-11",
         "tag": ["Music", "Test", "FLMobile"],
         "length": "00:47",
         "source": "神乃木製作所 - 恋色マジック (#A# - 恋色マジック)",
@@ -372,7 +372,7 @@ var __song = [{
     {
         "name": "Idea36 (mobile)",
         "author": ["Zzzyt"],
-        "release": "2020-04-19",
+        "release": "2020-06-11",
         "tag": ["Music", "Test", "FLMobile"],
         "length": "00:39",
         "source": "#O#",
@@ -381,7 +381,7 @@ var __song = [{
     {
         "name": "Idea37 (mobile)",
         "author": ["Zzzyt"],
-        "release": "2020-04-19",
+        "release": "2020-06-13",
         "tag": ["Music", "Test", "FLMobile"],
         "length": "00:13",
         "source": "Zzzyt - E.0041 Classical Test 5",
@@ -1160,7 +1160,7 @@ var __song = [{
         "tag": ["Music", "Remix", "FL"],
         "length": "01:10",
         "audio": "audio/son of the sun.mp3",
-        "source": "Therion - Sun of the Sun"
+        "source": "Therion - Son of the Sun"
     },
     {
         "name": "World's 2nd Worst Music",
