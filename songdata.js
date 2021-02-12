@@ -38,7 +38,7 @@ var __song = [{
         "release": "2018-04-22",
         "tag": ["Music", "Test", "FL"],
         "length": "00:29",
-        "source": "#O#",
+        "source": "#A# - Bad Apple!!",
         "audio": "audio/ZzzytE00/E.0004 Piano Test 4.mp3",
         "supplement": "<b>FL Project File Comment</b><br>Original:Bad Apple"
     }, {
@@ -88,7 +88,7 @@ var __song = [{
         "release": "2018-06-22",
         "tag": ["Music", "Test", "FL"],
         "length": "01:06",
-        "source": "#O#",
+        "source": "Zzzyt - E.0006 PIano Test 6",
         "audio": "audio/ZzzytE00/E.0010 Piano Test 10.mp3",
         "supplement": "<b>FL Project File Comment</b><br>Same theme as Piano Test 6 (Water)."
     }, {
@@ -137,7 +137,7 @@ var __song = [{
         "name": "E.0016 Piano Test 16",
         "author": ["Zzzyt"],
         "release": "2019-05-17",
-        "tag": ["Music", "Test", "FL"],
+        "tag": ["Music", "Test", "Touhou", "FL"],
         "length": "00:39",
         "source": "#O#",
         "audio": "audio/ZzzytE00/E.0016 Piano Test 16.mp3",
@@ -146,7 +146,7 @@ var __song = [{
         "name": "E.0017 Piano Test 17",
         "author": ["Zzzyt"],
         "release": "2019-05-30",
-        "tag": ["Music", "Test", "FL"],
+        "tag": ["Music", "Test", "Touhou", "FL"],
         "length": "01:02",
         "source": "#O#",
         "audio": "audio/ZzzytE00/E.0017 Piano Test 17.mp3",
@@ -165,7 +165,7 @@ var __song = [{
         "release": "2018-11-04",
         "tag": ["Music", "Test", "FL"],
         "length": "00:46",
-        "source": "#O#",
+        "source": "Zzzty - E.0045 Chiptune Test 2",
         "audio": "audio/ZzzytE00/E.0019 Piano Test 19.mp3",
         "supplement": "<b>FL Project File Comment</b><br>So funny~~~<br><br>from Chiptune Test 2"
     }, {
@@ -190,7 +190,7 @@ var __song = [{
         "name": "E.0022 Piano Test 22",
         "author": ["Zzzyt"],
         "release": "2019-11-21",
-        "tag": ["Music", "Test", "FL"],
+        "tag": ["Music", "Test", "Touhou", "FL"],
         "length": "00:26",
         "source": "#O#",
         "audio": "audio/ZzzytE00/E.0022 Piano Test 22.mp3",
@@ -228,7 +228,7 @@ var __song = [{
         "release": "2018-02-19",
         "tag": ["Music", "Test", "FL"],
         "length": "01:32",
-        "source": "#O#",
+        "source": "久石譲 - 月光の雲海",
         "audio": "audio/ZzzytE00/E.0026 Sky City by Ruan.mp3",
         "supplement": "<b>FL Project File Comment</b><br>2020/1/29<br>Sampled from an old ruan in Suzhou<br>Just for a test"
     }, {
@@ -271,7 +271,7 @@ var __song = [{
         "name": "E.0031 Goodnight (Zzzyt Remix)",
         "author": ["Zzzyt"],
         "release": "2018-01-16",
-        "tag": ["Music", "Test", "FL"],
+        "tag": ["Music", "Remix", "FL"],
         "length": "00:05",
         "source": "#O#",
         "audio": "audio/ZzzytE00/E.0031 Goodnight (Zzzyt Remix).mp3",
@@ -280,7 +280,7 @@ var __song = [{
         "name": "E.0032 Chiptune (Zzzyt Remix)",
         "author": ["Zzzyt"],
         "release": "2018-06-13",
-        "tag": ["Music", "Test", "FL"],
+        "tag": ["Music", "Remix", "FL"],
         "length": "00:21",
         "source": "#O#",
         "audio": "audio/ZzzytE00/E.0032 Chiptune (Zzzyt Remix).mp3",
@@ -289,17 +289,17 @@ var __song = [{
         "name": "E.0033 Touhou Test 1",
         "author": ["Zzzyt"],
         "release": "2019-06-02",
-        "tag": ["Music", "Test", "FL"],
+        "tag": ["Music", "Remix", "Touhou", "FL"],
         "length": "00:54",
-        "source": "#O#",
+        "source": "#A# - 天空の花の都",
         "audio": "audio/ZzzytE00/E.0033 Touhou Test 1.mp3"
     }, {
         "name": "E.0034 Touhou Test 2",
         "author": ["Zzzyt"],
         "release": "2019-06-02",
-        "tag": ["Music", "Test", "FL"],
+        "tag": ["Music", "Remix", "Touhou", "FL"],
         "length": "01:59",
-        "source": "#O#",
+        "source": "#A# - デザイアドライブ",
         "audio": "audio/ZzzytE00/E.0034 Touhou Test 2.mp3",
         "supplement": "<b>FL Project File Comment</b><br>2020/1/29<br>Because of some loop modifications...and my laziness"
     }, {
@@ -316,7 +316,7 @@ var __song = [{
         "release": "2020-01-11",
         "tag": ["Music", "Test", "FL"],
         "length": "00:10",
-        "source": "#O#",
+        "source": "Toby Fox - MEGALOVANIA",
         "audio": "audio/ZzzytE00/E.0036 Vocodex Test 2.mp3",
         "supplement": "<b>FL Project File Comment</b><br>AOLIGEI!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
     }, {
@@ -333,7 +333,7 @@ var __song = [{
         "release": "2019-06-27",
         "tag": ["Music", "Test", "FL"],
         "length": "01:02",
-        "source": "#O#",
+        "source": "Zzzyt - Piano #1",
         "audio": "audio/ZzzytE00/E.0038 Classical Test 2.mp3",
         "supplement": "<b>FL Project File Comment</b><br>2020/9/26<br>From FL Mobile project \"Piano #1\""
     }, {
@@ -366,7 +366,7 @@ var __song = [{
         "name": "E.0042 Classical Test 6",
         "author": ["Zzzyt"],
         "release": "2019-08-09",
-        "tag": ["Music", "Test", "FL"],
+        "tag": ["Music", "Test", "Touhou", "FL"],
         "length": "01:39",
         "source": "#O#",
         "audio": "audio/ZzzytE00/E.0042 Classical Test 6.mp3",
@@ -377,7 +377,7 @@ var __song = [{
         "release": "2018-07-24",
         "tag": ["Music", "Test", "FL"],
         "length": "01:24",
-        "source": "#O#",
+        "source": "Rick Astley - Never Gonna Give You Up",
         "audio": "audio/ZzzytE00/E.0043 ByteBeatBasic.mp3",
         "supplement": "<b>FL Project File Comment</b><br>3B music!<br><br>2021/1/29<br>Yes, you are rickrolled.<br>The name comes from \"bytebeat\" in windows93.net."
     }, {
@@ -395,7 +395,7 @@ var __song = [{
         "release": "2018-11-04",
         "tag": ["Music", "Test", "FL"],
         "length": "00:32",
-        "source": "#O#",
+        "source": "Zzzyt - E.0044 Chiptune 2",
         "audio": "audio/ZzzytE00/E.0045 Chiptune Test 2.mp3",
         "supplement": "<b>FL Project File Comment</b><br>So funny~~~"
     }, {
@@ -413,7 +413,7 @@ var __song = [{
         "release": "2019-06-22",
         "tag": ["Music", "Test", "FL"],
         "length": "02:08",
-        "source": "#O#",
+        "source": "Zzzyt - Song of EBC",
         "audio": "audio/ZzzytE00/E.0047 Chiptune Test 4.mp3",
         "supplement": "<b>FL Project File Comment</b><br>aka. Song of EBC<br>because the first three notes are E,B,C"
     }, {
@@ -442,14 +442,14 @@ var __song = [{
         "length": "01:38",
         "source": "#O#",
         "audio": "audio/ZzzytE00/E.0050 Chiptune Test 7.mp3",
-        "supplement": "<b>FL Project File Comment</b><br>High BMP test"
+        "supplement": "<b>FL Project File Comment</b><br>High BPM test"
     }, {
         "name": "E.0051 Chiptune Test 8",
         "author": ["Zzzyt"],
         "release": "2019-11-23",
         "tag": ["Music", "Test", "FL"],
         "length": "00:50",
-        "source": "#O#",
+        "source": "Zzzyt - E.0020 Piano Test 20",
         "audio": "audio/ZzzytE00/E.0051 Chiptune Test 8.mp3",
         "supplement": "<b>FL Project File Comment</b><br>From Piano Test 20"
     }, {
@@ -485,7 +485,7 @@ var __song = [{
         "release": "2020-02-25",
         "tag": ["Music", "Test", "FL"],
         "length": "00:24",
-        "source": "#O#",
+        "source": "Zzzyt - E.0051 Chiptune Test 8<br>Tetris theme",
         "audio": "audio/ZzzytE00/E.0055 Tetris.mp3",
         "supplement": "<b>FL Project File Comment</b><br>That classic one.."
     }, {
@@ -494,7 +494,7 @@ var __song = [{
         "release": "2020-02-26",
         "tag": ["Music", "Test", "FL"],
         "length": "00:33",
-        "source": "#O#",
+        "source": "Zzzyt - E.0051 Chiptune Test 8<br>Tetris theme",
         "audio": "audio/ZzzytE00/E.0056.mp3",
         "supplement": "<b>FL Project File Comment</b><br>Test to mix Chiptune Test 8 & Tetris"
     }, {
@@ -503,7 +503,7 @@ var __song = [{
         "release": "2020-02-28",
         "tag": ["Music", "Test", "FL"],
         "length": "00:29",
-        "source": "#O#",
+        "source": "Tetris theme",
         "audio": "audio/ZzzytE00/E.0057.mp3"
     }, {
         "name": "E.0058",
@@ -511,7 +511,7 @@ var __song = [{
         "release": "2020-03-02",
         "tag": ["Music", "Test", "FL"],
         "length": "04:01",
-        "source": "#O#",
+        "source": "Tetris theme",
         "audio": "audio/ZzzytE00/E.0058.mp3"
     }, {
         "name": "E.0059",
@@ -528,7 +528,7 @@ var __song = [{
         "release": "2020-03-02",
         "tag": ["Music", "Test", "FL"],
         "length": "03:31",
-        "source": "#O#",
+        "source": "Zzzyt - E.0058",
         "audio": "audio/ZzzytE00/E.0060.mp3",
         "supplement": "<b>FL Project File Comment</b><br>Finally...."
     }, {
@@ -543,7 +543,7 @@ var __song = [{
         "name": "E.0062",
         "author": ["Zzzyt"],
         "release": "2020-03-08",
-        "tag": ["Music", "Test", "FL"],
+        "tag": ["Music", "Test", "Touhou", "FL"],
         "length": "00:25",
         "source": "#O#",
         "audio": "audio/ZzzytE00/E.0062.mp3"
@@ -553,7 +553,7 @@ var __song = [{
         "release": "2020-03-13",
         "tag": ["Music", "Test", "FL"],
         "length": "00:49",
-        "source": "#O#",
+        "source": "Zzzyt - E.0056",
         "audio": "audio/ZzzytE00/E.0063.mp3",
         "supplement": "<b>FL Project File Comment</b><br>From E.0056"
     }, {
@@ -562,7 +562,7 @@ var __song = [{
         "release": "2020-02-06",
         "tag": ["Music", "Test", "FL"],
         "length": "00:41",
-        "source": "#O#",
+        "source": "Zzzyt - E.0054",
         "audio": "audio/ZzzytE00/E.0064.mp3",
         "supplement": "<b>FL Project File Comment</b><br>From E.0054<br><br>I guess I can handle this"
     }, {
@@ -571,7 +571,7 @@ var __song = [{
         "release": "2020-05-13",
         "tag": ["Music", "Test", "FL"],
         "length": "00:12",
-        "source": "#O#",
+        "source": "Zzzyt - Idea1 (mobile)",
         "audio": "audio/ZzzytE00/E.0065 Idea1.mp3",
         "supplement": "<b>FL Project File Comment</b><br>From FL Mobile.<br>Normalized."
     }, {
@@ -580,7 +580,7 @@ var __song = [{
         "release": "2020-05-13",
         "tag": ["Music", "Test", "FL"],
         "length": "00:23",
-        "source": "#O#",
+        "source": "Zzzyt - Idea2 (mobile)",
         "audio": "audio/ZzzytE00/E.0066 Idea2.mp3",
         "supplement": "<b>FL Project File Comment</b><br>From FL Mobile"
     }, {
@@ -589,7 +589,7 @@ var __song = [{
         "release": "2020-05-13",
         "tag": ["Music", "Test", "FL"],
         "length": "00:16",
-        "source": "#O#",
+        "source": "Zzzyt - Idea3 (mobile)",
         "audio": "audio/ZzzytE00/E.0067 Idea3.mp3",
         "supplement": "<b>FL Project File Comment</b><br>From FL Mobile"
     }, {
@@ -598,7 +598,7 @@ var __song = [{
         "release": "2020-05-13",
         "tag": ["Music", "Test", "FL"],
         "length": "00:14",
-        "source": "#O#",
+        "source": "Zzzyt - Idea4 (mobile)",
         "audio": "audio/ZzzytE00/E.0068 Idea4.mp3",
         "supplement": "<b>FL Project File Comment</b><br>From FL Mobile."
     }, {
@@ -607,7 +607,7 @@ var __song = [{
         "release": "2020-05-13",
         "tag": ["Music", "Test", "FL"],
         "length": "00:14",
-        "source": "#O#",
+        "source": "Zzzyt - Idea5 (mobile)",
         "audio": "audio/ZzzytE00/E.0069 Idea5.mp3",
         "supplement": "<b>FL Project File Comment</b><br>From FL Mobile."
     }, {
@@ -616,7 +616,7 @@ var __song = [{
         "release": "2020-05-13",
         "tag": ["Music", "Test", "FL"],
         "length": "00:10",
-        "source": "#O#",
+        "source": "Zzzyt - Idea6 (mobile)",
         "audio": "audio/ZzzytE00/E.0070 Idea6.mp3",
         "supplement": "<b>FL Project File Comment</b><br>From FL Mobile."
     }, {
@@ -625,7 +625,7 @@ var __song = [{
         "release": "2020-05-13",
         "tag": ["Music", "Test", "FL"],
         "length": "00:20",
-        "source": "#O#",
+        "source": "Zzzyt - Idea7 (mobile)",
         "audio": "audio/ZzzytE00/E.0071 Idea7.mp3",
         "supplement": "<b>FL Project File Comment</b><br>From FL Mobile."
     }, {
@@ -634,7 +634,7 @@ var __song = [{
         "release": "2020-05-13",
         "tag": ["Music", "Test", "FL"],
         "length": "01:20",
-        "source": "#O#",
+        "source": "Zzzyt - Idea8 (mobile)",
         "audio": "audio/ZzzytE00/E.0072 Idea8.mp3",
         "supplement": "<b>FL Project File Comment</b><br>From FL Mobile.<br><br>Unused song in Touhou Rune Legend."
     }, {
@@ -643,7 +643,7 @@ var __song = [{
         "release": "2020-05-13",
         "tag": ["Music", "Test", "FL"],
         "length": "00:55",
-        "source": "#O#",
+        "source": "Zzzyt - Idea9 (mobile)",
         "audio": "audio/ZzzytE00/E.0073 Idea9.mp3",
         "supplement": "<b>FL Project File Comment</b><br>From FL Mobile."
     }, {
@@ -652,7 +652,7 @@ var __song = [{
         "release": "2020-05-13",
         "tag": ["Music", "Test", "FL"],
         "length": "00:16",
-        "source": "#O#",
+        "source": "Zzzyt - Idea10 (mobile)",
         "audio": "audio/ZzzytE00/E.0074 Idea10.mp3",
         "supplement": "<b>FL Project File Comment</b><br>From FL Mobile."
     }, {
@@ -661,7 +661,7 @@ var __song = [{
         "release": "2020-05-13",
         "tag": ["Music", "Test", "FL"],
         "length": "00:08",
-        "source": "#O#",
+        "source": "Zzzyt - Idea11 (mobile)",
         "audio": "audio/ZzzytE00/E.0075 Idea11.mp3",
         "supplement": "<b>FL Project File Comment</b><br>From FL Mobile."
     }, {
@@ -670,7 +670,7 @@ var __song = [{
         "release": "2020-05-13",
         "tag": ["Music", "Test", "FL"],
         "length": "00:14",
-        "source": "#O#",
+        "source": "Zzzyt - Idea12 (mobile)",
         "audio": "audio/ZzzytE00/E.0076 Idea12.mp3",
         "supplement": "<b>FL Project File Comment</b><br>From FL Mobile.<br><br>A remix of Desire Drive by Team Shanghai Alice."
     }, {
@@ -679,7 +679,7 @@ var __song = [{
         "release": "2020-05-13",
         "tag": ["Music", "Test", "FL"],
         "length": "00:29",
-        "source": "#O#",
+        "source": "Zzzyt - Idea13 (mobile)",
         "audio": "audio/ZzzytE00/E.0077 Idea13.mp3",
         "supplement": "<b>FL Project File Comment</b><br>From FL Mobile.<br><br>A remix of Canon in D Major"
     }, {
@@ -688,7 +688,7 @@ var __song = [{
         "release": "2020-05-13",
         "tag": ["Music", "Test", "FL"],
         "length": "00:30",
-        "source": "#O#",
+        "source": "Zzzyt - Idea14 (mobile)",
         "audio": "audio/ZzzytE00/E.0078 Idea14.mp3",
         "supplement": "<b>FL Project File Comment</b><br>From FL Mobile.<br><br>A remix of Beloved Gensokyo by Team Shanghai Alice."
     }, {
@@ -697,7 +697,7 @@ var __song = [{
         "release": "2020-05-13",
         "tag": ["Music", "Test", "FL"],
         "length": "02:40",
-        "source": "#O#",
+        "source": "Zzzyt - Idea15 (mobile)",
         "audio": "audio/ZzzytE00/E.0079 Idea15.mp3",
         "supplement": "<b>FL Project File Comment</b><br>From FL Mobile."
     }, {
@@ -706,7 +706,7 @@ var __song = [{
         "release": "2020-05-13",
         "tag": ["Music", "Test", "FL"],
         "length": "01:08",
-        "source": "#O#",
+        "source": "Zzzyt - Idea16 (mobile)",
         "audio": "audio/ZzzytE00/E.0080 Idea16.mp3",
         "supplement": "<b>FL Project File Comment</b><br>From FL Mobile."
     }, {
@@ -715,7 +715,7 @@ var __song = [{
         "release": "2020-05-13",
         "tag": ["Music", "Test", "FL"],
         "length": "00:08",
-        "source": "#O#",
+        "source": "Zzzyt - Idea17 (mobile)",
         "audio": "audio/ZzzytE00/E.0081 Idea17.mp3",
         "supplement": "<b>FL Project File Comment</b><br>From FL Mobile."
     }, {
@@ -724,7 +724,7 @@ var __song = [{
         "release": "2020-05-13",
         "tag": ["Music", "Test", "FL"],
         "length": "02:46",
-        "source": "#O#",
+        "source": "Zzzyt - Idea18 (mobile)",
         "audio": "audio/ZzzytE00/E.0082 Idea18.mp3",
         "supplement": "<b>FL Project File Comment</b><br>From FL Mobile."
     }, {
@@ -733,7 +733,7 @@ var __song = [{
         "release": "2020-05-13",
         "tag": ["Music", "Test", "FL"],
         "length": "00:29",
-        "source": "#O#",
+        "source": "Zzzyt - Idea19 (mobile)",
         "audio": "audio/ZzzytE00/E.0083 Idea19.mp3",
         "supplement": "<b>FL Project File Comment</b><br>From FL Mobile."
     }, {
@@ -742,7 +742,7 @@ var __song = [{
         "release": "2020-05-13",
         "tag": ["Music", "Test", "FL"],
         "length": "01:26",
-        "source": "#O#",
+        "source": "Zzzyt - Idea20 (mobile)",
         "audio": "audio/ZzzytE00/E.0084 Idea20.mp3",
         "supplement": "<b>FL Project File Comment</b><br>From FL Mobile."
     }, {
@@ -751,7 +751,7 @@ var __song = [{
         "release": "2020-05-13",
         "tag": ["Music", "Test", "FL"],
         "length": "00:28",
-        "source": "#O#",
+        "source": "Zzzyt - Idea21 (mobile)",
         "audio": "audio/ZzzytE00/E.0085 Idea21.mp3",
         "supplement": "<b>FL Project File Comment</b><br>From FL Mobile.<br><br>A remix of Broken Moon by Team Shanghai Alice.<br>Well I guess that's the right translation....."
     }, {
@@ -760,7 +760,7 @@ var __song = [{
         "release": "2020-05-13",
         "tag": ["Music", "Test", "FL"],
         "length": "00:48",
-        "source": "#O#",
+        "source": "Zzzyt - Idea22 (mobile)",
         "audio": "audio/ZzzytE00/E.0086 Idea22.mp3",
         "supplement": "<b>FL Project File Comment</b><br>From FL Mobile."
     }, {
@@ -769,7 +769,7 @@ var __song = [{
         "release": "2020-06-26",
         "tag": ["Music", "Test", "FL"],
         "length": "00:34",
-        "source": "#O#",
+        "source": "Zzzyt - Idea23 (mobile)",
         "audio": "audio/ZzzytE00/E.0087 Idea23.mp3",
         "supplement": "<b>FL Project File Comment</b><br>From FL Mobile.<br><br>A remix of \"New Treasure Island\""
     }, {
@@ -778,7 +778,7 @@ var __song = [{
         "release": "2020-06-26",
         "tag": ["Music", "Test", "FL"],
         "length": "00:17",
-        "source": "#O#",
+        "source": "Zzzyt - Idea24 (mobile)",
         "audio": "audio/ZzzytE00/E.0088 Idea24.mp3",
         "supplement": "<b>FL Project File Comment</b><br>From FL Mobile.<br><br>A remix of Chiptune Test 4 (Song of EBC)."
     }, {
@@ -787,7 +787,7 @@ var __song = [{
         "release": "2020-06-26",
         "tag": ["Music", "Test", "FL"],
         "length": "00:08",
-        "source": "#O#",
+        "source": "Zzzyt - Idea25 (mobile)",
         "audio": "audio/ZzzytE00/E.0089 Idea25.mp3",
         "supplement": "<b>FL Project File Comment</b><br>From FL Mobile."
     }, {
@@ -796,7 +796,7 @@ var __song = [{
         "release": "2020-06-26",
         "tag": ["Music", "Test", "FL"],
         "length": "00:56",
-        "source": "#O#",
+        "source": "Zzzyt - Idea26 (mobile)",
         "audio": "audio/ZzzytE00/E.0090 Idea26.mp3",
         "supplement": "<b>FL Project File Comment</b><br>From FL Mobile.<br><br>A remix of \"Marble Machine\" by Wintergatan"
     }, {
@@ -805,7 +805,7 @@ var __song = [{
         "release": "2020-06-26",
         "tag": ["Music", "Test", "FL"],
         "length": "00:16",
-        "source": "#O#",
+        "source": "Zzzyt - Idea27 (mobile)",
         "audio": "audio/ZzzytE00/E.0091 Idea27.mp3",
         "supplement": "<b>FL Project File Comment</b><br>From FL Mobile.<br><br>Yet another remix of Desire Drive."
     }, {
@@ -814,7 +814,7 @@ var __song = [{
         "release": "2020-06-26",
         "tag": ["Music", "Test", "FL"],
         "length": "00:16",
-        "source": "#O#",
+        "source": "Zzzyt - Idea28 (mobile)",
         "audio": "audio/ZzzytE00/E.0092 Idea28.mp3",
         "supplement": "<b>FL Project File Comment</b><br>From FL Mobile."
     }, {
@@ -823,7 +823,7 @@ var __song = [{
         "release": "2020-06-26",
         "tag": ["Music", "Test", "FL"],
         "length": "00:52",
-        "source": "#O#",
+        "source": "Zzzyt - Idea29 (mobile)",
         "audio": "audio/ZzzytE00/E.0093 Idea29.mp3",
         "supplement": "<b>FL Project File Comment</b><br>From FL Mobile."
     }, {
@@ -832,7 +832,7 @@ var __song = [{
         "release": "2020-06-26",
         "tag": ["Music", "Test", "FL"],
         "length": "01:21",
-        "source": "#O#",
+        "source": "Zzzyt - Idea30 (mobile)",
         "audio": "audio/ZzzytE00/E.0094 Idea30.mp3",
         "supplement": "<b>FL Project File Comment</b><br>From FL Mobile."
     }, {
@@ -841,7 +841,7 @@ var __song = [{
         "release": "2020-06-26",
         "tag": ["Music", "Test", "FL"],
         "length": "00:17",
-        "source": "#O#",
+        "source": "Zzzyt - Idea31 (mobile)",
         "audio": "audio/ZzzytE00/E.0095 Idea31.mp3",
         "supplement": "<b>FL Project File Comment</b><br>From FL Mobile.<br><br>Inspired by Desire Drive bass (again!!)"
     }, {
@@ -850,7 +850,7 @@ var __song = [{
         "release": "2020-06-26",
         "tag": ["Music", "Test", "FL"],
         "length": "00:08",
-        "source": "#O#",
+        "source": "Zzzyt - Idea32 (mobile)",
         "audio": "audio/ZzzytE00/E.0096 Idea32.mp3",
         "supplement": "<b>FL Project File Comment</b><br>From FL Mobile."
     }, {
@@ -859,7 +859,7 @@ var __song = [{
         "release": "2020-06-26",
         "tag": ["Music", "Test", "FL"],
         "length": "00:15",
-        "source": "#O#",
+        "source": "Zzzyt - Idea33 (mobile)",
         "audio": "audio/ZzzytE00/E.0097 Idea33.mp3",
         "supplement": "<b>FL Project File Comment</b><br>From FL Mobile."
     }, {
@@ -868,7 +868,7 @@ var __song = [{
         "release": "2020-06-26",
         "tag": ["Music", "Test", "FL"],
         "length": "00:36",
-        "source": "#O#",
+        "source": "Zzzyt - Idea34 (mobile)",
         "audio": "audio/ZzzytE00/E.0098 Idea34.mp3",
         "supplement": "<b>FL Project File Comment</b><br>From FL Mobile.<br><br>A remix of \"Dream Battle\" by Team Shanghai Alice."
     }, {
@@ -877,7 +877,7 @@ var __song = [{
         "release": "2020-06-26",
         "tag": ["Music", "Test", "FL"],
         "length": "00:50",
-        "source": "#O#",
+        "source": "Zzzyt - Idea35 (mobile)",
         "audio": "audio/ZzzytE00/E.0099 Idea35.mp3",
         "supplement": "<b>FL Project File Comment</b><br>From FL Mobile.<br><br>A remix of \"Master Spark\" by Team Shanghai Alice."
     }, {
@@ -886,7 +886,7 @@ var __song = [{
         "release": "2020-06-26",
         "tag": ["Music", "Test", "FL"],
         "length": "00:43",
-        "source": "#O#",
+        "source": "Zzzyt - Idea36 (mobile)",
         "audio": "audio/ZzzytE01/E.0100 Idea36.mp3",
         "supplement": "<b>FL Project File Comment</b><br>From FL Mobile."
     }, {
@@ -895,7 +895,7 @@ var __song = [{
         "release": "2020-06-26",
         "tag": ["Music", "Test", "FL"],
         "length": "00:17",
-        "source": "#O#",
+        "source": "Zzzyt - Idea37 (mobile)",
         "audio": "audio/ZzzytE01/E.0101 Idea37.mp3",
         "supplement": "<b>FL Project File Comment</b><br>From FL Mobile.<br><br>A remix of Classical Test 5"
     }, {
@@ -904,7 +904,7 @@ var __song = [{
         "release": "2020-09-26",
         "tag": ["Music", "Test", "FL"],
         "length": "00:14",
-        "source": "#O#",
+        "source": "Zzzyt - Song of EBC",
         "audio": "audio/ZzzytE01/E.0102 EBC2.mp3",
         "supplement": "<b>FL Project File Comment</b><br>From FL Mobile."
     }, {
@@ -913,7 +913,7 @@ var __song = [{
         "release": "2020-09-26",
         "tag": ["Music", "Test", "FL"],
         "length": "00:15",
-        "source": "#O#",
+        "source": "ZKY - Space light",
         "audio": "audio/ZzzytE01/E.0103 Zky1.mp3"
     }, {
         "name": "E.0104 kk-st1-mid",
@@ -921,16 +921,16 @@ var __song = [{
         "release": "2020-09-28",
         "tag": ["Music", "Test", "FL"],
         "length": "01:21",
-        "source": "#O#",
+        "source": "ZKY - Unexpected Scenery",
         "audio": "audio/ZzzytE01/E.0104 kk-st1-mid.mp3",
         "supplement": "<b>FL Project File Comment</b><br>From FL Mobile.<br><br>=\"zky stage1 mid\""
     }, {
         "name": "E.0105",
         "author": ["Zzzyt"],
         "release": "2020-06-09",
-        "tag": ["Music", "Test", "FL"],
+        "tag": ["Music", "Test", "Touhou", "FL"],
         "length": "00:32",
-        "source": "#O#",
+        "source": "Zzzyt - E.0093 Idea29",
         "audio": "audio/ZzzytE01/E.0105.mp3",
         "supplement": "<b>FL Project File Comment</b><br>From E.0093 Idea29"
     }, {
@@ -939,7 +939,7 @@ var __song = [{
         "release": "2020-06-17",
         "tag": ["Music", "Test", "FL"],
         "length": "01:11",
-        "source": "#O#",
+        "source": "Zzzyt - E.0054",
         "audio": "audio/ZzzytE01/E.0106.mp3",
         "supplement": "<b>FL Project File Comment</b><br>Improved E.54 Theme"
     }, {
@@ -948,7 +948,7 @@ var __song = [{
         "release": "2020-06-26",
         "tag": ["Music", "Test", "FL"],
         "length": "01:00",
-        "source": "#O#",
+        "source": "Zzzyt - E.0093 Idea29",
         "audio": "audio/ZzzytE01/E.0107.mp3",
         "supplement": "<b>FL Project File Comment</b><br>From E.0093 Idea29"
     }, {
@@ -957,7 +957,7 @@ var __song = [{
         "release": "2020-06-26",
         "tag": ["Music", "Test", "FL"],
         "length": "01:45",
-        "source": "#O#",
+        "source": "Zzzyt - F.0099 Idea35",
         "audio": "audio/ZzzytE01/E.0108.mp3",
         "supplement": "<b>FL Project File Comment</b><br>From F.0099 Idea35<br><br>A remix of \"Master Spark\" by Team Shanghai Alice.<br>Get rocking!"
     }, {
@@ -966,7 +966,7 @@ var __song = [{
         "release": "2020-06-26",
         "tag": ["Music", "Test", "FL"],
         "length": "01:09",
-        "source": "#O#",
+        "source": "Zzzyt - E.0093 Idea29",
         "audio": "audio/ZzzytE01/E.0109.mp3",
         "supplement": "<b>FL Project File Comment</b><br>Yet another E.0093 Idea29 remix...<br>E.0107 is just too bad"
     }, {
@@ -975,7 +975,7 @@ var __song = [{
         "release": "2020-06-26",
         "tag": ["Music", "Test", "FL"],
         "length": "03:46",
-        "source": "#O#",
+        "source": "Zzzyt - E.0098 Idea34",
         "audio": "audio/ZzzytE01/E.0110.mp3",
         "supplement": "<b>FL Project File Comment</b><br>From E.0098 Idea34<br><br>A remix of \"Dream Battle\" by Team Shanghai Alice."
     }, {
@@ -991,9 +991,9 @@ var __song = [{
         "name": "E.0112",
         "author": ["Zzzyt"],
         "release": "2020-08-11",
-        "tag": ["Music", "Test", "FL"],
+        "tag": ["Music", "Test", "Remix", "FL"],
         "length": "02:04",
-        "source": "#O#",
+        "source": "Zzzyt - E.0111",
         "audio": "audio/ZzzytE01/E.0112.mp3",
         "supplement": "<b>FL Project File Comment</b><br>A remix of E.0111"
     }, {
@@ -1002,7 +1002,7 @@ var __song = [{
         "release": "2020-06-26",
         "tag": ["Music", "Test", "FL"],
         "length": "01:09",
-        "source": "#O#",
+        "source": "Zzzyt - E.0109",
         "audio": "audio/ZzzytE01/E.0113.mp3",
         "supplement": "<b>FL Project File Comment</b><br>From E.0109"
     }, {
@@ -1295,7 +1295,7 @@ var __song = [{
         "name": "Idea27 (mobile)",
         "author": ["Zzzyt"],
         "release": "2020-06-13",
-        "tag": ["Music", "Test", "FLMobile"],
+        "tag": ["Music", "Test", "Touhou", "FLMobile"],
         "length": "00:11",
         "source": "#A# - デザイアドライブ",
         "audio": "audio/ZzzytMobile/Idea27.mp3"
@@ -1313,7 +1313,7 @@ var __song = [{
         "name": "Idea29 (mobile)",
         "author": ["Zzzyt"],
         "release": "2020-06-13",
-        "tag": ["Music", "Test", "FLMobile"],
+        "tag": ["Music", "Test", "Touhou", "FLMobile"],
         "length": "00:49",
         "source": "#O#",
         "audio": "audio/ZzzytMobile/Idea29.mp3",
@@ -2239,7 +2239,7 @@ var __song = [{
         "tag": ["Music", "FL"],
         "length": "03:16",
         "audio": "audio/ZzzytRelease/Yet Another Tetris.mp3",
-        "source": "Zzzyt - E.0058"
+        "source": "Zzzyt - E.0060"
     },
     {
         "name": "Yet Another Tetris (Piano ver.)",
