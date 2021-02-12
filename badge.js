@@ -216,6 +216,11 @@ var badges = {
         "tooltip": "Swift Playground",
         "display": "Swift Playground"
     },
+    "SFX": {
+        "kind": category,
+        "tooltip": "Sound Effect",
+        "display": "SFX"
+    },
 
     //programming language
     "Java": {

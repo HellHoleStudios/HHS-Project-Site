@@ -208,7 +208,7 @@ var __song = [{
         "name": "E.0024 metroFX",
         "author": ["Zzzyt"],
         "release": "2018-04-25",
-        "tag": ["Music", "Test", "FL"],
+        "tag": ["SFX", "Test", "FL"],
         "length": "00:39",
         "source": "#O#",
         "audio": "audio/ZzzytE00/E.0024 metroFX.mp3",
