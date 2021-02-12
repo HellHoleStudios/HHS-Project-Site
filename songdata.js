@@ -107,7 +107,7 @@ var __song = [{
         "name": "Idea11 (mobile)",
         "author": ["Zzzyt"],
         "release": "2020-04-25",
-        "tag": ["Music", "Test", "FLMobile"],
+        "tag": ["Music", "Test", "Touhou", "FLMobile"],
         "length": "00:06",
         "source": "#O#",
         "audio": "audio/ZzzytMobile/Idea11.mp3"
@@ -156,7 +156,7 @@ var __song = [{
         "name": "Idea14 (mobile)",
         "author": ["Zzzyt"],
         "release": "2020-04-25",
-        "tag": ["Music", "Test", "FLMobile"],
+        "tag": ["Music", "Test", "Touhou", "FLMobile"],
         "length": "00:26",
         "source": "#A# - 神々が恋した幻想郷",
         "audio": "audio/ZzzytMobile/Idea14.mp3"
@@ -230,7 +230,7 @@ var __song = [{
         "name": "Idea21 (mobile)",
         "author": ["Zzzyt"],
         "release": "2020-06-13",
-        "tag": ["Music", "Test", "FLMobile"],
+        "tag": ["Music", "Test", "Touhou", "FLMobile"],
         "length": "00:29",
         "source": "黄昏フロンティア / #A# - 砕月",
         "audio": "audio/ZzzytMobile/Idea21.mp3"
@@ -355,7 +355,7 @@ var __song = [{
         "name": "Idea34 (mobile)",
         "author": ["Zzzyt"],
         "release": "2020-06-11",
-        "tag": ["Music", "Remix", "FLMobile"],
+        "tag": ["Music", "Remix", "Touhou", "FLMobile"],
         "length": "00:30",
         "source": "#A# - 少女綺想曲 ～ Dream Battle",
         "audio": "audio/ZzzytMobile/Idea34.mp3"
@@ -364,7 +364,7 @@ var __song = [{
         "name": "Idea35 (mobile)",
         "author": ["Zzzyt"],
         "release": "2020-06-11",
-        "tag": ["Music", "Remix", "FLMobile"],
+        "tag": ["Music", "Remix", "Touhou", "FLMobile"],
         "length": "00:47",
         "source": "神乃木製作所 - 恋色マジック (#A# - 恋色マジック)",
         "audio": "audio/ZzzytMobile/Idea35.mp3"
@@ -373,7 +373,7 @@ var __song = [{
         "name": "Idea36 (mobile)",
         "author": ["Zzzyt"],
         "release": "2020-06-11",
-        "tag": ["Music", "Test", "FLMobile"],
+        "tag": ["Music", "Test", "Touhou", "FLMobile"],
         "length": "00:39",
         "source": "#O#",
         "audio": "audio/ZzzytMobile/Idea36.mp3"
