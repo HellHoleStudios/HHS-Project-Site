@@ -946,7 +946,7 @@ var __song = [{
         "name": "E.0107",
         "author": ["Zzzyt"],
         "release": "2020-06-26",
-        "tag": ["Music", "Test", "FL"],
+        "tag": ["Music", "Test", "Touhou", "FL"],
         "length": "01:00",
         "source": "Zzzyt - E.0093 Idea29",
         "audio": "audio/ZzzytE01/E.0107.mp3",
@@ -1005,6 +1005,93 @@ var __song = [{
         "source": "Zzzyt - E.0109",
         "audio": "audio/ZzzytE01/E.0113.mp3",
         "supplement": "<b>FL Project File Comment</b><br>From E.0109"
+    }, {
+        "name": "E.0114 Song of EBC",
+        "author": ["Zzzyt"],
+        "release": "2020-09-26",
+        "tag": ["Music", "Test", "FL"],
+        "length": "00:54",
+        "source": "Zzzyt - Song of EBC",
+        "audio": "audio/ZzzytE01/E.0114 Song of EBC.mp3",
+        "supplement": "<b>FL Project File Comment</b><br>From FL Mobile.<br><br>Actually before Chiptune Test 4 so it should be E.0046.5 if possible"
+    }, {
+        "name": "E.0115 Beloved Gensokyo",
+        "author": ["Zzzyt"],
+        "release": "2020-09-28",
+        "tag": ["Music", "Test", "FL"],
+        "length": "00:15",
+        "source": "#A# - 神々が恋した幻想郷",
+        "audio": "audio/ZzzytE01/E.0115 Beloved Gensokyo.mp3",
+        "supplement": "<b>FL Project File Comment</b><br>From FL Mobile."
+    }, {
+        "name": "E.0116",
+        "author": ["Zzzyt"],
+        "release": "2020-10-04",
+        "tag": ["Music", "Test", "FL"],
+        "length": "00:48",
+        "source": "#O#",
+        "audio": "audio/ZzzytE01/E.0116.mp3",
+        "supplement": "<b>FL Project File Comment</b><br>attempted to make it into LDJAM 47 stage1 theme and failed"
+    }, {
+        "name": "E.0117",
+        "author": ["Zzzyt"],
+        "release": "2020-10-05",
+        "tag": ["Music", "Test", "FL"],
+        "length": "01:13",
+        "source": "#O#",
+        "audio": "audio/ZzzytE01/E.0117.mp3"
+    }, {
+        "name": "E.0118",
+        "author": ["Zzzyt"],
+        "release": "2020-10-05",
+        "tag": ["Music", "Test", "FL"],
+        "length": "01:36",
+        "source": "Zzzyt - E.0052 Chiptune Test 9",
+        "audio": "audio/ZzzytE01/E.0118.mp3",
+        "supplement": "<b>FL Project File Comment</b><br>From Chiptune Test 9 Remix"
+    }, {
+        "name": "E.0119",
+        "author": ["Zzzyt"],
+        "release": "2020-10-05",
+        "tag": ["Music", "Test", "FL"],
+        "length": "01:36",
+        "source": "#O#",
+        "audio": "audio/ZzzytE01/E.0119.mp3"
+    }, {
+        "name": "E.0120",
+        "author": ["Zzzyt"],
+        "release": "2020-06-26",
+        "tag": ["Music", "Test", "Touhou", "FL"],
+        "length": "01:08",
+        "source": "Zzzyt - E.0107",
+        "audio": "audio/ZzzytE01/E.0120.mp3",
+        "supplement": "<b>FL Project File Comment</b><br>From E.0107<br>which is from E.0093 Idea29"
+    }, {
+        "name": "E.0121",
+        "author": ["Zzzyt"],
+        "release": "2020-12-13",
+        "tag": ["Music", "Test", "Touhou", "FL"],
+        "length": "00:18",
+        "source": "#A# - 千年幻想郷 ～ History of the Moon",
+        "audio": "audio/ZzzytE01/E.0121.mp3",
+        "supplement": "<b>FL Project File Comment</b><br>Remix of famous song"
+    }, {
+        "name": "E.0122",
+        "author": ["Zzzyt"],
+        "release": "2020-12-30",
+        "tag": ["Music", "Test", "Touhou", "FL"],
+        "length": "00:49",
+        "source": "#A# - Bad Apple!!",
+        "audio": "audio/ZzzytE01/E.0122.mp3",
+        "supplement": "<b>FL Project File Comment</b><br>For XGN"
+    }, {
+        "name": "E.0123",
+        "author": ["Zzzyt"],
+        "release": "2021-01-04",
+        "tag": ["Music", "Test", "FL"],
+        "length": "01:16",
+        "source": "#O#",
+        "audio": "audio/ZzzytE01/E.0123.mp3"
     }, {
         "name": "Idea1 (mobile)",
         "author": ["Zzzyt"],
