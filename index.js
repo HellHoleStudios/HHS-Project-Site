@@ -151,6 +151,10 @@ function FilterCheck(item, filter) {
         return true;
     }
 
+    // if(mode == MODE_SONG && item["supplement"]!=undefined && item["supplement"].toLowerCase().includes(filter)){
+    //     return true;
+    // }
+
     if (mode == MODE_SONG && item["audio"]!=undefined && filter=="audio"){
         return true;
     }
@@ -269,12 +273,18 @@ function refreshTable() {
     }
     tmp += "</tr></thead><tbody>";
 
+    var itemCount=0;
+
+    var nowTime=new Date().getTime()
+
     //start rendering data
     for (var i = 0; i < data.length; i++) {
 
         if (!filterCheck(data[i])) {
             continue;
         }
+
+        itemCount++;
 
         if (mode == MODE_SONG && (data[i]["supplement"] != undefined || data[i]["audio"] != undefined)) {
             tmp += '<tr data-toggle="collapse" data-target="#supplement' + i + '">';
@@ -392,4 +402,6 @@ function refreshTable() {
         $('[data-toggle="tooltip"]').tooltip();
     })
 
+    $('#resC').text(itemCount)
+    $("#resT").text(new Date().getTime()-nowTime+"ms")
 }
