@@ -150,7 +150,9 @@ var __song = [{
         "length": "01:02",
         "source": "#O#",
         "audio": "audio/ZzzytE00/E.0017 Piano Test 17.mp3",
-        "supplement": "<b>FL Project File Comment</b><br>Borrow from touhou... (Eternal Full Moon)<br><br>Hope to express more quietly"
+        "supplement": `
+        Used as <i>THHHS - Stage 1 Theme</i>
+        <b>FL Project File Comment</b><br>Borrow from touhou... (Eternal Full Moon)<br><br>Hope to express more quietly`
     }, {
         "name": "E.0018 Piano Test 18",
         "author": ["Zzzyt"],
@@ -239,7 +241,10 @@ var __song = [{
         "length": "00:47",
         "source": "#O#",
         "audio": "audio/ZzzytE00/E.0027 ZJSTG Zzzyt.mp3",
-        "supplement": "<b>FL Project File Comment</b><br>2020/1/29<br>Originally for HDD's ZJSTG<br>Stage 1 :  Zzzyt"
+        "supplement": `
+        Used as <i>Re:ZJSTG - ZYQ's theme</i>
+        Planned to be used as <i>ZJSTG - Stage 1 Boss Zzzyt's theme</i>
+        <b>FL Project File Comment</b><br>2020/1/29<br>Originally for HDD's ZJSTG<br>Stage 1 :  Zzzyt`
     }, {
         "name": "E.0028 ZJSTG Title Theme",
         "author": ["Zzzyt"],
@@ -248,7 +253,9 @@ var __song = [{
         "length": "00:36",
         "source": "#O#",
         "audio": "audio/ZzzytE00/E.0028 ZJSTG Title Theme.mp3",
-        "supplement": "<b>FL Project File Comment</b><br>2020/1/29<br>Originally for HDD's ZJSTG"
+        "supplement": `
+        Planned to be used as <i>ZJSTG - Title Theme</i>
+        <b>FL Project File Comment</b><br>2020/1/29<br>Originally for HDD's ZJSTG`
     }, {
         "name": "E.0029 Zzzyt",
         "author": ["Zzzyt"],
@@ -292,7 +299,10 @@ var __song = [{
         "tag": ["Music", "Remix", "Touhou", "FL"],
         "length": "00:54",
         "source": "#A# - 天空の花の都",
-        "audio": "audio/ZzzytE00/E.0033 Touhou Test 1.mp3"
+        "audio": "audio/ZzzytE00/E.0033 Touhou Test 1.mp3",
+        "supplement": `
+        Used as <i>THHHS - Stage 2 Theme</i>
+        `
     }, {
         "name": "E.0034 Touhou Test 2",
         "author": ["Zzzyt"],
@@ -301,7 +311,10 @@ var __song = [{
         "length": "01:59",
         "source": "#A# - デザイアドライブ",
         "audio": "audio/ZzzytE00/E.0034 Touhou Test 2.mp3",
-        "supplement": "<b>FL Project File Comment</b><br>2020/1/29<br>Because of some loop modifications...and my laziness"
+        "supplement": `
+        Used as <i>THHHS - ZJS's Theme</i>
+        <b>FL Project File Comment</b><br>2020/1/29<br>Because of some loop modifications...and my laziness
+        `
     }, {
         "name": "E.0035 Vocodex Test 1",
         "author": ["Zzzyt"],
@@ -379,7 +392,12 @@ var __song = [{
         "length": "01:24",
         "source": "Rick Astley - Never Gonna Give You Up",
         "audio": "audio/ZzzytE00/E.0043 ByteBeatBasic.mp3",
-        "supplement": "<b>FL Project File Comment</b><br>3B music!<br><br>2021/1/29<br>Yes, you are rickrolled.<br>The name comes from \"bytebeat\" in windows93.net."
+        "supplement": 
+        `
+        Used as <i>THHHS - XGN's Theme</i>
+        <b>FL Project File Comment</b><br>3B music!<br><br>2021/1/29<br>Yes, you are rickrolled.<br>The name comes from \"bytebeat\" in windows93.net.
+        `
+
     }, {
         "name": "E.0044 Chiptune Test 1",
         "author": ["Zzzyt"],
@@ -415,7 +433,10 @@ var __song = [{
         "length": "02:08",
         "source": "Zzzyt - Song of EBC",
         "audio": "audio/ZzzytE00/E.0047 Chiptune Test 4.mp3",
-        "supplement": "<b>FL Project File Comment</b><br>aka. Song of EBC<br>because the first three notes are E,B,C"
+        "supplement": `
+        Used as <i>THHHS - Stage 3 Theme</i>
+        <b>FL Project File Comment</b><br>aka. Song of EBC<br>because the first three notes are E,B,C
+        `
     }, {
         "name": "E.0048 Chiptune Test 5",
         "author": ["Zzzyt"],
@@ -433,7 +454,10 @@ var __song = [{
         "length": "01:26",
         "source": "#O#",
         "audio": "audio/ZzzytE00/E.0049 Chiptune Test 6.mp3",
-        "supplement": "<b>FL Project File Comment</b><br>Very fun~~~<br>Like a 70s FC game"
+        "supplement": `
+        Used as <i>THHHS - ZHD's Theme</i>
+        <b>FL Project File Comment</b><br>Very fun~~~<br>Like a 70s FC game
+        `
     }, {
         "name": "E.0050 Chiptune Test 7",
         "author": ["Zzzyt"],
@@ -442,7 +466,10 @@ var __song = [{
         "length": "01:38",
         "source": "#O#",
         "audio": "audio/ZzzytE00/E.0050 Chiptune Test 7.mp3",
-        "supplement": "<b>FL Project File Comment</b><br>High BPM test"
+        "supplement": `
+        Used as <i>THHHS - ZKY's Theme</i>
+        <b>FL Project File Comment</b><br>High BPM test
+        `
     }, {
         "name": "E.0051 Chiptune Test 8",
         "author": ["Zzzyt"],
@@ -1039,7 +1066,10 @@ var __song = [{
         "tag": ["Music", "Test", "FL"],
         "length": "01:13",
         "source": "#O#",
-        "audio": "audio/ZzzytE01/E.0117.mp3"
+        "audio": "audio/ZzzytE01/E.0117.mp3",
+        "supplement":`
+        Used as <i>The Lost Forest - Stage Theme</i>
+        `
     }, {
         "name": "E.0118",
         "author": ["Zzzyt"],
@@ -1056,7 +1086,10 @@ var __song = [{
         "tag": ["Music", "Test", "FL"],
         "length": "01:36",
         "source": "#O#",
-        "audio": "audio/ZzzytE01/E.0119.mp3"
+        "audio": "audio/ZzzytE01/E.0119.mp3",
+        "supplement":`
+        Used as <i>The Lost Forest - Ookami Lang's Theme</i>
+        `
     }, {
         "name": "E.0120",
         "author": ["Zzzyt"],
@@ -2317,7 +2350,10 @@ var __song = [{
         "tag": ["Music", "FL"],
         "length": "03:36",
         "audio": "audio/ZzzytRelease/Prograde.mp3",
-        "source": "Zzzyt - E.0053"
+        "source": "Zzzyt - E.0053",
+        "supplement":`
+        Used as <i>TestSTG3 - 
+        `
     },
     {
         "name": "Yet Another Tetris",
@@ -2336,5 +2372,18 @@ var __song = [{
         "length": "03:16",
         "audio": "audio/ZzzytRelease/Yet Another Tetris (Piano ver.).mp3",
         "source": "Zzzyt - Yet Another Tetris"
+    },
+    {
+        "name": "XZM Theme",
+        "author": ["Zzzyt"],
+        "release": "2018-11-04",
+        "tag": ["Music", "FL"],
+        "length": "00:34",
+        "audio": "audio/ZzzytRelease/XZM Theme.mp3",
+        "source": "#O#",
+        "supplement":`
+        Used as <i>THHHS - XZM's Theme</i>
+        Planned to be used as <i>ZJSTG - Extra boss XZM's Theme</i>
+        `
     }
 ];
