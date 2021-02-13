@@ -2380,7 +2380,7 @@ var __song = [{
         "tag": ["Music", "FL"],
         "length": "00:34",
         "audio": "audio/ZzzytRelease/XZM Theme.mp3",
-        "source": "#O#",
+        "source": "Zzzyt - E.0045 Chiptune Test 2",
         "supplement":`
         Used as <i>THHHS - XZM's Theme</i>
         Planned to be used as <i>ZJSTG - Extra boss XZM's Theme</i>
