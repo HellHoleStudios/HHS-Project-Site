@@ -155,10 +155,10 @@ function FilterCheck(item, filter) {
     //     return true;
     // }
 
-    if (mode == MODE_SONG && item["audio"]!=undefined && filter=="audio"){
+    if (mode == MODE_SONG && item["audio"] != undefined && filter == "audio") {
         return true;
     }
-    if (mode == MODE_SONG && item["supplement"]!=undefined && filter=="supplement"){
+    if (mode == MODE_SONG && item["supplement"] != undefined && filter == "supplement") {
         return true;
     }
     if (mode == MODE_SONG && REP(item["source"]).toLowerCase().includes(filter)) {
@@ -201,11 +201,11 @@ function filterCheck(item) {
 }
 
 String.prototype.replaceAll = function (FindText, RepText) {
-regExp = new RegExp(FindText, "g");
-return this.replace(regExp, RepText);
+    regExp = new RegExp(FindText, "g");
+    return this.replace(regExp, RepText);
 }
 
-function renderLink(link){
+function renderLink(link) {
     var rules = [
         ["github.com", "Link to Github", "fa fa-github", false],
         ["blog.hellholestudios.top", "Link to HHS Blog", "fa fa-wordpress", true],
@@ -215,7 +215,7 @@ function renderLink(link){
         ["itch.io", "Link to Itch.io", "fa fa-gamepad", false]
     ]
 
-    var tmp=""
+    var tmp = ""
     if (link == "") {
         tmp += "<i data-toggle=\"tooltip\" title=\"No Link Available\" class=\"fa fa-close\"></i>";
     } else {
@@ -239,8 +239,12 @@ function renderLink(link){
     return tmp;
 }
 
-function REP(txt){
-    return txt.replaceAll("#A#","上海アリス幻樂団").replaceAll("#O#","Original")
+function REP(txt) {
+    return txt.replaceAll("#A#", "上海アリス幻樂団").replaceAll("#O#", "Original")
+}
+
+function addAudio(i) {
+    document.getElementById("audio-" + i).outerHTML = `<audio src="${data[i]["audio"]}" controls="controls">Audio Not Supported :(</audio> <br/>`
 }
 
 function refreshTable() {
@@ -273,9 +277,9 @@ function refreshTable() {
     }
     tmp += "</tr></thead><tbody>";
 
-    var itemCount=0;
+    var itemCount = 0;
 
-    var nowTime=new Date().getTime()
+    var nowTime = new Date().getTime()
 
     //start rendering data
     for (var i = 0; i < data.length; i++) {
@@ -297,7 +301,7 @@ function refreshTable() {
                 if (data[i]["supplement"] != undefined) {
                     tmp += ' <i class="fa fa-ellipsis-h" title="Supplement Available" data-toggle="tooltip"></i>';
                 }
-                if (data[i]["audio"] != undefined){
+                if (data[i]["audio"] != undefined) {
                     tmp += ' <i class="fa fa-headphones" title="Audio Available" data-toggle="tooltip"></i>';
                 }
                 if (data[i]["comment"] != null) {
@@ -307,15 +311,15 @@ function refreshTable() {
                 tmp += "</td>";
             } else if (tablehead[j][1] == "link") {
 
-                var link=data[i][tablehead[j][1]]
+                var link = data[i][tablehead[j][1]]
 
-                if(typeof link == "string"){
-                    tmp += "<td class=\"text-center\">"+renderLink(link)+"</td>"
-                }else{
+                if (typeof link == "string") {
+                    tmp += "<td class=\"text-center\">" + renderLink(link) + "</td>"
+                } else {
 
-                    var cls=""
+                    var cls = ""
 
-                    for(var k in link){
+                    for (var k in link) {
                         cls += `${k}:${renderLink(link[k])}<br/>`
                     }
 
@@ -351,7 +355,7 @@ function refreshTable() {
                     </span>
                     </td>`;
                 }
-			
+
             } else if (tablehead[j][1] == "rating") {
                 var dat = data[i][tablehead[j][1]];
                 tmp += "<td class=\"text-center\"> <i title=\"Popularity:" + dat + "\" class=\"fa fa-thermometer-" + dat + "\"></i>" + dat + "</td>"
@@ -374,10 +378,10 @@ function refreshTable() {
         if (mode == MODE_SONG && (data[i]["supplement"] != undefined || data[i]["audio"] != undefined)) {
             tmp += '<tr style="background-color:#ffc;"><td colspan=6 style="padding:0px;">';
             tmp += '<div id="supplement' + i + '" class="collapse"><div style="padding:.3rem;">';
-            if (data[i]["audio"] != undefined){
-                tmp+=`<audio src="${data[i]["audio"]}" controls="controls">Audio Not Supported :(</audio> <br/>`
+            if (data[i]["audio"] != undefined) {
+                tmp += `<button class="btn btn-primary" id="audio-${i}" onclick="addAudio(${i});">Load audio</button><br>`
             }
-            if (data[i]["supplement"] != undefined){
+            if (data[i]["supplement"] != undefined) {
                 tmp += data[i]["supplement"].trim().replaceAll("\n", "<br/>");
             }
             tmp += "</div></div></td>"
@@ -403,5 +407,5 @@ function refreshTable() {
     })
 
     $('#resC').text(itemCount)
-    $("#resT").text(new Date().getTime()-nowTime+"ms")
+    $("#resT").text(new Date().getTime() - nowTime + "ms")
 }
