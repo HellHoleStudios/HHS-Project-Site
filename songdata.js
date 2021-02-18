@@ -88,7 +88,7 @@ var __song = [{
         "release": "2018-06-22",
         "tag": ["Music", "Test", "FL"],
         "length": "01:06",
-        "source": "Zzzyt - E.0006 PIano Test 6",
+        "source": "Zzzyt - E.0006 Piano Test 6",
         "audio": "audio/ZzzytE00/E.0010 Piano Test 10.mp3",
         "supplement": "<b>FL Project File Comment</b><br>Same theme as Piano Test 6 (Water)."
     }, {
@@ -280,7 +280,7 @@ var __song = [{
         "release": "2018-01-16",
         "tag": ["Music", "Remix", "FL"],
         "length": "00:05",
-        "source": "#O#",
+        "source": "Kitsune² - Goodnight",
         "audio": "audio/ZzzytE00/E.0031 Goodnight (Zzzyt Remix).mp3",
         "supplement": "<b>FL Project File Comment</b><br>Yufu yufy<br><br>2020/2/22<br>The author was originally \"XiaoMao 205\""
     }, {
@@ -289,7 +289,7 @@ var __song = [{
         "release": "2018-06-13",
         "tag": ["Music", "Remix", "FL"],
         "length": "00:21",
-        "source": "#O#",
+        "source": "Dubmood - Chiptune",
         "audio": "audio/ZzzytE00/E.0032 Chiptune (Zzzyt Remix).mp3",
         "supplement": "<b>FL Project File Comment</b><br>Chiptune(Remix)"
     }, {
