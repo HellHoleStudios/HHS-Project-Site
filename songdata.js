@@ -392,8 +392,7 @@ var __song = [{
         "length": "01:24",
         "source": "Rick Astley - Never Gonna Give You Up",
         "audio": "audio/ZzzytE00/E.0043 ByteBeatBasic.mp3",
-        "supplement": 
-        `
+        "supplement": `
         Used as <i>THHHS - XGN's Theme</i>
         <b>FL Project File Comment</b><br>3B music!<br><br>2021/1/29<br>Yes, you are rickrolled.<br>The name comes from \"bytebeat\" in windows93.net.
         `
@@ -1047,7 +1046,7 @@ var __song = [{
         "release": "2020-09-28",
         "tag": ["Music", "Test", "FL"],
         "length": "00:15",
-        "source": "#A# - 神々が恋した幻想郷",
+        "source": "Zzzyt - Beloved Gensokyo",
         "audio": "audio/ZzzytE01/E.0115 Beloved Gensokyo.mp3",
         "supplement": "<b>FL Project File Comment</b><br>From FL Mobile."
     }, {
@@ -1067,7 +1066,7 @@ var __song = [{
         "length": "01:13",
         "source": "#O#",
         "audio": "audio/ZzzytE01/E.0117.mp3",
-        "supplement":`
+        "supplement": `
         Used as <i>The Lost Forest - Stage Theme</i>
         `
     }, {
@@ -1087,7 +1086,7 @@ var __song = [{
         "length": "01:36",
         "source": "#O#",
         "audio": "audio/ZzzytE01/E.0119.mp3",
-        "supplement":`
+        "supplement": `
         Used as <i>The Lost Forest - Ookami Lang's Theme</i>
         `
     }, {
@@ -1531,6 +1530,15 @@ var __song = [{
         "length": "00:27",
         "source": "#O#",
         "audio": "audio/ZzzytMobile/Song of EBC.mp3",
+    },
+    {
+        "name": "Beloved Gensokyo",
+        "author": ["Zzzyt"],
+        "release": "2019-04-25",
+        "tag": ["Music", "Test", "FLMobile"],
+        "length": "00:15",
+        "source": "#A# - 神々が恋した幻想郷",
+        "audio": "audio/ZzzytMobile/Beloved Gensokyo.mp3",
     },
     {
         "name": "Chiptune Test 9 (fixed BPM ver.) / Tale of Glyphs / 符文传说",
@@ -2351,7 +2359,7 @@ var __song = [{
         "length": "03:36",
         "audio": "audio/ZzzytRelease/Prograde.mp3",
         "source": "Zzzyt - E.0053",
-        "supplement":`
+        "supplement": `
         Used as <i>TestSTG3 - 
         `
     },
@@ -2381,7 +2389,7 @@ var __song = [{
         "length": "00:34",
         "audio": "audio/ZzzytRelease/XZM Theme.mp3",
         "source": "Zzzyt - E.0045 Chiptune Test 2",
-        "supplement":`
+        "supplement": `
         Used as <i>THHHS - XZM's Theme</i>
         Planned to be used as <i>ZJSTG - Extra boss XZM's Theme</i>
         `
