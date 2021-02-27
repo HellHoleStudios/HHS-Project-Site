@@ -9,6 +9,6 @@ This is music source folder for AV Page
 Please follow the rules and have fun adding your audio files.
 
 # Download license
-- All songs follow [CC-NC 2.0](https://creativecommons.org/licenses/by-nc/2.0/) by default
+- All songs follow [CC-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) by default
 
 Welcome to download and remake!
