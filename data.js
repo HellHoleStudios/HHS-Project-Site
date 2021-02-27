@@ -49,7 +49,7 @@ var __data = [{
         "author": ["XGN"],
         "release": "2019-06-20",
         "coauthor": "",
-        "tag": ["Tool", "Spider", "Java", "ENG", "Done"],
+        "tag": ["Tool", "Spider", "Gist", "Java", "ENG", "Done"],
         "rating": 1
     },
     {
@@ -67,7 +67,7 @@ var __data = [{
         "author": ["XGN"],
         "release": "2019-06-08",
         "coauthor": [],
-        "tag": ["Tool", "py3", "ENG", "Done"],
+        "tag": ["Tool", "Spider", "Gist", "py3", "ENG", "Done"],
         "rating": 1
     },
     {
@@ -85,7 +85,7 @@ var __data = [{
         "author": ["XGN"],
         "release": "2019-04-15",
         "coauthor": [""],
-        "tag": ["OI", "Tool", "C++", "CHN", "ENG", "Done"],
+        "tag": ["OI", "Tool", "Gist", "C++", "CHN", "ENG", "Done"],
         "rating": 2
     },
     {
@@ -174,7 +174,7 @@ var __data = [{
         "author": ["XIZCM"],
         "release": "2019-03-27",
         "coauthor": [""],
-        "tag": ["Tool", "py3", "ENG", "Done"],
+        "tag": ["Tool", "Gist", "py3", "ENG", "Done"],
         "rating": 1
     },
     {
@@ -529,6 +529,7 @@ var __data = [{
         ],
         "tag": [
             "Tool",
+            "Gist", 
             "Java",
             "Swing",
             "ENG",
@@ -981,6 +982,7 @@ var __data = [{
         "comment": "Shown as an attachment in a daily report",
         "tag": [
             "Game",
+            "Gist", 
             "C++",
             "CHN",
             "Done"
@@ -1136,7 +1138,7 @@ var __data = [{
         "author": ["XIZCM"],
         "release": "2019-11-30",
         "coauthor": [],
-        "tag": ["Tool", "py3", "ENG", "Done"],
+        "tag": ["Tool", "Gist", "py3", "ENG", "Done"],
     },
     {
         "name": "The 2020 STG",
@@ -1163,7 +1165,7 @@ var __data = [{
         "author": ["XGN"],
         "release": "2020-02-19",
         "coauthor": [],
-        "tag": ["Tool", "Spider", "Java", "ENG", "CHN", "Done"],
+        "tag": ["Tool", "Spider", "Gist", "Java", "ENG", "CHN", "Done"],
         "rating": 3,
     },
     {
@@ -1209,7 +1211,7 @@ var __data = [{
         "author": ["XIZCM"],
         "release": "2020-03-05",
         "coauthor": [],
-        "tag": ["Tool", "py3", "NONE", "Done"],
+        "tag": ["Tool", "Gist", "py3", "NONE", "Done"],
     },
     {
         "name": "RPG Test",
@@ -1268,7 +1270,7 @@ var __data = [{
     },
     {
         "name": "Test STG 3",
-        "link": "",
+        "link": "https://github.com/XiaoGeNintendo/xiaogenintendo/releases/tag/STG01A",
         "author": ["XGN"],
         "release": "2020-06-25",
         "coauthor": [],
@@ -1281,7 +1283,7 @@ var __data = [{
         "author": ["XGN"],
         "release": "2020-07-14",
         "coauthor": [],
-        "tag": ["Tool", "C++", "ENG", "Done"],
+        "tag": ["Tool", "Gist", "C++", "ENG", "Done"],
         "rating": 1,
         "comment": "To solve Paper Mario:Origami King battle puzzles"
     },
@@ -1344,7 +1346,7 @@ var __data = [{
         "author": ["XGN"],
         "release": "2020-04-28",
         "coauthor": [],
-        "tag": ["Literature", "ENG", "Done"],
+        "tag": ["Literature", "ENG", "Jamming"],
         "rating": 2,
     },
     {
@@ -1372,7 +1374,7 @@ var __data = [{
         "author": ["XGN"],
         "release": "2020-12-09",
         "coauthor": [""],
-        "tag": ["Tool", "py3", "ENG", "Done"],
+        "tag": ["Tool", "Gist", "py3", "ENG", "Done"],
         "comment": "Generate First Letter Problem Using Source from 'China Daily'",
         "rating":3
     },
@@ -1382,7 +1384,7 @@ var __data = [{
         "author": ["XGN"],
         "release": "2020-11-07",
         "coauthor": [""],
-        "tag": ["Tool", "C#", "CHN", "Done"],
+        "tag": ["Tool", "Gist", "C#", "CHN", "Done"],
         "rating": 1
     },
     {
@@ -1391,7 +1393,7 @@ var __data = [{
         "author": ["XGN"],
         "release": "2020-10-16",
         "coauthor": ["XIZCM"],
-        "tag": ["Tool", "py3", "NONE", "Deserted"],
+        "tag": ["Tool", "Gist", "py3", "NONE", "Deserted"],
         "comment": "Personal Use Wordpress to Hexo Converter With High Accuracy",
         "rating": 2
     },
@@ -1401,7 +1403,7 @@ var __data = [{
         "author": ["XGN"],
         "release": "2020-05-05",
         "coauthor": [""],
-        "tag": ["Tool", "Java", "ENG", "Deserted"],
+        "tag": ["Tool", "Gist", "Java", "ENG", "Deserted"],
         "comment": "PyWright Animation File To AACT Animation File"
     },
     {
@@ -1418,7 +1420,7 @@ var __data = [{
         "author": ["XGN"],
         "release": "2020-12-08",
         "coauthor": [""],
-        "tag": ["Tool", "C++", "WinAPI", "ENG", "Done"],
+        "tag": ["Tool", "Gist", "C++", "WinAPI", "ENG", "Done"],
         "rating": 2
     },
     {
@@ -1427,7 +1429,7 @@ var __data = [{
         "author": ["Zzzyt"],
         "release": "2020-11-11",
         "coauthor": [""],
-        "tag": ["Tool", "C++", "WinAPI", "CHN", "Done"],
+        "tag": ["Tool", "Gist", "C++", "WinAPI", "CHN", "Done"],
         "rating": 3,
         "comment": "To fix NFLS Virus"
     },
@@ -1437,7 +1439,7 @@ var __data = [{
         "author": ["Zzzyt"],
         "release": "2018-12-06",
         "coauthor": [""],
-        "tag": ["Tool", "C++", "WinAPI", "CHN", "Done"],
+        "tag": ["Tool", "Gist", "C++", "WinAPI", "CHN", "Done"],
         "rating": 3,
         "comment": "To fix NFLS Virus. Replaced by Virus Fixer V3"
     },
@@ -1448,7 +1450,7 @@ var __data = [{
         "author": ["XGN"],
         "release": "2020-12-30",
         "coauthor": [""],
-        "tag": ["Tool", "C++", "WinAPI", "ENG", "Done"],
+        "tag": ["Tool", "Gist", "C++", "WinAPI", "ENG", "Done"],
         "rating": 3
     },
     {
@@ -1475,7 +1477,7 @@ var __data = [{
         "author": ["Zzzyt"],
         "release": "",
         "coauthor": ["XIZCM"],
-        "tag": ["Tool", "C++", "WinAPI", "ENG", "Done"],
+        "tag": ["Tool", "Gist", "C++", "WinAPI", "ENG", "Done"],
         "rating": 3,
         "comment": "To enable USB on Mythware Student Side"
     },
@@ -1539,8 +1541,17 @@ var __data = [{
         "author": ["XGN"],
         "release": "2021-02-10",
         "coauthor": [],
-        "tag": ["Tool","py3","ENG","Done"],
+        "tag": ["Tool","Gist","py3","ENG","Done"],
         "comment": "To extract text from .properties and any other '='-based config file for batch Google translate/Baidu translate"
+    },
+    {
+        "name": "Blog Mathjax Replacer",
+        "link": "https://gist.github.com/XiaoGeNintendo/01f86d40bc3c129bdbae8e014a2826d3",
+        "author": ["XGN"],
+        "release": "2021-02-27",
+        "coauthor": [],
+        "tag": ["Tool","Gist","py3","ENG","Done"],
+        "comment": "A simpler version of blog migerator to translate Mathjax"
     },
 ]
 

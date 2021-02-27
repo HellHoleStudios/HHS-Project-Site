@@ -221,6 +221,11 @@ var badges = {
         "tooltip": "Sound Effect",
         "display": "SFX"
     },
+    "Gist": {
+        "kind": category,
+        "tooltip": "A project with little code, probably written in one or two files. Usually hosted on Github Gist",
+        "display": "Gist"
+    },
 
     //programming language
     "Java": {
