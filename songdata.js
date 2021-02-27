@@ -88,7 +88,7 @@ var __song = [{
         "release": "2018-06-22",
         "tag": ["Music", "Test", "FL"],
         "length": "01:06",
-        "source": "Zzzyt - E.0006 PIano Test 6",
+        "source": "Zzzyt - E.0006 Piano Test 6",
         "audio": "audio/ZzzytE00/E.0010 Piano Test 10.mp3",
         "supplement": "<b>FL Project File Comment</b><br>Same theme as Piano Test 6 (Water)."
     }, {
@@ -280,7 +280,7 @@ var __song = [{
         "release": "2018-01-16",
         "tag": ["Music", "Remix", "FL"],
         "length": "00:05",
-        "source": "#O#",
+        "source": "Kitsune² - Goodnight",
         "audio": "audio/ZzzytE00/E.0031 Goodnight (Zzzyt Remix).mp3",
         "supplement": "<b>FL Project File Comment</b><br>Yufu yufy<br><br>2020/2/22<br>The author was originally \"XiaoMao 205\""
     }, {
@@ -289,7 +289,7 @@ var __song = [{
         "release": "2018-06-13",
         "tag": ["Music", "Remix", "FL"],
         "length": "00:21",
-        "source": "#O#",
+        "source": "Dubmood - Chiptune",
         "audio": "audio/ZzzytE00/E.0032 Chiptune (Zzzyt Remix).mp3",
         "supplement": "<b>FL Project File Comment</b><br>Chiptune(Remix)"
     }, {
@@ -392,8 +392,7 @@ var __song = [{
         "length": "01:24",
         "source": "Rick Astley - Never Gonna Give You Up",
         "audio": "audio/ZzzytE00/E.0043 ByteBeatBasic.mp3",
-        "supplement": 
-        `
+        "supplement": `
         Used as <i>THHHS - XGN's Theme</i>
         <b>FL Project File Comment</b><br>3B music!<br><br>2021/1/29<br>Yes, you are rickrolled.<br>The name comes from \"bytebeat\" in windows93.net.
         `
@@ -1047,7 +1046,7 @@ var __song = [{
         "release": "2020-09-28",
         "tag": ["Music", "Test", "FL"],
         "length": "00:15",
-        "source": "#A# - 神々が恋した幻想郷",
+        "source": "Zzzyt - Beloved Gensokyo",
         "audio": "audio/ZzzytE01/E.0115 Beloved Gensokyo.mp3",
         "supplement": "<b>FL Project File Comment</b><br>From FL Mobile."
     }, {
@@ -1067,7 +1066,7 @@ var __song = [{
         "length": "01:13",
         "source": "#O#",
         "audio": "audio/ZzzytE01/E.0117.mp3",
-        "supplement":`
+        "supplement": `
         Used as <i>The Lost Forest - Stage Theme</i>
         `
     }, {
@@ -1087,7 +1086,7 @@ var __song = [{
         "length": "01:36",
         "source": "#O#",
         "audio": "audio/ZzzytE01/E.0119.mp3",
-        "supplement":`
+        "supplement": `
         Used as <i>The Lost Forest - Ookami Lang's Theme</i>
         `
     }, {
@@ -1531,6 +1530,15 @@ var __song = [{
         "length": "00:27",
         "source": "#O#",
         "audio": "audio/ZzzytMobile/Song of EBC.mp3",
+    },
+    {
+        "name": "Beloved Gensokyo",
+        "author": ["Zzzyt"],
+        "release": "2019-04-25",
+        "tag": ["Music", "Test", "FLMobile"],
+        "length": "00:15",
+        "source": "#A# - 神々が恋した幻想郷",
+        "audio": "audio/ZzzytMobile/Beloved Gensokyo.mp3",
     },
     {
         "name": "Chiptune Test 9 (fixed BPM ver.) / Tale of Glyphs / 符文传说",
@@ -2351,7 +2359,7 @@ var __song = [{
         "length": "03:36",
         "audio": "audio/ZzzytRelease/Prograde.mp3",
         "source": "Zzzyt - E.0053",
-        "supplement":`
+        "supplement": `
         Used as <i>TestSTG3 - 
         `
     },
@@ -2381,7 +2389,7 @@ var __song = [{
         "length": "00:34",
         "audio": "audio/ZzzytRelease/XZM Theme.mp3",
         "source": "Zzzyt - E.0045 Chiptune Test 2",
-        "supplement":`
+        "supplement": `
         Used as <i>THHHS - XZM's Theme</i>
         Planned to be used as <i>ZJSTG - Extra boss XZM's Theme</i>
         `
