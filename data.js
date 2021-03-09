@@ -1483,11 +1483,22 @@ var __data = [{
     },
     {
         "name": "末路回光 / The Lost Hikari",
-        "link": "https://www.bilibili.com/read/cv9285182",
+        "link": {"First Episode":"https://www.bilibili.com/read/cv9285182",
+                 "Ch3 Special":"https://www.pixiv.net/novel/show.php?id=14548607"},
         "author": ["ZKY"],
         "release": "2021-01-15",
         "coauthor": ["XGN"],
         "tag": ["Literature", "CHN", "Done"],
+        "rating": 2,
+        "comment": "A part of Heart of the Vortex which is Segicverse's sequel"
+    },
+    {
+        "name": "无光之夜 / Nox sine luce",
+        "link": "https://www.pixiv.net/novel/show.php?id=14822240",
+        "author": ["ZKY"],
+        "release": "2021-03-09",
+        "coauthor":[],
+        "tag": ["Literature", "CHN", "Working"],
         "rating": 2,
         "comment": "A part of Heart of the Vortex which is Segicverse's sequel"
     },
@@ -1522,10 +1533,10 @@ var __data = [{
         "name": "MIST",
         "link": "",
         "author": ["XGN"],
-        "release": "Soon™",
+        "release": "2021-03-07",
         "coauthor": [],
-        "comment": "abbr of May I Solve This. XGN's submission to WWDC21",
-        "tag": ["Game","Playground","Swift","SwiftUI","SpriteKit","ENG","Planned"],
+        "comment": "abbr of May I Solve This. XGN's submission to WWDC21. Currently in Closed Beta.",
+        "tag": ["Game","Playground","Swift","SwiftUI","SpriteKit","ENG","Done"],
     },
     {
         "name": "2021 Typing Game",
