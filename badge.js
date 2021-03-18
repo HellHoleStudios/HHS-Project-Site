@@ -523,7 +523,7 @@ var badges = {
     },
     "SpriteKit": {
         "kind": tool,
-        "tooltip": "SpriteKit is a Swift 2D Game kit by Apple",
+        "tooltip": "SpriteKit is a Swift 2D Game Development Kit by Apple",
         "display": "SpriteKit"
     },
     "TTE": {
@@ -564,7 +564,42 @@ var badges = {
         "display": "Unknown"
     },
 
-
+    //distribution status
+    "SOURCE": {
+        "kind": layout,
+        "tooltip": "The program is open-sourced",
+        "display": "Source"
+    },
+    "MAC": {
+        "kind": layout,
+        "tooltip": "The program can be run on macOS with certain prerequisites",
+        "display": "MacOS"
+    },
+    "WIN": {
+        "kind": layout,
+        "tooltip": "The program can be run on Windows with proper prerequisites",
+        "display": "Windows"
+    },
+    "LINUX": {
+        "kind": layout,
+        "tooltip": "The program can be run on Linux with proper prerequisites",
+        "display": "Linux"
+    },
+    "PY": {
+        "kind": layout,
+        "tooltip": "The program can be run in Python Runtime with proper prerequisites",
+        "display": "PRE"
+    },
+    "JRE": {
+        "kind": layout,
+        "tooltip": "The program can be run in Java Runtime Environment with proper prerequisites",
+        "display": "JRE"
+    },
+    "WEB": {
+        "kind": layout,
+        "tooltip": "The program can be run in a modern web browser with proper prerequisites",
+        "display": "Web"
+    },
 
     //status
     "Jamming": {
