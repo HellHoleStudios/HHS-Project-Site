@@ -2393,5 +2393,65 @@ var __song = [{
         Used as <i>THHHS - XZM's Theme</i>
         Planned to be used as <i>ZJSTG - Extra boss XZM's Theme</i>
         `
-    }
+    },
+    {
+        "name": "GB and BP test",
+        "author": ["XGN"],
+        "release": "2021-03-06",
+        "tag": ["Music","Test", "GB"],
+        "length": "00:35",
+        "source": "Zzzyt - E.0122",
+        "supplement": `
+        3 Version in total.
+        <b>Release Note</b>
+        rubbish song which is full of dissonance
+        Full ear copy. No reference or others' work
+        @Zzzyt ur wanted Bad Apple bapu (ttm)
+
+        Dissonance at part B.rep2.3 :|
+
+        And at transition between partA and partB cuz I forgot it should move forward 2 notes. (facepalm)
+        
+        made with GB
+        <b>Release Supplement</b>
+        name: BPTest01
+        type: MELODY
+        fun while making: 5/10
+        `
+    },
+    {
+        "name": "World's 6th Worst Music",
+        "author": ["XGN"],
+        "release": "2021-03-14",
+        "tag": ["Music","Test", "FL"],
+        "length": "00:09",
+        "source": "#O#",
+        "audio":"audio/cp test.mp3",
+        "supplement": `
+        Other name is "CP Test"
+        CP = Chord Progression
+        Two versions in total
+        Audio is harmonized version
+        
+        <b>Release Supplement</b>
+        Fun while making: 6/10
+        Product: 6/10
+        `
+    },
+    {
+        "name": "World's 7,8,9,10th Worst Music",
+        "author": ["XGN"],
+        "release": "2021-03-14",
+        "tag": ["Music","Test", "FL"],
+        "length": "00:31",
+        "source": "#O#",
+        "audio":"audio/WWM7 8 9 10.mp3",
+        "supplement": `
+        Other name is "CP Test 2"
+        <b>Release Supplement</b>
+        Fun while making: 10/10
+        Product: 7/10
+        Rolling keyboard is fun
+        `
+    },
 ];

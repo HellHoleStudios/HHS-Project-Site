@@ -486,6 +486,11 @@ var badges = {
         "tooltip": "FL Studio is a Digital Audio Workstation(DAW).",
         "display": "FL Studio"
     },
+    "GB": {
+        "kind": tool,
+        "tooltip": "Garage Band is a Digital Audio Workstation(DAW) by Apple",
+        "display": "GarageBand"
+    },
     "FLMobile": {
         "kind": tool,
         "tooltip": "Mobile version of FL Studio.",
