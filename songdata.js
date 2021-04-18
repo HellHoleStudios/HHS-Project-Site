@@ -2454,4 +2454,19 @@ var __song = [{
         Rolling keyboard is fun
         `
     },
+    {
+        "name": "Hall of F 01",
+        "author": ["XGN"],
+        "release": "2021-04-16",
+        "tag": ["Music","Test", "FL"],
+        "length": "00:46",
+        "source": "#O#",
+        "audio":"audio/HoF01.mp3",
+        "supplement": `
+        Other name is "Flow test"
+        <b>Release Supplement</b>
+        Fun while making: 9/10
+        Product: 7.5/10
+        `
+    },
 ];
