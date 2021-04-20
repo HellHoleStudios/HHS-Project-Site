@@ -2420,7 +2420,7 @@ var __song = [{
         `
     },
     {
-        "name": "World's 6th Worst Music",
+        "name": "CP Test / World's 6th Worst Music",
         "author": ["XGN"],
         "release": "2021-03-14",
         "tag": ["Music","Test", "FL"],
@@ -2428,7 +2428,6 @@ var __song = [{
         "source": "#O#",
         "audio":"audio/cp test.mp3",
         "supplement": `
-        Other name is "CP Test"
         CP = Chord Progression
         Two versions in total
         Audio is harmonized version
@@ -2439,7 +2438,7 @@ var __song = [{
         `
     },
     {
-        "name": "World's 7,8,9,10th Worst Music",
+        "name": "CP Test 2 / World's 7,8,9,10th Worst Music",
         "author": ["XGN"],
         "release": "2021-03-14",
         "tag": ["Music","Test", "FL"],
@@ -2447,7 +2446,6 @@ var __song = [{
         "source": "#O#",
         "audio":"audio/WWM7 8 9 10.mp3",
         "supplement": `
-        Other name is "CP Test 2"
         <b>Release Supplement</b>
         Fun while making: 10/10
         Product: 7/10
@@ -2455,7 +2453,7 @@ var __song = [{
         `
     },
     {
-        "name": "Hall of F 01",
+        "name": "Hall of F 01 / Flow test",
         "author": ["XGN"],
         "release": "2021-04-16",
         "tag": ["Music","Test", "FL"],
@@ -2463,7 +2461,6 @@ var __song = [{
         "source": "#O#",
         "audio":"audio/HoF01.mp3",
         "supplement": `
-        Other name is "Flow test"
         <b>Release Supplement</b>
         Fun while making: 9/10
         Product: 7.5/10

@@ -1498,7 +1498,7 @@ var __data = [{
         "author": ["ZKY"],
         "release": "2021-03-09",
         "coauthor":[],
-        "tag": ["Literature", "CHN", "Working"],
+        "tag": ["Literature", "CHN", "Done"],
         "rating": 2,
         "comment": "A part of Heart of the Vortex which is Segicverse's sequel"
     },
@@ -1531,11 +1531,11 @@ var __data = [{
     },
     {
         "name": "MIST",
-        "link": "",
+        "link": "https://github.com/xiaogenintendo/mist",
         "author": ["XGN"],
-        "release": "2021-03-07",
+        "release": "2021-04-20",
         "coauthor": [],
-        "comment": "abbr of May I Solve This. XGN's submission to WWDC21. Currently in Closed Beta.",
+        "comment": "abbr of May I Solve This. XGN's submission to WWDC21.",
         "tag": ["Game","Playground","Swift","SwiftUI","SpriteKit","ENG","Done"],
     },
     {
