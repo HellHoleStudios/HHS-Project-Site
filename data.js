@@ -1254,8 +1254,8 @@ var __data = [{
         "link": "https://github.com/HellHoleStudios/hhsoj",
         "author": ["Zzzyt"],
         "release": "2020-06-12",
-        "coauthor": [],
-        "tag": ["Website", "OI", "Java", "py3", "JS", "HTML", "Tomcat", "Maven", "ENG", "Jamming"],
+        "coauthor": ["XGN"],
+        "tag": ["Website", "OI", "Java", "py3", "JS", "HTML", "Tomcat", "Maven", "ENG", "Working"],
         "rating": 4,
         "comment": "Project name is hhsoj. In order to distinguish from the older version, HHSOJ Maven is used."
     },
@@ -1265,7 +1265,7 @@ var __data = [{
         "author": ["Zzzyt"],
         "release": "2020-06-25",
         "coauthor": ["XGN"],
-        "tag": ["Game", "Library", "Stg", "Java", "LibGdx", "ENG", "Jamming"],
+        "tag": ["Game", "Library", "Stg", "Java", "LibGdx", "ENG", "Deserted"],
         "rating": 3,
     },
     {
