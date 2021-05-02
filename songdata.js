@@ -2466,4 +2466,30 @@ var __song = [{
         Product: 7.5/10
         `
     },
+    {
+        "name": "Hall of F 02 / Fantasy to Nowhere ~ Position Unknown / 幻想无现 ~ Position Unknown",
+        "author": ["XGN"],
+        "release": "2021-05-01",
+        "tag": ["Music","Test", "Touhou", "GB"],
+        "length": "01:32",
+        "source": "#O#",
+        "audio":"audio/HoF02.mp3",
+        "supplement": `
+        <b>Extra Information</b>
+        Made With GB
+        Fun while making: 7.5/10
+        Product: 8/10
+        BPM: 100->144->130->144
+        Initial Title: STG4 ~ Broken Melody
+        Work time: 2~3h
+        
+        <b>Supplement</b>
+        ???'s Theme
+        Initially my decision was to make a Title Screen Theme. 
+        Then I ditched it for some time. 
+        When I came back and added the versus, it became sth like this. 
+        The part B is more like a boss theme?!?!
+        Anyway GB is really hard to use. 
+        `
+    },
 ];
