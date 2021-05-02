@@ -9,7 +9,7 @@ var __data = [{
     },
     {
         "name": "THHHS",
-        "link": "http://blog.hellholestudios.top/post/2019/05/25/%E6%9D%B1%E6%96%B9%E5%9C%B0%E7%8D%84%E6%B4%9E%E6%96%87%E6%A1%A3touhou-shining-heroes-in-deep-dark-hole/",
+        "link": "https://blog.hellholestudios.top/index.php/2019/05/25/%e6%9d%b1%e6%96%b9%e5%9c%b0%e7%8d%84%e6%b4%9e%e6%96%87%e6%a1%a3touhou-shining-heroes-in-deep-dark-hole/",
         "author": ["XGN"],
         "release": "2019-05-25",
         "coauthor": ["Zzzyt", "WZZ"],
@@ -143,7 +143,7 @@ var __data = [{
     },
     {
         "name": "Hell Hole Legend 2 Episode 1",
-        "link": "https://blog.hellholestudios.top/archives/115",
+        "link": "https://blog.hellholestudios.top/index.php/2019/04/20/hell-hole-legend-2-episode-1-the-hamburger-turnabout-release/",
         "author": ["XGN"],
         "release": "2019-04-20",
         "coauthor": [""],
@@ -153,7 +153,7 @@ var __data = [{
     },
     {
         "name": "Slap",
-        "link": "https://blog.hellholestudios.top/post/2019/05/12/%E8%B6%99%E9%8E%B9%E5%9C%A3%E6%85%95%E5%B2%AD%EF%BD%9Ecircle-cycling-circumstance%EF%BD%9E/",
+        "link": "https://blog.hellholestudios.top/index.php/2019/05/12/%E8%B6%99%E9%8E%B9%E5%9C%A3%E6%85%95%E5%B2%AD%EF%BD%9Ecircle-cycling-circumstance%EF%BD%9E/",
         "author": ["XGN"],
         "release": "2019-05-12",
         "coauthor": [""],
@@ -161,7 +161,7 @@ var __data = [{
     },
     {
         "name": "Slap v1.1",
-        "link": "https://blog.hellholestudios.top/post/2019/05/19/slap-1-1-release/",
+        "link": "https://blog.hellholestudios.top/index.php/2019/05/19/slap-1-1-release/",
         "author": ["XGN"],
         "release": "2019-05-19",
         "coauthor": [""],
@@ -198,7 +198,7 @@ var __data = [{
     },
     {
         "name": "Orange Boy Can You Solve It Out?",
-        "link": "https://blog.hellholestudios.top/post/tag/obcysio/",
+        "link": "https://blog.hellholestudios.top/index.php/category/problems/obcysio/",
         "author": ["XGN"],
         "release": "2019-04-14",
         "coauthor": ["MK", "SYR"],
@@ -207,7 +207,7 @@ var __data = [{
     },
     {
         "name": "The Story of Tengfei",
-        "link": "https://blog.hellholestudios.top/post/category/%E8%BF%9E%E8%BD%BD%E5%86%85%E5%AE%B9/",
+        "link": "https://blog.hellholestudios.top/index.php/tag/tengfei-story/",
         "author": ["XGN"],
         "release": "2019-04-10",
         "coauthor": [""],
@@ -529,7 +529,7 @@ var __data = [{
         ],
         "tag": [
             "Tool",
-            "Gist", 
+            "Gist",
             "Java",
             "Swing",
             "ENG",
@@ -853,7 +853,7 @@ var __data = [{
     },
     {
         "name": "INM Craft S2",
-        "link": "https://blog.hellholestudios.top/archives/190",
+        "link": "https://blog.hellholestudios.top/index.php/2019/08/31/inm-season-2-ended/",
         "author": [
             "XIZCM"
         ],
@@ -982,7 +982,7 @@ var __data = [{
         "comment": "Shown as an attachment in a daily report",
         "tag": [
             "Game",
-            "Gist", 
+            "Gist",
             "C++",
             "CHN",
             "Done"
@@ -1045,7 +1045,7 @@ var __data = [{
     },
     {
         "name": "春之岸边播放器(th12 stage 1 theme player)",
-        "link": "https://blog.hellholestudios.top/archives/302",
+        "link": "https://blog.hellholestudios.top/index.php/2019/10/21/a-touhou-12-mod-%e6%98%a5%e4%b9%8b%e5%b2%b8%e8%be%b9%e6%92%ad%e6%94%be%e5%99%a8/",
         "author": ["XGN"],
         "release": "2019-10-21",
         "coauthor": [],
@@ -1054,7 +1054,7 @@ var __data = [{
     },
     {
         "name": "Forge Server S1",
-        "link": "https://blog.hellholestudios.top/archives/266",
+        "link": "https://blog.hellholestudios.top/index.php/2019/08/23/forge-server-season1-ended/",
         "author": ["XIZCM"],
         "release": "2019-08-23",
         "coauthor": ["XGN"],
@@ -1142,7 +1142,7 @@ var __data = [{
     },
     {
         "name": "The 2020 STG",
-        "link": "https://blog.hellholestudios.top/archives/361",
+        "link": "https://blog.hellholestudios.top/index.php/2020/01/23/2020-stg-release/",
         "author": ["XGN"],
         "release": "2020-01-23",
         "coauthor": [],
@@ -1160,8 +1160,10 @@ var __data = [{
     },
     {
         "name": "Aola Star Crawler",
-        "link": {"Github":"https://github.com/XiaoGeNintendo/Aola-Star-Crawler",
-                 "Quanquan":" http://qq.100bt.com/LocateComment.action?topicId=23358564&commentId=193640659###"},
+        "link": {
+            "Github": "https://github.com/XiaoGeNintendo/Aola-Star-Crawler",
+            "Quanquan": " http://qq.100bt.com/LocateComment.action?topicId=23358564&commentId=193640659###"
+        },
         "author": ["XGN"],
         "release": "2020-02-19",
         "coauthor": [],
@@ -1241,13 +1243,12 @@ var __data = [{
     },
     {
         "name": "Crimson Boy Can You Solve This?",
-        "link": "https://blog.hellholestudios.top/archives/349",
+        "link": "https://blog.hellholestudios.top/index.php/tag/crimson/",
         "author": ["HDD"],
         "release": "2020-01-05",
         "coauthor": [],
         "tag": ["Literature", "Markdown", "ENG", "Jamming"],
         "rating": 2,
-        "comment": "This should be a series, though there's currently only one post."
     },
     {
         "name": "HHSOJ Maven",
@@ -1298,8 +1299,10 @@ var __data = [{
     },
     {
         "name": "President Of Gensokyo",
-        "link": {"Itch":"https://xgn.itch.io/president-of-gensokyo",
-                 "Github(Recommended)":"https://github.com/XiaoGeNintendo/PresidentOfGensokyo"},
+        "link": {
+            "Itch": "https://xgn.itch.io/president-of-gensokyo",
+            "Github(Recommended)": "https://github.com/XiaoGeNintendo/PresidentOfGensokyo"
+        },
         "author": ["XGN"],
         "release": "2020-08-08",
         "coauthor": ["Zzzyt"],
@@ -1308,7 +1311,7 @@ var __data = [{
     },
     {
         "name": "Re:ZJSTG",
-        "link": "https://blog.hellholestudios.top/archives/532",
+        "link": "",
         "author": ["XGN"],
         "release": "2020-08-13",
         "coauthor": ["Zzzyt", "HDD"],
@@ -1317,9 +1320,11 @@ var __data = [{
     },
     {
         "name": "Segicverse",
-        "link": {"Volume 1-9":"https://www.bilibili.com/read/cv5224967",
-                 "Extra":"https://xiaogenintendo.github.io/categories/Literature/Segicverse/",
-                 "Special(Heavy NSFW, please find manually)":"https://www.pixiv.net/users/54042069"},
+        "link": {
+            "Volume 1-9": "https://www.bilibili.com/read/cv5224967",
+            "Extra": "https://xiaogenintendo.github.io/categories/Literature/Segicverse/",
+            "Special(Heavy NSFW, please find manually)": "https://www.pixiv.net/users/54042069"
+        },
         "author": ["ZKY"],
         "release": "2020-03-22",
         "coauthor": ["XGN"],
@@ -1329,8 +1334,10 @@ var __data = [{
     },
     {
         "name": "Roaming Travellers in fantasy extravaganza",
-        "link": {"Initial Clone":"https://xiaogenintendo.github.io/2021/02/10/RTiFE-clone/",
-                 "Supplement":"https://xiaogenintendo.github.io/categories/Literature/OC-Setting/"},
+        "link": {
+            "Initial Clone": "https://xiaogenintendo.github.io/2021/02/10/RTiFE-clone/",
+            "Supplement": "https://xiaogenintendo.github.io/categories/Literature/OC-Setting/"
+        },
         "author": ["XGN"],
         "release": "2020-08-31",
         "coauthor": [],
@@ -1340,9 +1347,11 @@ var __data = [{
     },
     {
         "name": "LSS Short",
-        "link": {"I. Dandelion":"https://xiaogenintendo.github.io/2020/04/28/Dandelion-LSS-Short/",
-                 "II. Dream":"https://xiaogenintendo.github.io/2020/05/02/Dream-LSS-Short/",
-                 "III. Afterlife":"https://xiaogenintendo.github.io/2020/12/19/Afterlife-LSS-Short/"},
+        "link": {
+            "I. Dandelion": "https://xiaogenintendo.github.io/2020/04/28/Dandelion-LSS-Short/",
+            "II. Dream": "https://xiaogenintendo.github.io/2020/05/02/Dream-LSS-Short/",
+            "III. Afterlife": "https://xiaogenintendo.github.io/2020/12/19/Afterlife-LSS-Short/"
+        },
         "author": ["XGN"],
         "release": "2020-04-28",
         "coauthor": [],
@@ -1351,8 +1360,10 @@ var __data = [{
     },
     {
         "name": "The Lost Forest",
-        "link": {"Itch":"https://xgn.itch.io/the-lost-forest",
-                 "Ludum Dare":"https://ldjam.com/events/ludum-dare/47/the-lost-forest"},
+        "link": {
+            "Itch": "https://xgn.itch.io/the-lost-forest",
+            "Ludum Dare": "https://ldjam.com/events/ludum-dare/47/the-lost-forest"
+        },
         "author": ["XGN"],
         "release": "2020-10-05",
         "coauthor": ["Zzzyt", "HDD"],
@@ -1376,7 +1387,7 @@ var __data = [{
         "coauthor": [""],
         "tag": ["Tool", "Gist", "py3", "ENG", "Done"],
         "comment": "Generate First Letter Problem Using Source from 'China Daily'",
-        "rating":3
+        "rating": 3
     },
     {
         "name": "Inline Mahjong Helper",
@@ -1445,8 +1456,10 @@ var __data = [{
     },
     {
         "name": "Animate Wallpaper",
-        "link": {"Release":"https://xiaogenintendo.github.io/2020/12/30/animate-bg-release/",
-                 "Gist":"https://gist.github.com/XiaoGeNintendo/899e81f6f2a33de488c001bef45ba861"},
+        "link": {
+            "Release": "https://xiaogenintendo.github.io/2020/12/30/animate-bg-release/",
+            "Gist": "https://gist.github.com/XiaoGeNintendo/899e81f6f2a33de488c001bef45ba861"
+        },
         "author": ["XGN"],
         "release": "2020-12-30",
         "coauthor": [""],
@@ -1483,8 +1496,10 @@ var __data = [{
     },
     {
         "name": "末路回光 / The Lost Hikari",
-        "link": {"First Episode":"https://www.bilibili.com/read/cv9285182",
-                 "Ch3 Special":"https://www.pixiv.net/novel/show.php?id=14548607"},
+        "link": {
+            "First Episode": "https://www.bilibili.com/read/cv9285182",
+            "Ch3 Special": "https://www.pixiv.net/novel/show.php?id=14548607"
+        },
         "author": ["ZKY"],
         "release": "2021-01-15",
         "coauthor": ["XGN"],
@@ -1497,7 +1512,7 @@ var __data = [{
         "link": "https://www.pixiv.net/novel/show.php?id=14822240",
         "author": ["ZKY"],
         "release": "2021-03-09",
-        "coauthor":[],
+        "coauthor": [],
         "tag": ["Literature", "CHN", "Done"],
         "rating": 2,
         "comment": "A part of Heart of the Vortex which is Segicverse's sequel"
@@ -1512,14 +1527,16 @@ var __data = [{
     },
     {
         "name": "Pressing Competition 2",
-        "link": {"Github Showcase":"https://github.com/XiaoGeNintendo/Pressing-Competition-2",
-                 "Itch":"https://xgn.itch.io/pressing-competition-2",
-                 "Source":"https://github.com/XiaoGeNintendo/TypingCompetition2-Source",
-                 "Release Note":"https://xiaogenintendo.github.io/2021/01/24/pc2release/",
-                 "Modding Guide":"https://xiaogenintendo.github.io/2021/01/28/Adding-Chars-In-PC2/",},
+        "link": {
+            "Github Showcase": "https://github.com/XiaoGeNintendo/Pressing-Competition-2",
+            "Itch": "https://xgn.itch.io/pressing-competition-2",
+            "Source": "https://github.com/XiaoGeNintendo/TypingCompetition2-Source",
+            "Release Note": "https://xiaogenintendo.github.io/2021/01/24/pc2release/",
+            "Modding Guide": "https://xiaogenintendo.github.io/2021/01/28/Adding-Chars-In-PC2/",
+        },
         "author": ["XGN"],
         "release": "2021-01-24",
-        "coauthor": ["MK","Zzzyt","HDD"],
+        "coauthor": ["MK", "Zzzyt", "HDD"],
         "tag": [
             "Game",
             "GDScript",
@@ -1527,7 +1544,7 @@ var __data = [{
             "ENG",
             "Working"
         ],
-        "rating":2
+        "rating": 2
     },
     {
         "name": "MIST",
@@ -1536,7 +1553,7 @@ var __data = [{
         "release": "2021-04-20",
         "coauthor": [],
         "comment": "abbr of May I Solve This. XGN's submission to WWDC21.",
-        "tag": ["Game","Playground","Swift","SwiftUI","SpriteKit","ENG","Done"],
+        "tag": ["Game", "Playground", "Swift", "SwiftUI", "SpriteKit", "ENG", "Done"],
     },
     {
         "name": "2021 Typing Game",
@@ -1552,7 +1569,7 @@ var __data = [{
         "author": ["XGN"],
         "release": "2021-02-10",
         "coauthor": [],
-        "tag": ["Tool","Gist","py3","ENG","Done"],
+        "tag": ["Tool", "Gist", "py3", "ENG", "Done"],
         "comment": "To extract text from .properties and any other '='-based config file for batch Google translate/Baidu translate"
     },
     {
@@ -1561,7 +1578,7 @@ var __data = [{
         "author": ["XGN"],
         "release": "2021-02-27",
         "coauthor": [],
-        "tag": ["Tool","Gist","py3","ENG","Done"],
+        "tag": ["Tool", "Gist", "py3", "ENG", "Done"],
         "comment": "A simpler version of blog migerator to translate Mathjax"
     },
     {
@@ -1570,7 +1587,7 @@ var __data = [{
         "author": ["XGN"],
         "release": "2021-03-18",
         "coauthor": [],
-        "tag": ["Game","Swift","SpriteKit","ENG","Working"],
+        "tag": ["Game", "Swift", "SpriteKit", "ENG", "Working"],
     },
 ]
 
