@@ -208,7 +208,7 @@ String.prototype.replaceAll = function (FindText, RepText) {
 function renderLink(link) {
     var rules = [
         ["github.com", "Link to Github", "fa fa-github", false],
-        ["blog.hellholestudios.top", "Link to HHS Blog", "fa fa-wordpress", true],
+        ["blog.hellholestudios.top", "Link to HHS Blog", "fa fa-wordpress", false],
         ["drive.google.com", "Link to Google Drive", "fa fa-google", false],
         ["drive.xizcm.site", "Link to XIZCM's Drive", "fa fa-database", true],
         ["xiaogenintendo.github.io", "Link to XGN's Blog", "fa fa-envelope", false],
@@ -328,18 +328,15 @@ function refreshTable() {
                       <div class="modal-dialog">
                         <div class="modal-content">
                      
-                          <!-- 模态框头部 -->
                           <div class="modal-header">
                             <h4 class="modal-title">Links</h4>
                             <button type="button" class="close" data-dismiss="modal">&times;</button>
                           </div>
                      
-                          <!-- 模态框主体 -->
                           <div class="modal-body">
                             ${cls}
                           </div>
                      
-                          <!-- 模态框底部 -->
                           <div class="modal-footer">
                             <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
                           </div>
