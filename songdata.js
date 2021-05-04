@@ -2492,4 +2492,31 @@ var __song = [{
         Anyway GB is really hard to use. 
         `
     },
+    {
+        "name": "Hall of F 03 / one-third of the Sengoku ~ Kemono Fighter / 三分战国之一 ~ Kemono Fighter",
+        "author": ["XGN"],
+        "release": "2021-05-04",
+        "tag": ["Music","Test", "Touhou", "GB"],
+        "length": "02:00",
+        "source": "#O#",
+        "audio":"audio/HoF03.mp3",
+        "supplement": `
+<b>Extra Information:</b>
+Made with GB
+Fun while making: 7/10
+Product: 8.5/10
+BPM: 160 -> 148 -> 160
+
+<b>Instrument:</b>
+Pipa, Erhu, Koto, Chinese drum, Rock Guitar, Trumpet
+
+<b>Worktime:</b>
+2h30min
+
+<b>Supplement:</b>
+Ookami Lang's Theme
+When think of her, the image of Momiji will pop up. However, compared to Momiji, she cannot use her sword and is more childish. So the song is focused on the cute side of Ookami. Someone who cannot use sword, but has the coolness to look like a swordsman, that's her I guess.
+In celebration of TH18 release
+        `
+    },
 ];
