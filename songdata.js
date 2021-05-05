@@ -2503,6 +2503,7 @@ var __song = [{
         "supplement": `
         Two version in total
         This is version 2 with double loop
+        Loop marker: 12.00~1:49.196
         
 <b>Extra Information:</b>
 Made with GB
