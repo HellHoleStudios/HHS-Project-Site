@@ -11,7 +11,7 @@ var badges = {
     //members
     "XGN": {
         "kind": member,
-        "tooltip": "Main programmer of HHS",
+        "tooltip": "Main programmer and novice music maker of HHS",
         "display": "XGN"
     },
     "Zzzyt": {
@@ -21,7 +21,7 @@ var badges = {
     },
     "XIZCM": {
         "kind": member,
-        "tooltip": "Programmer of HHS",
+        "tooltip": "Programmer and server provider of HHS",
         "display": "XIZCM"
     },
     "HDD": {
@@ -223,7 +223,7 @@ var badges = {
     },
     "Gist": {
         "kind": category,
-        "tooltip": "A project with little code, probably written in one or two files. Usually hosted on Github Gist",
+        "tooltip": "A project with not-so-long code, probably written in one or two files. Usually hosted on Github Gist",
         "display": "Gist"
     },
 

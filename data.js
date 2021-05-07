@@ -1191,13 +1191,12 @@ var __data = [{
     },
     {
         "name": "CP Jumper",
-        "link": "https://github.com/XiaoGeNintendo/CP-Jumper",
+        "link": {"Code":"https://github.com/XiaoGeNintendo/CP-Jumper","Codeforces Blog":"https://codeforces.com/blog/entry/74523"},
         "author": ["XGN"],
         "release": "2020-03-05",
         "coauthor": [],
         "tag": ["Tool", "OI", "Extension", "JS", "HTML", "ENG", "Done"],
         "rating": 3,
-        "comment": "Codeforces Blog: https://codeforces.com/blog/entry/74523"
     },
     {
         "name": "Astro Simulator",
@@ -1274,7 +1273,7 @@ var __data = [{
         "link": "https://github.com/XiaoGeNintendo/xiaogenintendo/releases/tag/STG01A",
         "author": ["XGN"],
         "release": "2020-06-25",
-        "coauthor": [],
+        "coauthor": ["Zzzyt","HDD"],
         "tag": ["Game", "Library", "Stg", "DNH", "Danmakufu", "ENG", "Done"],
         "rating": 3,
     },
@@ -1350,11 +1349,12 @@ var __data = [{
         "link": {
             "I. Dandelion": "https://xiaogenintendo.github.io/2020/04/28/Dandelion-LSS-Short/",
             "II. Dream": "https://xiaogenintendo.github.io/2020/05/02/Dream-LSS-Short/",
-            "III. Afterlife": "https://xiaogenintendo.github.io/2020/12/19/Afterlife-LSS-Short/"
+            "III. Afterlife": "https://xiaogenintendo.github.io/2020/12/19/Afterlife-LSS-Short/",
+            "IV. Excursion": "https://blog.hellholestudios.top/index.php/2021/05/03/lss-short-excursion/"
         },
         "author": ["XGN"],
         "release": "2020-04-28",
-        "coauthor": [],
+        "coauthor": ["Zzzyt"],
         "tag": ["Literature", "ENG", "Jamming"],
         "rating": 2,
     },
@@ -1554,6 +1554,7 @@ var __data = [{
         "coauthor": [],
         "comment": "abbr of May I Solve This. XGN's submission to WWDC21.",
         "tag": ["Game", "Playground", "Swift", "SwiftUI", "SpriteKit", "ENG", "Done"],
+        "rating": 3
     },
     {
         "name": "2021 Typing Game",
@@ -1588,6 +1589,26 @@ var __data = [{
         "release": "2021-03-18",
         "coauthor": [],
         "tag": ["Game", "Swift", "SpriteKit", "ENG", "Working"],
+    },
+    {
+        "name": "简易产假计算器 / Pregancy Vacation Calculator",
+        "link": "https://github.com/HellHoleStudios/vacation-calculator",
+        "author": ["Zzzyt"],
+        "release": "2021-05-06",
+        "coauthor": ["XGN"],
+        "tag": ["Tool", "Website", "Gist", "HTML", "JS", "CHN", "Done"],
+        "comment": "Requested By school(NFLS)",
+        "rating":3
+    },
+    {
+        "name": "Zzzyt Blog Generator",
+        "link": {"Blog":"https://z.ys.al/",
+        "Generator Script":"https://github.com/Zzzzzzyt/Zzzzzzyt.github.io/blob/master/generate.py"},
+        "author": ["Zzzyt"],
+        "release": "2020-08-08",
+        "coauthor": [],
+        "tag": ["Tool", "Website", "Gist", "py3", "JS", "CHN", "ENG", "Working"],
+        "rating":1
     },
 ]
 
