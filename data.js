@@ -1354,7 +1354,7 @@ var __data = [{
         },
         "author": ["XGN"],
         "release": "2020-04-28",
-        "coauthor": [],
+        "coauthor": ["Zzzyt"],
         "tag": ["Literature", "ENG", "Jamming"],
         "rating": 2,
     },
