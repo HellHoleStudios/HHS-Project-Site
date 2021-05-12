@@ -1321,8 +1321,7 @@ var __data = [{
         "name": "Segicverse",
         "link": {
             "Volume 1-9": "https://www.bilibili.com/read/cv5224967",
-            "Extra": "https://xiaogenintendo.github.io/categories/Literature/Segicverse/",
-            "Special(Heavy NSFW, please find manually)": "https://www.pixiv.net/users/54042069"
+            "Extra": "https://xiaogenintendo.github.io/categories/Literature/Segicverse/"
         },
         "author": ["ZKY"],
         "release": "2020-03-22",
@@ -1498,7 +1497,6 @@ var __data = [{
         "name": "末路回光 / The Lost Hikari",
         "link": {
             "First Episode": "https://www.bilibili.com/read/cv9285182",
-            "Ch3 Special": "https://www.pixiv.net/novel/show.php?id=14548607"
         },
         "author": ["ZKY"],
         "release": "2021-01-15",
