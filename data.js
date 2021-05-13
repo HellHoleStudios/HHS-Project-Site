@@ -1310,7 +1310,7 @@ var __data = [{
     },
     {
         "name": "Re:ZJSTG",
-        "link": "",
+        "link": "https://github.com/XiaoGeNintendo/xiaogenintendo/releases/tag/STG02A",
         "author": ["XGN"],
         "release": "2020-08-13",
         "coauthor": ["Zzzyt", "HDD"],
@@ -1507,13 +1507,13 @@ var __data = [{
     },
     {
         "name": "无光之夜 / Nox sine luce",
-        "link": "https://www.pixiv.net/novel/show.php?id=14822240",
+        "link": "",
         "author": ["ZKY"],
         "release": "2021-03-09",
         "coauthor": [],
         "tag": ["Literature", "CHN", "Done"],
         "rating": 2,
-        "comment": "A part of Heart of the Vortex which is Segicverse's sequel"
+        "comment": "A part of Heart of the Vortex which is Segicverse's sequel. Link taken down for author's sake"
     },
     {
         "name": "Jizou Osu Beatmap",
