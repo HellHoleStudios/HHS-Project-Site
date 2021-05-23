@@ -1125,6 +1125,32 @@ var __song = [{
         "source": "#O#",
         "audio": "audio/ZzzytE01/E.0123.mp3"
     }, {
+        "name": "E.0124",
+        "author": ["Zzzyt"],
+        "release": "2021-03-21",
+        "tag": ["Music", "Test", "FL"],
+        "length": "00:30",
+        "source": "#O#",
+        "audio": "audio/ZzzytE01/E.0124.mp3",
+        "supplement":"From FL Mobile."
+    }, {
+        "name": "E.0125",
+        "author": ["Zzzyt"],
+        "release": "2021-03-21",
+        "tag": ["Music", "Test", "FL"],
+        "length": "00:40",
+        "source": "#O#",
+        "audio": "audio/ZzzytE01/E.0125.mp3",
+        "supplement":"aka. \"Morning\", named by Dr. Zhou"
+    }, {
+        "name": "E.0126",
+        "author": ["Zzzyt"],
+        "release": "2021-05-08",
+        "tag": ["Music", "Test", "FL"],
+        "length": "02:35",
+        "source": "#O#",
+        "audio": "audio/ZzzytE01/E.0126.mp3"
+    }, {
         "name": "Idea1 (mobile)",
         "author": ["Zzzyt"],
         "release": "2019-06-20",
@@ -2554,5 +2580,5 @@ In celebration of TH18 release
         <b>Zzzyt Supplement(With no modification)</b>
         <del>earape</del>
         `
-    },
+    }
 ];
