@@ -325,6 +325,11 @@ var badges = {
         "tooltip": "Swift by Apple Inc.",
         "display": "Swift"
     },
+    "Kotlin": {
+        "kind": lang,
+        "tooltip": "Kotlin the JVM programming language",
+        "display": "Kotlin"
+    },
 
 
     //tools
@@ -535,6 +540,11 @@ var badges = {
         "kind": tool,
         "tooltip": "Touhou Typing Engine is a closed-source LibGDX-based engine to make Touhou-style Typing Game by XGN.",
         "display": "TTE"
+    },
+    "TML": {
+        "kind": tool,
+        "tooltip": "tModLoader - the official mod loader for Terraria",
+        "display": "TML"
     },
 
 

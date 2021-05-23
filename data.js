@@ -26,7 +26,7 @@ var __data = [{
         "rating": 2
     },
     {
-        "name": "Test STG2",
+        "name": "TestSTG2",
         "link": "https://github.com/XiaoGeNintendo/-LibGdx-Test-STG2",
         "author": ["XGN"],
         "release": "2019-07-01",
@@ -1269,7 +1269,7 @@ var __data = [{
         "rating": 3,
     },
     {
-        "name": "Test STG 3",
+        "name": "TestSTG3",
         "link": "https://github.com/XiaoGeNintendo/xiaogenintendo/releases/tag/STG01A",
         "author": ["XGN"],
         "release": "2020-06-25",
@@ -1586,7 +1586,7 @@ var __data = [{
         "author": ["XGN"],
         "release": "2021-03-18",
         "coauthor": [],
-        "tag": ["Game", "Swift", "SpriteKit", "ENG", "Working"],
+        "tag": ["Game", "Swift", "SpriteKit", "ENG", "Deserted"],
     },
     {
         "name": "简易产假计算器 / Pregancy Vacation Calculator",
@@ -1607,6 +1607,24 @@ var __data = [{
         "coauthor": [],
         "tag": ["Tool", "Website", "Gist", "py3", "JS", "CHN", "ENG", "Working"],
         "rating":1
+    },
+    {
+        "name": "Kode",
+        "link": "",
+        "author": ["Zzzyt"],
+        "release": "????-??-??",
+        "coauthor": [],
+        "tag": ["Game", "Kotlin", "Stg", "Planned"],
+        "comment":"Kode is the sequel to Jade which is a Touhou danmaku engine for Kotlin."
+    },
+    {
+        "name": "Addon Tools - Terraria Edition",
+        "link": "",
+        "author": ["XGN"],
+        "release": "????-??-??",
+        "coauthor": [],
+        "tag": ["Mod", "C#", "TML", "ENG", "Planned"],
+        "comment":"A terraria mod which introduces several accessories and cards from Touhou project"
     },
 ]
 
