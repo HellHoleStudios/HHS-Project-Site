@@ -1313,7 +1313,7 @@ var __song = [
     name: "E.0126",
     author: ["Zzzyt"],
     release: "2021-05-08",
-    tag: ["Music", "Test", "FL"],
+    tag: ["Music", "Test", "8bit", "FL"],
     length: "02:35",
     source: "#O#",
     audio: "audio/ZzzytE01/E.0126.mp3",
