@@ -2497,12 +2497,12 @@ var __song = [{
         "author": ["XGN"],
         "release": "2021-05-04",
         "tag": ["Music","Test", "Touhou", "GB"],
-        "length": "03:26",
+        "length": "01:58",
         "source": "#O#",
-        "audio":"audio/HoF03.mp3",
+        "audio":"audio/HoF3.mp3",
         "supplement": `
-        Two version in total
-        This is version 2 with double loop
+        4 versions in total
+        This is version 4 with single loop
         Loop marker: 12.00~1:49.196
         
 <b>Extra Information:</b>
