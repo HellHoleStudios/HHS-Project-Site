@@ -2523,4 +2523,36 @@ When think of her, the image of Momiji will pop up. However, compared to Momiji,
 In celebration of TH18 release
         `
     },
+    {
+        "name": "Collab",
+        "author": ["Zzzyt","XGN"],
+        "release": "2021-05-19",
+        "tag": ["Music", "FL"],
+        "length": "01:40",
+        "source": "#O#",
+        "audio":"audio/collab.mp3",
+        "supplement": `
+        Collab between XGN and Zzzyt.
+        
+        Theme by ZKY. Part 1(to 1:04) by Zzzyt. Part 2 by XGN.
+
+        <b>Theme</b>
+        Theme of Moon-hunting bear from Spice and Wolf.
+
+        <b>XGN Supplement</b>
+        Theme of Moon-hunting bear
+
+        It should have been a song with horror and destruction at the same time. 
+        However, Zzzyt's part is so dark that it sounds like a horror movie.
+        So I had to ditch all my composing skills for a Touhou-song music to try to fit his style.
+        I couldn't think of a way to represent 'destruction' or 'power' with such a beginning so I decided to go with 'wispering'.
+        Dissonance could still be heard, cuz I couldn't reach Zzzyt's high standard.
+
+        A weird song after all. :/
+
+        XGN, 2021/5/23
+        <b>Zzzyt Supplement(With no modification)</b>
+        <del>earape</del>
+        `
+    },
 ];
