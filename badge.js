@@ -351,6 +351,11 @@ var badges = {
         "tooltip": "A Java framework to make games",
         "display": "LibGdx"
     },
+    "KTX": {
+        "kind": tool,
+        "tooltip": "A Kotlin extension for LibGDX",
+        "display": "LibKTX"
+    },
     "GameMakerStudio": {
         "kind": tool,
         "tooltip": "Game Maker Studios by YoyoGames",

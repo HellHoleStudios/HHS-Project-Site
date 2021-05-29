@@ -1609,13 +1609,13 @@ var __data = [{
         "rating":1
     },
     {
-        "name": "Kode",
+        "name": "KoTo",
         "link": "",
         "author": ["Zzzyt"],
         "release": "????-??-??",
         "coauthor": [],
-        "tag": ["Game", "Kotlin", "Stg", "Planned"],
-        "comment":"Kode is the sequel to Jade which is a Touhou danmaku engine for Kotlin."
+        "tag": ["Game", "Stg", "Kotlin", "KTX", "Planned"],
+        "comment":"KoTo(Kotlin Touhou) is the sequel to Jade which is a Touhou danmaku engine for Kotlin."
     },
     {
         "name": "Addon Tools - Terraria Edition",
