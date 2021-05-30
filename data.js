@@ -1619,12 +1619,13 @@ var __data = [{
     },
     {
         "name": "Addon Tools - Terraria Edition",
-        "link": "",
+        "link": "https://github.com/XiaoGeNintendo/xiaogenintendo/releases/tag/OTH05A",
         "author": ["XGN"],
-        "release": "????-??-??",
+        "release": "2021-05-30",
         "coauthor": [],
-        "tag": ["Mod", "C#", "TML", "ENG", "Planned"],
-        "comment":"A terraria mod which introduces several accessories and cards from Touhou project"
+        "tag": ["Mod", "C#", "TML", "ENG", "Jamming"],
+        "comment":"A terraria mod which introduces several accessories and cards from Touhou project",
+        'rating':1
     },
 ]
 
