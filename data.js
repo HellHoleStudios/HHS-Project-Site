@@ -1550,7 +1550,7 @@ var __data = [{
         "author": ["XGN"],
         "release": "2021-04-20",
         "coauthor": [],
-        "comment": "abbr of May I Solve This. XGN's submission to WWDC21.",
+        "comment": "abbr of May I Solve This. XGN's submission to WWDC21. Rejected.",
         "tag": ["Game", "Playground", "Swift", "SwiftUI", "SpriteKit", "ENG", "Done"],
         "rating": 3
     },
