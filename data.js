@@ -1619,7 +1619,7 @@ var __data = [{
     },
     {
         "name": "Addon Tools - Terraria Edition",
-        "link": "https://github.com/XiaoGeNintendo/xiaogenintendo/releases/tag/OTH05A",
+        "link": "https://blog.hellholestudios.top/index.php/2021/05/30/addon-tools-terraria-edition-released/",
         "author": ["XGN"],
         "release": "2021-05-30",
         "coauthor": [],
