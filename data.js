@@ -1610,12 +1610,12 @@ var __data = [{
     },
     {
         "name": "KoTo",
-        "link": "",
+        "link": "https://github.com/HellHoleStudios/koto",
         "author": ["Zzzyt"],
         "release": "????-??-??",
         "coauthor": [],
-        "tag": ["Game", "Stg", "Kotlin", "KTX", "Planned"],
-        "comment":"KoTo(Kotlin Touhou) is the sequel to Jade which is a Touhou danmaku engine for Kotlin."
+        "tag": ["Game", "Stg", "Kotlin", "KTX", "Working"],
+        "comment":"KoTo(Kotlin Touhou) is the sequel to Jade which is a Touhou danmaku engine for Kotlin. No product or demo, but code is available."
     },
     {
         "name": "Addon Tools - Terraria Edition",
@@ -1626,6 +1626,24 @@ var __data = [{
         "tag": ["Mod", "C#", "TML", "ENG", "Jamming"],
         "comment":"A terraria mod which introduces several accessories and cards from Touhou project",
         'rating':1
+    },
+    {
+        "name": "Terraria Baidu Translate Language Pack",
+        "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2520117668",
+        "author": ["XGN"],
+        "release": "2021-06-18",
+        "coauthor": [],
+        "tag": ["Mod", "CHN", "Done"],
+        "comment":"A terraria language pack but with Baidu translation",
+    },
+    {
+        "name": "Spice & Wolf Fangame",
+        "link": "",
+        "author": ["XGN"],
+        "release": "????-??-??",
+        "coauthor": [],
+        "tag": ["Game", "Sim", "Kotlin","KTX", "ENG", "Working"],
+        "comment":"Title undecided. Alpha 1 was released as close-beta at 14 Jun 2021",
     },
 ]
 
