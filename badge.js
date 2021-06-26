@@ -69,6 +69,11 @@ var badges = {
         "tooltip": "A team-al project instead of a personal project. In other words, the project is done by everyone's effort.",
         "display": "HHS"
     },
+    "Astera": {
+        "kind": member,
+        "tooltip": "Unknown secret member you cannot see",
+        "display":" Astera"
+    }
 
     //category
     "OI": {

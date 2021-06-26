@@ -155,12 +155,12 @@ var member = [{
         }]
     },
     {
-        "name": "HYK",
+        "name": "Astera",
         "badge": [
-            "branch", "skype"
+            "main", "skype"
         ],
-        "pic": "",
-        "aka": "",
+        "pic": "assets/HYK.jpg",
+        "aka": "HYK",
         "contact": [
 
         ]
