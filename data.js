@@ -1589,7 +1589,7 @@ var __data = [{
         "tag": ["Game", "Swift", "SpriteKit", "ENG", "Deserted"],
     },
     {
-        "name": "简易产假计算器 / Pregancy Vacation Calculator",
+        "name": "简易产假计算器 / Pregnancy Vacation Calculator",
         "link": "https://github.com/HellHoleStudios/vacation-calculator",
         "author": ["Zzzyt"],
         "release": "2021-05-06",
