@@ -71,7 +71,7 @@ var badges = {
     },
     "Astera": {
         "kind": member,
-        "tooltip": "Unknown secret member you cannot see",
+        "tooltip": "Music maker and artist of HHS, aka HYK",
         "display":" Astera"
     },
 

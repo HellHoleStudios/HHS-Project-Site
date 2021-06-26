@@ -2756,4 +2756,14 @@ var __song = [
         <del>earape</del>
         `,
   },
+  {
+    name: "Believe Me",
+    author: ["Astera"],
+    release: "2021-06-26",
+    tag: ["Music","Remix", "GB"],
+    length: "00:26",
+    source: "Steins Gate",
+    audio: "audio/believeMe.mp3",
+    comment: "The author cannot remember the exact date it was composed."
+  },
 ];
