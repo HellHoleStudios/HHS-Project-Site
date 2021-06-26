@@ -73,7 +73,7 @@ var badges = {
         "kind": member,
         "tooltip": "Unknown secret member you cannot see",
         "display":" Astera"
-    }
+    },
 
     //category
     "OI": {
