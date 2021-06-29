@@ -2588,7 +2588,7 @@ var __song = [
     release: "2018-11-04",
     tag: ["Music", "8bit", "FL"],
     length: "00:34",
-    audio: "audio/ZzzytRelease/XZM Theme.mp3",
+    audio: "audio/ZzzytRelease/XZM theme.mp3",
     source: "Zzzyt - E.0045 Chiptune Test 2",
     supplement: `
         Used as <i>THHHS - XZM's Theme</i>
