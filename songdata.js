@@ -1252,7 +1252,7 @@ var __song = [
   {
     name: "E.0120",
     author: ["Zzzyt"],
-    release: "2020-06-26",
+    release: "2020-12-04",
     tag: ["Music", "Test", "Touhou", "FL"],
     length: "01:08",
     source: "Zzzyt - E.0107",
