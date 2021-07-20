@@ -22,7 +22,7 @@ var __data = [{
         "author": ["Zzzyt"],
         "release": "2019-06-13",
         "coauthor": [],
-        "tag": ["Game", "Sim", "Java", "LibGdx", "ENG", "Jamming"],
+        "tag": ["Game", "Sim", "APK", "Java", "LibGdx", "ENG", "Jamming"],
         "rating": 2
     },
     {
@@ -1642,8 +1642,8 @@ var __data = [{
         "author": ["XGN"],
         "release": "????-??-??",
         "coauthor": [],
-        "tag": ["Game", "Sim", "Kotlin","KTX", "ENG", "Working"],
-        "comment":"Title undecided. Alpha 1 was released as close-beta at 14 Jun 2021",
+        "tag": ["Game", "Sim", "APK", "Kotlin","KTX", "ENG", "Working"],
+        "comment":"Title undecided. Alpha 1 was released as close-beta on 14 Jun 2021. Latest version is Alpha 5(Build 142)",
     },
 ]
 

@@ -231,6 +231,11 @@ var badges = {
         "tooltip": "A project with not-so-long code, probably written in one or two files. Usually hosted on Github Gist",
         "display": "Gist"
     },
+    "APK": {
+        "kind": category,
+        "tooltip": "Android application available in the format of APK",
+        "display": "Android"
+    },
 
     //programming language
     "Java": {
