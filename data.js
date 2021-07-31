@@ -1613,8 +1613,8 @@ var __data = [{
         "link": "https://github.com/HellHoleStudios/koto",
         "author": ["Zzzyt"],
         "release": "????-??-??",
-        "coauthor": [],
-        "tag": ["Game", "Stg", "Kotlin", "KTX", "Working"],
+        "coauthor": ["XGN"],
+        "tag": ["Game", "Stg", "Kotlin", "KTX", "ENG", "Working"],
         "comment":"KoTo(Kotlin Touhou) is the sequel to Jade which is a Touhou danmaku engine for Kotlin. No product or demo, but code is available."
     },
     {
@@ -1641,9 +1641,9 @@ var __data = [{
         "link": "",
         "author": ["XGN"],
         "release": "????-??-??",
-        "coauthor": [],
+        "coauthor": ["Zzzyt"],
         "tag": ["Game", "Sim", "APK", "Kotlin","KTX", "ENG", "Working"],
-        "comment":"Title undecided. Alpha 1 was released as close-beta on 14 Jun 2021. Latest version is Alpha 5(Build 142)",
+        "comment":"Title undecided. Alpha 1 was released as close-beta on 14 Jun 2021. Latest version is Alpha 10.1(Build 420)",
     },
 ]
 
