@@ -2775,4 +2775,32 @@ var __song = [
     audio: "audio/believeMe.mp3",
     comment: "The author cannot remember the exact date it was composed.",
   },
+  {
+    name: "Hall of F 04 / Hell Gay Hell ~ Hell of Hall /地狱搞基地狱 ~ Hell of Hall",
+    author: ["XGN"],
+    release: "2021-07-31",
+    tag: ["Music", "Test", "Touhou", "FL"],
+    length: "00:22",
+    source: "#O#",
+    audio: "audio/HoF4.mp3",
+    supplement: `
+    Fun: 5/10
+    Product: 5/10
+    Work time: 1h17min
+    
+    本曲犯了作曲的诸多大忌
+    比如：
+    - 和弦配不上
+    - 主旋律单薄
+    - 想不出countermelody
+    - 本身就很搓
+    - 选的什么乐器？？
+    - bass脑残
+    
+    Supplement
+    
+    ZYQ's theme
+    For one part it makes me think of traditional Chinese storytellers travelling randomly. For the other part it is a weird choice of melody. Really a very funny song.
+    `,
+  },
 ];
