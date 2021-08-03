@@ -1637,13 +1637,24 @@ var __data = [{
         "comment":"A terraria language pack but with Baidu translation",
     },
     {
-        "name": "Spice & Wolf Fangame",
+        "name": "Spice & Wolf ~ Merchants of Fantasy",
         "link": "",
         "author": ["XGN"],
         "release": "????-??-??",
         "coauthor": ["Zzzyt"],
         "tag": ["Game", "Sim", "APK", "Kotlin","KTX", "ENG", "Working"],
-        "comment":"Title undecided. Alpha 1 was released as close-beta on 14 Jun 2021. Latest version is Alpha 10.1(Build 420)",
+        "comment":"Alpha 1 was released as close-beta on 14 Jun 2021. Latest version is Alpha 10.1(Build 420)",
+    },
+    {
+        "name": "Touhou R-18 Rate Research & Tool",
+        "link": {
+            "tool":"https://gist.github.com/XiaoGeNintendo/6571f82342e391fa9556989d362319d9",
+            "result":"https://docs.google.com/spreadsheets/d/1XWhM4uj7FuE8S4XgHYYiA6w5-negQ0_d-MICFE-ZTS8/edit?usp=sharing"
+        },
+        "author": ["XGN"],
+        "release": "2021-08-03",
+        "coauthor": [],
+        "tag": ["Gist","Tool","py3","ENG","JPN","Done"],
     },
 ]
 
