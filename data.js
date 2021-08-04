@@ -1612,10 +1612,10 @@ var __data = [{
         "name": "KoTo",
         "link": "https://github.com/HellHoleStudios/koto",
         "author": ["Zzzyt"],
-        "release": "????-??-??",
+        "release": "2021-06-04",
         "coauthor": ["XGN"],
         "tag": ["Game", "Stg", "Kotlin", "KTX", "ENG", "Working"],
-        "comment":"KoTo(Kotlin Touhou) is the sequel to Jade which is a Touhou danmaku engine for Kotlin. No product or demo, but code is available."
+        "comment":"KoTo(Kotlin Touhou) is the sequel to Jade which is a Touhou danmaku engine for Kotlin."
     },
     {
         "name": "Addon Tools - Terraria Edition",
