@@ -2803,4 +2803,18 @@ var __song = [
     For one part it makes me think of traditional Chinese storytellers travelling randomly. For the other part it is a weird choice of melody. Really a very funny song.
     `,
   },
+  {
+    name: "CP test 3",
+    author: ["XGN"],
+    release: "2021-08-08",
+    tag: ["Music", "Test", "FL"],
+    length: "00:29",
+    source: "#O#",
+    audio: "audio/cp test_3.mp3",
+    supplement: `
+    Fun: 6/10
+    Product: 5/10
+    Work time: 33min
+    `,
+  },
 ];
