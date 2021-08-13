@@ -2776,7 +2776,7 @@ var __song = [
     comment: "The author cannot remember the exact date it was composed.",
   },
   {
-    name: "Hall of F 04 / Hell Gay Hell ~ Hell of Hall /地狱搞基地狱 ~ Hell of Hall",
+    name: "Hall of F 04 / Hell Gay Hell ~ Hell of Hall / 地狱搞基地狱 ~ Hell of Hall",
     author: ["XGN"],
     release: "2021-07-31",
     tag: ["Music", "Test", "Touhou", "FL"],
