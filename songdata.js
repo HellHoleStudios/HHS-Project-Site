@@ -2814,7 +2814,27 @@ var __song = [
     supplement: `
     Fun: 6/10
     Product: 5/10
-    Work time: 33min
-    `,
+    Work time: 33min`,
+  },
+  {
+    name: "Hall of F 05 / Future Upwards / 福特勒阿普瓦茨",
+    author: ["XGN"],
+    release: "2021-08-13",
+    tag: ["Music", "Test", "GB"],
+    length: "01:32",
+    source: "#O#",
+    audio: "audio/HoF5.mp3",
+    supplement: `
+    Fun: 7/10
+Product: 8/10
+Made with GB
+Work time 1h21min
+
+Supplement
+Stage x's theme or not?
+I followed the procedure of writing a stage theme considering many different timing points.
+However I wanted to test out some features in GB as well. And the melody I slammed to it doesn't really like a stage theme.
+It still has a sense of atmosphere. I was not expecting that.
+BTW, this song has no percussion and half of the song is GB-auto. This song also makes use of traditional ZJS composing technique™️ (but does it sound like ZJS's work? 🤔 )`,
   },
 ];
