@@ -2825,6 +2825,7 @@ var __song = [
     source: "#O#",
     audio: "audio/HoF5.mp3",
     supplement: `
+    Three versions. The audio is version 3.
     Fun: 7/10
 Product: 8/10
 Made with GB
