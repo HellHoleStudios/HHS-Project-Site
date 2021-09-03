@@ -22,7 +22,7 @@ var __data = [{
         "author": ["Zzzyt"],
         "release": "2019-06-13",
         "coauthor": [],
-        "tag": ["Game", "Sim", "APK", "Java", "LibGdx", "ENG", "Jamming"],
+        "tag": ["Game", "Sim", "APK", "Java", "LibGdx", "ENG", "Deserted"],
         "rating": 2
     },
     {
@@ -192,7 +192,7 @@ var __data = [{
         "author": ["XGN"],
         "release": "2019-02-15",
         "coauthor": [""],
-        "tag": ["Bot", "Discord", "Nodejs", "Discordjs", "ENG", "Jamming"],
+        "tag": ["Bot", "Discord", "Nodejs", "Discordjs", "ENG", "Deserted"],
         "comment": "The bot is used in our Discord community",
         "rating": 2
     },
@@ -1129,7 +1129,7 @@ var __data = [{
         "author": ["XGN"],
         "release": "2020-01-02",
         "coauthor": ["Zzzyt"],
-        "tag": ["Website", "OI", "Java", "py3", "JS", "HTML", "Tomcat", "ENG", "Jamming"],
+        "tag": ["Website", "OI", "Java", "py3", "JS", "HTML", "Tomcat", "ENG", "Deserted"],
         "rating": 4
     },
     {
@@ -1204,7 +1204,7 @@ var __data = [{
         "author": ["Zzzyt"],
         "release": "2020-03-09",
         "coauthor": [],
-        "tag": ["Sim", "Java", "LibGdx", "ENG", "Jamming"],
+        "tag": ["Sim", "Java", "LibGdx", "ENG", "Deserted"],
     },
     {
         "name": "Py-input",
@@ -1255,7 +1255,7 @@ var __data = [{
         "author": ["Zzzyt"],
         "release": "2020-06-12",
         "coauthor": ["XGN"],
-        "tag": ["Website", "OI", "Java", "py3", "JS", "HTML", "Tomcat", "Maven", "ENG", "Working"],
+        "tag": ["Website", "OI", "Java", "py3", "JS", "HTML", "Tomcat", "Maven", "ENG", "Deserted"],
         "rating": 4,
         "comment": "Project name is hhsoj. In order to distinguish from the older version, HHSOJ Maven is used."
     },
