@@ -1600,8 +1600,8 @@ var __data = [{
     },
     {
         "name": "Zzzyt Blog Generator",
-        "link": {"Blog":"https://z.ys.al/",
-        "Generator Script":"https://github.com/Zzzzzzyt/Zzzzzzyt.github.io/blob/master/generate.py"},
+        "link": {"Blog":"https://zzzzzzyt.github.io/",
+        "Generator Script":"https://github.com/Zzzzzzyt/Zzzzzzyt.github.io/"},
         "author": ["Zzzyt"],
         "release": "2020-08-08",
         "coauthor": [],
