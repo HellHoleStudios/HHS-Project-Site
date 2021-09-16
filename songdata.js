@@ -1294,7 +1294,7 @@ var __song = [
     author: ["Zzzyt"],
     release: "2021-03-21",
     tag: ["Music", "Test", "Touhou", "FL"],
-    length: "00:30",
+    length: "02:18",
     source: "#O#",
     audio: "audio/ZzzytE01/E0124.mp3",
     supplement: "From FL Mobile.",
