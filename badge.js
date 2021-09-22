@@ -561,7 +561,11 @@ var badges = {
         "tooltip": "tModLoader - the official mod loader for Terraria",
         "display": "TML"
     },
-
+    "KoTo": {
+        "kind": tool,
+        "tooltip": "Homemade Kotlin Danmaku Engine",
+        "display": "KoTo"
+    },
 
     //layout lang
     "ENG": {

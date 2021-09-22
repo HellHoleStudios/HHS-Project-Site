@@ -1614,8 +1614,9 @@ var __data = [{
         "author": ["Zzzyt"],
         "release": "2021-06-04",
         "coauthor": ["XGN"],
-        "tag": ["Game", "Stg", "Kotlin", "KTX", "ENG", "Working"],
-        "comment":"KoTo(Kotlin Touhou) is the sequel to Jade which is a Touhou danmaku engine for Kotlin."
+        "tag": ["Game", "Library", "Stg", "Kotlin", "KTX", "ENG", "Working"],
+        "comment":"KoTo(Kotlin Touhou) is the sequel to Jade which is a Touhou danmaku engine for Kotlin. See also: TestSTG5",
+        "rating":2
     },
     {
         "name": "Addon Tools - Terraria Edition",
@@ -1640,10 +1641,29 @@ var __data = [{
         "name": "Spice & Wolf ~ Merchants of Fantasy",
         "link": "",
         "author": ["XGN"],
+        "release": "2021-??-??",
+        "coauthor": ["Zzzyt","ZKY"],
+        "tag": ["Game", "Sim", "APK", "Kotlin","KTX", "ENG", "Planned"],
+        "comment":"Alpha 1 was released as close-beta on 14 Jun 2021.",
+        "rating":2
+    },
+    {
+        "name": "TestSTG5",
+        "link": "https://github.com/XiaoGeNintendo/TestSTG5",
+        "author": ["XGN"],
         "release": "????-??-??",
         "coauthor": ["Zzzyt"],
-        "tag": ["Game", "Sim", "APK", "Kotlin","KTX", "ENG", "Working"],
-        "comment":"Alpha 1 was released as close-beta on 14 Jun 2021. Latest version is Alpha 10.1(Build 420)",
+        "tag": ["Game", "Library", "Stg", "Kotlin", "KTX", "KoTo", "ENG", "Planned"],
+        "comment":"Based on KoTo"
+    },
+    {
+        "name": "ZJSTG2",
+        "link": "",
+        "author": ["XGN"],
+        "release": "????-??-??",
+        "coauthor": ["Zzzyt"],
+        "tag": ["Game", "Stg", "Kotlin", "KTX", "KoTo", "ENG", "CHN", "JPN", "Planned"],
+        "comment":"Based on TestSTG5"
     },
     {
         "name": "Touhou R-18 Rate Research & Tool",
