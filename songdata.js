@@ -1297,7 +1297,8 @@ var __song = [
     length: "02:18",
     source: "#O#",
     audio: "audio/ZzzytE01/E0124.mp3",
-    supplement: "From FL Mobile.",
+    supplement: `From FL Mobile.
+    Two versions. Audio is version 2.`,
   },
   {
     name: "E0125",
