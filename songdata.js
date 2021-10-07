@@ -2839,4 +2839,29 @@ However I wanted to test out some features in GB as well. And the melody I slamm
 It still has a sense of atmosphere. I was not expecting that.
 BTW, this song has no percussion and half of the song is GB-auto. This song also makes use of traditional ZJS composing technique™️ (but does it sound like ZJS's work? 🤔 )`,
   },
+  {
+    name: "Hall of F 06 / Queen dressed in notes ~ Miniature Economy / 武则天的华尔街 ~ Miniature Economy",
+    author: ["XGN"],
+    release: "2021-10-07",
+    tag: ["Music", "Test", "GB"],
+    length: "02:42",
+    source: "#O#",
+    audio: "audio/HoF6.mp3",
+    supplement: `
+    Using GB
+    Make time: 4h
+    Song: 2min41s
+    Making: 6/10
+    Product: 8/10
+
+    <b>Supplement</b>
+    YP的主题曲
+    说到YP，那可是万年终极大boss。只要和某飞某琪相关的作品，她总是头目no1。
+    作为游戏的Last Boss，必然需要一种压迫感和女王的威严。
+    不过却总是弥漫着淡淡的悲伤和怀旧感，宏大感荡然无存，这是为什么呢？
+    <b>里supplement</b>
+    ？？？的主题曲
+    尚未解锁
+`,
+  },
 ];
