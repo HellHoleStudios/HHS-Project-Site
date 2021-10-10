@@ -1258,7 +1258,10 @@ var __song = [
     source: "Zzzyt - E0107",
     audio: "audio/ZzzytE01/E0120.mp3",
     supplement:
-      "<b>FL Project File Comment</b><br>From E0107<br>which is from E0093 Idea29",
+      `
+      Used as <i>Koto - Title Theme</i>
+      Used as <i>TestSTG5 - Title Theme</i>
+      <b>FL Project File Comment</b><br>From E0107<br>which is from E0093 Idea29`,
   },
   {
     name: "E0121",
@@ -1297,7 +1300,9 @@ var __song = [
     length: "02:18",
     source: "#O#",
     audio: "audio/ZzzytE01/E0124.mp3",
-    supplement: `From FL Mobile.
+    supplement: `
+    Used as <i>TestSTG5 - Aya's Theme</i>
+    From FL Mobile.
     Two versions. Audio is version 2.`,
   },
   {
@@ -1454,7 +1459,9 @@ var __song = [
         Used as <i>Touhou Rune Legend - Configuration's Theme</i>
         Used as <i>TestSTG3 - Stage1 Theme</i>
         Used as <i>2021 Typing Game - Configuration's Theme</i>
-        
+        Used as <i>Koto - Stage Theme</i>
+        Used as <i>TestSTG5 - Stage Theme</i>
+
         <b>Comment on 2020/1/9</b>
         Once in a while, I thought among all the Desire Drive remixes of Zzzyt, this is the best one
         Why? It gave me a feeling of emptiness and forwardness together.
@@ -2686,6 +2693,9 @@ var __song = [
     source: "#O#",
     audio: "audio/HoF02.mp3",
     supplement: `
+    
+    Used as <i>Spice & Wolf:Merchants of Fantasy - Title Theme</i>
+
         <b>Extra Information</b>
         Made With GB
         Fun while making: 7.5/10
@@ -2712,6 +2722,9 @@ var __song = [
     source: "#O#",
     audio: "audio/HoF3.mp3",
     supplement: `
+    Used as <i>Spice & Wolf:Merchants of Fantasy - Player Menu Theme</i>
+    Used as <i>Addon Tools Terraria Edition - Momiji's Theme</i>
+
         4 versions in total
         This is version 4 with single loop
         Loop marker: 12.00~1:49.196
@@ -2826,6 +2839,8 @@ var __song = [
     source: "#O#",
     audio: "audio/HoF5.mp3",
     supplement: `
+    Used as <i>Spice & Wolf:Merchants of Fantasy - Staff Roll Theme</i>
+
     Three versions. The audio is version 3.
     Fun: 7/10
 Product: 8/10
