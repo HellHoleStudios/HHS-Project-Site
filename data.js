@@ -1644,17 +1644,18 @@ var __data = [{
         "release": "2021-??-??",
         "coauthor": ["Zzzyt","ZKY"],
         "tag": ["Game", "Sim", "APK", "Kotlin","KTX", "ENG", "Planned"],
-        "comment":"Alpha 1 was released as close-beta on 14 Jun 2021.",
+        "comment":"Alpha 1 was released as close-beta on 14 Jun 2021. Estimated to be released in 2021.",
         "rating":2
     },
     {
         "name": "TestSTG5",
         "link": "https://github.com/XiaoGeNintendo/TestSTG5",
         "author": ["XGN"],
-        "release": "????-??-??",
+        "release": "2021-10-10",
         "coauthor": ["Zzzyt"],
-        "tag": ["Game", "Library", "Stg", "Kotlin", "KTX", "KoTo", "ENG", "Planned"],
-        "comment":"Based on KoTo"
+        "tag": ["Game", "Library", "Stg", "Kotlin", "KTX", "KoTo", "ENG", "Done"],
+        "comment":"Based on KoTo. 2021-10-10 mainly finished. Can expect small updates or hotfixes in the future.",
+        "rating":1
     },
     {
         "name": "ZJSTG2",
