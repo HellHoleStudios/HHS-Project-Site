@@ -235,7 +235,9 @@ var __song = [
     source: "#O#",
     audio: "audio/ZzzytE00/E0023 Grandfather Symphony.mp3",
     supplement:
-      "<b>FL Project File Comment</b><br>-Call me father, OK?<br>-Grandfather.",
+      `
+      Used as <i>Re:ZJSTG - Ending & Staff Theme</i>
+      <b>FL Project File Comment</b><br>-Call me father, OK?<br>-Grandfather.`,
   },
   {
     name: "E0024 metroFX",
@@ -829,7 +831,9 @@ var __song = [
     length: "02:40",
     source: "Zzzyt - Idea15 (mobile)",
     audio: "audio/ZzzytE00/E0079 Idea15.mp3",
-    supplement: "<b>FL Project File Comment</b><br>From FL Mobile.",
+    supplement: `    
+    Used as <i>ZJSTG2 - Stage 3's Theme</i>
+    <b>FL Project File Comment</b><br>From FL Mobile.`,
   },
   {
     name: "E0080 Idea16",
@@ -1171,7 +1175,9 @@ var __song = [
     length: "02:04",
     source: "Zzzyt - E0111",
     audio: "audio/ZzzytE01/E0112.mp3",
-    supplement: "<b>FL Project File Comment</b><br>A remix of E0111",
+    supplement: `
+    Used as <i>Re:ZJSTG - YP's theme</i>
+    <b>FL Project File Comment</b><br>A remix of E0111`,
   },
   {
     name: "E0113",
@@ -1302,6 +1308,7 @@ var __song = [
     audio: "audio/ZzzytE01/E0124.mp3",
     supplement: `
     Used as <i>TestSTG5 - Aya's Theme</i>
+    Used as <i>ZJSTG2 - Stage 1's Theme</i>
     From FL Mobile.
     Two versions. Audio is version 2.`,
   },
@@ -2129,7 +2136,9 @@ var __song = [
     source: "David Wise - Stickerbrush Symphony",
     audio: "audio/StickerpineSymphony.mp3",
     supplement:
-      "Essentially Stickerbrush Symphony but with a different sample.",
+      `
+      Used as <i>Re:ZJSTG - ZJS's Theme</i>
+      Essentially Stickerbrush Symphony but with a different sample.`,
   },
   {
     name: "Undercraft",
@@ -2578,7 +2587,7 @@ var __song = [
     audio: "audio/ZzzytRelease/Prograde.mp3",
     source: "Zzzyt - E0053",
     supplement: `
-        Used as <i>TestSTG3 - 
+        Used as <i>TestSTG3 - Kazami Ryoryu's Theme</i>
         `,
   },
   {
@@ -2589,6 +2598,8 @@ var __song = [
     length: "03:19",
     audio: "audio/ZzzytRelease/Yet Another Tetris.mp3",
     source: "Zzzyt - E0060",
+    supplement: `
+    Used as <i>Re:ZJSTG - Stage 2's Theme</i>`
   },
   {
     name: "Yet Another Tetris (Piano ver.)",
@@ -2693,7 +2704,7 @@ var __song = [
     source: "#O#",
     audio: "audio/HoF02.mp3",
     supplement: `
-    
+    Used as <i>ZJSTG2 - Title Theme</i>
     Used as <i>Spice & Wolf:Merchants of Fantasy - Title Theme</i>
 
         <b>Extra Information</b>
@@ -2748,7 +2759,7 @@ var __song = [
         `,
   },
   {
-    name: "Collab",
+    name: "Collab / 「温文尔雅」的月下兰",
     author: ["Zzzyt", "XGN"],
     release: "2021-05-19",
     tag: ["Music", "FL"],
@@ -2756,6 +2767,8 @@ var __song = [
     source: "#O#",
     audio: "audio/collab.mp3",
     supplement: `
+        Used as <i>ZJSTG2 - ZJL's Theme</i>
+
         Collab between XGN and Zzzyt.
         
         Theme by ZKY. Part 1(to 1:04) by Zzzyt. Part 2 by XGN.
@@ -2798,6 +2811,7 @@ var __song = [
     source: "#O#",
     audio: "audio/HoF4.mp3",
     supplement: `
+    Used as <i>ZJSTG2 - ZYQ's Theme</i>
     Fun: 5/10
     Product: 5/10
     Work time: 1h17min
@@ -2839,6 +2853,7 @@ var __song = [
     source: "#O#",
     audio: "audio/HoF5.mp3",
     supplement: `
+    Used as <i>ZJSTG2 - Stage 2's Theme</i>
     Used as <i>Spice & Wolf:Merchants of Fantasy - Staff Roll Theme</i>
 
     Three versions. The audio is version 3.
@@ -2863,6 +2878,10 @@ BTW, this song has no percussion and half of the song is GB-auto. This song also
     source: "#O#",
     audio: "audio/HoF6.mp3",
     supplement: `
+    Used as <i>ZJSTG2 - YP's Theme</i>
+
+    3 versions in total. Audio is version 2.
+    
     Using GB
     Make time: 4h
     Song: 2min41s

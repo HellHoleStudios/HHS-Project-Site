@@ -151,9 +151,9 @@ function FilterCheck(item, filter) {
         return true;
     }
 
-    // if(mode == MODE_SONG && item["supplement"]!=undefined && item["supplement"].toLowerCase().includes(filter)){
-    //     return true;
-    // }
+    if(mode == MODE_SONG && item["supplement"]!=undefined && item["supplement"].toLowerCase().includes(filter)){
+        return true;
+    }
 
     if (mode == MODE_SONG && item["audio"] != undefined && filter == "audio") {
         return true;
