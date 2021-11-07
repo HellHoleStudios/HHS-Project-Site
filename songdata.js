@@ -1309,8 +1309,8 @@ var __song = [
     supplement: `
     Used as <i>TestSTG5 - Aya's Theme</i>
     Used as <i>ZJSTG2 - Stage 1's Theme</i>
-    From FL Mobile.
-    Two versions. Audio is version 2.`,
+
+    From FL Mobile.`,
   },
   {
     name: "E0125",
