@@ -1677,6 +1677,23 @@ var __data = [{
         "coauthor": [],
         "tag": ["Gist","Tool","py3","ENG","JPN","Done"],
     },
+    {
+        "name": "Simple Mahjong Helper",
+        "link": "https://github.com/XiaoGeNintendo/SimpleMahjongHelper",
+        "author": ["XGN"],
+        "release": "2021-11-10",
+        "coauthor": ["Zzzyt"],
+        "tag": ["Tool","Kotlin","CHN","Done"],
+    },
+    {
+        "name": "NFLS HustOJ Standing",
+        "link": "",
+        "author": ["XGN"],
+        "release": "????-??-??",
+        "coauthor": ["XIZCM", "Zzzyt"],
+        "tag": ["Tool","Spider","py3","ENG","Planned"],
+        "comment": "A client-side custom-made standing system for NFLS's HustOJ"
+    },
 ]
 
 // function transfer(obj){
