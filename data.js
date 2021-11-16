@@ -1691,7 +1691,7 @@ var __data = [{
         "author": ["XGN"],
         "release": "2021-11-16",
         "coauthor": ["XIZCM", "Zzzyt"],
-        "tag": ["Tool","Spider","Gist","py3","ENG","Done"],
+        "tag": ["Tool","Spider","Gist","py3","ENG","CHN","Done"],
         "comment": "A client-side custom-made standing system for NFLS's HustOJ"
     },
 ]
