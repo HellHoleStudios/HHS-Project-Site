@@ -1687,11 +1687,11 @@ var __data = [{
     },
     {
         "name": "NFLS HustOJ Standing",
-        "link": "",
+        "link": "https://github.com/XiaoGeNintendo/NFLS-HustOJ-Client-Standing",
         "author": ["XGN"],
-        "release": "????-??-??",
+        "release": "2021-11-16",
         "coauthor": ["XIZCM", "Zzzyt"],
-        "tag": ["Tool","Spider","Gist","py3","ENG","Planned"],
+        "tag": ["Tool","Spider","Gist","py3","ENG","Done"],
         "comment": "A client-side custom-made standing system for NFLS's HustOJ"
     },
 ]
