@@ -1641,7 +1641,7 @@ var __data = [{
         "name": "Spice & Wolf ~ Merchants of Fantasy",
         "link": "",
         "author": ["XGN"],
-        "release": "2021-??-??",
+        "release": "2022-??-??",
         "coauthor": ["Zzzyt","ZKY"],
         "tag": ["Game", "Sim", "APK", "Kotlin","KTX", "ENG", "Planned"],
         "comment":"Alpha 1 was released as close-beta on 14 Jun 2021. Estimated to be released in 2021.",
@@ -1692,7 +1692,17 @@ var __data = [{
         "release": "2021-11-16",
         "coauthor": ["XIZCM", "Zzzyt"],
         "tag": ["Tool","Spider","Gist","py3","ENG","CHN","Done"],
-        "comment": "A client-side custom-made standing system for NFLS's HustOJ"
+        "comment": "A client-side custom-made standing system for NFLS's HustOJ",
+        "rating":1
+    },
+    {
+        "name": "Mahjong Timer",
+        "link": "https://github.com/XiaoGeNintendo/MahjongTimer",
+        "author": ["XGN"],
+        "release": "2021-12-03",
+        "coauthor": [],
+        "tag": ["Tool","GDScript","Godot","JPN","ENG","Done"],
+        "rating":2
     },
 ]
 
