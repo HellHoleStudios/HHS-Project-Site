@@ -1670,12 +1670,14 @@ var __data = [{
         "name": "Touhou R-18 Rate Research & Tool",
         "link": {
             "tool":"https://gist.github.com/XiaoGeNintendo/6571f82342e391fa9556989d362319d9",
+            "tool v2":"https://gist.github.com/XiaoGeNintendo/2bae756dee507ed88547a87a870be434",
             "result":"https://docs.google.com/spreadsheets/d/1XWhM4uj7FuE8S4XgHYYiA6w5-negQ0_d-MICFE-ZTS8/edit?usp=sharing"
         },
         "author": ["XGN"],
         "release": "2021-08-03",
         "coauthor": [],
-        "tag": ["Gist","Tool","py3","ENG","JPN","Done"],
+        "tag": ["Gist","Tool","Kotlin","py3","ENG","JPN","Done"],
+        "rating":1
     },
     {
         "name": "Simple Mahjong Helper",
