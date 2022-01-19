@@ -566,6 +566,16 @@ var badges = {
         "tooltip": "Homemade Kotlin Danmaku Engine",
         "display": "KoTo"
     },
+    "JMahjong": {
+        "kind": tool,
+        "tooltip": "Homemade Java Mahjong Library",
+        "display": "JMahjong"
+    },
+    "Ktor": {
+        "kind": tool,
+        "tooltip": "The Kotlin Server Library",
+        "display": "Ktor"
+    },
 
     //layout lang
     "ENG": {

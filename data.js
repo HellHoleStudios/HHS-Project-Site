@@ -1706,6 +1706,23 @@ var __data = [{
         "tag": ["Tool","GDScript","Godot","JPN","ENG","Done"],
         "rating":2
     },
+    {
+        "name": "JMahjong",
+        "link": "https://github.com/XiaoGeNintendo/JMahjong",
+        "author": ["XGN"],
+        "release": "2022-01-17",
+        "coauthor": [],
+        "tag": ["Library","Java","Done"],
+        "rating":1
+    },
+    {
+        "name": "喝喝水麻将屋 / HHS Mahjong Site",
+        "link": {"site":"https://maj.hellholestudios.top/","source":"https://github.com/HellHoleStudios/HHS-Mahjong-Site"},
+        "author": ["XGN"],
+        "release": "2022-01-18",
+        "coauthor": [],
+        "tag": ["Website","Tool","Kotlin","Ktor","JMahjong","CHN","Done"],
+    },
 ]
 
 // function transfer(obj){
