@@ -1723,6 +1723,16 @@ var __data = [{
         "coauthor": [],
         "tag": ["Website","Tool","Kotlin","Ktor","JMahjong","CHN","Done"],
     },
+    {
+        "name": "Ryu no sewei",
+        "link": "",
+        "author": ["XGN"],
+        "release": "2022-01-27",
+        "coauthor": [],
+        "tag": ["Bot","Tool","py3","ENG","Done"],
+        "rating":1,
+        "comment":"A skype bot that works like Discord RPC"
+    },
 ]
 
 // function transfer(obj){
