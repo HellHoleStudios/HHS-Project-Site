@@ -20,10 +20,11 @@ var __data = [{
         "name": "Rocket Simulator",
         "link": "https://github.com/Zzzzzzyt/RocketSimulator",
         "author": ["Zzzyt"],
-        "release": "2019-06-13",
+        "release": "2019-06-10",
         "coauthor": [],
-        "tag": ["Game", "Sim", "APK", "Java", "LibGdx", "ENG", "Deserted"],
-        "rating": 2
+        "tag": ["Game", "Sim", "APK", "Java", "Java N-IDE", "LibGdx", "ENG", "Deserted"],
+        "rating": 2,
+        "comment":"First written with console output only on a mobile phone, later adapted to libGDX with graphics."
     },
     {
         "name": "TestSTG2",
@@ -1732,6 +1733,16 @@ var __data = [{
         "tag": ["Bot","Tool","py3","ENG","Done"],
         "rating":1,
         "comment":"A skype bot that works like Discord RPC"
+    },
+    {
+        "name": "HOP",
+        "link": "",
+        "author": ["Zzzyt"],
+        "release": "2018-12-20",
+        "coauthor": [],
+        "tag": ["Tool", "APK", "Java", "Java N-IDE", "NONE", "Done"],
+        "rating": 1,
+        "comment":"Plays Azis-HOP immediately upon launch"
     },
 ]
 
