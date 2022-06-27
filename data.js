@@ -1661,7 +1661,7 @@ var __data = [{
         "name": "ZJSTG2",
         "link": "",
         "author": ["XGN"],
-        "release": "????-??-??",
+        "release": "2022-07-??",
         "coauthor": ["Zzzyt"],
         "tag": ["Game", "Stg", "Kotlin", "KTX", "KoTo", "ENG", "CHN", "JPN", "Planned"],
         "comment":"Based on TestSTG5"

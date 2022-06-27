@@ -2873,7 +2873,7 @@ BTW, this song has no percussion and half of the song is GB-auto. This song also
     name: "Hall of F 06 / Queen dressed in notes ~ Miniature Economy / 武则天的华尔街 ~ Miniature Economy",
     author: ["XGN"],
     release: "2021-10-07",
-    tag: ["Music", "Test", "GB"],
+    tag: ["Music", "Test","Touhou", "GB"],
     length: "02:42",
     source: "#O#",
     audio: "audio/HoF6.mp3",
@@ -2896,6 +2896,25 @@ BTW, this song has no percussion and half of the song is GB-auto. This song also
     <b>里supplement</b>
     ？？？的主题曲
     尚未解锁
+`,
+  },
+  {
+    name: "腾飞归宅",
+    author: ["XGN"],
+    release: "2022-06-27",
+    tag: ["Music", "Test","Touhou", "GB"],
+    length: "00:16",
+    source: "#O#",
+    audio: "audio/zjstg2ed.mp3",
+    supplement: `
+    Used as <i>ZJSTG2 - Ending Theme</i>
+
+    <b>Supplement</b>
+    作曲：XGN
+    Ending的主题曲
+    好久没写曲子了，完全忘了怎么写了，随便胡一个8秒钟的当Ending吧。
+    借鉴了神主的某个我喜欢的Ending曲
+    从名字也看的出来吧。
 `,
   },
 ];
