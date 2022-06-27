@@ -576,6 +576,11 @@ var badges = {
         "tooltip": "The Kotlin Server Library",
         "display": "Ktor"
     },
+    "Java N-IDE":{
+        "kind":tool,
+        "tooltip":"An android app for java&android development on a mobile phone",
+        "display":"Java N-IDE",
+    },
 
     //layout lang
     "ENG": {
