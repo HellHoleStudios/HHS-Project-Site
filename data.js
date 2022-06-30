@@ -1660,11 +1660,11 @@ var __data = [{
     },
     {
         "name": "ZJSTG2",
-        "link": "",
+        "link": "https://blog.hellholestudios.top/archives/827",
         "author": ["XGN"],
-        "release": "2022-07-??",
-        "coauthor": ["Zzzyt"],
-        "tag": ["Game", "Stg", "Kotlin", "KTX", "KoTo", "ENG", "CHN", "JPN", "Planned"],
+        "release": "2022-07-01",
+        "coauthor": ["Zzzyt","ZKY"],
+        "tag": ["Game", "Stg", "Kotlin", "KTX", "KoTo", "ENG", "CHN", "JPN", "Done"],
         "comment":"Based on TestSTG5"
     },
     {
