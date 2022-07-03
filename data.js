@@ -1615,7 +1615,7 @@ var __data = [{
         "author": ["Zzzyt"],
         "release": "2021-06-04",
         "coauthor": ["XGN"],
-        "tag": ["Game", "Library", "Stg", "Kotlin", "KTX", "ENG", "Working"],
+        "tag": ["Game", "Library", "Stg", "Kotlin", "KTX", "ENG", "Deserted"],
         "comment":"KoTo(Kotlin Touhou) is the sequel to Jade which is a Touhou danmaku engine for Kotlin. See also: TestSTG5",
         "rating":2
     },
@@ -1625,8 +1625,8 @@ var __data = [{
         "author": ["XGN"],
         "release": "2021-05-30",
         "coauthor": [],
-        "tag": ["Mod", "C#", "TML", "ENG", "Jamming"],
-        "comment":"A terraria mod which introduces several accessories and cards from Touhou project",
+        "tag": ["Mod", "C#", "TML", "ENG", "Deserted"],
+        "comment":"A terraria mod which introduces several accessories and cards from Touhou project. Deserted due to tModLoader 1.4's release.",
         'rating':1
     },
     {

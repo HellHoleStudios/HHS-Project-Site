@@ -157,7 +157,7 @@ var member = [{
     {
         "name": "Astera",
         "badge": [
-            "main", "skype"
+            "branch", "skype"
         ],
         "pic": "assets/HYK.jpg",
         "aka": "HYK",
@@ -220,6 +220,15 @@ var member = [{
         ],
         "pic": "",
         "aka": "XGN's deskmate",
+        "contact": []
+    },
+    {
+        "name": "乒乒乓乓",
+        "badge": [
+            "related"
+        ],
+        "pic": "",
+        "aka": "Omnipyre, Pyre",
         "contact": []
     },
 ]
