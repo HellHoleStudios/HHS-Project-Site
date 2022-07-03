@@ -1130,10 +1130,10 @@ var __song = [
     release: "2020-06-26",
     tag: ["Music", "Test", "Touhou", "FL"],
     length: "01:45",
-    source: "Zzzyt - F.0099 Idea35",
+    source: "Zzzyt - E.0099 Idea35",
     audio: "audio/ZzzytE01/E0108.mp3",
     supplement:
-      '<b>FL Project File Comment</b><br>From F.0099 Idea35<br><br>A remix of "Master Spark" by Team Shanghai Alice.<br>Get rocking!',
+      '<b>FL Project File Comment</b><br>From E.0099 Idea35<br><br>A remix of "Master Spark" by Team Shanghai Alice.<br>Get rocking!',
   },
   {
     name: "E0109",
