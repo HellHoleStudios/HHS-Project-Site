@@ -154,20 +154,13 @@ var __data = [{
     },
     {
         "name": "Slap",
-        "link": "https://blog.hellholestudios.top/index.php/2019/05/12/%E8%B6%99%E9%8E%B9%E5%9C%A3%E6%85%95%E5%B2%AD%EF%BD%9Ecircle-cycling-circumstance%EF%BD%9E/",
+        "link": {"V1.0 release":"https://blog.hellholestudios.top/index.php/2019/05/12/%E8%B6%99%E9%8E%B9%E5%9C%A3%E6%85%95%E5%B2%AD%EF%BD%9Ecircle-cycling-circumstance%EF%BD%9E/",
+        "V1.1 release (2019/05/19)":"https://blog.hellholestudios.top/index.php/2019/05/19/slap-1-1-release/"},
         "author": ["XGN"],
         "release": "2019-05-12",
         "coauthor": [""],
-        "tag": ["Game", "Adv", "Java", "LibGdx", "ENG", "Deserted"]
-    },
-    {
-        "name": "Slap v1.1",
-        "link": "https://blog.hellholestudios.top/index.php/2019/05/19/slap-1-1-release/",
-        "author": ["XGN"],
-        "release": "2019-05-19",
-        "coauthor": [""],
         "tag": ["Game", "Adv", "Java", "LibGdx", "ENG", "Deserted"],
-        "rating": 3
+        "rating":3
     },
     {
         "name": "Netease Music Downloader",
