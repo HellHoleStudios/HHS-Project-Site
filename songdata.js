@@ -1241,7 +1241,7 @@ var __song = [
     length: "01:36",
     source: "Zzzyt - E0052 Chiptune Test 9",
     audio: "audio/ZzzytE01/E0118.mp3",
-    supplement: "<b>FL Project File Comment</b><br>From Chiptune Test 9 Remix",
+    supplement: "Used as <i>ZJSTG2 - Staff Theme</i><br/><br/><b>FL Project File Comment</b><br>From Chiptune Test 9 Remix",
   },
   {
     name: "E0119",
