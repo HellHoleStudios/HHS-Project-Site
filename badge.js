@@ -236,6 +236,11 @@ var badges = {
         "tooltip": "Android application available in the format of APK",
         "display": "Android"
     },
+    "NRO": {
+        "kind": category,
+        "tooltip": "Nintendo Switch Homebrew Application available in the format of NRO",
+        "display": "NRO"
+    },
 
     //programming language
     "Java": {
@@ -580,6 +585,11 @@ var badges = {
         "kind":tool,
         "tooltip":"An android app for java&android development on a mobile phone",
         "display":"Java N-IDE",
+    },
+    "libnx":{
+        "kind":tool,
+        "tooltip":"A C/C++ library for developing Nintendo Switch homebrew",
+        "display":"libnx",
     },
 
     //layout lang

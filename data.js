@@ -1737,6 +1737,14 @@ var __data = [{
         "rating": 1,
         "comment":"Plays Azis-HOP immediately upon launch"
     },
+    {
+        "name": "GachaNX",
+        "link": "https://github.com/XiaoGeNintendo/GachaNX",
+        "author": ["XGN"],
+        "release": "2022-08-27",
+        "coauthor": [],
+        "tag": ["Game", "NRO", "Gist", "C++", "py3", "libnx", "ENG", "Jamming"],
+    },
 ]
 
 // function transfer(obj){
