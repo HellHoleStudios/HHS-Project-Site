@@ -2973,7 +2973,7 @@ BTW, this song has no percussion and half of the song is GB-auto. This song also
     tag: ["Music","Test","Info"],
     length: "00:16",
     source: "Vince Kaichan - Rollerdisco Rumble",
-    comment: "Release date and guessed from audio file"
+    comment: "Release date and source guessed from audio file"
   },
   {
     name: "Rollerdisco.mp3",
