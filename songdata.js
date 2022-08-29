@@ -1341,6 +1341,31 @@ var __song = [
     audio: "audio/ZzzytE01/E0127.mp3",
   },
   {
+    name: "E0128",
+    author: ["Zzzyt"],
+    release: "2021-09-23",
+    tag: ["Music","FL","Info"],
+    length: "00:17",
+    source: "?",
+    comment: "Release date guessed from audio file"
+  },
+  {
+    name: "E0129",
+    author: ["Zzzyt"],
+    release: "2022-04-30",
+    tag: ["Music","FL","Info"],
+    length: "00:09",
+    source: "?",
+  },
+  {
+    name: "E0130",
+    author: ["Zzzyt"],
+    release: "2022-04-30",
+    tag: ["Music","FL","Info"],
+    length: "00:22",
+    source: "?",
+  },
+  {
     name: "Idea1 (mobile)",
     author: ["Zzzyt"],
     release: "2019-06-20",
@@ -2899,7 +2924,7 @@ BTW, this song has no percussion and half of the song is GB-auto. This song also
 `,
   },
   {
-    name: "腾飞归宅",
+    name: "腾飞归宅 / Tengfei's Coming Home",
     author: ["XGN"],
     release: "2022-06-27",
     tag: ["Music", "Test","Touhou", "GB"],
@@ -2916,5 +2941,62 @@ BTW, this song has no percussion and half of the song is GB-auto. This song also
     借鉴了神主的某个我喜欢的Ending曲
     从名字也看的出来吧。
 `,
+  },
+  {
+    name: "Hometown",
+    author: ["HDD"],
+    release: "",
+    tag: ["Info"],
+    length: "",
+    source: "?",
+  },
+  {
+    name: "randmomo-unfinished",
+    author: ["HDD"],
+    release: "2022-07-23",
+    tag: ["Info"],
+    length: "",
+    source: "?",
+  },
+  {
+    name: "欠债 / Be in debt",
+    author: ["HDD"],
+    release: "2022-07-23",
+    tag: ["Info"],
+    length: "",
+    source: "?",
+  },
+  {
+    name: "Rollerdisco.wav",
+    author: ["HDD"],
+    release: "2018-04-04",
+    tag: ["Music","Test","Info"],
+    length: "00:16",
+    source: "Vince Kaichan - Rollerdisco Rumble",
+    comment: "Release date and guessed from audio file"
+  },
+  {
+    name: "Rollerdisco.mp3",
+    author: ["HDD"],
+    release: "2022-07-29",
+    tag: ["Music","Test","Info"],
+    length: "",
+    source: "?"
+  },
+  {
+    name: "guitarRigTest",
+    author: ["HDD"],
+    release: "2022-08-18",
+    tag: ["Music","FL","Test","Info"],
+    length: "00:23",
+    source: "?"
+  },
+  {
+    name: "abcdefg",
+    author: ["HDD"],
+    release: "2022-08-29",
+    tag: ["Music","Info"],
+    length: "01:24",
+    source: "?"
   },
 ];
