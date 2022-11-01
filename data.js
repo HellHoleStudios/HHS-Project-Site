@@ -1507,7 +1507,7 @@ var __data = [{
         "coauthor": [],
         "tag": ["Literature", "CHN", "Done"],
         "rating": 2,
-        "comment": "A part of Heart of the Vortex which is Segicverse's sequel. Link taken down for author's sake"
+        "comment": "A part of Heart of the Vortex which is Segicverse's sequel. Link taken down in author's request"
     },
     {
         "name": "Jizou Osu Beatmap",
@@ -1737,6 +1737,17 @@ var __data = [{
         "rating": 1,
         "comment":"Plays Azis-HOP immediately upon launch"
     },
+
+    {
+        "name": "陷落天域",
+        "link": "",
+        "author": ["ZKY"],
+        "release": "2022-05-10",
+        "coauthor": [],
+        "tag": ["Literature", "CHN", "Done"],
+        "rating": 2,
+        "comment": "A part of Heart of the Vortex which is Segicverse's sequel."
+    },
     {
         "name": "GachaNX",
         "link": "https://github.com/XiaoGeNintendo/GachaNX",
@@ -1744,6 +1755,26 @@ var __data = [{
         "release": "2022-08-27",
         "coauthor": [],
         "tag": ["Game", "NRO", "Gist", "C++", "py3", "libnx", "ENG", "Jamming"],
+    },
+    {
+        "name": "裂空之梦",
+        "link": "",
+        "author": ["ZKY"],
+        "release": "2022-10-14",
+        "coauthor": [],
+        "tag": ["Literature", "CHN", "Done"],
+        "rating": 2,
+        "comment": "A part of Heart of the Vortex which is Segicverse's sequel"
+    },
+    {
+        "name": "GKHelper",
+        "link": "",
+        "author": ["XGN"],
+        "release": "2022-10-30",
+        "coauthor": [],
+        "tag": ["Tool","C#", "WinAPI", "CHN","ENG", "Done"],
+        "rating":3,
+        "comment":"Self-use widget for displaying class timetable etc"
     },
 ]
 

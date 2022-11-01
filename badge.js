@@ -670,7 +670,7 @@ var badges = {
     "Done": {
         "name": "Done",
         "kind": status,
-        "tooltip": "The project has been archieved",
+        "tooltip": "The project has mainly been finished or archived",
         "display": "Done"
     },
     "Working": {
