@@ -1635,7 +1635,7 @@ var __data = [{
         "name": "Spice & Wolf ~ Merchants of Fantasy",
         "link": "",
         "author": ["XGN"],
-        "release": "2022-??-??",
+        "release": "2023-07-??",
         "coauthor": ["Zzzyt","ZKY"],
         "tag": ["Game", "Sim", "APK", "Kotlin","KTX", "ENG", "Planned"],
         "comment":"Alpha 1 was released as close-beta on 14 Jun 2021. Estimated to be released in 2021.",
@@ -1768,13 +1768,24 @@ var __data = [{
     },
     {
         "name": "GKHelper",
-        "link": "",
+        "link": {"GKHelper":"https://github.com/XiaoGeNintendo/GKHelper"
+        ,"GKHelperBand":"https://github.com/XiaoGeNintendo/GKHelperBand"},
         "author": ["XGN"],
         "release": "2022-10-30",
         "coauthor": [],
         "tag": ["Tool","C#", "WinAPI", "CHN","ENG", "Done"],
         "rating":3,
         "comment":"Self-use widget for displaying class timetable etc"
+    },
+    {
+        "name": "MoeRanker",
+        "link": {"Github":"https://github.com/Zzzzzzyt/MoeRanker/"
+        ,"Demo site":"https://moe.hellholestudios.top"},
+        "author": ["Zzzyt"],
+        "release": "2023-01-12",
+        "coauthor": [],
+        "tag": ["Tool","Website","HTML", "JS", "CHN", "Working"],
+        "rating":3,
     },
 ]
 
