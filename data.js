@@ -1599,7 +1599,7 @@ var __data = [{
         "author": ["Zzzyt"],
         "release": "2020-08-08",
         "coauthor": [],
-        "tag": ["Tool", "Website", "Gist", "py3", "JS", "CHN", "ENG", "Working"],
+        "tag": ["Tool", "Website", "Gist", "py3", "JS", "CHN", "ENG", "Jamming"],
         "rating":1
     },
     {
@@ -1633,12 +1633,12 @@ var __data = [{
     },
     {
         "name": "Spice & Wolf ~ Merchants of Fantasy",
-        "link": "",
+        "link": "https://blog.hellholestudios.top/archives/977",
         "author": ["XGN"],
-        "release": "2023-07-??",
+        "release": "2023-06-17",
         "coauthor": ["Zzzyt","ZKY"],
-        "tag": ["Game", "Sim", "APK", "Kotlin","KTX", "ENG", "Planned"],
-        "comment":"Alpha 1 was released as close-beta on 14 Jun 2021. Estimated to be released in 2021.",
+        "tag": ["Game", "Sim", "APK", "Kotlin","KTX", "ENG", "Deserted"],
+        "comment":"Pre1 released",
         "rating":2
     },
     {
@@ -1754,7 +1754,7 @@ var __data = [{
         "author": ["XGN"],
         "release": "2022-08-27",
         "coauthor": [],
-        "tag": ["Game", "NRO", "Gist", "C++", "py3", "libnx", "ENG", "Jamming"],
+        "tag": ["Game", "NRO", "Gist", "C++", "py3", "libnx", "ENG", "Deserted"],
     },
     {
         "name": "裂空之梦",
@@ -1784,7 +1784,7 @@ var __data = [{
         "author": ["Zzzyt"],
         "release": "2023-01-12",
         "coauthor": [],
-        "tag": ["Tool","Website","HTML", "JS", "CHN", "Working"],
+        "tag": ["Tool","Website","HTML", "JS", "CHN", "Jamming"],
         "rating":3,
     },
 ]

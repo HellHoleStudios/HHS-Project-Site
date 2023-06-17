@@ -665,7 +665,7 @@ var badges = {
         "name": "Jamming",
         "kind": status,
         "tooltip": "The project is being updated slowly",
-        "display": "Inactive"
+        "display": "Low Priority"
     },
     "Done": {
         "name": "Done",
