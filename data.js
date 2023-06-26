@@ -1481,7 +1481,7 @@ var __data = [{
         "name": "USB Tool",
         "link": "http://db--zzzyt.repl.co/usbtool/usbtool.html",
         "author": ["Zzzyt"],
-        "release": "",
+        "release": "2019-03-07",
         "coauthor": ["XIZCM"],
         "tag": ["Tool", "Gist", "C++", "WinAPI", "ENG", "Done"],
         "rating": 3,
