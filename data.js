@@ -1787,6 +1787,33 @@ var __data = [{
         "tag": ["Tool","Website","HTML", "JS", "CHN", "Jamming"],
         "rating":3,
     },
+    {
+        "name": "OC Database",
+        "link": "https://github.com/XiaoGeNintendo/OC-Database",
+        "author": ["XGN"],
+        "release": "2023-09-08",
+        "coauthor": [],
+        "tag": ["Tool","Website","HTML", "JS", "ENG", "CHN", "Done"],
+        "rating":1,
+    },
+    {
+        "name": "Rating Everything",
+        "link": "https://github.com/XiaoGeNintendo/RatingEverything",
+        "author": ["XGN"],
+        "release": "2023-10-14",
+        "coauthor": [],
+        "tag": ["Tool","Kotlin", "ENG", "Done"],
+        "rating":0,
+    },
+    {
+        "name": "Offline Dict",
+        "link": "https://github.com/XiaoGeNintendo/OfflineDict",
+        "author": ["XGN"],
+        "release": "2023-07-05",
+        "coauthor": [],
+        "tag": ["Tool","Website", "HTML", "JS", "ENG", "Done"],
+        "rating":0,
+    },
 ]
 
 // function transfer(obj){
