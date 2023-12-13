@@ -1814,6 +1814,15 @@ var __data = [{
         "tag": ["Tool","Website", "HTML", "JS", "ENG", "Done"],
         "rating":0,
     },
+    {
+        "name": "DDL Fighter",
+        "link": {"Source Code":"https://github.com/XiaoGeNintendo/DDLFighter","Demo":"https://ddl.hellholestudios.top"},
+        "author": ["XGN"],
+        "release": "2023-11-12",
+        "coauthor": [],
+        "tag": ["Tool","Website", "HTML", "JS", "ENG", "CHN", "Done"],
+        "rating":1,
+    },
 ]
 
 // function transfer(obj){
