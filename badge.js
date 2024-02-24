@@ -591,7 +591,11 @@ var badges = {
         "tooltip":"A C/C++ library for developing Nintendo Switch homebrew",
         "display":"libnx",
     },
-
+    "SDL":{
+        "kind":tool,
+        "tooltip":"A C/C++ multimedia library",
+        "display":"SDL",
+    },
     //layout lang
     "ENG": {
         "name": "ENG",

@@ -1823,6 +1823,15 @@ var __data = [{
         "tag": ["Tool","Website", "HTML", "JS", "ENG", "CHN", "Done"],
         "rating":1,
     },
+    {
+        "name": "Nanjing University Rush",
+        "link": {"Source Code":"https://github.com/XiaoGeNintendo/WinterCode24","Itch":"https://xgn.itch.io/nanjing-university-rush"},
+        "author": ["XGN"],
+        "release": "2024-02-24",
+        "coauthor": [],
+        "tag": ["Game","C++", "SDL", "ENG", "Done"],
+        "rating":3,
+    },
 ]
 
 // function transfer(obj){
