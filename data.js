@@ -1820,7 +1820,7 @@ var __data = [{
         "author": ["XGN"],
         "release": "2023-11-12",
         "coauthor": [],
-        "tag": ["Tool","Website", "HTML", "JS", "ENG", "CHN", "Done"],
+        "tag": ["Tool","Website", "HTML", "JS", "Kotlin", "Ktor", "ENG", "CHN", "Done"],
         "rating":1,
     },
     {
@@ -1831,6 +1831,15 @@ var __data = [{
         "coauthor": [],
         "tag": ["Game","C++", "SDL", "ENG", "Done"],
         "rating":3,
+    },
+    {
+        "name": "HHS Finance",
+        "link": "https://finance.hellholestudios.top/index",
+        "author": ["XGN"],
+        "release": "2024-02-26",
+        "coauthor": [],
+        "tag": ["Tool","Website", "HTML", "JS", "Kotlin", "Ktor", "CHN", "Done"],
+        "rating":2,
     },
 ]
 
