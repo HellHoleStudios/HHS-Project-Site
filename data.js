@@ -1842,6 +1842,15 @@ var __data = [{
         "rating":2,
     },
     {
+        "name": "MyTrips",
+        "link": "https://github.com/XiaoGeNintendo/MyTrips",
+        "author": ["XGN"],
+        "release": "2024-04-07",
+        "coauthor": [],
+        "tag": ["Tool","Website", "HTML", "JS", "CHN", "Done"],
+        "rating":1,
+    },
+    {
         "name": "ZhaoBigHomo",
         "link": "https://github.com/XiaoGeNintendo/ZhaoBigHomo",
         "author": ["XGN"],
