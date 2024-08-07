@@ -1288,7 +1288,7 @@ var __data = [{
         "release": "2020-07-21",
         "coauthor": ["XGN", "XIZCM", "MK", "ZKY", "Zzzyt"],
         "tag": ["Game", "Typ", "Java", "LibGdx", "TTE", "ENG", "CHN", "Deserted"],
-        "rating": 4
+        "rating": 3
     },
     {
         "name": "President Of Gensokyo",
@@ -1784,8 +1784,8 @@ var __data = [{
         "author": ["Zzzyt"],
         "release": "2023-01-12",
         "coauthor": [],
-        "tag": ["Tool","Website","HTML", "JS", "CHN", "Jamming"],
-        "rating":3,
+        "tag": ["Tool","Website","HTML", "JS", "CHN", "Done"],
+        "rating":4,
     },
     {
         "name": "OC Database",
@@ -1803,7 +1803,7 @@ var __data = [{
         "release": "2023-10-14",
         "coauthor": [],
         "tag": ["Tool","Kotlin", "ENG", "Done"],
-        "rating":0,
+        "rating":1,
     },
     {
         "name": "Offline Dict",
@@ -1840,6 +1840,15 @@ var __data = [{
         "coauthor": [],
         "tag": ["Tool","Website", "HTML", "JS", "Kotlin", "Ktor", "CHN", "Done"],
         "rating":2,
+    },
+    {
+        "name": "ZhaoBigHomo",
+        "link": "https://github.com/XiaoGeNintendo/ZhaoBigHomo",
+        "author": ["XGN"],
+        "release": "2024-07-27",
+        "coauthor": [],
+        "tag": ["C++","ENG","Jamming"],
+        "rating":0,
     },
 ]
 
