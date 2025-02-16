@@ -538,7 +538,7 @@ var badges = {
     },
     "Godot": {
         "kind": tool,
-        "tooltip": "Godot3 engine",
+        "tooltip": "Godot3/4 engine",
         "display": "Godot"
     },
     "Audacity": {
@@ -596,6 +596,17 @@ var badges = {
         "tooltip":"A C/C++ multimedia library",
         "display":"SDL",
     },
+    "Flask":{
+        "kind":tool,
+        "tooltip":"A Python web framework",
+        "display":"Flask",
+    },
+    "Unity":{
+        "kind":tool,
+        "tooltip":"Unity 3D Engine",
+        "display":"Unity",
+    },
+
     //layout lang
     "ENG": {
         "name": "ENG",

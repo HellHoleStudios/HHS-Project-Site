@@ -1534,7 +1534,7 @@ var __data = [{
             "GDScript",
             "Godot",
             "ENG",
-            "Jamming"
+            "Deserted"
         ],
         "rating": 2
     },
@@ -1858,6 +1858,36 @@ var __data = [{
         "coauthor": [],
         "tag": ["C++","ENG","Jamming"],
         "rating":0,
+    },
+    {
+        "name": "NJU选课助手",
+        "link": {"Source Code":"https://github.com/carottX/nju-class","Deployment":"https://nju.ys.al"},
+        "author": ["XIZCM"],
+        "release": "2025-01-11",
+        "coauthor": [],
+        "tag": ["Tool","Website", "HTML", "JS", "py3", "Flask", "CHN", "Done"],
+        "rating":3,
+    },
+    {
+        "name": "Bus Route Planner",
+        "link": "https://github.com/XiaoGeNintendo/BusRoutePlanner",
+        "author": ["XGN"],
+        "release": "2024-09-11",
+        "coauthor": [],
+        "tag": ["Tool","Website", "HTML", "JS", "CHN", "Done"],
+        "rating":1,
+    },
+    {
+        "name": "My Bomb Party",
+        "link": {"Server Code":"https://github.com/XiaoGeNintendo/MyBombPartyServer",
+        "Client Unity Code":"https://github.com/XiaoGeNintendo/MyBombPartyClientUnity",
+        "Client Godot Code":"https://github.com/XiaoGeNintendo/MyBombPartyClientGodot",
+        "Itch":"https://xgn.itch.io/my-bomb-party"},
+        "author": ["XGN"],
+        "release": "2024-08-11",
+        "coauthor": [],
+        "tag": ["Game", "Kotlin", "C#", "GDScript", "Ktor", "Godot", "Unity", "CHN", "ENG", "JPN", "Done"],
+        "rating":3,
     },
 ]
 
