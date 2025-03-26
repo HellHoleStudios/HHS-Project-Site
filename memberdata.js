@@ -17,7 +17,8 @@ var member = [{
             "core", "skype", "discord"
         ],
         "aka": "XiaoMao205, ZJS",
-        "contact": [{
+        "contact": [
+            {
                 "link": "https://codeforces.com/profile/zzzyt",
                 "display": "Codeforces"
             },
@@ -26,13 +27,9 @@ var member = [{
                 "display": "Github"
             },
             {
-                "link": "https://z.ys.al/",
+                "link": "https://zzzzzzyt.github.io/",
                 "display": "PersonalPage"
             },
-            {
-                "link": "http://db--zzzyt.repl.co/",
-                "display": "Database"
-            }
         ]
     },
     {
@@ -53,10 +50,6 @@ var member = [{
             {
                 "link": "https://github.com/XiaoGeNintendo",
                 "display": "Github"
-            },
-            {
-                "link": "https://xiaogenintendo.github.io/xgn-homepage-test/",
-                "display": "GameReviewPage"
             },
             {
                 "link": "https://xiaogenintendo.github.io",
@@ -170,7 +163,7 @@ var member = [{
         "badge": [
             "related"
         ],
-        "pic": "https://userpic.codeforces.com/590414/title/17aff651ea848953.jpg",
+        "pic": "assets/syr.jpg",
         "aka": "Ling2Feng1,Mackerel Pike",
         "contact": [{
             "link": "https://codeforces.com/profile/Mackerel_Pike",
@@ -182,7 +175,7 @@ var member = [{
         "badge": [
             "related"
         ],
-        "pic": "https://userpic.codeforces.com/282281/title/c8232938f829a097.jpg",
+        "pic": "assets/denverjin.jpg",
         "aka": "KillerX,jt,today",
         "contact": [{
             "link": "https://codeforces.com/profile/Denverjin",
@@ -206,7 +199,7 @@ var member = [{
         "badge": [
             "related"
         ],
-        "pic": "https://userpic.codeforces.com/323356/title/319a1226511924f6.jpg",
+        "pic": "assets/gh.jpg",
         "aka": "gh",
         "contact": [{
             "link": "https://codeforces.com/profile/guanhuai04",
