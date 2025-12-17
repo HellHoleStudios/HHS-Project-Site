@@ -33,12 +33,12 @@ var member = [{
         ]
     },
     {
-        "name": "XiaoGeNintendo",
+        "name": "XGN",
         "pic": "assets/XGN.jpg",
         "badge": [
             "core", "skype", "discord"
         ],
-        "aka": "XGN, gwq2017",
+        "aka": "XiaoGeNekidora, Nekidora, XiaoGeNintendo, gwq2017",
         "contact": [{
                 "link": "https://codeforces.com/profile/gwq2017",
                 "display": "Codeforces"
@@ -48,11 +48,11 @@ var member = [{
                 "display": "Codeforces2"
             },
             {
-                "link": "https://github.com/XiaoGeNintendo",
+                "link": "https://github.com/XiaoGeNekidora",
                 "display": "Github"
             },
             {
-                "link": "https://xiaogenintendo.github.io",
+                "link": "https://XiaoGeNekidora.github.io",
                 "display": "Blog"
             }
         ]
