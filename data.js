@@ -1,6 +1,6 @@
 var __data = [{
         "name": "HHSOJ Web Edition",
-        "link": "https://github.com/XiaoGeNintendo/HHSOJ-Web-Edition",
+        "link": "https://github.com/XiaoGeNekidora/HHSOJ-Web-Edition",
         "author": ["XGN"],
         "release": "2018-09-12",
         "coauthor": ["Zzzyt", "XIZCM"],
@@ -28,7 +28,7 @@ var __data = [{
     },
     {
         "name": "TestSTG2",
-        "link": "https://github.com/XiaoGeNintendo/-LibGdx-Test-STG2",
+        "link": "https://github.com/XiaoGeNekidora/-LibGdx-Test-STG2",
         "author": ["XGN"],
         "release": "2019-07-01",
         "coauthor": "",
@@ -37,7 +37,7 @@ var __data = [{
     },
     {
         "name": "Codeforces Submission Reviewer",
-        "link": "https://github.com/XiaoGeNintendo/Codeforces-Submission-Reviewer",
+        "link": "https://github.com/XiaoGeNekidora/Codeforces-Submission-Reviewer",
         "author": ["XGN"],
         "release": "2018-12-31",
         "coauthor": "",
@@ -46,7 +46,7 @@ var __data = [{
     },
     {
         "name": "Touhou Music Fetcher",
-        "link": "https://github.com/XiaoGeNintendo/TouhouMusicFetcher",
+        "link": "https://github.com/XiaoGeNekidora/TouhouMusicFetcher",
         "author": ["XGN"],
         "release": "2019-06-20",
         "coauthor": "",
@@ -55,7 +55,7 @@ var __data = [{
     },
     {
         "name": "Codeforces Data Copier",
-        "link": "https://github.com/XiaoGeNintendo/CodeforcesDataCopier",
+        "link": "https://github.com/XiaoGeNekidora/CodeforcesDataCopier",
         "author": ["XGN"],
         "release": "2019-06-08",
         "coauthor": [""],
@@ -64,7 +64,7 @@ var __data = [{
     },
     {
         "name": "Pokemon Gif Fetcher",
-        "link": "https://github.com/XiaoGeNintendo/PokemonGifFetcher",
+        "link": "https://github.com/XiaoGeNekidora/PokemonGifFetcher",
         "author": ["XGN"],
         "release": "2019-06-08",
         "coauthor": [],
@@ -73,7 +73,7 @@ var __data = [{
     },
     {
         "name": "Lua STG Fix",
-        "link": "https://github.com/XiaoGeNintendo/LuaStgPlusFix",
+        "link": "https://github.com/XiaoGeNekidora/LuaStgPlusFix",
         "author": ["XGN"],
         "release": "2019-06-07",
         "coauthor": [""],
@@ -82,7 +82,7 @@ var __data = [{
     },
     {
         "name": "CPP Confusor",
-        "link": "https://github.com/XiaoGeNintendo/cpp-confusor",
+        "link": "https://github.com/XiaoGeNekidora/cpp-confusor",
         "author": ["XGN"],
         "release": "2019-04-15",
         "coauthor": [""],
@@ -210,7 +210,7 @@ var __data = [{
     },
     {
         "name": "Sound Guess Game",
-        "link": "https://github.com/XiaoGeNintendo/SoundGuessGame",
+        "link": "https://github.com/XiaoGeNekidora/SoundGuessGame",
         "author": ["XGN"],
         "release": "2019-02-13",
         "coauthor": ["Zzzyt"],
@@ -219,7 +219,7 @@ var __data = [{
     },
     {
         "name": "Sound Guess Game Pokemon Mod",
-        "link": "https://github.com/XiaoGeNintendo/SoundGuessGamePokemonMod",
+        "link": "https://github.com/XiaoGeNekidora/SoundGuessGamePokemonMod",
         "author": ["XGN"],
         "release": "2019-02-13",
         "coauthor": [""],
@@ -237,7 +237,7 @@ var __data = [{
     },
     {
         "name": "LibLrc",
-        "link": "https://github.com/XiaoGeNintendo/LibLrc",
+        "link": "https://github.com/XiaoGeNekidora/LibLrc",
         "author": ["XGN"],
         "release": "2019-02-09",
         "coauthor": [""],
@@ -255,7 +255,7 @@ var __data = [{
     },
     {
         "name": "Addon Tools",
-        "link": "https://github.com/XiaoGeNintendo/addon-tools",
+        "link": "https://github.com/XiaoGeNekidora/addon-tools",
         "author": ["XGN"],
         "release": "2017-12-25",
         "coauthor": [""],
@@ -264,7 +264,7 @@ var __data = [{
     },
     {
         "name": "NFLS Solution Getter",
-        "link": "https://github.com/XiaoGeNintendo/NFLSOJ-Solution-Getter",
+        "link": "https://github.com/XiaoGeNekidora/NFLSOJ-Solution-Getter",
         "author": [
             "XGN"
         ],
@@ -283,7 +283,7 @@ var __data = [{
     },
     {
         "name": "Pressing Competition",
-        "link": "https://github.com/XiaoGeNintendo/PressingCompetition",
+        "link": "https://github.com/XiaoGeNekidora/PressingCompetition",
         "author": [
             "XGN"
         ],
@@ -302,7 +302,7 @@ var __data = [{
     },
     {
         "name": "Many Notifier",
-        "link": "https://github.com/XiaoGeNintendo/ManyNotifier",
+        "link": "https://github.com/XiaoGeNekidora/ManyNotifier",
         "author": [
             "XGN"
         ],
@@ -322,7 +322,7 @@ var __data = [{
     },
     {
         "name": "Codeforces Status Notifier",
-        "link": "https://github.com/XiaoGeNintendo/Codeforces-Status-Notifier",
+        "link": "https://github.com/XiaoGeNekidora/Codeforces-Status-Notifier",
         "author": [
             "Zzzyt"
         ],
@@ -342,7 +342,7 @@ var __data = [{
     },
     {
         "name": "Where're my scores",
-        "link": "https://github.com/XiaoGeNintendo/Where-are-my-scores-",
+        "link": "https://github.com/XiaoGeNekidora/Where-are-my-scores-",
         "author": [
             "XGN"
         ],
@@ -362,7 +362,7 @@ var __data = [{
     },
     {
         "name": "NFLS Rating System",
-        "link": "https://github.com/XiaoGeNintendo/NFLS-OJ-Club-Contest-Rating-System",
+        "link": "https://github.com/XiaoGeNekidora/NFLS-OJ-Club-Contest-Rating-System",
         "author": [
             "XGN"
         ],
@@ -381,7 +381,7 @@ var __data = [{
     },
     {
         "name": "Math Exam Simulator Online",
-        "link": "https://github.com/XiaoGeNintendo/MathExamSimulatorOnline",
+        "link": "https://github.com/XiaoGeNekidora/MathExamSimulatorOnline",
         "author": [
             "XGN"
         ],
@@ -401,7 +401,7 @@ var __data = [{
     },
     {
         "name": "YP Beating Me",
-        "link": "https://github.com/XiaoGeNintendo/YPBeatingMe",
+        "link": "https://github.com/XiaoGeNekidora/YPBeatingMe",
         "author": [
             "XGN"
         ],
@@ -421,7 +421,7 @@ var __data = [{
     },
     {
         "name": "XGN Screen Gif Gen",
-        "link": "https://github.com/XiaoGeNintendo/xgn-screen-gif-gen",
+        "link": "https://github.com/XiaoGeNekidora/xgn-screen-gif-gen",
         "author": [
             "XGN"
         ],
@@ -440,7 +440,7 @@ var __data = [{
     },
     {
         "name": "HHSOJ",
-        "link": "https://github.com/XiaoGeNintendo/hhsoj",
+        "link": "https://github.com/XiaoGeNekidora/hhsoj",
         "author": [
             "XGN"
         ],
@@ -459,7 +459,7 @@ var __data = [{
     },
     {
         "name": "Osu Taiko to normal",
-        "link": "https://github.com/XiaoGeNintendo/osu-taiko-2-normal",
+        "link": "https://github.com/XiaoGeNekidora/osu-taiko-2-normal",
         "author": [
             "XGN"
         ],
@@ -477,7 +477,7 @@ var __data = [{
     },
     {
         "name": "Upload and Download System",
-        "link": "https://github.com/XiaoGeNintendo/Upload-and-Download-System",
+        "link": "https://github.com/XiaoGeNekidora/Upload-and-Download-System",
         "author": [
             "XGN"
         ],
@@ -494,7 +494,7 @@ var __data = [{
     },
     {
         "name": "ZJS vs YP",
-        "link": "https://github.com/XiaoGeNintendo/ZJSvsYP",
+        "link": "https://github.com/XiaoGeNekidora/ZJSvsYP",
         "author": [
             "XGN"
         ],
@@ -513,7 +513,7 @@ var __data = [{
     },
     {
         "name": "Text Editor Reloaded",
-        "link": "https://github.com/XiaoGeNintendo/text-editor-reloaded",
+        "link": "https://github.com/XiaoGeNekidora/text-editor-reloaded",
         "author": [
             "XGN"
         ],
@@ -1024,7 +1024,7 @@ var __data = [{
     },
     {
         "name": "Honor Cup 2 Shared",
-        "link": "https://github.com/XiaoGeNintendo/huawei-honorcup-2-shared",
+        "link": "https://github.com/XiaoGeNekidora/huawei-honorcup-2-shared",
         "author": [
             "XGN"
         ],
@@ -1111,7 +1111,7 @@ var __data = [{
     },
     {
         "name": "Local Oj",
-        "link": "https://github.com/XiaoGeNintendo/local-oj",
+        "link": "https://github.com/XiaoGeNekidora/local-oj",
         "author": ["XGN"],
         "release": "2019-10-30",
         "coauthor": [],
@@ -1119,7 +1119,7 @@ var __data = [{
     },
     {
         "name": "HHSOJ Essential",
-        "link": "https://github.com/XiaoGeNintendo/HHSOJ-Essential",
+        "link": "https://github.com/XiaoGeNekidora/HHSOJ-Essential",
         "author": ["XGN"],
         "release": "2020-01-02",
         "coauthor": ["Zzzyt"],
@@ -1145,7 +1145,7 @@ var __data = [{
     },
     {
         "name": "Curseforge Modpack Downloader Remaster",
-        "link": "https://github.com/XiaoGeNintendo/CurseforgeModpackDownloaderRemaster",
+        "link": "https://github.com/XiaoGeNekidora/CurseforgeModpackDownloaderRemaster",
         "author": ["XGN"],
         "release": "2020-02-06",
         "coauthor": [],
@@ -1155,7 +1155,7 @@ var __data = [{
     {
         "name": "Aola Star Crawler",
         "link": {
-            "Github": "https://github.com/XiaoGeNintendo/Aola-Star-Crawler",
+            "Github": "https://github.com/XiaoGeNekidora/Aola-Star-Crawler",
             "Quanquan": " http://qq.100bt.com/LocateComment.action?topicId=23358564&commentId=193640659###"
         },
         "author": ["XGN"],
@@ -1176,7 +1176,7 @@ var __data = [{
     },
     {
         "name": "CP Taskboard",
-        "link": "https://github.com/XiaoGeNintendo/CP-Taskboard",
+        "link": "https://github.com/XiaoGeNekidora/CP-Taskboard",
         "author": ["XGN"],
         "release": "2020-03-10",
         "coauthor": ["Zzzyt"],
@@ -1185,7 +1185,7 @@ var __data = [{
     },
     {
         "name": "CP Jumper",
-        "link": {"Code":"https://github.com/XiaoGeNintendo/CP-Jumper","Codeforces Blog":"https://codeforces.com/blog/entry/74523"},
+        "link": {"Code":"https://github.com/XiaoGeNekidora/CP-Jumper","Codeforces Blog":"https://codeforces.com/blog/entry/74523"},
         "author": ["XGN"],
         "release": "2020-03-05",
         "coauthor": [],
@@ -1264,7 +1264,7 @@ var __data = [{
     },
     {
         "name": "TestSTG3",
-        "link": "https://github.com/XiaoGeNintendo/xiaogenintendo/releases/tag/STG01A",
+        "link": "https://github.com/XiaoGeNekidora/XiaoGeNekidora/releases/tag/STG01A",
         "author": ["XGN"],
         "release": "2020-06-25",
         "coauthor": ["Zzzyt","HDD"],
@@ -1273,7 +1273,7 @@ var __data = [{
     },
     {
         "name": "Origami King Puzzle Solver",
-        "link": "https://github.com/XiaoGeNintendo/Origami-King-Puzzle-Solver",
+        "link": "https://github.com/XiaoGeNekidora/Origami-King-Puzzle-Solver",
         "author": ["XGN"],
         "release": "2020-07-14",
         "coauthor": [],
@@ -1294,7 +1294,7 @@ var __data = [{
         "name": "President Of Gensokyo",
         "link": {
             "Itch": "https://xgn.itch.io/president-of-gensokyo",
-            "Github(Recommended)": "https://github.com/XiaoGeNintendo/PresidentOfGensokyo"
+            "Github(Recommended)": "https://github.com/XiaoGeNekidora/PresidentOfGensokyo"
         },
         "author": ["XGN"],
         "release": "2020-08-08",
@@ -1304,7 +1304,7 @@ var __data = [{
     },
     {
         "name": "Re:ZJSTG",
-        "link": "https://github.com/XiaoGeNintendo/xiaogenintendo/releases/tag/STG02A",
+        "link": "https://github.com/XiaoGeNekidora/XiaoGeNekidora/releases/tag/STG02A",
         "author": ["XGN"],
         "release": "2020-08-13",
         "coauthor": ["Zzzyt", "HDD"],
@@ -1315,7 +1315,7 @@ var __data = [{
         "name": "Segicverse",
         "link": {
             "Volume 1-9": "https://www.bilibili.com/read/cv5224967",
-            "Extra": "https://xiaogenintendo.github.io/categories/Literature/Segicverse/"
+            "Extra": "https://XiaoGeNekidora.github.io/categories/Literature/Segicverse/"
         },
         "author": ["ZKY"],
         "release": "2020-03-22",
@@ -1327,8 +1327,8 @@ var __data = [{
     {
         "name": "Roaming Travellers in fantasy extravaganza",
         "link": {
-            "Initial Clone": "https://xiaogenintendo.github.io/2021/02/10/RTiFE-clone/",
-            "Supplement": "https://xiaogenintendo.github.io/categories/Literature/OC-Setting/"
+            "Initial Clone": "https://XiaoGeNekidora.github.io/2021/02/10/RTiFE-clone/",
+            "Supplement": "https://XiaoGeNekidora.github.io/categories/Literature/OC-Setting/"
         },
         "author": ["XGN"],
         "release": "2020-08-31",
@@ -1340,9 +1340,9 @@ var __data = [{
     {
         "name": "LSS Short",
         "link": {
-            "I. Dandelion": "https://xiaogenintendo.github.io/2020/04/28/Dandelion-LSS-Short/",
-            "II. Dream": "https://xiaogenintendo.github.io/2020/05/02/Dream-LSS-Short/",
-            "III. Afterlife": "https://xiaogenintendo.github.io/2020/12/19/Afterlife-LSS-Short/",
+            "I. Dandelion": "https://XiaoGeNekidora.github.io/2020/04/28/Dandelion-LSS-Short/",
+            "II. Dream": "https://XiaoGeNekidora.github.io/2020/05/02/Dream-LSS-Short/",
+            "III. Afterlife": "https://XiaoGeNekidora.github.io/2020/12/19/Afterlife-LSS-Short/",
             "IV. Excursion": "https://blog.hellholestudios.top/index.php/2021/05/03/lss-short-excursion/"
         },
         "author": ["XGN"],
@@ -1366,7 +1366,7 @@ var __data = [{
     },
     {
         "name": "Max World",
-        "link": "https://xiaogenintendo.github.io/2020/11/29/max-world-release/",
+        "link": "https://XiaoGeNekidora.github.io/2020/11/29/max-world-release/",
         "author": ["XGN"],
         "release": "2020-11-28",
         "coauthor": [""],
@@ -1374,7 +1374,7 @@ var __data = [{
     },
     {
         "name": "GFLPUCD",
-        "link": "https://gist.github.com/XiaoGeNintendo/8622da70e4fc659c5eadab8df95fe146",
+        "link": "https://gist.github.com/XiaoGeNekidora/8622da70e4fc659c5eadab8df95fe146",
         "author": ["XGN"],
         "release": "2020-12-09",
         "coauthor": [""],
@@ -1384,7 +1384,7 @@ var __data = [{
     },
     {
         "name": "Inline Mahjong Helper",
-        "link": "https://gist.github.com/XiaoGeNintendo/2da3db2423b612a807c8df82a0902cf4",
+        "link": "https://gist.github.com/XiaoGeNekidora/2da3db2423b612a807c8df82a0902cf4",
         "author": ["XGN"],
         "release": "2020-11-07",
         "coauthor": [""],
@@ -1393,7 +1393,7 @@ var __data = [{
     },
     {
         "name": "PUW2HCw/AC",
-        "link": "https://gist.github.com/XiaoGeNintendo/f18e0e5c0c781f3b7cf5db792c6d9c3c",
+        "link": "https://gist.github.com/XiaoGeNekidora/f18e0e5c0c781f3b7cf5db792c6d9c3c",
         "author": ["XGN"],
         "release": "2020-10-16",
         "coauthor": ["XIZCM"],
@@ -1403,7 +1403,7 @@ var __data = [{
     },
     {
         "name": "PAF2AAF",
-        "link": "https://gist.github.com/XiaoGeNintendo/f18e0e5c0c781f3b7cf5db792c6d9c3c",
+        "link": "https://gist.github.com/XiaoGeNekidora/f18e0e5c0c781f3b7cf5db792c6d9c3c",
         "author": ["XGN"],
         "release": "2020-05-05",
         "coauthor": [""],
@@ -1412,7 +1412,7 @@ var __data = [{
     },
     {
         "name": "Zzzyt Speak Detector",
-        "link": "https://xiaogenintendo.github.io/2020/12/05/zzzyt-ml/",
+        "link": "https://XiaoGeNekidora.github.io/2020/12/05/zzzyt-ml/",
         "author": ["XGN"],
         "release": "2020-12-05",
         "coauthor": [""],
@@ -1420,7 +1420,7 @@ var __data = [{
     },
     {
         "name": "Stop Change BG",
-        "link": "https://xiaogenintendo.github.io/2020/12/09/stop-change-bg-release/",
+        "link": "https://XiaoGeNekidora.github.io/2020/12/09/stop-change-bg-release/",
         "author": ["XGN"],
         "release": "2020-12-08",
         "coauthor": [""],
@@ -1450,8 +1450,8 @@ var __data = [{
     {
         "name": "Animate Wallpaper",
         "link": {
-            "Release": "https://xiaogenintendo.github.io/2020/12/30/animate-bg-release/",
-            "Gist": "https://gist.github.com/XiaoGeNintendo/899e81f6f2a33de488c001bef45ba861"
+            "Release": "https://XiaoGeNekidora.github.io/2020/12/30/animate-bg-release/",
+            "Gist": "https://gist.github.com/XiaoGeNekidora/899e81f6f2a33de488c001bef45ba861"
         },
         "author": ["XGN"],
         "release": "2020-12-30",
@@ -1461,7 +1461,7 @@ var __data = [{
     },
     {
         "name": "Touhou Song Recognitive Test",
-        "link": "https://github.com/XiaoGeNintendo/TouhouSongRecognitiveTest",
+        "link": "https://github.com/XiaoGeNekidora/TouhouSongRecognitiveTest",
         "author": ["XGN"],
         "release": "2020-12-31",
         "coauthor": ["Zzzyt"],
@@ -1470,7 +1470,7 @@ var __data = [{
     },
     {
         "name": "NFLS Score Collector Plus",
-        "link": "https://github.com/XiaoGeNintendo/NFLS-Score-Collector-Plus",
+        "link": "https://github.com/XiaoGeNekidora/NFLS-Score-Collector-Plus",
         "author": ["XGN"],
         "release": "2021-01-05",
         "coauthor": [""],
@@ -1510,21 +1510,13 @@ var __data = [{
         "comment": "A part of Heart of the Vortex which is Segicverse's sequel. Link taken down in author's request"
     },
     {
-        "name": "Jizou Osu Beatmap",
-        "link": "https://xiaogenintendo.github.io/2021/01/16/jizou-osz-release/",
-        "author": ["XGN"],
-        "release": "2021-01-16",
-        "coauthor": [],
-        "tag": ["Beatmap", "NONE", "Done"],
-    },
-    {
         "name": "Pressing Competition 2",
         "link": {
-            "Github Showcase": "https://github.com/XiaoGeNintendo/Pressing-Competition-2",
+            "Github Showcase": "https://github.com/XiaoGeNekidora/Pressing-Competition-2",
             "Itch": "https://xgn.itch.io/pressing-competition-2",
-            "Source": "https://github.com/XiaoGeNintendo/TypingCompetition2-Source",
-            "Release Note": "https://xiaogenintendo.github.io/2021/01/24/pc2release/",
-            "Modding Guide": "https://xiaogenintendo.github.io/2021/01/28/Adding-Chars-In-PC2/",
+            "Source": "https://github.com/XiaoGeNekidora/TypingCompetition2-Source",
+            "Release Note": "https://XiaoGeNekidora.github.io/2021/01/24/pc2release/",
+            "Modding Guide": "https://XiaoGeNekidora.github.io/2021/01/28/Adding-Chars-In-PC2/",
         },
         "author": ["XGN"],
         "release": "2021-01-24",
@@ -1540,7 +1532,7 @@ var __data = [{
     },
     {
         "name": "MIST",
-        "link": "https://github.com/xiaogenintendo/mist",
+        "link": "https://github.com/XiaoGeNekidora/mist",
         "author": ["XGN"],
         "release": "2021-04-20",
         "coauthor": [],
@@ -1550,7 +1542,7 @@ var __data = [{
     },
     {
         "name": "2021 Typing Game",
-        "link": "https://xiaogenintendo.github.io/2021/02/10/2021-typing-game-release/",
+        "link": "https://XiaoGeNekidora.github.io/2021/02/10/2021-typing-game-release/",
         "author": ["XGN"],
         "release": "2021-02-10",
         "coauthor": ["Zzzyt"],
@@ -1558,7 +1550,7 @@ var __data = [{
     },
     {
         "name": "Properties Extractor and Restorer",
-        "link": "https://gist.github.com/XiaoGeNintendo/9f96349548c6c54c1d74e765db99ff47",
+        "link": "https://gist.github.com/XiaoGeNekidora/9f96349548c6c54c1d74e765db99ff47",
         "author": ["XGN"],
         "release": "2021-02-10",
         "coauthor": [],
@@ -1567,7 +1559,7 @@ var __data = [{
     },
     {
         "name": "Blog Mathjax Replacer",
-        "link": "https://gist.github.com/XiaoGeNintendo/01f86d40bc3c129bdbae8e014a2826d3",
+        "link": "https://gist.github.com/XiaoGeNekidora/01f86d40bc3c129bdbae8e014a2826d3",
         "author": ["XGN"],
         "release": "2021-02-27",
         "coauthor": [],
@@ -1576,7 +1568,7 @@ var __data = [{
     },
     {
         "name": "TestSTG4",
-        "link": "https://github.com/XiaoGeNintendo/TestSTG4",
+        "link": "https://github.com/XiaoGeNekidora/TestSTG4",
         "author": ["XGN"],
         "release": "2021-03-18",
         "coauthor": [],
@@ -1643,7 +1635,7 @@ var __data = [{
     },
     {
         "name": "TestSTG5",
-        "link": "https://github.com/XiaoGeNintendo/TestSTG5",
+        "link": "https://github.com/XiaoGeNekidora/TestSTG5",
         "author": ["XGN"],
         "release": "2021-10-10",
         "coauthor": ["Zzzyt"],
@@ -1663,8 +1655,8 @@ var __data = [{
     {
         "name": "Touhou R-18 Rate Research & Tool",
         "link": {
-            "tool":"https://gist.github.com/XiaoGeNintendo/6571f82342e391fa9556989d362319d9",
-            "tool v2":"https://gist.github.com/XiaoGeNintendo/2bae756dee507ed88547a87a870be434",
+            "tool":"https://gist.github.com/XiaoGeNekidora/6571f82342e391fa9556989d362319d9",
+            "tool v2":"https://gist.github.com/XiaoGeNekidora/2bae756dee507ed88547a87a870be434",
             "result":"https://docs.google.com/spreadsheets/d/1XWhM4uj7FuE8S4XgHYYiA6w5-negQ0_d-MICFE-ZTS8/edit?usp=sharing"
         },
         "author": ["XGN"],
@@ -1675,7 +1667,7 @@ var __data = [{
     },
     {
         "name": "Simple Mahjong Helper",
-        "link": "https://github.com/XiaoGeNintendo/SimpleMahjongHelper",
+        "link": "https://github.com/XiaoGeNekidora/SimpleMahjongHelper",
         "author": ["XGN"],
         "release": "2021-11-10",
         "coauthor": ["Zzzyt"],
@@ -1683,7 +1675,7 @@ var __data = [{
     },
     {
         "name": "NFLS HustOJ Standing",
-        "link": "https://github.com/XiaoGeNintendo/NFLS-HustOJ-Client-Standing",
+        "link": "https://github.com/XiaoGeNekidora/NFLS-HustOJ-Client-Standing",
         "author": ["XGN"],
         "release": "2021-11-16",
         "coauthor": ["XIZCM", "Zzzyt"],
@@ -1693,7 +1685,7 @@ var __data = [{
     },
     {
         "name": "Mahjong Timer",
-        "link": "https://github.com/XiaoGeNintendo/MahjongTimer",
+        "link": "https://github.com/XiaoGeNekidora/MahjongTimer",
         "author": ["XGN"],
         "release": "2021-12-03",
         "coauthor": [],
@@ -1702,7 +1694,7 @@ var __data = [{
     },
     {
         "name": "JMahjong",
-        "link": "https://github.com/XiaoGeNintendo/JMahjong",
+        "link": "https://github.com/XiaoGeNekidora/JMahjong",
         "author": ["XGN"],
         "release": "2022-01-17",
         "coauthor": [],
@@ -1750,7 +1742,7 @@ var __data = [{
     },
     {
         "name": "GachaNX",
-        "link": "https://github.com/XiaoGeNintendo/GachaNX",
+        "link": "https://github.com/XiaoGeNekidora/GachaNX",
         "author": ["XGN"],
         "release": "2022-08-27",
         "coauthor": [],
@@ -1768,8 +1760,8 @@ var __data = [{
     },
     {
         "name": "GKHelper",
-        "link": {"GKHelper":"https://github.com/XiaoGeNintendo/GKHelper"
-        ,"GKHelperBand":"https://github.com/XiaoGeNintendo/GKHelperBand"},
+        "link": {"GKHelper":"https://github.com/XiaoGeNekidora/GKHelper"
+        ,"GKHelperBand":"https://github.com/XiaoGeNekidora/GKHelperBand"},
         "author": ["XGN"],
         "release": "2022-10-30",
         "coauthor": [],
@@ -1789,7 +1781,7 @@ var __data = [{
     },
     {
         "name": "OC Database",
-        "link": "https://github.com/XiaoGeNintendo/OC-Database",
+        "link": "https://github.com/XiaoGeNekidora/OC-Database",
         "author": ["XGN"],
         "release": "2023-09-08",
         "coauthor": [],
@@ -1798,7 +1790,7 @@ var __data = [{
     },
     {
         "name": "Rating Everything",
-        "link": "https://github.com/XiaoGeNintendo/RatingEverything",
+        "link": "https://github.com/XiaoGeNekidora/RatingEverything",
         "author": ["XGN"],
         "release": "2023-10-14",
         "coauthor": [],
@@ -1807,7 +1799,7 @@ var __data = [{
     },
     {
         "name": "Offline Dict",
-        "link": "https://github.com/XiaoGeNintendo/OfflineDict",
+        "link": "https://github.com/XiaoGeNekidora/OfflineDict",
         "author": ["XGN"],
         "release": "2023-07-05",
         "coauthor": [],
@@ -1816,7 +1808,7 @@ var __data = [{
     },
     {
         "name": "DDL Fighter",
-        "link": {"Source Code":"https://github.com/XiaoGeNintendo/DDLFighter","Demo":"https://ddl.hellholestudios.top"},
+        "link": {"Source Code":"https://github.com/XiaoGeNekidora/DDLFighter","Demo":"https://ddl.hellholestudios.top"},
         "author": ["XGN"],
         "release": "2023-11-12",
         "coauthor": [],
@@ -1825,7 +1817,7 @@ var __data = [{
     },
     {
         "name": "Nanjing University Rush",
-        "link": {"Source Code":"https://github.com/XiaoGeNintendo/WinterCode24","Itch":"https://xgn.itch.io/nanjing-university-rush"},
+        "link": {"Source Code":"https://github.com/XiaoGeNekidora/WinterCode24","Itch":"https://xgn.itch.io/nanjing-university-rush"},
         "author": ["XGN"],
         "release": "2024-02-24",
         "coauthor": [],
@@ -1843,7 +1835,7 @@ var __data = [{
     },
     {
         "name": "MyTrips",
-        "link": "https://github.com/XiaoGeNintendo/MyTrips",
+        "link": "https://github.com/XiaoGeNekidora/MyTrips",
         "author": ["XGN"],
         "release": "2024-04-07",
         "coauthor": [],
@@ -1852,7 +1844,7 @@ var __data = [{
     },
     {
         "name": "ZhaoBigHomo",
-        "link": "https://github.com/XiaoGeNintendo/ZhaoBigHomo",
+        "link": "https://github.com/XiaoGeNekidora/ZhaoBigHomo",
         "author": ["XGN"],
         "release": "2024-07-27",
         "coauthor": [],
@@ -1870,7 +1862,7 @@ var __data = [{
     },
     {
         "name": "Bus Route Planner",
-        "link": "https://github.com/XiaoGeNintendo/BusRoutePlanner",
+        "link": "https://github.com/XiaoGeNekidora/BusRoutePlanner",
         "author": ["XGN"],
         "release": "2024-09-11",
         "coauthor": [],
@@ -1879,9 +1871,9 @@ var __data = [{
     },
     {
         "name": "My Bomb Party",
-        "link": {"Server Code":"https://github.com/XiaoGeNintendo/MyBombPartyServer",
-        "Client Unity Code":"https://github.com/XiaoGeNintendo/MyBombPartyClientUnity",
-        "Client Godot Code":"https://github.com/XiaoGeNintendo/MyBombPartyClientGodot",
+        "link": {"Server Code":"https://github.com/XiaoGeNekidora/MyBombPartyServer",
+        "Client Unity Code":"https://github.com/XiaoGeNekidora/MyBombPartyClientUnity",
+        "Client Godot Code":"https://github.com/XiaoGeNekidora/MyBombPartyClientGodot",
         "Itch":"https://xgn.itch.io/my-bomb-party"},
         "author": ["XGN"],
         "release": "2024-08-11",
